@@ -1,0 +1,2145 @@
+{
+  "loader": {
+    "loading": "Завантаження",
+    "nextTip": "Наступна підказка",
+    "DOWNLOADED": "Завантажено",
+    "nextTipMob": "Натисніть на екран, щоб побачити наступну підказку"
+  },
+  "system": {
+    "time": {
+      "LABEL_DAY": "д",
+      "LABEL_HOUR": "г",
+      "LABEL_MINUTE": "х",
+      "LABEL_SECOND": "c"
+    },
+    "error": {
+      "TITLE": "Збій",
+      "LINK_NAME": "Рішення",
+      "RELOAD": "Перезавантажити",
+      "ERROR_UNKNOWN": "Невідома помилка",
+      "ERROR_LOADING_RESOURCE_MESSAGE": "Неможливо завантажити ресурси",
+      "ERROR_DISCONNECT_MESSAGE": "Втрачено з'єднання з сервером",
+      "ERROR_LOADING_RESOURCE_LINK": "https://ru.tankiwiki.com/Razryv_soedineniya_s_serverom",
+      "ERROR_DISCONNECT_LINK": "https://ru.tankiwiki.com/Razryv_soedineniya_s_serverom"
+    },
+    "message": {
+      "TITLE": "Увага!",
+      "YOU_WERE_KICKED_LOGIN_TEXT": "Ви були примусово відключені від гри\nПричина: {0}\nВи можете повернутися в гру через\n{1}."
+    }
+  },
+  "dialog": {
+    "CANCEL_BUTTON": "Скасування",
+    "CLOSE_BUTTON": "Закрити",
+    "OK_BUTTON": "ОК"
+  },
+  "converter": {
+    "TITLE": "Обмін рубінів",
+    "QUANTITY": "Кількість:",
+    "COINS": "Танкоїни",
+    "RUBIES": "Рубіни",
+    "DESCRIPTION": "Натискаючи кнопку \"Підтвердити\", ви підтверджуєте списання вказаного на екрані числа танкоїнів за купівлю рубінів. Списання є остаточним, танкоїни не підлягають поверненню.",
+    "DIALOG_NOT_ENOUGH_COIN_FOR_GET_RUBY": "Не достатньо танкоїнів (%COIN%) для обміну на рубіни"
+  },
+  "serverHalt": {
+    "MESSAGE": "Перезапуск сервера через:"
+  },
+  "lobby": {
+    "menu": {
+      "PLAY": "Грати",
+      "BATTLE": "Вибір битви",
+      "GARAGE": "ГАРАЖ",
+      "QUESTS": "МІСІЇ",
+      "SHOP": "МАГАЗИН",
+      "WAR": "Війна",
+      "CONTAINERS": "КОНТЕЙНЕРИ",
+      "CLANS": "Клани",
+      "FRIENDS": "ДРУЗІ",
+      "NEWS": "НОВИНИ",
+      "OPTIONS": "Налаштування",
+      "CHAT": "ЧАТ"
+    },
+    "battle": {
+      "matchmaking": {
+        "TIMEOUT_MESSAGE": "перевищено час очікування"
+      },
+      "pick": {
+        "TITLE": "ВИБІР РЕЖИМУ",
+        "TEAM_MODE_NAME": "ШВИДКИЙ БІЙ",
+        "TEAM_MODE_DESCRIPTION": "Грай у команді з іншими гравцями для досягнення перемоги над ворогом. Режим командного бою буде обрано випадковим чином",
+        "TDM_MODE_NAME": "КОМАНДНИЙ БІЙ",
+        "TDM_MODE_DESCRIPTION": "Знищуйте супротивників і захищай союзників. Перемагає команда, яка знищила найбільше ворожих танків.",
+        "JUGGERNAUT_NAME": "СОЛО ДЖАГГЕРНАУТ",
+        "JUGGERNAUT_DESCRIPTION": "Знищ якнайбільше ворожих танків. Перемагає гравець, який знищив найбільше танків",
+        "TEAM_JUGGERNAUT_NAME": "Джаггернаут",
+        "TEAM_JUGGERNAUT_DESCRIPTION": "Атакуй ворожого Джаггернаута та захищай союзного Джаггернаута. Перемагає команда, яка знищила найбільше ворожих Джаггернаутів",
+        "SIEGE_NAME": "Облога",
+        "SIEGE_DESCRIPTION": "Утримуй контроль над точкою, не даючи противнику наблизитися до неї, і висувайся до нової точки після захоплення. Перемагає команда, яка найбільше захопила точок.",
+        "CONTROL_POINTS_NAME": "КОНТРОЛЬ ТОЧОК",
+        "CONTROL_POINTS_DESCRIPTION": "Захоплюй ворожі та захищай союзні стратегічні точки на карті. Перемагає команда, яка заробила найбільше очок володіння точками",
+        "ASSAULT_NAME": "ШТУРМ",
+        "ASSAULT_DESCRIPTION": "Граючи за оборонний бік, захищай свою базу від атак противника. Граючи за атакуючій стороні, доставляй свій прапор на ворожу базу. Перемагає команда, яка заробила найбільше очок.",
+        "DEATHMATCH_NAME": "КОЖЕН САМ ЗА СЕБЕ",
+        "DEATHMATCH_DESCRIPTION": "Все довкола — твої вороги. Перемагає гравець, який знищив найбільше танків.",
+        "CAPTURE_THE_FLAG_NAME": "ЗАХОПИТИ ПРЯГА",
+        "CAPTURE_THE_FLAG_DESCRIPTION": "Атакуй базу супротивника, привези їхній прапор на свою базу і захищай свій прапор від ворогів. Перемагає команда, яка найбільше доставила прапорів.",
+        "RUGBY_NAME": "РЕГБІ",
+        "RUGBY_DESCRIPTION": "Підхопи м'яч у центрі карти та привези його на базу супротивника. Не дай противнику пробитися з м'ячем до бази. Перемагає команда, яка найбільше забила м'ячів.",
+        "BATTLE_LIST_NAME": "СПИСОК БИТВ",
+        "BATTLE_LIST_DESCRIPTION": "Створюй битви за власними правилами та бери участь у них.",
+        "NEED_RANK": "Необхідне звання %0",
+        "MORE_KEYS": "Більше режимів",
+        "DISABLED_BUTTON_PLAY": "Ви не лідер гурту",
+        "PlAYERS_ARENT_READY": "Гравці не готові",
+        "SEARCH_BATTLE": "Пошук битви",
+        "CHOOSE_BATTLE": "Вибери битву",
+        "CURRENTLY_UNAVAILABLE": "Тимчасово недоступно",
+        "ALL_MODES": "Усі режими",
+        "BATTLE_MODES": "Режими",
+        "PRO_BATTLES": "PRO-битви"
+      },
+      "info": {
+        "JOIN_BATTLE_BUTTON_FULL": "У битві немає вільних місць",
+        "JOIN_BATTLE_BUTTON_INCORRECT_RANK": "Ваше звання не підходить для цієї битви",
+        "JOIN_BATTLE_BUTTON": "Приєднатися",
+        "JOIN_BATTLE_BUTTON_ALFA": "Вибрати Альфа",
+        "JOIN_BATTLE_BUTTON_BRAVO": "Вибрати Браво",
+        "EMPTY_CELL_IN_USERS_TABLE": "Пусто",
+        "AVAILABLE_RANK": "Доступні звання:",
+        "BATTLE_LINK": "Посилання на битву:",
+        "BACK_BUTTON": "Назад",
+        "NONE_CUSTOM_OPTIONS": "Параметри користувача: ні",
+        "KILLS": " знищення",
+        "INVITE_FRIENDS": "Запросити друзів",
+        "CUSTOM_OPTIONS": "Додаткові налаштування:",
+        "VIEW_LIST": "Переглянути список",
+        "REPORT_NAME": "Неприйнятна назва",
+        "REPORT_NAME_ACTION": "Поскаржитись на назву (%0)",
+        "REPORT_NAME_SENT": "Скаргу надіслано"
+      },
+      "list": {
+        "TITLE": "Список битв",
+        "VS": "VS",
+        "TABLE_TITLE_MODE": "режим",
+        "TABLE_TITLE_NAME": "ім'я",
+        "TABLE_TITLE_PLAYERS": "гравці",
+        "TABLE_TITLE_TIME": "час",
+        "TABLE_TITLE_SCORE": "рахунок",
+        "CREATE_BATTLE_BUTTON": "створити",
+        "FILTER_ALL": "Усі",
+        "SEARCH_PLACEHOLDER": "Знайти",
+        "DIALOG_BUY_PROABONEMENT_TITLE": "Попередження",
+        "DIALOG_BUY_PROABONEMENT_DESCRIPTION": "Ви повинні мати преміум-підписку, щоб створювати PRO-битви :-(",
+        "DIALOG_BUY_PROABONEMENT_BUY": "купити",
+        "BATTLES": "БИТВИ",
+        "MAPS": "КАРТИ",
+        "EMPTY_BATTLES_LIST": "Немає доступних битв"
+      },
+      "option": {
+        "ICON_DESCRIPTION_AUTOBALANCE": "Не можна приєднатися до команди з великою кількістю учасників",
+        "ICON_DESCRIPTION_BONUSBOXES": "У цьому бою з неба випадають ящики з запасами, які посилюють і ремонтують ваш танк",
+        "ICON_DESCRIPTION_CLANBATTLE": "У цьому бою можуть брати участь тільки кланові гравці і проти гравців з іншого клану",
+        "ICON_DESCRIPTION_DEVICES": "У цьому бою можна використовувати пристрої, які модифікують особливості гармат та корпусів",
+        "ICON_DESCRIPTION_DRONES": "У цьому бою можна використовувати дрони, які модифікують ефекти запасів",
+        "ICON_DESCRIPTION_GRENADES": "У цьому бою можна використати гранати",
+        "ICON_DESCRIPTION_FRIENDFIRE": "У цьому бою можна завдати пошкоджень гравцям з вашої команди",
+        "ICON_DESCRIPTION_GOOLDBOXES": "У цьому бою можна ловити та скидати золоті ящики",
+        "ICON_DESCRIPTION_OVERDRIVES": "У цьому бою можна використовувати овердрайви - унікальні здібності корпусів",
+        "ICON_DESCRIPTION_SMARTSUPPLIES": "У цьому бою діє залежна перезарядка запасів. Цей механізм перешкоджає одночасному включенню відразу кількох запасів",
+        "ICON_DESCRIPTION_SUPPLIES": "У цьому бою можна використовувати запаси з інвентарю.",
+        "ICON_DESCRIPTION_UPGRADES": "У цьому бою діють поліпшення гармат, корпусів, дронів та захисних модулів.",
+        "ICON_DESCRIPTION_WEAPONCHANGES": "У цьому бою можна міняти озброєння під час битви",
+        "ICON_DESCRIPTION_PRIVATE": "Створює закриту битву, потрапити в яку можна лише за спеціальним посиланням",
+        "DESCRIPTION_AUTOBALANCE": "АВТОБАЛАНС",
+        "DESCRIPTION_BONUSBOXES": "ЯЩИКИ З БОНУСАМИ",
+        "DESCRIPTION_CLANBATTLE": "КЛАН ПРОТИ КЛАНУ",
+        "DESCRIPTION_DEVICES": "ПРИСТРОЇ",
+        "DESCRIPTION_DRONES": "ДРОНИ",
+        "DESCRIPTION_GRENADES": "ГРАНАТИ",
+        "DESCRIPTION_FRIENDFIRE": "ВОГОНЬ ЗА СВОЇМИ",
+        "DESCRIPTION_GOOLDBOXES": "ЗОЛОТІ ЯЩИКИ",
+        "DESCRIPTION_OVERDRIVES": "ОВЕРДРАЙВИ",
+        "DESCRIPTION_SMARTSUPPLIES": "ЗАЛЕЖНІ ПРИПАСИ",
+        "DESCRIPTION_SUPPLIES": "Припаси",
+        "DESCRIPTION_UPGRADES": "Поліпшення",
+        "DESCRIPTION_WEAPONCHANGES": "Переодягання",
+        "DESCRIPTION_PRIVATE": "ЗАКРИТА БИТВА",
+        "NO_SETTINGS": "Для цієї битви не встановлено додаткових налаштувань",
+        "ICON_DESCRIPTION_NUCLEARSUPPLY": "У цьому бою ви можете активувати запас \"Ядерна енергія\"",
+        "DESCRIPTION_NUCLEARSUPPLY": "ПРИПАС «ЯДЕРНА ЕНЕРГІЯ»"
+      },
+      "create": {
+        "TITLE": "Створення битви",
+        "BATTLE_OPTIONS": "Формат битви",
+        "BATTLE_MODE": "Режим битви",
+        "NAME_PLACEHOLDER": "назва битви",
+        "MIN_RANK": "Мінімальне звання",
+        "MAX_RANK": "Максимальне звання",
+        "RESET_ALL": "скинути все",
+        "TIME_LIMIT_FIELD": "час",
+        "MAX_PLAYERS_FIELD": "гравці",
+        "MAX_PLAYERS_IN_TEAM_FIELD": "Макс. гравців у команді",
+        "SCORE_LIMIT_FIELD": "рахунок",
+        "KILL_LIMIT_FIELD": "Кілли",
+        "FLAG_LIMIT_FIELD": "Прапори",
+        "CUSTOM_OPTIONS": "Додаткові налаштування",
+        "SAVE_BUTTON": "зберегти",
+        "RESET_BUTTON": "скинути",
+        "MAP_FIELD": "Карта",
+        "MAP_THEME_FIELD": "Тема",
+        "START": "Запустити",
+        "alert": {
+          "CREATE_DISABLED": "Створення битв вимкнено",
+          "SERVER_IS_HALTING": "Сервер зупинено. Не хвилюйтеся, зовсім скоро його буде запущено :)",
+          "TOO_MANY_BATTLES_FROM_YOU": "Ви створили занадто багато битв",
+          "YOU_ARE_BANNED": "ВИ ЗАБАНЕНІ. Ні, ми не злимося, ми просто розчаровані... сильно розчаровані."
+        },
+        "FORMAT": "Формат",
+        "MAP": "Карта",
+        "GAME_MODE": "Режим",
+        "IS_SELECT_FORMAT": "Вибрати",
+        "SELECTED_FORMAT": "Вибрано",
+        "CREATE_BATTLE": "Створити битву"
+      },
+      "modes": {
+        "DM": "DM",
+        "TDM": "TDM",
+        "CTF": "CTF",
+        "CP": "CP",
+        "AS": "ASL",
+        "RUGBY": "RGB",
+        "SUR": "SUR",
+        "JGR": "SJG",
+        "TJR": "JGR",
+        "SGE": "SGE",
+        "AR": "AR",
+        "TAR": "TAR"
+      },
+      "themes": {
+        "SUMMER_DAY": "Літній день",
+        "SUMMER_EVENING": "Літній вечір",
+        "SUMMER_NIGHT": "Літня ніч",
+        "AUTUMN_DAY": "Осінній день",
+        "WINTER_DAY": "Зимовий день",
+        "WINTER_NIGHT": "Зимова ніч",
+        "SPACE": "Космічний"
+      },
+      "matchmakingGroup": {
+        "SHOW_LABEL": "Показувати",
+        "ALL": "Усі",
+        "FRIENDS": "ДРУЗІ",
+        "CLAN": "КЛАН",
+        "SELECT_ALL": "ВИБРАТИ ВСІХ",
+        "UNSELECT_ALL": "СКАСУВАТИ ВИБІР",
+        "INVITE": "Запрошення",
+        "USER_NOT_READY": "Не готовий",
+        "USER_INVITE_TO_GROUP": "%USERNAME% запрошує тебе до групи",
+        "USER_ACCEPTED_GROUP_INVITE": "%USERNAME% приєднується до групи",
+        "USER_REJECT_GROUP_INVITE": "%USERNAME% не приєднується до групи",
+        "USER_OFFLINE_ON_GROUP_INVITE": "%USERNAME% цей гравець не в мережі",
+        "USER_DISABLED_GROUP_INVITE": "%USERNAME% вимкнув показ запрошень.\nНадсилання неможливе.",
+        "USER_ALREADY_IN_GROUP": "%USERNAME% цей гравець вже в групі",
+        "USER_IN_BATTLE_ON_GROUP_INVITE": "%USERNAME% цей гравець у бою",
+        "USER_DATA_IS_LOADING": "завантаження...",
+        "READY": "Готовий",
+        "NOT_READY": "У бою",
+        "LEADER": "лідер",
+        "IN_GROUP": "У групі",
+        "LEAVE_GROUP": "Залишити групу",
+        "KICK_FROM_GROUP": "Виключити із групи",
+        "TITLE": "Група",
+        "OFF_LINE": "Не в мережі",
+        "CREATE_GROUP": "Створити групу",
+        "BATTLE_GROUP": "ГРУПА",
+        "YOU": "ТИ"
+      },
+      "invite": {
+        "ACCEPTED": "%USERNAME% переходить у битву на твоє запрошення",
+        "REJECTED": "%USERNAME% не переходить у битву на твоє запрошення",
+        "REJECTED_BATTLE_NOT_FOUND": "Запрошення не надіслано\nБитва не знайдена",
+        "REJECTED_INVITATION_TO_BATTLE_DISABLED": "%USERNAME% вимкнув показ запрошень\nНадсилання неможливе",
+        "REJECTED_PANEL_NOT_LOADED": "Запрошення не надіслано\nДруг у процесі входу в гру",
+        "REJECTED_USER_ALREADY_IN_BATTLE": "Запрошення не надіслано\nДруг уже у цій битві",
+        "REJECTED_USER_OFFLINE": "Запрошення не надіслано\nДруг не в мережі",
+        "REJECTED_USER_IN_MATCH_BATTLE": "Цей гравець перебуває в матчмейкінговій битві.",
+        "INVITES_YOU_TO_A_BATTLE_LABEL": "Запрошує тебе до битви",
+        "THERE_ARE_PLACES_AVAILABLE_LABEL": "Є вільні місця",
+        "BATTLE_IS_UNAVAILABLE_AT_YOUR_RANK_LABEL": "Битва недоступна за званням",
+        "NO_PLACES_AVAILABLE_LABEL": "Немає вільних місць",
+        "TITLE": "Запрошення",
+        "USER_ALREADY_INVITED": "Вже розглядає твоє запрошення\nДочекайся відповіді",
+        "BATTLE_INVITE": "ЗАПРОШЕННЯ"
+      },
+      "dialogs": {
+        "BATTLE_NOT_FOUND_TITLE": "Битва не знайдена",
+        "BATTLE_NOT_FOUND_MESSAGE": "Битва завершена",
+        "ENTER_TO_BATTLE_FAILED_TITLE": "Помилка при вході в битву",
+        "ENTER_TO_BATTLE_FAILED_MESSAGE": "Не вдалося увійти до битви",
+        "EQUIPMENT_NOT_MATCH_CONSTRAINTS_TITLE": "Помилка входу до битви",
+        "EQUIPMENT_NOT_MATCH_CONSTRAINTS_MESSAGE": "У цю битву можна увійти лише з певним озброєнням. Ваш танк не відповідає правилам формату. <a href='https://ua.tankiwiki.com/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%BD%D1%8B%D0% B5_%D0%B1%D0%B8%D1%82%D0%B2%D1%8B' target='_blank'><u>Подробиці</u></a>.",
+        "FIGHT_FAILED_SERVER_IS_HALTING_TITLE": "Помилка входу до битви",
+        "FIGHT_FAILED_SERVER_IS_HALTING_MESSAGE": "На даний момент відбувається рестарт сервера.\nСтворення та підключення до битв тимчасово заблоковано.",
+        "PARKOUR_WARNING_TITLE": "Особливий формат битви",
+        "PARKOUR_WARNING_MESSAGE": "Увага! У цьому форматі для зняття обмежень на виконання паркурних трюків відключено захист від застосування програм для покращення ігрових можливостей, неможливо поскаржитися на порушників та не накопичується фонд битви.",
+        "PARKOUR_WARNING_ENTER_BUTTON": "Увійти"
+      },
+      "GsWarning": {
+        "TITLE": "Низький рівень покращень",
+        "MESSAGE": "Gear Score твого танка нижче за рекомендований рівень для комфортної гри. Інші танкісти можуть виявитися помітно сильнішими. Щоб підвищити рівень Gear Score, необхідно покращити поточне озброєння у гаражі.",
+        "CURRENT_GS": "Поточний Gear Score:",
+        "RECOMMENDED_GS": "Рекомендований Gear Score:",
+        "CANCEL": "Повернутись",
+        "CONTINUE": "Грати все одно"
+      }
+    },
+    "friends": {
+      "TITLE": "Друзі",
+      "menu": {
+        "FRIENDS": "ДРУЗІ",
+        "FRIEND_REQUEST": "Заявка",
+        "MY_CLAN": "Мій клан",
+        "REFERALUSERS": "Реферали"
+      },
+      "list": {
+        "SEARCH_PLACEHOLDER": "знайти",
+        "FRIENDS_LIMIT_EXCEEDED": "Ваш перелік друзів переповнений.",
+        "FRIENDS_ONLINE": "друзі в мережі",
+        "USER_ONLINE": "у мережі",
+        "USER_OFFLINE": "не в мережі",
+        "NEW_USER": "новий",
+        "PRO_BATTLE": "ПРО",
+        "MM_BATTLE": "ММ",
+        "SEARCH_FOR_ADDED_FRIEND": "Введіть ім'я"
+      },
+      "request": {
+        "SEARCH_PLACEHOLDER": "знайти",
+        "DECLINE_ALL": "Відхилити всі заявки",
+        "FRIEND_USER_TABLE_NAME": "ім'я",
+        "FRIEND_USER_TABLE_ACTIONS": "дія",
+        "FRIEND_ACCEPT": "прийняти",
+        "FRIEND_DECLINE": "відхилити"
+      },
+      "invited": {
+        "COUNT_REGISTERED_FRIENDS": "Всього зареєстровано друзів",
+        "TOTAL_BONUS": "Сумарний бонус",
+        "COPY_LINK": "скопіювати посилання",
+        "TABLE_TITLE_FRIEND": "друг",
+        "TABLE_TITLE_CRYSTALLS": "зароблені кристали",
+        "INVITE": "ЗАПРОШИТИ ДРУГА",
+        "LINK_COPIED": "скопійовано"
+      },
+      "notifications": {
+        "FRIEND_REQUEST_SENT": "Заявку надіслано.",
+        "ALREADY_IN_ACCEPTED_FRIENDS": "Гравець %USERNAME% вже у списку друзів.",
+        "ALREADY_IN_ICOMING_FRIENDS": "Заявка від гравця %USERNAME% вже є у списку вхідних. Прийняти її?",
+        "ALREADY_IN_OUTGOUNG_FRIENDS": "Заявка для гравця %USERNAME% вже є у списку надісланих.",
+        "INCOMING_LIMIT_EXCEEDED": "Неможливо надіслати заявку. Список вхідних заявок у гравця переповнений.",
+        "ACCEPTED_LIMIT_EXCEEDED": "Неможливо прийняти заявку. Список друзів %USERNAME% переповнений.",
+        "YOUR_ACCEPTED_LIMIT_EXCEEDED": "Неможливо прийняти заявку. Ваш перелік друзів переповнений."
+      },
+      "contextMenu": {
+        "FRIEND_BREAK_IT_OFF": "Прибрати із друзів",
+        "JOIN_TO_FRIEND_BATTLE": "Приєднатися до битви"
+      },
+      "expelMenu": {
+        "TITLE": "Видалити із друзів",
+        "CONFIRM_TEXT": "Так",
+        "CANCEL_TEXT": "Ні",
+        "TEXT": "Видалити %user зі списку друзів?"
+      },
+      "searchMenu": {
+        "INVALID_NICK_NAME": "Неправильне ім'я"
+      }
+    },
+    "quests": {
+      "navigation": {
+        "HEADER": "Місії",
+        "MAIN": "Особливі",
+        "DAILY": "Щоденні",
+        "WEEKLY": "Тижневі",
+        "CHALLENGES": "Челенджі"
+      },
+      "daily": {
+        "MISSION": "Місія",
+        "REWARDS": "Приз",
+        "CHANGE_MISSION": "Змінити",
+        "CLAIM_REWARD": "Забрати нагороду"
+      },
+      "weekly": {
+        "NEXT_MISSION": "Наступна місія",
+        "PLAY": "Грати"
+      },
+      "challenges": {
+        "TIER": "Рівень",
+        "TIERS": "рівні",
+        "STARS": "Зірки",
+        "TIME_LEFT": "Залишилось",
+        "BUY_BATTLE_PASS": "Купити бойову перепустку",
+        "BUY_BATTLE_PASS_DESCRIPTION": "Придбати бойову перепустку та отримай усі зароблені нагороди.",
+        "BUY_EVENT_BATTLE_PASS": "Купити елітну перепустку",
+        "BUY_EVENT_BATTLE_PASS_DESCRIPTION": "Придбати елітну перепустку та отримай усі зароблені нагороди у цій події",
+        "BUY_PREMIUM": "Купити преміум",
+        "BUY_PREMIUM_DESCRIPTION": "Придбати преміум, щоб отримувати вдвічі більше зірок за кожен бій",
+        "BUY_STARS": "Купити зірки",
+        "BUY_STARS_TIP": "Отримай додаткові зірки, щоб завершити челендж швидше.",
+        "FINISH_DESCRIPTION": "Ви досягли заключного рівня та отримали всі доступні нагороди",
+        "STANDARD_PASS": "Срібна лінійка",
+        "PREMIUM_PASS": "Золота лінійка",
+        "BATTLE_PASS": "Челенджі",
+        "LOCKED": "Недоступно",
+        "AVAILABLE_SOON": "Скоро стане доступно",
+        "CHALLENGE_REWARD_NOTIFICATION": "Ти отримав нагороди за %number% рівень челенджу",
+        "EVENT_CHALLENGE_REWARD_NOTIFICATION": "Ти досягнув рівня %number% спеціального святкового челенджу. Для отримання нагород потрібна елітна перепустка",
+        "COMPLETED": "Виконано",
+        "CURRENT_LEVEL": "Поточний рівень",
+        "TIMER_LEFT": "До кінця залишилось",
+        "BATTLE_PASS_BUY": "Бойова перепустка",
+        "EVENT_BATTLE_PASS": "Елітна перепустка",
+        "FREE_TIER": "Безкоштовно",
+        "REWARDS": "Нагороди"
+      },
+      "main": {
+        "TITLE": "Особливі місії",
+        "REWARDS_TITLE": "Нагорода",
+        "PLAY_BUTTON_LABEL": "ВИКОНАТИ",
+        "PLAY_BUTTON_DISABLED_USER_IN_GROUP_LABEL": "Ти не можеш увійти до битви, бо перебуваєш у групі!",
+        "UNLOCK_BUTTON_LABEL": "РОЗБЛОКУВАТИ",
+        "COMPLETE_BUTTON_LABEL": "ЗАБРАТИ",
+        "TASK_COMPLETED_BUTTON_LABEL": "ВИКОНАНО",
+        "BUY_PREMIUM": "Купити преміум",
+        "BUY_BATTLEPASS": "Купити бойову перепустку",
+        "REMAINING_TIME": "час, що залишився:",
+        "CHOOSE_CATEGORY": "Вибрати",
+        "LIST_IS_EMPTY_HEADER": "Усі місії виконані",
+        "LIST_IS_EMPTY_TEXT": "На даний момент <strong>в даному розділі</strong> немає доступних до виконання місій, зайдіть пізніше",
+        "CLAIM_ALL": "Забрати все",
+        "COMPLETE_ALL_THE_MISSIONS_TO_CLAIM_REWARDS": "Виконай усі місії, щоб забрати нагороди"
+      },
+      "contracts": {
+        "STATE_COMPLETED": "Виконаний",
+        "STATE_EXPIRED": "Прострочений",
+        "ACTION_EARLY_COMPLETE": "Достроково завершити",
+        "ACTION_GET_EXPIRED_REWARD": "Завершити",
+        "ACTION_REWARDED": "Виконано",
+        "ACTION_GET_COMPLETE_REWARD": "Завершено",
+        "ACTION_ACTIVATE": "Активувати",
+        "ACTIVE": "Активно",
+        "DIALOG_REWARD_TITLE": "Нагорода",
+        "DIALOG_REWARDED_TITLE": "Отримано нагороду",
+        "BUY_EARLY_COMPLETE": "Дострокове завершення контракту %0",
+        "CONTRACTS_TITLE": "Контракти",
+        "DIALOG_ACTIVATE_FORBID_TITLE": "Увага",
+        "DIALOG_ACTIVATE_FORBID_MESSAGE": "Ви маєте контракт, за який можна забрати нагороду. Щоб активувати новий контракт, спершу заберіть нагороду."
+      }
+    },
+    "clans": {
+      "select_action_menu": {
+        "CREATE_CLAN": "створити клан",
+        "LICENSE": "Кланова ліцензія",
+        "WITHOUT_LICENSE": "Немає кланової ліцензії",
+        "BUY_LICENSE": "Купити ліцензію",
+        "DESCRIPTION_AWARD": "Тут ви можете створити власний клан, об'єднатися з друзями та отримати доступ до спеціальних кланових бонусів.",
+        "DESCRIPTION_GROWS": "Чим сильніший клан, тим більше бонусів отримує кожен учасник клану.",
+        "DESCRIPTION_PURCHASE_LICENSE": "Для створення власного клану потрібно придбати кланову ліцензію.",
+        "DESCRIPTION_ALLOW_CREATE": "Ліцензія дає право створення одного клану.",
+        "CLOSE": "Закрити",
+        "NEXT": "Далі",
+        "JOIN_ANOTHER": "Приєднатися до іншого клану",
+        "CLAN_NAME": "Назва клану",
+        "CLAN_TAG": "Тег клану",
+        "FLAG": "Прапор",
+        "INCORRECT_NAME": "Некоректна назва клану",
+        "INCORRECT_TAG": "Некоректний тег клану",
+        "NOT_UNIQUE_NAME": "Ця назва вже зайнята",
+        "NOT_UNIQUE_TAG": "Це тег вже зайнятий",
+        "ALREADY_IN_CLAN": "Ви вже перебуваєте в клані",
+        "CONFIRMATION": "Підтверджую ознайомлення з %rules",
+        "RULES": "правилами"
+      },
+      "menu": {
+        "CLAN": "Клан",
+        "INFO": "Інформація",
+        "MEMBERS": "Гравці",
+        "REQUESTS": "Заявки",
+        "INVITATIONS": "Запрошення"
+      },
+      "info": {
+        "FOUNDER": "Засновник:",
+        "CLAN_MESSAGE": "Опис",
+        "EDIT_PROFILE": "Редагувати",
+        "CREATED": "Створено:",
+        "TAG": "Тег:",
+        "PLAYERS": "Гравці:",
+        "ONLINE": "У мережі:",
+        "TANKS_DESTROYED": "Знищено танків",
+        "TANKS_LOST": "Підбито танків",
+        "TANKS_DESTROY_LOST_RATIO": "У/П клану",
+        "CANCEL": "Скасування",
+        "INVITATION_INCOMING": "Цей клан надіслав вам запрошення",
+        "INVITATION_OUTGOING": "Ви вже надіслали заявку в цей клан",
+        "INVITATION_SEND": "Ви можете надіслати заявку в цей клан",
+        "REPORT_DESCRIPTION": "Поскаржитись"
+      },
+      "requests": {
+        "SEARCH_PLACEHOLDER": "Ім'я",
+        "INVITE": "Запросити",
+        "SEND": "Надіслати",
+        "ACCEPT": "Прийняти",
+        "DECLINE": "Відхилити"
+      },
+      "self_requests": {
+        "NAME": "Назва клану",
+        "TAG": "Тег",
+        "FOUNDER": "Засновник",
+        "PLAYERS": "Гравці",
+        "CREATION_DATE": "Дії",
+        "SEARCH_PLACEHOLDER": "Надіслати заявку в клан",
+        "INCOMING_REQUESTS_DISABLED": "Цей клан не приймає заявки",
+        "LOW_RANK": "Надто низьке звання для вступу в цей клан",
+        "CLAN_BLOCKED": "Цей клан заблоковано",
+        "ALREADY_OUTGOING": "Ви вже надіслали заявку до %CLANNAME%",
+        "ALREADY_INCOMING": "Клан %CLANNAME% вже надіслав вам запрошення",
+        "ALREADY_CLAN_OUTGOING": "Ви вже надіслали заявку до %CLANNAME%",
+        "ALREADY_IN_CLAN": "Ви вже перебуваєте в клані",
+        "SEND_REQUESTS": "відправити",
+        "CANCEL_ALL": "скасувати все",
+        "PROMPT_TEXT_FOR_SEARCH_PART1": "Знайди клан на його ім'я або тег.",
+        "PROMPT_TEXT_FOR_SEARCH_PART2": "Для пошуку за тегом введи [%TAG%",
+        "PROMPT_TEXT_FOR_SEARCH_PART3": "тег_клана."
+      },
+      "self_invitations": {
+        "NAME": "Назва клану",
+        "TAG": "Тег",
+        "FOUNDER": "Засновник",
+        "PLAYERS": "Гравці",
+        "CREATION_DATE": "Дії",
+        "SEARCH_PLACEHOLDER": "Назва клану",
+        "CLAN_MENU": "Меню клану",
+        "DECLINE_ALL": "Відхилити все",
+        "DECLINE": "Відмовитись",
+        "ACCEPT": "Прийняти"
+      },
+      "members": {
+        "NAME": "ім'я",
+        "POSITION": "посада",
+        "EXPERIENCE": "досвід",
+        "DESTROYED": "у",
+        "LOST": "п",
+        "D_DIV_L": "у/п",
+        "GS": "гс",
+        "LAST_VISIT": "Був у мережі",
+        "ACTIONS": "Дії",
+        "ONLINE": "У мережі",
+        "NEW": "Новий!",
+        "BUY_ADDITIONAL_PLACE_IN_CLAN_BUTTON": "Додаткове місце",
+        "BUY_ADDITIONAL_PLACE_IN_CLAN_TITLE": "Купівля додаткового місця",
+        "BUY_ADDITIONAL_PLACE_IN_CLAN_TEXT": "Ви дійсно хочете купити додаткове місце за %PRICE% рубінів?",
+        "menu": {
+          "COPY_NAME": "Копіювати ім'я",
+          "ADD_TO_FRIENDS": "Додати у друзі",
+          "PROFILE": "Профіль",
+          "PRIVATE_MESSAGE": "Особисте повідомлення",
+          "KICK": "Виключити із клану",
+          "DISBAND": "Розпустити",
+          "LEAVE": "Вийти",
+          "MAKE_OWNER": "Передати права власника клану"
+        }
+      },
+      "expel_menu": {
+        "TITLE": "виключити з клану",
+        "CANCEL_TEXT": "Скасування",
+        "CONFIRM_TEXT": "Виключити",
+        "TEXT": "Ви впевнені, що хочете виключити %user із клану?"
+      },
+      "disband_menu": {
+        "TITLE": "Розпустити клан?",
+        "CANCEL_TEXT": "Скасування",
+        "CONFIRM_TEXT": "Розпустити",
+        "TEXT": "Увага!\nДля створення нового клану вам потрібно буде придбати нову ліцензію."
+      },
+      "leave_menu": {
+        "TITLE": "Вийти із клану?",
+        "CANCEL_TEXT": "Скасування",
+        "CONFIRM_TEXT": "Вийти",
+        "TEXT": "Ви впевнені, що хочете залишити клан %clanName?\nВи не зможете вступити в інший клан протягом наступних 24 годин"
+      },
+      "validation": {
+        "ALREADY_IN_ACCEPTED": "Гравець %USERNAME% вже складається з цього клану",
+        "ALREADY_IN_CLAN": "Гравець %USERNAME% вже є кланом",
+        "ALREADY_IN_CLAN_INCOMING": "Гравець %USERNAME% вже надіслав заявку до цього клану.",
+        "ALREADY_IN_CLAN_OUTGOING": "Гравець %USERNAME% вже був запрошений",
+        "LOW_RANK": "Занадто низьке звання"
+      },
+      "join_restriction": {
+        "TITLE": "Обмежений",
+        "CONFIRM_TEXT": "ОК",
+        "TEXT": "Ви не можете приєднуватися до інших кланів протягом %time"
+      },
+      "permission": {
+        "SUPREME_COMMANDER": "Головнокомандувач",
+        "COMMANDER": "Командир",
+        "OFFICER": "Офіцер",
+        "SERGEANT": "Сержант",
+        "VETERAN": "Ветеран",
+        "PRIVATE": "Рядовий",
+        "NOVICE": "Новачок"
+      },
+      "edit_profile": {
+        "DESCRIPTION_EDIT": "Редагувати",
+        "CANCEL": "закрити",
+        "SAVE": "зберегти",
+        "FLAG": "Прапор",
+        "RECRUITMENT": "Прийом у клан",
+        "MIN_RECRUITMENT": "Мінімальне звання прийому",
+        "OPEN": "відкритий",
+        "CLOSE": "закритий",
+        "CONFIRM_SAVE_DIALOG_TITLE": "Редагувати профіль",
+        "CONFIRM_SAVE_DIALOG_TEXT": "Внести зміни за %PRICE% рубінів?"
+      },
+      "level_up": {
+        "TITLE": "Ти досягнув %level рівня челенджа!",
+        "FREE_REWARD": "Безкоштовні нагороди",
+        "REWARD_EARNED": "Нагороду отримано",
+        "BATTLEPASS_REWARD": "Нагороди з бойовою перепусткою",
+        "BUY_BATTLEPASS": "Купити бойову перепустку",
+        "BUY_BATTLEPASS_DESCRIPTION": "Придбати бойову перепустку, щоб розблокувати золоту лінійку нагород у челенджі.",
+        "BUY_PREMIUM_DESCRIPTION": "Придбати преміум-підписку, щоб отримувати вдвічі більше зірок у боях, більше очок досвіду та інші переваги",
+        "OK": "ОК",
+        "BUY_BATTLE_PASS_BUTTON": "купити бойову перепустку",
+        "BUY_PREMIUM_BUTTON": "купити преміум"
+      },
+      "clan_full": {
+        "TEXT": "У клані немає вільних місць"
+      },
+      "security": {
+        "NEED2FA_FOR_CREATE_TITLE": "Створення клану",
+        "NEED2FA_FOR_CREATE_TEXT": "Для створення клану необхідно підключити двофакторну автентифікацію",
+        "NEED2FA_FOR_DISBAND_TITLE": "Розпустити клан",
+        "NEED2FA_FOR_DISBAND_TEXT": "Для розпуску клану необхідно підключити двофакторну автентифікацію",
+        "NEED2FA_FOR_CHANGE_OWNER_TITLE": "Зміна власника клану",
+        "NEED2FA_FOR_CHANGE_OWNER_TEXT": "Для зміни власника клану необхідно підключити двофакторну автентифікацію"
+      },
+      "change_owner": {
+        "OK": "Змінити",
+        "NOT_ENOUGH_RUBIES_TEXT": "Для зміни власника клану необхідно %PRICE% рубінів",
+        "CHANGE_OWNER_TITLE": "Зміна власника клану",
+        "CHANGE_OWNER_TEXT": "Ви дійсно хочете передати всі права на клан користувачеві %UID%? Це буде коштувати %PRICE% рубінів"
+      }
+    },
+    "garage": {
+      "TITLE": "ГАРАЖ",
+      "GEAR_SCORE": "Геар Ссоре",
+      "TURRET": "Гармата",
+      "DAMAGE": "Втрата",
+      "IMPACT_FORCE": "Сила удару",
+      "RANGE": "Дальність",
+      "HULL": "Корпус",
+      "PROTECTION": "Захист",
+      "MAXIMUM_SPEED": "Максимальна швидкість",
+      "POWER": "Потужність",
+      "SKINS": "Скини",
+      "SUPPLIES": "Припаси",
+      "BATTERIES": "Батареї",
+      "ALTERATION": "Пристрої",
+      "WEAPON": "Гармати",
+      "ARMOR": "Корпуси",
+      "DRONE": "Дрони",
+      "RESISTANCE": "Захист",
+      "PAINT": "Фарби",
+      "INVENTORY": "Припаси",
+      "KIT": "Комплекти",
+      "GIVEN_PRESENTS": "Отримані подарунки",
+      "SPECIAL": "Особливе",
+      "TOP_TIP_WEAPONS": "Gear Score - це сума всіх параметрів вашого танка, включаючи дрони, фарби, запаси та ін.",
+      "UPGRADES": "Поліпшення",
+      "OVERDRIVE": "Овердрайв",
+      "PROTECTION_LABEL": "Захист",
+      "UNEQUIP_ALL_BUTTON": "зняти все",
+      "STATS_LABEL": "Характеристики",
+      "DAMAGE_REDUCTION": "Зниження втрат",
+      "PROPERTIES": "Характеристики",
+      "BUY_BUTTON": "КУПИТИ",
+      "PAINTS": "ФАРБИ",
+      "EQUIPPED": "встановлено",
+      "EQUIP_BUTTON": "встановити",
+      "UNEQUIP_BUTTON": "зняти",
+      "ALL_PAINTS": "Показати все",
+      "PAINTS_SPECIAL": "Особливі",
+      "PAINTS_LEGENDARY": "Легендарні",
+      "PAINTS_EPIC": "Епічні",
+      "PAINTS_RARE": "Рідкісні",
+      "PAINTS_UNCOMMON": "Незвичайні",
+      "PAINTS_COMMON": "Звичайні",
+      "PAINTS_FAVORITE": "Улюблені",
+      "BACK_BUTTON": "тому",
+      "UPGRADE_LABEL": "Поліпшити",
+      "UPGRADE_BUTTON": "ПОКРАЩИТИ",
+      "STANDARD_SETTINGS_NAME": "Стандартні налаштування",
+      "STANDARD_SETTINGS_DESCRIPTION": "Стандартні заводські налаштування без спеціальних ефектів",
+      "STANDARD_SKIN_NAME": "Стандартні налаштування",
+      "STANDARD_SKIN_DESCRIPTION": "Стандартні заводські налаштування без спеціальних ефектів",
+      "LABEL_VIDEO_PLAYER": "Як це працює",
+      "FULLSCREEN_BUTTON": "на весь екран",
+      "HEADER_DIALOG_BUY_ITEM": "Купити товар",
+      "TEXT_DIALOG_BUY_ITEM": "Ви збираєтеся купити %ITEM% за",
+      "DIALOG_BUY_ITEM_CANCEL_BUTTON": "Скасування",
+      "DIALOG_BUY_ITEM_BUY_BUTTON": "КУПИТИ",
+      "HEADER_DIALOG_UPGRADE_ITEM": "Поліпшити",
+      "TEXT_DIALOG_UPGRADE_ITEM": "Поліпшити %ITEM% за",
+      "DIALOG_BUY_ITEM_UPGRADE_BUTTON": "Поліпшити",
+      "DIALOG_NOT_ENOUGH_CRYSTAL_HEADER": "недостатньо кристалів",
+      "DIALOG_NOT_ENOUGH_CRYSTAL": "У вас не вистачає кристалів (%CRYSTAL%)",
+      "DIALOG_NOT_ENOUGH_CRYSTAL_FOR_BUY_ITEM": "У вас недостатньо кристалів (%CRYSTAL%) для покупки %ITEM%",
+      "DIALOG__NOT_ENOUGH_CRYSTAL_BUY_CRYSTAL_BUTTON": "Купити кристали",
+      "DIALOG_NOT_ENOUGH_COIN_HEADER": "не вистачає танкоїнів",
+      "DIALOG_NOT_ENOUGH_COIN": "У вас не вистачає танкоїнів (%COIN%)",
+      "DIALOG_NOT_ENOUGH_COIN_FOR_ITEM": "У вас недостатньо танкоїнів (%COIN%) для покупки %ITEM%",
+      "DIALOG_NOT_ENOUGH_COIN_FOR_UPGRADE_ITEM": "У вас недостатньо танкоїнів (%COIN%) для покращення %ITEM%",
+      "DIALOG__NOT_ENOUGH_COIN_BUY_COIN_BUTTON": "Купити танкоїни",
+      "DIALOG_NOT_ENOUGH_RUBY_HEADER": "Бракує рубінів",
+      "DIALOG_NOT_ENOUGH_RUBY_FOR_ITEM": "У вас недостатньо рубінів (%RUBY%) для отримання %ITEM%",
+      "DIALOG_NOT_ENOUGH_RUBY_FOR_UPGRADE_ITEM": "У вас недостатньо рубінів (%RUBY%) для покращення %ITEM%",
+      "DIALOG_NOT_ENOUGH_CRYSTAL_FOR_UPGRADE_TITLE": "Поліпшення",
+      "DIALOG_NOT_ENOUGH_CRYSTAL_FOR_UPGRADE_MESSAGE": "Недостатньо кристалів (%PRICE%) для покращення %ITEM%",
+      "DIALOG_NOT_ENOUGH_CRYSTAL_FOR_UPGRADE_BUTTON": "Поліпшити за %PRICE%",
+      "SPEED_UP_BUTTON": "прискорити",
+      "NOT_AVAILABLE": "Недоступно",
+      "LEVEL": "ур.",
+      "NO_DRONE_EQUIPPED": "Відсутній встановлений дрон",
+      "RANK_IS_NEEDED": "Необхідне звання %RANK_NAME%",
+      "MAX_LEVEL": "МАКС",
+      "READ_MORE": "Докладніше",
+      "PREMIUM_NEEDED": "Необхідна преміум-підписка",
+      "RANK_AND_PREMIUM_NEEDED": "Необхідна преміум-підписка та звання %RANK_NAME%",
+      "NO_RESISTANCE": "Захист відсутній",
+      "INSTALL_HERE": "Встановити",
+      "REMOVE_RESISTANCE": "Зняти",
+      "EMPTY": "Пусто",
+      "LOCKED": "Недоступно",
+      "BATTERY_PROPERTY": "Одна батарея забезпечує дрон енергією рівно одну хвилину.",
+      "SLOT_LOCKED": "Заблоковано",
+      "SLOT_UNLOCK": "Відкрити",
+      "BUY_PAINT_DESCRIPTION": "Купити фарбу",
+      "LOCK_PAINT_DESCRIPTION": "Фарба недоступна",
+      "EQUIP_PAINT_DESCRIPTION": "Встановити фарбу",
+      "ITEM_LOCKED": "Зміни доступні через",
+      "SELECT_SLOT_PROTECTION": "Виберіть слот для модуля захисту",
+      "ALL": "все",
+      "GO_STORE": "Перейти до магазину",
+      "BUY_CONTAINER_BUTTON": "Купити контейнери",
+      "properties": {
+        "HULL_ARMOR": "Броня",
+        "HULL_SPEED": "Максимальна швидкість",
+        "HULL_POWER": "Потужність",
+        "DAMAGE": "Втрата",
+        "DAMAGE_PER_SECOND": "Втрата в секунду",
+        "WEAPON_IMPACT_FORCE": "Сила удару",
+        "SHOTGUN_IMPACT_FORCE": "Сила удару",
+        "SHOT_RANGE": "Дальність",
+        "SMOKY_RESISTANCE": "від Смоки",
+        "SCORPIO_RESISTANCE": "від Скорпіона",
+        "FIREBIRD_RESISTANCE": "від Вогнемету",
+        "TWINS_RESISTANCE": "від Твінса",
+        "RAILGUN_RESISTANCE": "від Рейки",
+        "ISIS_RESISTANCE": "від Ізіди",
+        "THUNDER_RESISTANCE": "від Грому",
+        "FREEZE_RESISTANCE": "від Фріза",
+        "RICOCHET_RESISTANCE": "від Рікошета",
+        "GAUSS_RESISTANCE": "від Гауса",
+        "SHAFT_RESISTANCE": "від Шафту",
+        "SHOTGUN_RESISTANCE": "від Молота",
+        "MACHINE_GUN_RESISTANCE": "від Вулкану",
+        "ROCKET_LAUNCHER_RESISTANCE": "від Страйкера",
+        "CRITICAL_RESISTANCE": "від критичної шкоди",
+        "ALL_RESISTANCE": "від усіх гармат",
+        "MINE_RESISTANCE": "від хв",
+        "ARTILLERY_RESISTANCE": "від Магнума",
+        "TESLA_RESISTANCE": "від Тесли",
+        "WEAPON_RELOAD_TIME": "Перезарядження",
+        "ISIS_HEALING_PER_PERIOD": "Лікування",
+        "CRITICAL_HIT_DAMAGE": "Критична шкода",
+        "CRITICAL_HEALING_HITS": "Критичне лікування",
+        "CRITICAL_HEALING_CHANCE": "Шанс критичного лікування",
+        "MAX_SHELL_SPEED": "Максимальна швидкість снаряду",
+        "WEAPON_WEAKENING_COEFF": "Простріл",
+        "IMPACT_FORCE": "Сила удару",
+        "SHAFT_AIMING_MODE_DAMAGE": "Втрата прицільна",
+        "UNITS": "од.",
+        "PERCENT": "%",
+        "SECONDS": "сік",
+        "METERS": "м",
+        "UNDEFINE": "Не визначено",
+        "RADIUS_OF_MAX_SPLASH_DAMAGE": "Радіус максимального ураження вибухом",
+        "MACHINE_GUN_WEAPON_TURN_DECELERATION_COEFF": "Уповільнення повороту вежі",
+        "SPLASH_DAMAGE_RADIUS": "Радіус ураження вибухом",
+        "MAX_CRITICAL_HIT_CHANCE": "Максимальний шанс критичного пострілу",
+        "TURRET_ROTATION_ACCELERATION": "Прискорення повороту",
+        "DAMAGE_TO": "Максимальна шкода",
+        "DAMAGE_FROM": "Мінімальна шкода",
+        "ROCKET_ANGULAR_VELOCITY": "Кутова швидкість ракет",
+        "WEAPON_CHARGING_TIME": "Час зарядки",
+        "SHAFT_AIMING_MODE_MAX_DAMAGE": "Втрата прицільна макс.",
+        "ELLIPTIC_CONE_HORIZONTAL_ANGLE": "Кут наведення по горизонталі",
+        "WEAPON_MAX_DAMAGE_RADIUS": "Радіус максимальної поразки",
+        "ELLIPTIC_CONE_VERTICAL_ANGLE": "Кут наведення по вертикалі",
+        "DEVICE_HEAT_PER_PELLET": "Нагрів від кожної дробинки",
+        "WEAPON_ANGLE_DOWN": "Автоприціл кут вниз",
+        "CONE_ANGLE": "Кут конуса",
+        "SHELL_GRAVITY_COEF": "Гравітація для снаряду",
+        "SHELL_SPEED": "Швидкість снаряда",
+        "SHAFT_FAST_SHOT_ENERGY": "Енергія на постріл навскідку",
+        "WEAPON_DISCHARGE_RATE": "Витрата енергії",
+        "START_CRITICAL_HIT_CHANCE": "Початковий шанс критичного пострілу",
+        "SHAFT_HORIZONTAL_TARGETING_SPEED": "Швидкість прицілювання по горизонталі",
+        "WEAPON_MIN_DAMAGE_RADIUS": "Радіус",
+        "INITIAL_TURRET_ANGLE": "Початковий кут підйому стовбура",
+        "SALVO_AIMING_TIME": "Наведення",
+        "SALVO_SIZE": "Число ракет у залпі",
+        "TIME_BETWEEN_SHOTS_OF_SALVO": "Перезаряджання після залпу",
+        "SHAFT_AIMING_MODE_MIN_DAMAGE": "Втрата прицільна мін.",
+        "CRITICAL_CHANCE_DELTA": "Шанс критичного пострілу",
+        "DAMAGE_PER_PERIOD": "Втрата в тик",
+        "WEAPON_ANGLE_UP": "Автоприціл кут вгору",
+        "WEAPON_KICKBACK": "Віддача",
+        "TURRET_TURN_SPEED": "Швидкість повороту",
+        "HEAT_PER_PERIOD": "Нагрівання в тик",
+        "FLAME_TEMPERATURE_LIMIT": "Обмеження на температуру",
+        "HULL_TURN_SPEED": "Швидкість повороту",
+        "HULL_MASS": "Маса",
+        "WEAPON_COOLDOWN_TIME": "Перезарядження",
+        "AIMING_MODE_COOLDOWN_TIME": "Час перезаряджання режиму прицілювання",
+        "CRITICAL_HIT_CHANCE": "Шанс критичного пострілу",
+        "AIMING_ERROR": "Помилка прицілювання",
+        "SHOT_AREA": "Зона поразки",
+        "CHARGING_TIME": "Час перезаряджання",
+        "FIRE_DAMAGE": "Втрата",
+        "ISIS_DAMAGE": "Втрата",
+        "ISIS_HEALING_PER_SECOND": "Лікування за секунду",
+        "AIMING_MODE_DAMAGE": "Втрата прицільна",
+        "AIMING_WEAPON_DISCHARGE_RATE": "Відсоток збільшення ураження подвійною шкодою",
+        "SHAFT_AIMED_SHOT_IMPACT": "Сила удару прицільного пострілу",
+        "SHAFT_TARGETING_SPEED": "Швидкість прицілювання",
+        "SHAFT_ARCADE_DAMAGE": "Втрата навскідку",
+        "WEAPON_CHARGE_RATE": "Заряджання",
+        "WEAPON_MIN_DAMAGE_PERCENT": "Мінімальна шкода",
+        "THUNDER_MIN_SPLASH_DAMAGE_PERCENT": "Мінімальна шкода вибухом",
+        "DEPENDENCY_FIRST_AID_SEC": "Перезаряджання ремкоплекту",
+        "DEPENDENCY_DOUBLE_ARMOR_SEC": "Перезаряджання підвищеного захисту",
+        "DEPENDENCY_DOUBLE_DAMAGE_SEC": "Перезарядження підвищеної шкоди",
+        "DEPENDENCY_NITRO_SEC": "Перезаряджання прискорення",
+        "DEPENDENCY_MINE_SEC": "Перезаряджання міни",
+        "DEPENDENCY_DROPPABLE_GOLD_SEC": "Перезаряджання золотої скриньки",
+        "COOLDOWN_FIRST_AID_SEC": "Час перезаряджання ремкомплекту",
+        "COOLDOWN_DOUBLE_ARMOR_SEC": "Час перезаряджання підвищеного захисту",
+        "COOLDOWN_DOUBLE_DAMAGE_SEC": "Час перезарядки підвищеної шкоди",
+        "COOLDOWN_NITRO_SEC": "Час перезаряджання прискорення",
+        "COOLDOWN_MINE_SEC": "Час перезаряджання міни",
+        "COOLDOWN_DROPPABLE_GOLD_SEC": "Час перезарядки золотої скриньки",
+        "COOLDOWN_NUCLEAR_RECHARGE": "Час перезаряджання",
+        "DURATION_FIRST_AID_SEC": "Час дії ремкомплекту",
+        "DURATION_DOUBLE_ARMOR_SEC": "Час дії підвищеного захисту",
+        "DURATION_DOUBLE_DAMAGE_SEC": "Час дії підвищеної шкоди",
+        "DURATION_NITRO_SEC": "Час дії прискорення",
+        "ATTACK_EFFECT": "Збільшення втрат",
+        "FIRST_AID_EFFECT_INSTANT": "Броня танка, що відновлюється моментально",
+        "FIRST_AID_EFFECT": "Броня танка, що відновлюється поступово",
+        "PROTECTION_EFFECT": "Збільшення броні",
+        "SPEED_EFFECT": "Збільшення максимальної швидкості",
+        "DISCHARGE_SPEED": "Витрата енергії",
+        "FREEZE_PER_TICK": "Заморожування за тик",
+        "VERTICAL_ANGLES": "Кути вертикального наведення",
+        "DRONE_RELOAD": "Час перезарядки дрону",
+        "DRONE_HP_BONUS": "Бонус HP",
+        "DRONE_INVENTORY": "Час роботи запасів",
+        "DRONE_INVENTORY_ADD": "Час дії запасів у союзників",
+        "DRONE_BONUS_ADD": "Бонус на час роботи підібраних запасів",
+        "DRONE_FIRST_AID_BONUS_ADD": "Бонус на час роботи ремкомплекту",
+        "DRONE_OVERDRIVE_BOOST": "Скорочення часу зарядки овердрайву за фраг",
+        "DRONE_DEFEND": "Час дії посилення",
+        "DRONE_ARMOR_BOOST": "Додаткова сила запасу",
+        "DRONE_MINE": "Число мін, що зберігаються",
+        "DRONE_ADDITIONAL_MINES": "Число мін",
+        "DRONE_MINES_ACTIVATION_DELAY": "Час активації мін",
+        "DRONE_MINES_PLACEMENT_RADIUS": "Радіус встановлення мін",
+        "DRONE_INVENTORY_COOLDOWN_BOOST": "Прискорення перезаряджання запасів у сек.",
+        "DRONE_POWER_BOOST": "Додаткова сила запасу",
+        "DRONE_POWER_DURATION": "Час дії посилення",
+        "DRONE_CRITICAL_HEALTH": "Лікування",
+        "DRONE_ACTION_RADIUS": "Радіус поширення ефектів",
+        "DRONE_CONSTANT_ARMOR_PERCENT": "Посилення розхідника підвищений захист",
+        "DRONE_CONSTANT_POWER_PERCENT": "Посилення розхідника підвищена шкода",
+        "DRONE_DAMAGE_PERCENT": "Бонусна шкода",
+        "DRONE_ARMOR_PERCENT": "Бонусний захист",
+        "DRONE_HULL_SPEED_PERCENT": "Бонусне прискорення",
+        "DRONE_DEPENDENT_INVENTORY_COOLDOWN": "Швидкість перемикання",
+        "DRONE_INVENTORY_COOLDOWN_SUBTRACTION": "Прискорення перезаряджання запасів у сек.",
+        "DRONE_INVENTORY_COOLDOWN_SUBTRACTION_ON_KILL": "Прискорення перезарядки запасів",
+        "ULTIMATE_HEAL_HP": "Ремонт у HP",
+        "ULTIMATE_CHARGE_PER_SEC": "Заряджання овердрайву в секунду",
+        "ULTIMATE_CHARGE_PER_SCORE_POINT": "Зарядка овердрайву за окуляри битви",
+        "ULTIMATE_SCORE_COOLDOWN_SEC": "Пауза старту перезаряджання овердрайву",
+        "ULTIMATE_ACTIVATION_DISCHARGE_PER_SEC": "Витрата заряду овердрайву за секунду",
+        "SHOTGUN_MAGAZINE_SIZE": "Число зарядів",
+        "SHOTGUN_PELLET_COUNT": "Число дробинок",
+        "MAGAZINE_RELOAD_TIME": "Перезаряджання обойми",
+        "DAMAGE_PER_HIT": "Втрата від влучення",
+        "DEVICE_SMOKY_TEMPERATURE_DELTA_ON_CRITICAL": "Нагрів при критичному влученні",
+        "DEVICE_TARGET_HEAT_DELTA_ON_SELF_OVERHEAT": "Нагрів ворожих танків під перегрівом",
+        "MACHINE_GUN_TEMPERATURE_HITTING_TIME_SECOND": "Час до перегріву",
+        "DEVICE_BONUS_ENERGY_ON_KILL": "Відновлення енергії за кіл",
+        "ISIS_DISCHARGE_SPEED_HEALING": "Витрата енергії в режимі лікування",
+        "ENERGY_PER_SHOT": "Енергія на постріл",
+        "MAX_RICOCHET_COUNT": "Максимальна кількість рикошетів",
+        "GAUSS_AIMING_MODE_DAMAGE": "Втрата прицільна"
+      },
+      "PROTECTION_MODULE": "Модуль захисту",
+      "SHOT_COLOR": "Колір пострілу",
+      "NEEDED_RANK": "ПОТРІБНО ЗВАННЯ",
+      "COMPLETED": "ЗАВЕРШЕНО",
+      "OPEN_THE_SHOP": "У МАГАЗИН",
+      "DIALOG_NOT_ENOUGH_CRYSTAL_FOR_UPDATE_ITEM": "У вас недостатньо кристалів (%CRYSTAL%) для покращення %ITEM%",
+      "GRENADE": "Гранати",
+      "BOUGHT": "Куплено"
+    },
+    "notification": {
+      "INFO": "Інформація",
+      "WARNING": "Попередження",
+      "BUTTON_YES": "Так",
+      "BUTTON_NO": "Ні",
+      "ALERT": "Попередження",
+      "BUTTON_OK": "Зрозуміло"
+    },
+    "settings": {
+      "TITLE": "НАЛАШТУВАННЯ",
+      "reset_dialog": {
+        "TEXT": "Зміни в цьому розділі налаштувань будуть скинуті.\nПродовжити?"
+      },
+      "menu": {
+        "GAME": "ГРА",
+        "GRAPHIC": "ГРАФІКА",
+        "SOUND": "ЗВУК",
+        "CONTROL": "УПРАВЛІННЯ",
+        "ACCOUNT": "АКАУНТ",
+        "BATTLE": "БИТВА",
+        "SECURITY": "БЕЗПЕКА"
+      },
+      "keyboard": {
+        "ROTATE_TURRET_LEFT": "Повернути вежу вліво",
+        "ROTATE_TURRET_RIGHT": "Повернути вежу праворуч",
+        "CENTER_TURRET": "Центрувати вежу",
+        "TURN_TANK_LEFT": "Повернути танк ліворуч",
+        "TURN_TANK_RIGHT": "Повернути танк праворуч",
+        "MOVE_TANK_FORWARD": "Рухатися вперед",
+        "MOVE_TANK_BACKWARDS": "Рухатися тому",
+        "MOVE_CAMERA_UP": "Підняти камеру",
+        "MOVE_CAMERA_DOWN": "Опустити камеру",
+        "DROP_FLAG": "Скинути прапор",
+        "DROP_GRENADE": "Кинути гранату",
+        "PAUSE": "Пауза",
+        "INCREASE_BATTLE_SCREEN_SIZE": "Збільшити розмір вікна битви",
+        "DECREASE_BATTLE_SCREEN_SIZE": "Зменшити розмір вікна битви",
+        "FULLSCREEN_COLLAPSE": "Увімкнути/вимкнути повноекранний режим",
+        "STATISTICS": "Відкрити статистику битви",
+        "USE_FIRST_AID_SUPPLY": "Використовувати ремкомплект",
+        "USE_DOUBLE_ARMOR_SUPPLY": "Використовувати підвищений захист",
+        "USE_DOUBLE_DAMAGE_SUPPLY": "Використовувати підвищену шкоду",
+        "USE_SPEED_BOOST_SUPPLY": "Використовувати прискорення",
+        "DROP_MINE": "Встановити міну",
+        "USE_GOLD_BOX_SUPPLY": "Скинути золоту скриньку",
+        "SHOOT": "Вистрілити",
+        "OVERDRIVES": "Використовувати овердрайв",
+        "QUICK_GARAGE": "Відкрити гараж",
+        "SELF_DESTROY": "Самознищення",
+        "RESET_ALL_KEYS": "Відновити значення за замовчуванням",
+        "SUPPLIES_ULTIMATE_HOTKEYS": "Овердрайв та запаси"
+      },
+      "game": {
+        "LANGUAGE": "Мова",
+        "SHOW_DROP_ZONES": "Показувати зони скриньок",
+        "SHOW_DROP_ZONES_DESCRIPTION": "Показує місця падіння ящиків із бонусами",
+        "ALTERNATE_CAMERA": "Альтернативна поведінка камери",
+        "ALTERNATE_CAMERA_DESCRIPTION": "Включає альтернативну поведінку камери",
+        "SHOW_YOUR_DRONE": "Показувати свій дрон",
+        "SHOW_YOUR_DRONE_DESCRIPTION": "Показує ваш дрон на екрані",
+        "RECEIVE_PRESENTS_ENABLED": "Приймати подарунки від усіх",
+        "RECEIVE_PRESENTS_ENABLED_DESCRIPTION": "Дозволяє отримувати подарунки від інших гравців",
+        "RECEIVE_PM_FROM_FRIENDS_ONLY": "ЛЗ лише від друзів",
+        "RECEIVE_PM_FROM_FRIENDS_ONLY_DESCRIPTION": "Отримувати особисті повідомлення лише від гравців зі списку друзів",
+        "SHOW_CHAT": "Показувати чат",
+        "SHOW_CHAT_DESCRIPTION": "Показує вікно чату",
+        "SHOW_NOTIFICATIONS": "Показувати повідомлення",
+        "SHOW_NOTIFICATIONS_DESCRIPTION": "Показує повідомлення на екрані",
+        "SHOW_OTHER_DRONE": "Показувати інші дрони",
+        "SHOW_OTHER_DRONE_DESCRIPTION": "ПОКАЗАТИ ІНШИЙ ОПИС ДРОНА",
+        "BACKGROUND_SOUND": "Фоновий звук",
+        "BACKGROUND_SOUND_DESCRIPTION": "Фонові звуки включені",
+        "MASTER_VOLUME": "Гучність",
+        "MUSIC_VOLUME": "Гучність Музики",
+        "AMBIENT_VOLUME": "Гучність ефектів у бою",
+        "SFX_VOLUME": "Гучність спецефектів",
+        "UI_VOLUME": "Гучність інтерфейсу",
+        "HITMARK_PLAYER_VOLUME": "Гучність звуків шкоди по власному танку",
+        "HITMARK_ENEMY_VOLUME": "Гучність звуків шкоди противнику",
+        "BLUR_MUTE": "Вимикати звук, коли гра неактивна",
+        "BLUR_MUTE_DESCRIPTION": "Заглушувати звук, коли вікно з грою знаходиться у фоні",
+        "DISABLE_SHOWING_BATTLE_INVITES": "Вимкнути показ запрошень",
+        "DISABLE_SHOWING_BATTLE_INVITES_DESCRIPTION": "Вимикає показ запрошень у бій та групу від ваших друзів",
+        "BROWSER_NOTIFICATIONS_TITLE": "Браузерні повідомлення",
+        "BROWSER_NOTIFICATIONS_ENABLED": "Браузерні повідомлення включені",
+        "BROWSER_NOTIFICATIONS_DISABLE_IN_SETTINGS": "їх можна вимкнути у налаштуваннях браузера",
+        "BROWSER_NOTIFICATIONS_DISABLED": "Браузерні повідомлення заблоковані",
+        "BROWSER_NOTIFICATIONS_ENABLE_IN_SETTINGS": "їх можна увімкнути у налаштуваннях браузера",
+        "BROWSER_NOTIFICATIONS_DESCRIPTION": "Отримуй повідомлення від інших користувачів, коли гра неактивна",
+        "BROWSER_NOTIFICATIONS_BUTTON": "Дозволити/Заборонити"
+      },
+      "buttons": {
+        "BACK": "Назад [z]",
+        "RESET": "скинути все"
+      },
+      "graphics": {
+        "SHOW_FPS_AND_PING": "Показувати FPS та PING",
+        "SHOW_FPS_AND_PING_DESCRIPTION": "Показує FPS та PING",
+        "SHOW_SKYBOX": "Показувати небо",
+        "SHOW_SKYBOX_DESCRIPTION": "Це налаштування дозволяє вимкнути небо для збереження відеопам'яті",
+        "GRAPHICS_AUTO_QUALITY": "Автоналаштування якості графіки",
+        "GRAPHICS_AUTO_QUALITY_DESCRIPTION": "Автоматично встановити якість графіки",
+        "DYNAMIC_SHADOWS": "Динамічні тіні",
+        "DYNAMIC_SHADOWS_DESCRIPTION": "Це налаштування включає динамічні тіні, що помітно впливає на продуктивність.",
+        "DYNAMIC_LIGHTING": "Динамічне освітлення",
+        "DYNAMIC_LIGHTING_DESCRIPTION": "Включає динамічне освітлення",
+        "SHADOWS": "Тіні",
+        "SHADOWS_DESCRIPTION": "Включає тіні",
+        "SOFT_SHADOWS": "М'які тіні",
+        "SOFT_SHADOWS_DESCRIPTION": "Це налаштування згладжує межу динамічних тіней.",
+        "SOFT_PARTICLES": "М'які частки",
+        "SOFT_PARTICLES_DESCRIPTION": "Це налаштування включає м'які частинки, плавно розмиваючи краї ефектів пострілів, пилу тощо.",
+        "ADAPTIVE_FPS": "Адаптивний FPS",
+        "ADAPTIVE_FPS_DESCRIPTION": "Включає адаптивний FPS",
+        "SSAO": "Динамічне освітлення",
+        "SSAO_DESCRIPTION": "Включає динамічне освітлення",
+        "FOG": "Туман",
+        "FOG_DESCRIPTION": "Включає туман",
+        "ANTIALIASING": "Згладжування",
+        "ANTIALIASING_DESCRIPTION": "Ця настройка включає згладжування пікселів на краях об'єктів, що дуже сильно впливає на продуктивність",
+        "DUST": "Показувати пил та гільзи",
+        "DUST_DESCRIPTION": "Ця настройка включає відображення гільз і пилу з-під гусениць танків, що рухаються.",
+        "ANISOTROPIC_FILTERING": "Анізотропна фільтрація",
+        "DECALS": "Число слідів від пострілів та вибухів",
+        "DECALS_KEY_OFF": "Вимк",
+        "DECALS_KEY_FEW": "Мало",
+        "DECALS_KEY_MANY": "Багато",
+        "DECALS_KEY_TOO_MANY": "Дуже багато",
+        "DECALS_KEY_MAXIMUM": "Максимальне",
+        "TREES_QUALITY": "Якість дерев",
+        "TREES_QUALITY_SPRITES": "Спрайти",
+        "TREES_QUALITY_LOW": "Низьке",
+        "TREES_QUALITY_MEDIUM": "Середнє",
+        "TREES_QUALITY_HIGH": "Висока",
+        "GRAPHICS_RESOLUTION": "Роздільна здатність картинки",
+        "GRAPHICS_RESOLUTION_MAXIMAL": "Максимальне",
+        "GRAPHICS_RESOLUTION_LOW": "Низьке",
+        "GRAPHICS_RESOLUTION_VERY_LOW": "Дуже низька",
+        "GRAPHICS_RESOLUTION_MINIMAL": "Мінімальне",
+        "QUALITY_BRACKET_TITLE_LABEL": "Якість графіки",
+        "QUALITY_BRACKET_LOW": "Низьке",
+        "QUALITY_BRACKET_MEDIUM": "Середнє",
+        "QUALITY_BRACKET_HIGH": "Висока",
+        "QUALITY_BRACKET_MAXIMUM": "Максимум",
+        "QUALITY_BRACKET_OTHER": "Користувальницьке",
+        "EXTENDED_SETTINGS_SWITCH": "Розширені налаштування",
+        "FPS_LIMIT": "Гранична частота кадрів",
+        "FPS_LIMIT_MAX": "Максимум",
+        "SHOW_FRAMETIME_GRAPH": "Показувати графік часу відтворення кадру",
+        "VSYNC": "ВСінк",
+        "VSYNC_DESCRIPTION": "Вертикальна синхронізація"
+      },
+      "controls": {
+        "inputDevice": {
+          "INPUT_DEVICE": "Пристрій введення",
+          "MOUSE_KEYBOARD": "Миша + Клавіатура",
+          "KEYBOARD": "Клавіатура",
+          "GAMEPAD": "Геймпад",
+          "TOUCHSCREEN": "Тачскрін",
+          "mouse": {
+            "CAMERA_SENSITIVITY": "Чутливість камери",
+            "ENABLE_ACCELERATION": "Системне прискорення миші",
+            "ENABLE_ACCELERATION_DESCRIPTION": "Спробуйте вимкнути це налаштування, якщо при керуванні мишкою у вас часто відбуваються різкі зміни положення камери."
+          },
+          "gamepad": {
+            "GAMEPAD_ENABLE": "Управління геймпадом",
+            "GAMEPAD_ENABLE_DESCRIPTION": "Використовувати призначені за замовчуванням дії на кнопках будь-якого підключеного геймпаду",
+            "LEFT_STICK_DEAD_ZONE": "Мертва зона лівого стику",
+            "RIGHT_STICK_DEAD_ZONE": "Мертва зона правого стику"
+          },
+          "touchscreen": {
+            "CONTROLS_EDITOR": "Редактор кнопок",
+            "CAMERA_SENSITIVITY": "Чутливість камери",
+            "ROTATE_JOYSTICK": "Поворот джойстика керування за корпусом",
+            "MOVABLE_JOYSTICK": "Рухомий джойстик управління",
+            "DOUBLE_TAP_FIRE": "Стрілянина по подвійному натисканню",
+            "AUTO_FIRE": "Автострільба",
+            "AUTO_CENTER_TURRET": "Центрувати вежу з бездіяльності",
+            "SHOW_MOVEMENT_INDICATOR": "Показати індикатор руху",
+            "editor": {
+              "BACK": "Назад",
+              "RESET": "Скинути",
+              "PREVIEW": "Передпрогляд",
+              "ELEMENT_SIZE": "Розмір",
+              "ELEMENT_OPACITY": "Прозорість"
+            }
+          }
+        },
+        "INVERT_SHAFT_VERTICAL_AXIS": "Інвертувати вертикальну вісь Шафта",
+        "INVERT_SHAFT_VERTICAL_AXIS_DESCRIPTION": "Інвертувати вертикальну вісь Шафта у снайперському режимі",
+        "INVERSED_BACKWARD_MOVING": "Інвертувати керування під час руху заднім ходом",
+        "INVERSED_BACKWARD_MOVING_DESCRIPTION": "Інвертує напрямок повороту під час руху заднім ходом"
+      },
+      "account": {
+        "YOUR_LOCATION": "Ваше місце розташування",
+        "CHANGE_COUNTRY_VIA_TECH_SUPPORT": "Для зміни країни зверніться до служби підтримки за адресою help@tankionline.com",
+        "CHANGE_PASSWORD_AND_EMAIL": "змінити пароль та email",
+        "ENTER_CAPTCHA_TEXT": "Введіть текст",
+        "CHANGE_BUTTON": "змінити",
+        "CONNECT_EMAIL_TITLE": "прив'яжіть пошту, щоб захистити свій обліковий запис!",
+        "EMAIL_INPUT_LABEL": "Емайл",
+        "CONNECT_BUTTON": "прив'язати",
+        "CURRENT_PASSWORD": "Поточний пароль",
+        "NEW_PASSWORD": "Новий пароль",
+        "CONFIRM_PASSWORD": "Введіть ще раз",
+        "LINK_ACCOUNT_TO_FACEBOOK": "Прив'яжіть ваш ігровий аккаунт до Facebook",
+        "EMAIL_NOT_VALID": "некоректний email",
+        "NEED_CURRENT_PASSWORD": "поточний пароль",
+        "PASSWORD_SIMPLE": "пароль занадто простий",
+        "PASSWORD_NOT_EQUALS": "паролі не збігаються",
+        "UPDATE_PASSWORD_ERROR": "Не вдалося змінити пароль",
+        "EMAIL_NOT_UNIQUE": "Цей email вже зайнятий",
+        "INCORRECT_EMAIL": "невірний email",
+        "CONFIRM_EMAIL": "На вказану пошту було надіслано листа для підтвердження.",
+        "CHANGE_PASSWORD": "Змінити пароль",
+        "CHANGED_PASSWORD": "Ваш пароль змінено",
+        "CHANGE_EMAIL": "Лист з інструкціями надіслано на вашу поштову скриньку",
+        "NEW_UID": "Новий нікнейм",
+        "UID_RENAME_PURCHASE": "Вартість послуги складе:",
+        "UID_RENAME_PAID_AGREE": "Чи згодні ви змінити %UID% на %NEW_UID% за %PRICE%?",
+        "UID_RENAME_FREE_AGREE": "Чи згодні ви змінити %UID% на %NEW_UID%?",
+        "UID_RENAME_FREE_HINT": "Перша зміна імені – безкоштовно",
+        "USER_RENAME_TITLE": "Змінити нікнейм",
+        "INPUT_SHORT_STATE": "Ім'я не може бути коротшим від %number символів",
+        "INPUT_RESERVED_STATE": "Це ім'я вже зайняте",
+        "INPUT_NOT_VALID_STATE": "Введене ім'я недоступне",
+        "INPUT_FORBIDDEN": "Ім'я містить неприпустимі символи",
+        "CREATOR_TAG_TITLE": "Тег творця контенту",
+        "CURRENT_CREATOR_TAG": "Поточний тег:",
+        "SELECT_CREATOR_TAG": "Виберіть тег",
+        "DESCRIPTION_CREATOR_TAG": "Вибір тега автора контенту дозволяє підтримати цього автора. Можна вибрати лише один тег.",
+        "RESET_BUTTON": "Скинути",
+        "ADD_CREATOR_TAG": "Додати тег",
+        "CHANGE_CREATOR_TAG": "Змінити",
+        "CREATOR_TAG_NOT_SET": "Ще не заданий",
+        "SELECT_TAG_BUTTON": "",
+        "AGREE_CHANGE_UID": "Чи згодні ви змінити",
+        "AGREE_CHANGE_UID_TO": "на",
+        "AGREE_CHANGE_UID_FOR": "за"
+      },
+      "graphics_settings_detect": {
+        "LOW_FPS_TITTLE": "Низький FPS",
+        "LOW_FPS_INSTRUCTION": "Про те, як підвищити FPS, читайте <a href='https://ru.tankiwiki.com/Nizkiy_FPS' target='_blank'>тут</a>"
+      },
+      "battle": {
+        "SHOW_AIM_HELPER_DOT": "Відображати точку в центрі екрану",
+        "SHOW_AIM_HELPER_DOT_DESCRIPTION": "Показує курсор у центрі екрана у вигляді маленької точки для спрощення орієнтації камери",
+        "SHOW_DAMAGE": "Відображати шкоду",
+        "SHOW_DAMAGE_DESCRIPTION": "Показує, скільки одиниць втрат ви наносите противникам",
+        "AUTO_SUICIDE_ON_OVERTURN": "Автоматичне самознищення",
+        "AUTO_SUICIDE_ON_OVERTURN_DESCRIPTION": "Автоматично активує самознищення танка, якщо танк виявився на боці або перекинутий.",
+        "SHOW_STATUS_NAME": "Текстові підказки з появою статус-ефекту",
+        "SHOW_STATUS_NAME_DESCRIPTION": "У момент накладання статусу ефекту на противника або на власний танк відображається текстова підказка.",
+        "IS_CENTERED_LAYOUT": "Бойовий інтерфейс у центрі екрану",
+        "IS_CENTERED_LAYOUT_DESCRIPTION": "Найзручніше для швидкої оцінки ситуації в бою, але може частково перекривати власний танк",
+        "SHOW_GOLD_BOX_CREATOR": "Показувати, що це я скинув ящик",
+        "SHOW_GOLD_BOX_CREATOR_DESCRIPTION": "",
+        "BATTLE_UI_SCALE": "Розмір бойового інтерфейсу",
+        "AIM_OPACITY": "Видимість точки в центрі екрану",
+        "AIM_SCALE": "Розмір точки в центрі екрану",
+        "AIM_SCALE_MINIMAL": "Мінімальний",
+        "AIM_SCALE_SMALL": "Середній",
+        "AIM_SCALE_MEDIUM": "Великий",
+        "AIM_SCALE_LARGE": "Дуже великий",
+        "AIM_SCALE_MAXIMAL": "Максимальний",
+        "SHOW_TANK_POINTER": "Відображати індикатори напряму одержуваної шкоди",
+        "SHOW_TANK_POINTER_DESCRIPTION": "При отриманні шкоди з'являється спеціальний індикатор, що вказує на положення ворожого танка, який цю шкоду завдав",
+        "AUTO_SUPPLY": "Автозастосування запасів у бою"
+      },
+      "twitch": {
+        "DESCRIPTION": "Прив'яжіть свій Twitch-аккаунт до гри, щоб отримувати нагороди під час перегляду стриму на платформі Twitch.",
+        "LINKED_ACCOUNT": "Обліковий запис %USERNAME% прив'язаний.",
+        "LINK_BUTTON": "Прив'язати",
+        "UNLINK_BUTTON": "Відв'язати",
+        "WARNING_QUESTION": "Бажаєте відв'язати свій обліковий запис: %USERNAME%?",
+        "WARNING_MESSAGE": "Ви зможете знову прив'язати обліковий запис через 10 днів.",
+        "REBINDING_MESSAGE": "Днів до можливості знову прив'язати обліковий запис: %DAYS%"
+      },
+      "security": {
+        "TITLE": "Двофакторна аутентифікація",
+        "TITLE_INPUT_CODE": "Введіть код безпеки",
+        "INTRO": "Забезпечте ваш обліковий запис, виконавши три простих кроки",
+        "DESCRIPTION": "Двофакторна аутентифікація дозволяє підвищити рівень захисту вашого облікового запису",
+        "FIRST_STEP": "1. Встановіть на свій телефон програму «Аутентифікатор» для створення одноразових паролів",
+        "MOBILE_APPS": "Google Authenticator, Microsoft Authenticator, LastPass, Authy",
+        "SECOND_STEP": "2. Відскануйте QR-код у встановленій програмі та введіть згенерований код безпеки",
+        "MANUAL_CODE_INPUT": "Ручне введення коду:",
+        "COPY_KEY": "Скопіювати",
+        "SECURITY_CODE": "Код безпеки",
+        "ERROR_INCORRECT_CODE": "Введено неправильний код",
+        "ENABLE_BUTTON": "Увімкнути",
+        "DISABLE_BUTTON": "Вимкнути",
+        "ACTIVATION_BUTTON": "Активувати",
+        "DEACTIVATION_BUTTON": "Деактивувати",
+        "CONFIRM_DISABLE": "Ви дійсно хочете вимкнути двофакторну аутентифікацію? Безпека вашого облікового запису знизиться.",
+        "HIDE_PROFILE_TITLE": "Сховати свій рейтинг",
+        "HIDE_PROFILE_DESCRIPTION": "Приховувати можливість перегляду рейтингу та статистики за допомогою загальнодоступного API"
+      },
+      "restart_game_dialog": {
+        "TEXT": "Нові налаштування будуть застосовані під час перезапуску гри.\nПерезапустити?"
+      },
+      "policy": {
+        "TERMS_AND_CONDITIONS": "",
+        "PRIVACY_POLICY": "",
+        "SHARED_INFO": ""
+      }
+    },
+    "containers": {
+      "POSSIBLE_REWARDS": "Можливі нагороди",
+      "SHOW_ALL": "Показати все",
+      "OPEN": "ВІДКРИТИ",
+      "ENTER": "Увійти",
+      "OPEN_ALL": "Відкрити все",
+      "OPEN_MORE": "Відкрити ще",
+      "BUY_MORE": "Придбати ще",
+      "ITEM": "предмет",
+      "DESCRIPTION": "Опис",
+      "READ_MORE": "Докладніше",
+      "COMMON": "Звичайний",
+      "UNCOMMON": "Незвичайний",
+      "RARE": "Рідкісний",
+      "EPIC": "Епічний",
+      "LEGENDARY": "Легендарний",
+      "EXOTIC": "Екзотичний",
+      "REWARDS_LABEL": "Ваша нагорода",
+      "BREADCRUMB": "Контейнери",
+      "OPEN_CONTAINER": "Відкрити контейнер",
+      "CONTINUE": "Продовжити",
+      "BUY_KEYS": "Купити ключі",
+      "NO_KEYS": "Ключі відсутні",
+      "ALL_POSSIBLE_REWARDS": "Усі можливі нагороди",
+      "SKIP": "Пропустити",
+      "REWARDS_ALL": "Все:",
+      "REWARDS_COMMON": "Звичайні:",
+      "REWARDS_UNCOMMON": "Незвичайні:",
+      "REWARDS_RARE": "Рідкісні:",
+      "REWARDS_EPIC": "Епічні:",
+      "REWARDS_LEGENDARY": "Легендарні:",
+      "REWARDS_EXOTIC": "Екзотичні:",
+      "NO_REWARDS": "Немає доступних нагород",
+      "COMMON_KEY": "Звичайний ключ",
+      "COMMON_KEY_DESCRIPTION": "Цей одноразовий ключ підходить лише для звичайного зеленого контейнера.",
+      "COMMON_CONTAINER": "Звичайний контейнер",
+      "COMMON_CONTAINER_DESCRIPTION": "Стандартний вантажний контейнер з корисними ресурсами всередині: від запасів та кристалів до нового озброєння. Кожен контейнер містить одну випадкову нагороду.",
+      "RARE_KEY": "Рідкісний ключ",
+      "RARE_KEY_DESCRIPTION": "Цей одноразовий ключ підходить лише для рідкісного синього контейнера.",
+      "RARE_CONTAINER": "Рідкісний контейнер",
+      "RARE_CONTAINER_DESCRIPTION": "Спеціальний вантажний контейнер з набором запасів, необхідних для підтримки танка в стані боєготовності. Кожен контейнер містить однаковий набір нагород.",
+      "EPIC_KEY": "Епічний ключ",
+      "EPIC_KEY_DESCRIPTION": "Цей одноразовий ключ підходить тільки для помаранчевого епічного контейнера.",
+      "EPIC_CONTAINER": "Епічний контейнер",
+      "EPIC_CONTAINER_DESCRIPTION": "Спеціальний вантажний контейнер, в якому, крім нагород зі звичайного контейнера, можна знайти тимчасові нагороди: від рідкісного озброєння до унікальних скінів Кожен контейнер містить одну випадкову нагороду.",
+      "LEGENDARY_KEY": "Легендарний ключ",
+      "LEGENDARY_KEY_DESCRIPTION": "Цей одноразовий ключ підходить лише для легендарного золотого контейнера.",
+      "LEGENDARY_CONTAINER": "Легендарний контейнер",
+      "LEGENDARY_CONTAINER_DESCRIPTION": "Найцінніший вантажний контейнер, в якому завжди є новий скін для танка. Якщо всі скіни отримані, вміст контейнера компенсується рубінами.",
+      "CONVERSION_TITLE": "Конвертація контейнерів"
+    },
+    "shards": {
+      "SHARDS": "Уламки",
+      "GET_FREE": "Забрати",
+      "NEXT_FREE": "Наступний через:"
+    },
+    "chat": {
+      "CLAN_CHAT": "чат клану",
+      "CHAT_INPUT_PLACE_HOLDER": "Написати в чаті",
+      "SEND_MESSAGE_BUTTON": "відправити",
+      "TOGGLE_CHAT_BUTTON": "таб",
+      "OPEN_EXT_LINK_TITLE": "Зовнішнє посилання",
+      "OPEN_EXT_LINK_OK_BUTTON": "Перейти до",
+      "OPEN_EXT_LINK_DESCRIPTION": "Увага! Ви збираєтеся перейти за зовнішнім посиланням: %link \nМи не несемо відповідальності за вміст сайту і настійно рекомендуємо НЕ вказувати на ньому дані, що стосуються вашого облікового запису (особливо e-mail та пароль). \n\nЯкщо у вас немає серйозних підстав довіряти цьому сайту, найкраще на нього не переходити.\n\nПам'ятайте, ми ніколи не роздаємо ігрові цінності (кристали, танкоїни та ін) через зовнішні сайти і не запитуємо ваш пароль.",
+      "MESSAGE_IS_IGNORED": "Повідомлення приховано",
+      "contextMenu": {
+        "WRITE_PUBLICLY": "Написати у спільному чаті",
+        "WRITE_PRIVATELY": "Написати особисто",
+        "COPY_NAME": "Копіювати ім'я",
+        "INVITE_TO_FRIENDS": "Додати у друзі",
+        "ACCEPT_TO_FRIENDS": "Прийняти заявку"
+      },
+      "battleMode": {
+        "DM_SHORT_NAME": "ДМ",
+        "TDM_SHORT_NAME": "ТДМ",
+        "CTF_SHORT_NAME": "СТФ",
+        "CP_SHORT_NAME": "СП",
+        "AS_SHORT_NAME": "АСЛ",
+        "RUGBY_SHORT_NAME": "РДБ",
+        "JGR_SHORT_NAME": "СЗР",
+        "TJR_SHORT_NAME": "ТЗР",
+        "SGE_SHORT_NAME": "СДЕ",
+        "AR_SHORT_NAME": "АР",
+        "TAR_SHORT_NAME": "ТАР"
+      }
+    },
+    "user": {
+      "progress": {
+        "TITLE": "Звання",
+        "BUY_PREMIUM_BUTTON": "Купити преміум",
+        "BUY_PREMIUM_DESCRIPTION": "Преміум-підписка дозволяє заробляти більше досвіду та швидше отримувати нові звання.",
+        "RANK_FEATURES": "На цьому званні відкривається доступ до таких можливостей:",
+        "NO_NEW_FEATURES": "На цьому званні нових можливостей немає.",
+        "OK_BUTTON": "ОК"
+      },
+      "info": {
+        "XP_OF_TOP": "з"
+      }
+    },
+    "premium": {
+      "PREMIUM_LABEL": "преміум",
+      "TOOLTIP_HEADER": "преміум-підписка",
+      "TOOLTIPS": [
+        "Бонус до кристалів за бій",
+        "+100%",
+        "Бонус до досвіду за бій",
+        "+50%",
+        "Бонус до зірок за бій",
+        "+100%"
+      ],
+      "TOOLTIP_TIMER_LABEL": "Спливає через",
+      "EXTEND": "продовжити",
+      "BUY": "КУПИТИ",
+      "NO_PREMIUM": "Преміум відсутня",
+      "TIP_HEADER": "Фонд PRO-битви",
+      "TIP_SUBHEADER": "Правила роботи фонду",
+      "TIP_CONTENT": [
+        "Кристали та досвід можна заробляти у будь-яких форматах битв і навіть закритих боях. Грайте там, де вам найбільше подобається.",
+        "За день із PRO-битв можна забрати обмежену кількість кристалів та досвіду.Після перевищення ліміту навіть золоті ящики не будуть приносити кристали.",
+        "Розмір доступного фонду залежить від звання. Підвищення звання дозволяє отримувати додаткові кристали та досвід.",
+        "Оновлення лімітів відбувається раз на тиждень. Наявність преміум-підписки збільшує щотижневі ліміти."
+      ]
+    },
+    "matchmakingwait": {
+      "AVERAGE_WAITING_TIME": "Середній час очікування",
+      "CURRENT_WAITING_TIME": "Поточний час очікування",
+      "CANCEL": "Скасування"
+    },
+    "tips": {
+      "MATCHMAKING": [
+        "У якому режимі бою хочете грати?"
+      ],
+      "CONTAINERS": [
+        "Шанс отримання тієї чи іншої предмета залежить з його рідкості."
+      ],
+      "quests": {
+        "MAIN": [
+          "Виконуй особливі місії та отримуй класні призи."
+        ],
+        "DAILY": [
+          "Нові місії з'являються дома виконаних."
+        ],
+        "WEEKLY": [
+          "Виконуй щотижневі місії та отримуй додаткові призи."
+        ],
+        "CHALLENGE": [
+          "Грай у битвах та заробляй зірки. З кожним новим рівнем челенджа ти отримуватимеш дедалі більше унікальних нагород."
+        ]
+      },
+      "garage": {
+        "MAIN_SCREEN": [
+          "Gear Score відбиває потужність озброєння, встановленого на вашому танку."
+        ],
+        "UPGRADE": [
+          "Завдяки покращенням ти можеш поступово посилювати своє озброєння без необхідності покупки наступної модифікації – це швидше та дешевше."
+        ],
+        "weapon": {
+          "DEFAULT": [
+            "Кожна гармата має свої унікальні особливості, які роблять її найбільш підходящою в різних ситуаціях."
+          ],
+          "UNMOUNT": [
+            "Кожна гармата має свої унікальні особливості, які роблять її найбільш підходящою в різних ситуаціях."
+          ],
+          "MOUNT": [
+            "Натисніть %KEY%, щоб встановити гармату."
+          ],
+          "BUY": [
+            "Ти можеш купити цю гармату."
+          ],
+          "NEED_RANK": [
+            "У тебе недостатньо високе звання для придбання цієї гармати."
+          ]
+        },
+        "armor": {
+          "DEFAULT": [
+            "Кожен корпус має свою швидкість і рівень броні, а також унікальний овердрайв."
+          ],
+          "UNMOUNT": [
+            "Кожен корпус має свою швидкість і рівень броні, а також унікальний овердрайв."
+          ],
+          "MOUNT": [
+            "Натисніть %KEY%, щоб встановити цей корпус."
+          ],
+          "BUY": [
+            "Ти можеш купити цей корпус."
+          ],
+          "NEED_RANK": [
+            "У тебе недостатньо високе звання для покупки цього корпусу."
+          ]
+        },
+        "drone": {
+          "DEFAULT": [
+            "Дрони дозволяють значно посилювати ефект від запасів у бою."
+          ],
+          "UNMOUNT": [
+            "Натисніть %KEY%, щоб зняти цей дрон."
+          ],
+          "MOUNT": [
+            "Натисніть %KEY%, щоб встановити цей дрон."
+          ],
+          "BUY": [
+            "Ти можеш купити цей дрон."
+          ],
+          "NEED_RANK": [
+            "У тебе недостатньо високе звання для покупки цього дрону."
+          ]
+        },
+        "resistance": {
+          "DEFAULT": [
+            "Використовуйте захисні модулі, щоб краще протистояти найбільш небезпечним противникам."
+          ],
+          "UNMOUNT": [
+            "Натисніть %KEY%, щоб зняти цей модуль захисту."
+          ],
+          "MOUNT": [
+            "Натисніть %KEY%, щоб встановити цей модуль захисту."
+          ],
+          "BUY": [
+            "Ти можеш купити цей модуль."
+          ],
+          "NEED_RANK": [
+            "У тебе недостатньо високе звання для придбання цього захисного модуля."
+          ]
+        },
+        "paint": {
+          "DEFAULT": [
+            "Фарби змінюють зовнішній вигляд твого танка. Одні роблять його непомітнішими, інші, навпаки, виділяють твій танк на тлі інших."
+          ],
+          "UNMOUNT": [
+            "Фарби змінюють зовнішній вигляд твого танка. Одні роблять його непомітнішими, інші, навпаки, виділяють твій танк на тлі інших."
+          ],
+          "MOUNT": [
+            "Натисніть %KEY%, щоб встановити цю фарбу."
+          ],
+          "BUY": [
+            "Ти можеш купити цю фарбу."
+          ],
+          "NEED_RANK": [
+            "У тебе недостатньо високе звання для придбання цієї фарби."
+          ],
+          "NEED_PREMIUM": [
+            "Для покупки цього предмета потрібна преміум-підписка."
+          ],
+          "GET_FROM_CONTAINER_OR_SO": [
+            "Цю фарбу можна отримати лише з контейнерів."
+          ]
+        },
+        "inventory": {
+          "DEFAULT": [
+            "Запаси дають твоєму танку тимчасові переваги в бою."
+          ],
+          "MOUNT": [
+            "Запаси дають твоєму танку тимчасові переваги в бою."
+          ],
+          "BUY": [
+            "Запаси дають твоєму танку тимчасові переваги в бою."
+          ],
+          "NEED_RANK": [
+            "У тебе недостатньо високе звання для покупки цього запасу."
+          ]
+        },
+        "skins": {
+          "DEFAULT": [
+            "Скіни дозволяють виділятись серед інших гравців."
+          ],
+          "UNMOUNT": [
+            "Натисніть %KEY%, щоб зняти цей скін."
+          ],
+          "MOUNT": [
+            "Натисніть %KEY%, щоб встановити цей скін"
+          ],
+          "GET_FROM_CONTAINER_OR_SO": [
+            "Цей скін можна отримати лише з контейнерів."
+          ]
+        },
+        "weaponDevices": {
+          "DEFAULT": [
+            "Пристрої для гармат змінюють їхню поведінку та характеристики."
+          ],
+          "UNMOUNT": [
+            "Натисніть %KEY%, щоб зняти пристрій."
+          ],
+          "MOUNT": [
+            "Натисніть %KEY%, щоб встановити цей пристрій"
+          ],
+          "BUY": [
+            "Ти можеш купити цей пристрій."
+          ]
+        },
+        "armorDevices": {
+          "DEFAULT": [
+            "Пристрої для корпусів дають твого танка захист від негативних ефектів або змінюють його масу."
+          ],
+          "UNMOUNT": [
+            "Натисніть %KEY%, щоб зняти пристрій."
+          ],
+          "MOUNT": [
+            "Натисніть %KEY%, щоб встановити цей пристрій"
+          ],
+          "BUY": [
+            "Ти можеш купити цей пристрій."
+          ]
+        }
+      },
+      "QUESTS": [
+        "Нові місії з'являються дома виконаних."
+      ],
+      "garageTips": {
+        "MAIN_SCREEN": [
+          "Gear Score відбиває потужність озброєння, встановленого на вашому танку."
+        ],
+        "WEAPON": [
+          "Натисніть %KEY%, щоб встановити цю гармату",
+          "Кожна гармата має свої унікальні особливості, які роблять її найбільш підходящою в різних ситуаціях."
+        ],
+        "ARMOR": [
+          "Натисніть %KEY%, щоб встановити цей корпус",
+          "Кожен корпус має свою швидкість і рівень броні, а також унікальний овердрайв."
+        ],
+        "DRONE": [
+          "Натисніть %KEY%, щоб встановити цей дрон",
+          "Дрони дозволяють значно посилювати ефект від запасів у бою."
+        ],
+        "RESISTANCE": [
+          "Натисніть %KEY%, щоб встановити цей модуль захисту",
+          "Використовуй захисні модулі, щоб краще протистояти найбільш небезпечним супротивникам"
+        ],
+        "PAINT": [
+          "Натисніть %KEY%, щоб встановити цю фарбу"
+        ],
+        "INVENTORY": [
+          "Припаси дають твоєму танку тимчасові переваги у бою"
+        ]
+      }
+    },
+    "exitDialog": {
+      "TITLE": "Вихід із гри",
+      "LABEL": "Вийти із гри?",
+      "EXIT_BUTTON": "Вийти"
+    },
+    "tutorial": {
+      "NEXT": "Далі",
+      "BACK": "Назад",
+      "CLOSE": "Закрити",
+      "HEADER": "Підказка"
+    },
+    "repatriation": {
+      "TITLE": "З поверненням, танкіст!",
+      "TEXT": "Для твого тріумфального повернення ми приготували особливі подарунки. Вони вже чекають на тебе в гаражі.",
+      "BUTTON": "Забрати нагороди"
+    },
+    "breakSearchMatchmakingBattle": {
+      "TITLE": "Ви вже шукаєте битву",
+      "INFO_LABEL_1": "Для вибору режиму битви ви повинні залишити чергу пошуку битви",
+      "INFO_LABEL_2": "Припинити пошуки битви?",
+      "BREAK_BUTTON": "Так"
+    },
+    "news": {
+      "NEWS_TITLE": "НОВИНИ"
+    },
+    "userContextMenu": {
+      "COPY_NAME": "Копіювати ім'я",
+      "ADD_TO_FRIENDS": "Додати у друзі",
+      "ACCEPT_TO_FRIENDS": "Прийняти заявку",
+      "PROFILE": "Профіль",
+      "PRIVATE_CHAT_MESSAGE": "Особисте повідомлення",
+      "INVITE_TO_CLAN": "Запросити в клан",
+      "CLAN_PROFILE": "Профіль клану",
+      "VOTE_FOR_USER": "Поскаржитись на гру",
+      "SPEC_FOLLOW_USER": "Стежити за гравцем",
+      "MODERATOR_OPEN_MT": "Карма гравця (MT)",
+      "MODERATOR_SELECT": "ПОМІТИТИ для блокування",
+      "MODERATOR_UNSELECT": "Зняти позначку блокування",
+      "IGNORE_USER_MESSAGES": "Приховати повідомлення",
+      "SHOW_USER_MESSAGES": "Показати повідомлення",
+      "MODERATOR_MM_KICK": "",
+      "MODERATOR_MM_KICK_CONFIRM": "",
+      "SEND_REPORT": "Поскаржитись на повідомлення (%0)"
+    },
+    "announcement": {
+      "BREADCRUMB_LABEL": "ОГОЛОШЕННЯ",
+      "ANNOUNCEMENT_LABEL": "ОГОЛОШЕННЯ",
+      "PLAY_BUTTON_LABEL": "ГРАТИ",
+      "VIEW_BUTTON_LABEL": "ПЕРЕГЛЯД",
+      "BUY_BUTTON_LABEL": "КУПИТИ"
+    },
+    "desktopNeedToUpdateDialog": {
+      "TITLE": "Увага!",
+      "TEXT": "Твій клієнт гри застарів і скоро перестане підтримуватись. Перейди за посиланням та встанови новий клієнт для продовження стабільної роботи гри.",
+      "BUTTON": "Завантажити новий клієнт"
+    },
+    "keys": {
+      "KEY_SHOP": "ключ",
+      "KEYS_SHOP": "ключів"
+    }
+  },
+  "entrance": {
+    "register": {
+      "TITLE": "РЕЄСТРАЦІЯ",
+      "UID_FIELD_TITLE": "Ім'я",
+      "PASSWORD_FIELD_TITLE": "Пароль",
+      "EULA_CHECKBOX_TITLE": "Я приймаю умови",
+      "LOGIN_BUTTON_TITLE": "Увійти",
+      "REPEAT_PASSWORD_FIELD_TITLE": "повторіть пароль",
+      "REGISTER_BUTTON_TITLE": "Реєстрація",
+      "UID_FIELD_PLACEHOLDER": "ім'я",
+      "ALREADY_REGISTERED_TITLE": "Вже зареєстровані?",
+      "ERROR_UID_BUSY": "Введене ім'я зайняте",
+      "ERROR_UID_INCORRECT": "Ім'я містить неприпустимі символи",
+      "ERROR_PASSWORD_FORMAT": "Неприпустимий формат пароля",
+      "ERROR_UNKNOWN": "Невідома помилка під час реєстрації",
+      "ERROR_PASSWORD_DOESNT_MATCH": "Паролі не збігаються",
+      "EULA_LINK": "Ліцензійна угода",
+      "RULES_LINK": "Правила гри",
+      "PRIVACY_LINK": "Політика конфіденційності та cookies",
+      "IMPRINT_LINK": "",
+      "INFORMATION_ABOUT_THE_COMPANY": "© ТОВ «Альтернатива Гейм» 2010-0.",
+      "EULA_URL": "https://tankionline.com/ru/eula/",
+      "RULES_URL": "https://tankionline.com/ru/rules/",
+      "PRIVACY_URL": "https://tankionline.com/ru/privacy/",
+      "GAME_URL": "https://tankionline.com/ru/",
+      "OVERDRIVES_URL": "https://tankionline.com/pages/overdrives/?lang=ru",
+      "TOURNAMENTS_URL": "https://tankisport.com/lang/ru",
+      "FORUM_URL": "https://ru.tankiforum.com/",
+      "WIKI_URL": "https://ru.tankiwiki.com/",
+      "RATING_URL": "https://ratings.tankionline.com/ru/",
+      "HELP_URL": "https://help.tankionline.com/ru/",
+      "SHORT_NAME": "Ім'я надто коротке",
+      "LICENSE_TEXT": "Будь ласка, ознайомтесь з нашим %LINK% та %LINK%. Збір та використання вашої інформації буде здійснюватися відповідно до цієї Політики конфіденційності. Отримуючи доступ до ігрових ресурсів або використовуючи їх, ви також погоджуєтесь з умовами Ліцензійної угоди.",
+      "EULA_LINK_IN_TEXT": "Ліцензійною угодою",
+      "PRIVACY_LINK_IN_TEXT": "Політикою конфіденційності",
+      "ACCEPT": "Прийняти"
+    },
+    "login": {
+      "TITLE": "Увійти",
+      "ENTER_WITH_SOCIAL": "Увійти в гру через сервіс",
+      "ENTER_WITH_FACEBOOK": "Увійти через Facebook",
+      "ENTER_WITH_GOOGLE": "Увійти через Google",
+      "ENTER_WITH_VKONTAKTE": "Увійти через ВКонтакте",
+      "PLAY": "Грати",
+      "REMEMBER_FIELD_TITLE": "Запам'ятати мене",
+      "PASSWORD_FIELD_TITLE": "Пароль",
+      "PASSWORD_FORGET_LINK_TITLE": "Забули ім'я чи пароль?",
+      "UID_OR_EMAIL_FIELD_TITLE": "Ім'я або email",
+      "NEW_PLAYER": "Новий гравець",
+      "ERROR_INCORRECT_PASSWORD": "*Невірний пароль або email",
+      "ERROR_EMPTY_LOGIN": "*Введіть ім'я або email",
+      "UID_OR_EMAIL_FIELD_PLACEHOLDER": "Ім'я або email",
+      "CAPTCHA_INCORRECT": "Контрольні символи введені неправильно",
+      "FORM_TITLE": "Вхід",
+      "UID_FIELD_PLACEHOLDER": "Логін",
+      "AUTHORIZATION_RESET_FOR_2FA_TITLE": "Безпека",
+      "AUTHORIZATION_RESET_FOR_2FA_MESSAGE": "З метою безпеки просимо вас повторно авторизуватись"
+    },
+    "restore": {
+      "TITLE": "відновлення пароля",
+      "TEXT": "E-mail облікового запису",
+      "CANCEL": "скасування",
+      "RESTORE_BUTTON_TITLE": "відновити",
+      "HAVE_QUESTIONS": "Чи є питання?",
+      "INFORMATION": "Інформація",
+      "EMAIL_NOT_REGISTERED": "email не зареєстрований",
+      "EMAIL_WITH_RESTORE_LINK_SUCCESSFULLY_SENT": "лист з посиланням на відновлення надіслано",
+      "EMAIL_NOT_VALID": "некоректний email"
+    },
+    "change_email_and_password": {
+      "RECOVERY_HASH_IS_WRONG": "Посилання для зміни пароля неправильне. Повторіть спробу.",
+      "PASSWORD_FIELD_TITLE": "пароль",
+      "REPEAT_PASSWORD_FIELD_TITLE": "повторіть пароль",
+      "EMAIL_FIELD_TITLE": "емайл",
+      "PASSWORD_SIMPLE": "занадто простий пароль",
+      "PASSWORD_NOT_EQUALS": "паролі не збігаються",
+      "CHANGE_BUTTON": "змінити",
+      "WARNING_ATTENTION": "Увага!"
+    },
+    "email_confirm": {
+      "EMAIL_CONFIRMED": "email підтверджений",
+      "EMAIL_CONFIRM_ERROR": "помилка під час підтвердження email"
+    },
+    "invite": {
+      "INVITE_TITLE": "ЗАПРОШЕННЯ",
+      "INVITE_FIELD_TITLE": "запросити",
+      "ALREADY_ACTIVATED": "вже активовано",
+      "NOT_FOUND": "не знайдено",
+      "NEXT": "далі"
+    },
+    "header": {
+      "SITE": "Гра",
+      "OVERDRIVES": "Овердрайви",
+      "TOURNAMENTS": "Турніри",
+      "FORUM": "Форум",
+      "WIKI": "Вікі",
+      "RATING": "Рейтинги",
+      "HELP": "Допомога"
+    },
+    "AGE_WARN_TITLE": "",
+    "AGE_WARN_MESSAGE": [],
+    "login_2fa": {
+      "TITLE": "Код безпеки",
+      "SUPPORT": "Не можу увійти",
+      "CODE_FIELD_TITLE": "Введіть 6-значний код із телефону",
+      "ERROR_INCORRECT_CODE": "Неправильний код. Спробуйте запровадити наступний.",
+      "FIELD_PLACEHOLDER": "6-значний код"
+    },
+    "change_uid": {
+      "EXPLANATION_TEXT": "Через довгу відсутність ваше ім'я було змінено, але ви можете вибрати інше.",
+      "CHANGE_UID_TITLE": "Зміна імені",
+      "SAVE_BUTTON": "зберегти",
+      "LINK_ERROR": "Посилання некоректне або застаріло.",
+      "WARNING_ATTENTION": "Увага!"
+    },
+    "entrance_screen": {
+      "PRESS_ANY_BUTTON_TEXT": "Натисніть будь-яку кнопку, щоб почати",
+      "AUTHORIZATION_TYPE_TITLE": "Авторизуйся через",
+      "GAME_ACCOUNT": "Ігровий акаунт",
+      "BACK": "тому",
+      "AUTHORIZATION": "Авторизація",
+      "SUPPORT": "Підтримка",
+      "QUESTIONS": "Виникли питання?",
+      "NEW_ACCOUNT": "Новий акаунт"
+    },
+    "tank_builder": {
+      "BUILD_TANK_TITLE": "Збери свій танк",
+      "BUILD_TANK_COMPLETE_TITLE": "До бою готовий",
+      "HULL": "Корпус",
+      "WEAPON": "Гармата",
+      "PAINT": "Фарба",
+      "BUTTON_START": "Почати",
+      "BUTTON_CONTINUE": "Продовжити",
+      "BUTTON_COMPLETE": "У бій",
+      "HULL_SPECIALTY_NAME": "ОВЕРДРАЙВ",
+      "WEAPON_SPECIALTY_NAME": "Особливість гармати",
+      "ARMOR_ICON_LEGEND": "Броня",
+      "SPEED_ICON_LEGEND": "Швидкість",
+      "HANDLING_ICON_LEGEND": "Швидкість повороту",
+      "MASS_ICON_LEGEND": "Маса",
+      "SIZE_ICON_LEGEND": "Розмір",
+      "DAMAGE_ICON_LEGEND": "Втрата",
+      "DPS_ICON_LEGEND": "Втрата в секунду",
+      "FIRE_RATE_ICON_LEGEND": "Швидкострільність",
+      "RANGE_ICON_LEGEND": "Дальність",
+      "COMPLEXITY_ICON_LEGEND": "Складність"
+    }
+  },
+  "partner": {
+    "LINKING": "ПРИВ'ЯЗКА",
+    "ENVIRONMENT_PARAMETERS_ERROR": "Ви намагаєтеся виконати вхід у гру, використовуючи неправильні параметри.",
+    "USERNAME_ALREADY_LINKED_ERROR": "Ім'я, яке ви запровадили, вже прив'язане до іншого профілю цієї партнерської мережі."
+  },
+  "dateTime": {
+    "DAY": "д",
+    "HOUR": "г",
+    "MINUTE": "х",
+    "SECOND": "с"
+  },
+  "battle_finish": {
+    "DEFEAT": "УРАЖЕННЯ",
+    "DRAW": "НІЧЯ",
+    "WIN": "ПЕРЕМОГА"
+  },
+  "battle_result": {
+    "DEFEAT": "УРАЖЕННЯ",
+    "DRAW": "НІЧЯ",
+    "WIN": "ПЕРЕМОГА!",
+    "RESULTS": "РЕЗУЛЬТАТИ",
+    "DM_PLACE": "#%0 місце",
+    "QUESTS_WINDOW": "Місії",
+    "REWARDS_WINDOW": "нагорода",
+    "DETAILS_WINDOW": "подробиці",
+    "KILLBOARD_WINDOW": "Статистика",
+    "LEAVE_BUTTON": "вийти",
+    "NEXT_BUTTON": "далі",
+    "NEXT_BATTLE_BUTTON": "далі",
+    "NEXT_BATTLE_WITH_COUNTDOWN_BUTTON": "далі (%0)",
+    "TANK_PREVIEW_GS": "Геар Ссоре",
+    "missions": {
+      "LIST_IS_EMPTY_HEADER": "Нічого не змінилося",
+      "LIST_IS_EMPTY_TEXT": "За минулий бій немає жодної оновленої місії"
+    },
+    "rewards": {
+      "WITH_OUT_PREMIUM": "Без преміуму",
+      "WITH_PREMIUM": "З преміумом",
+      "EXP": "досвіду",
+      "TOTAL_EXP": "всього досвіду",
+      "KILLS_EXP": "Знищення",
+      "KILLS_ASSISTS_EXP": "Підтримка",
+      "HEAL_EXP": "Лікування",
+      "FLAG_DELIVERY_EXP": "Доставлено прапори",
+      "FLAG_DELIVERY_ASSIST_EXP": "Допомога у доставці прапора",
+      "FLAG_RETURN_EXP": "Повернуто прапори",
+      "POINT_CAPTURE_EXP": "Захоплено крапок",
+      "POINT_CAPTURE_ASSIST_EXP": "Допомога у захопленні точок",
+      "POINT_RELEASE_EXP": "Звільнено крапок",
+      "BALL_DELIVERY_EXP": "Забито голів",
+      "BALL_DELIVERY_ASSIST_EXP": "Допомога у доставці м'яча",
+      "CRYSTALS": "кристали",
+      "STARS": "зірки",
+      "BOSS_KILLS_EXP": "Боса було знищено",
+      "BOSS_KILLS_ASSISTS_EXP": "Допомога у знищенні боса",
+      "BUY_PREMIUM": "Купити преміум"
+    },
+    "table_columns": {
+      "NICKNAME": "ім'я",
+      "GS": "ГС",
+      "SCORE": "рахунок",
+      "D": "У",
+      "L": "П",
+      "D_L": "У/П",
+      "LEVEL": "Ур.",
+      "CRYSTALS": "Кристали",
+      "STARS": "Зірки"
+    },
+    "battle_details": {
+      "TANKS_DESTROYED": "Знищено танків",
+      "ARMOR_RESTORED": "Відновлено броню",
+      "DAMAGE_DEALED": "Завдано шкоди",
+      "SUPPLIES_USED": "Використано запасів",
+      "FLAGS_RETURNED": "Повернуто прапори",
+      "GOLD_CAUGTH": "Спіймано золотих ящиків",
+      "FLAGS_DELIVERED": "Доставлено прапори"
+    }
+  },
+  "rankup": {
+    "PROMOTION": "Нове звання",
+    "CONGRATULATIONS": "Вітаємо",
+    "PROMOTED": "Ви отримали звання %rank!",
+    "NEW_ITEMS": "Відкрито нові предмети",
+    "NEW": "НОВИЙ",
+    "REWARDS": "Нагорода"
+  },
+  "battle": {
+    "hud": {
+      "DM_SHORT_NAME": "DM",
+      "TDM_SHORT_NAME": "TDM",
+      "CTF_SHORT_NAME": "CTF",
+      "CP_SHORT_NAME": "CP",
+      "AS_SHORT_NAME": "ASL",
+      "RUGBY_SHORT_NAME": "RGB",
+      "JGR_SHORT_NAME": "SJR",
+      "TJR_SHORT_NAME": "TJR",
+      "SGE_SHORT_NAME": "SGE",
+      "AR_SHORT_NAME": "AR",
+      "TAR_SHORT_NAME": "TAR",
+      "FPS_LABEL": "FPS",
+      "PING_LABEL": "Ping",
+      "FUND_LABEL": "Фонд",
+      "PAUSE_ALERT": "Пауза закінчується. Повернутись у бій?",
+      "battle_message": {
+        "BLUE_TEAM_NAME": "Наша команда",
+        "RED_TEAM_NAME": "Ворожа команда",
+        "UNKNOWN_TEAM_NAME": "",
+        "CTF_DELIVERED_FLAG": "%0 доставив прапор",
+        "CTF_TAKEN_FLAG": "%0 взяв прапор",
+        "RUGBY_FACE_OFF": "М'яч у грі",
+        "RUGBY_TAKE_BALL": "%0 взяв м'яч",
+        "RUGBY_GOAL_BLUE": "%0 забила гол!",
+        "RUGBY_GOAL_RED": "%0 забила гол!",
+        "DOM_BLUE_CAPTURED_POINT": "Ми захопили крапку %0",
+        "DOM_RED_CAPTURED_POINT": "Вороги захопили крапку %0",
+        "SGE_BLUE_CAPTURED_POINT": "Ми захопили крапку %0",
+        "SGE_RED_CAPTURED_POINT": "Вороги захопили крапку %0",
+        "SGE_POINT_ACTIVATED": "Атакуй нову точку %0",
+        "JGR_NEW_BOSS": "%0 став Джаггернаутом",
+        "JGR_BOSS_KILLED": "%0 знищено",
+        "JGR_YOU_ARE_THE_BOSS": "Ти наступний Джаггернаут, приготуйся!",
+        "TJR_NEW_RED_BOSS": "Ворожий Джаггернаут вступив у бій",
+        "TJR_NEW_BLUE_BOSS": "Наш Джаггернаут вступив у бій",
+        "TJR_RED_BOSS_KILLED": "Ворожий Джаггернаут знищено",
+        "TJR_BLUE_BOSS_KILLED": "Наш Джаггернаут знищено",
+        "ASSAULT_DELIVER_FLAG": "%0 доставив прапор",
+        "ASSAULT_PICK_FLAG": "%0 взяв прапор"
+      },
+      "battle_chat": {
+        "INPUT_DIRECT_SWITCH_KEY": "ТАБ",
+        "INPUT_TO_ALL_MARKER": "Надіслати всім:",
+        "INPUT_TO_TEAM_MARKER": "Надіслати команді:"
+      },
+      "statistic_table": {
+        "NICKNAME": "Ім'я",
+        "GS": "ГС",
+        "DEFENCE": "Броня %",
+        "DEVICE": "Устр",
+        "SCORE": "Рахунок",
+        "D_L": "У/П",
+        "LEVEL": "Рівень"
+      },
+      "battle_menu": {
+        "TITLE": "меню паузи",
+        "REMAINING_TIME_LABEL": "Твій танк уже чекає на тебе",
+        "GARAGE_MENU_ITEM": "гараж",
+        "OPTIONS_MENU_ITEM": "налаштування",
+        "QUESTS_MENU_ITEM": "місії",
+        "FRIENDS_MENU_ITEM": "Запросити друга",
+        "BACK_MENU_ITEM": "Повернутись у гру",
+        "LEAVE_MENU_ITEM": "покинути битву",
+        "MODERATION_BLOCK_MENU_ITEM": "меню kick/ban",
+        "MODERATION_BATTLE_INFO_MENU_ITEM": "інформація про битву",
+        "MODERATION_DONE_MENU_ITEM": "завершити модерацію",
+        "MODERATOR_MM_FINISH": "",
+        "MODERATOR_MM_FINISH_CONFIRM": "",
+        "RELOAD_CLIENT_MENU_ITEM": "Перезавантажити клієнт",
+        "SHOW_CONTROL_HELP": "Підказки з управління"
+      },
+      "block_panel": {
+        "TITLE": "Блок гравця(ів)",
+        "PLAYERS": "Гравці",
+        "NO_USERS_SELECTED": "(гравці не вибрані)",
+        "UNSELECT": "Видалити",
+        "ADD_USER": "+ Додати",
+        "BLOCK": "БЛОКУВАТИ",
+        "CANCEL": "Скасування",
+        "DO_ADD_USER": "Додати",
+        "BLOCK_REASON": "Причина",
+        "BLOCK_DURATION": "Термін",
+        "BLOCK_ADDITIONAL_INFO": "Дод. інформація",
+        "BLOCK_BATTLE": "Заблокувати битву",
+        "DURATION_FIVE_MINUTE": "5 хвилин",
+        "DURATION_HOUR": "1 година",
+        "DURATION_DAY": "1 день",
+        "DURATION_WEEK": "1 тиждень",
+        "DURATION_MONTH": "1 місяць",
+        "DURATION_FOREVER": "НАЗАВЖДИ",
+        "REASON_POWER_LEVELING": "Бій між обліковими записами одного гравця",
+        "REASON_BUGS_USAGE": "Використання програмної помилки",
+        "REASON_HACKING": "Спроба злому (Читерство)",
+        "REASON_SABOTAGE_BY_IMPEDE_OWN_TEAM": "Саботаж",
+        "REASON_SABOTAGE_BY_FAKE_PLAYERS": "Змова",
+        "REASON_ANOTHER": "Інша"
+      },
+      "battle_info": {
+        "TITLE": "Інформація про битву",
+        "BATTLE": "Битва",
+        "BATTLE_MODE": "Режим",
+        "CUSTOM_BATTLE_NAME": "Назва битви",
+        "BATTLE_CREATOR": "Творець",
+        "MAP_NAME": "Карта",
+        "SERVER": "Сервер",
+        "SUSPECTS": "Підозрювані",
+        "NO_SUSPECTS": "(ні)",
+        "PLAYERS": "Гравці",
+        "EARLIER_PLAYERS": "Гравці (колишні сесії)",
+        "K_D": "У/П",
+        "VOTE": "Скарга"
+      },
+      "auto_pause": {
+        "TITLE": "Автопауза",
+        "REMAINING_TIME_LABEL": "Автовихід із битви через"
+      },
+      "suicide": {
+        "TITLE": "самознищення",
+        "REMAINING_TIME_LABEL": "Самознищення через"
+      },
+      "control_help": {
+        "TITLE": "Управління",
+        "CAMERA_ROTATION": "Обертання камери",
+        "MOVEMENTS": "Рух",
+        "SHOT": "Постріл",
+        "SELF_DESTRUCTION": "Самознищення",
+        "OVERDRIVE": "Овердрайв",
+        "OPEN_HELP": "Відкрити/закрити вікно",
+        "CLOSE_BUTTON": "Закрити",
+        "THROW_GRENADE": "Кинути гранату",
+        "TAB_STATISTICS": "Статистика битви",
+        "CAMERA_MOUSE_CONTROL": "Опустити/підняти камеру",
+        "SUPPLIES": "Припаси",
+        "CAMERA_KEYBOARD_CONTROL": "Опустити/підняти камеру"
+      }
+    },
+    "tutorial": {
+      "desktop": {
+        "CHASSIS_CONTROL": "Використовуйте кнопки руху,\nщоб рухатися до точки",
+        "CAMERA_CONTROL": "Обертай камеру,\nщоб навестися на ціль",
+        "SHOOTING": "Використовуй кнопку стрільби,\nщоб знищити мету",
+        "BONUS": "Підбери ремкомплект,\nщоб відновити здоров'я",
+        "BATTLE": "Знищи трьох супротивників,\nщоб перемогти!"
+      },
+      "mobile": {
+        "CHASSIS_CONTROL": "Використовуй джойстик,\nщоб рухатися до точки",
+        "CAMERA_CONTROL": "Обертай камеру,\nщоб навестися на ціль",
+        "SHOOTING": "Наведися на ціль. Вогонь буде\nвестись автоматично.",
+        "BONUS": "Підбери ремкоплект,\nщоб відновити здоров'я",
+        "BATTLE": "Знищи трьох супротивників,\nщоб перемогти!"
+      }
+    }
+  },
+  "shop": {
+    "items": {
+      "GOLD_BOX_ONE": "скринька",
+      "GOLD_BOX_MANY": "ящиків",
+      "ONE_STAR_SHOP_LABEL": "зірка",
+      "MANY_STARS_SHOP_LABEL": "зірок"
+    },
+    "choose_country": {
+      "YOUR_LOCATION": "Ваше місце розташування",
+      "CHOOSE_RIGHT_COUNTRY": "Якщо ви перебуваєте в іншій країні, будь ласка, виберіть її вручну і натисніть кнопку ОК.",
+      "SELECT_COUNTRY_TITLE": "Виберіть свою країну",
+      "OK": "ОК"
+    },
+    "menu": {
+      "OFFERS": "ПРОПОЗИЦІЇ",
+      "CONTAINERS": "КОНТЕЙНЕРИ",
+      "PREMIUM": "ПРЕМІУМ",
+      "GOLD_BOXES": "ЗОЛОТІ ЯЩИКИ",
+      "KITS": "КОМПЛЕКТИ",
+      "PROMO_CODES": "ПРОМОКОДИ"
+    },
+    "breadcrumb": {
+      "TITLE": "Магазин"
+    },
+    "footer": {
+      "EXCLAMATION": "Якщо ваш платіж не дійшов або виникла проблема — повідомте нам про це",
+      "REPORT": "ПОВІДОМИТИ"
+    },
+    "payment": {
+      "LOADING_PAGE": "Завантажується сторінка оплати...",
+      "PAGE_LOADED": "Успішно завантажено",
+      "PAGE_NOT_LOADED": "Помилка",
+      "SMS_SENDING": "Надсилання СМС для підтвердження платежу",
+      "CHOOSE_PREFERRED_METHOD": "Будь ласка, виберіть найбільш зручний для вас спосіб оплати",
+      "PAYMENT_METHOD": "Спосіб оплати",
+      "YOUR_CHOICE": "Ваш вибір",
+      "PRICE": "Ціна:"
+    },
+    "asiasoft": {
+      "CHECKING_BALANCE": "Перевірка балансу...",
+      "YOUR_BALANCE": "У вас є %1 ATC"
+    },
+    "indemnity": {
+      "ONE_TIME_PURCHASE": "Ви збираєтеся купити пакет, який можна купити лише один раз. При повторній купівлі цього пакета замість предметів у пакеті вам буде нараховано компенсацію в танкоїнах.",
+      "COMPENSATION": "Для цього пакета компенсація становитиме:",
+      "SPECIAL_CONDITIONS": "Особливі умови",
+      "AGREEMENT": "Я підтверджую свою згоду на компенсацію у вигляді танкоїнів при повторному придбанні цього пакету."
+    },
+    "promocode": {
+      "HEADER": "Промо",
+      "INCORRECT_OR_EXPIRED": "Введений код неправильний або вже був використаний.",
+      "CATEGORY_HEADER": "Промокоди",
+      "CATEGORY_DESCRIPTION": "Промокоди дозволяють отримувати кристали, дні преміум-підписки, золоті ящики, фарби та деякі предмети з Гаража. Бонусні предмети будуть негайно зараховані на поточний обліковий запис.\n\nОтримати промокод можна під час спеціальних акцій."
+    },
+    "purchase_successful": {
+      "TITLE": "Купівля зроблена успішно",
+      "PROVIDE_EMAIL": "Танкіст! Вкажіть адресу електронної пошти\nдля отримання платіжних чеків.",
+      "EMAIL": "Ваш email"
+    },
+    "special": {
+      "TITLE": "Спеціальні пропозиції",
+      "DESCRIPTION": "Тут ви можете знайти спеціальні чи тимчасові пропозиції товарів."
+    },
+    "other": {
+      "TITLE": "Інші пропозиції",
+      "DESCRIPTION": "Тут ви можете знайти спеціальні чи тимчасові пропозиції товарів за вигідною ціною."
+    },
+    "not_enough_coins": {
+      "TITLE": "не вистачає танкоїнів",
+      "CONTENT": "У вас не вистачає танкоїнів (%COINS%)"
+    },
+    "not_enough_rubies": {
+      "TITLE": "Бракує рубінів",
+      "CONTENT": "У вас не вистачає рубінів (%RUBIES%)",
+      "GET_RUBIES": "Отримати рубіни"
+    },
+    "coins_purchase": {
+      "HEADER": "Підтвердження покупки",
+      "CONTENT": "Натискаючи кнопку, ви підтверджуєте покупку за танкоїни",
+      "COIN_BONUS": "Бонусні Танкоїни при першій покупці кожного пакету!"
+    },
+    "rubies_purchase": {
+      "CONTENT": "Натискаючи на кнопку «%button», ви підтверджуєте покупку за рубіни"
+    },
+    "crystals_purchase": {
+      "HEADER": "Підтвердження покупки",
+      "CONTENT": "Натискаючи на кнопку «%button», ви підтверджуєте покупку за кристали"
+    },
+    "purchase": {
+      "NOT_ENOUGH_COINS": "Не достатньо танкоїнів для здійснення покупки",
+      "NOT_ENOUGH_CRYSTALS": "Недостатньо кристалів для здійснення покупки",
+      "NOT_ENOUGH_SHARDS": "",
+      "NOT_ENOUGH_RUBIES": "Недостатньо рубінів для здійснення покупки",
+      "FAILED": "Сталася помилка під час покупки. Будь ласка, спробуйте знову",
+      "PAYMENT_ERROR": ""
+    },
+    "coins_instructions": {
+      "WARNING_CONTENT_NOT_RETURNING": "Відповідно до пункту 10.3 Ліцензійної угоди: всі платежі, здійснені Ліцензіатом, є остаточними та поверненню не підлягають.",
+      "PURCHASE_INSTRUCTION": "<a href=\"https://tankionline.com/ru/crystals/\" target=\"_blank\"><font color='#59ff32'><u>Платіжна інструкція</u></font></a>",
+      "EULA_LINK": "<a href=\"https://tankionline.com/ru/eula/\" target=\"_blank\"><font color='#59ff32'><u>Ліцензійна угода</u></font></a>",
+      "PRIVACY_AND_COOKIES_POLICY_LINK": "<a href=\"https://tankionline.com/ru/privacy/\" target=\"_blank\"><font color='#59ff32'><u>Політика конфіденційності та cookies</u></font></a>"
+    },
+    "shop_card": {
+      "EXPIRED": "Сплив",
+      "EXPIRED_TOOLTIP": "Пропозиція недійсна.\nВимоги для здійснення покупки було змінено.",
+      "SOLD": "Продано",
+      "SOLD_TOOLTIP": "Пропозиція недоступна.\nВи вже придбали цю пропозицію."
+    },
+    "showcase": {
+      "TITLE": "ВІТРІНА",
+      "DESCRIPTION": "Тимчасова пропозиція з особливими предметами.",
+      "LIMITED_OFFER_TITLE": "ОБМЕЖЕНІ ПРОПОЗИЦІЇ",
+      "LIMITED_OFFER_DESCRIPTION": "Тут ви можете придбати унікальні пропозиції зі знижками.\nВітрина оновлюється кожні 24 години.",
+      "RELOAD": "ОБНОВИТИ"
+    },
+    "real_money_purchase": {
+      "CONTENT": "Натискаючи кнопку, ви переходите до покупки за реальні гроші"
+    },
+    "COUNTRY_CODE": "Код країни",
+    "PHONE_NUMBER": "Номер телефону",
+    "BACK": "Назад",
+    "BUTTON_BUY_FOR_REAL_MONEY": "Купити за реальні гроші",
+    "NEXT_BUY_COIN": "Підтвердити",
+    "NEXT_BUY_CRYSTALS": "Підтвердити",
+    "NO_DISCOUNTS": "Знижки відсутні",
+    "BUNDLE": "Спеціальна пропозиція",
+    "SEND": "Надіслати",
+    "CANCEL": "Скасування",
+    "CONFIRM": "Підтвердити",
+    "CLOSE": "Закрити",
+    "BUY": "Придбати",
+    "TOTAL": "Разом",
+    "FREE": "Безкоштовно",
+    "VERIFICATION_CODE": "Код підтвердження",
+    "WARNING_ABOUT_SPENDING_CRYSTALS": "Натискаючи на іконку із внутрішньоігровою цінністю, ви підтверджуєте списання кристалів за покупку",
+    "YOU_HAVE_PURCHASED": "Ви придбали:",
+    "YOU_ARE_GOING_TO_PURCHASE": "Ви збираєтеся придбати",
+    "THE_PASS_LASTS_FOR_DAYS": "Передплата діє 30 днів",
+    "PURCHASE_FOR": "Купити за",
+    "CHOOSE_PAYMENT_METHOD": "Виберіть способи оплати",
+    "google_play": {
+      "PAYMENT_IN_PROGRESS": "Запущено процес оплати...",
+      "PAYMENT_SUCCESS": "Купівля зроблена успішно",
+      "PAYMENT_FAIL": "Купівля не була завершена"
+    },
+    "ACTIVE_PAYMENT_PROCESS_MESSAGE": ""
+  },
+  "prompt_information": {
+    "PROMPT_INFORMATION_TEXT": ""
+  }
+}
