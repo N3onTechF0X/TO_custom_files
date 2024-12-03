@@ -1280,17 +1280,17 @@
         "ACCEPT_TO_FRIENDS": "Прийняти заявку"
       },
       "battleMode": {
-        "DM_SHORT_NAME": "ДМ",
-        "TDM_SHORT_NAME": "ТДМ",
-        "CTF_SHORT_NAME": "СТФ",
-        "CP_SHORT_NAME": "СП",
-        "AS_SHORT_NAME": "АСЛ",
-        "RUGBY_SHORT_NAME": "РДБ",
-        "JGR_SHORT_NAME": "СЗР",
-        "TJR_SHORT_NAME": "ТЗР",
-        "SGE_SHORT_NAME": "СДЕ",
-        "AR_SHORT_NAME": "АР",
-        "TAR_SHORT_NAME": "ТАР"
+        "DM_SHORT_NAME": "DM",
+        "TDM_SHORT_NAME": "TDM",
+        "CTF_SHORT_NAME": "CTF",
+        "CP_SHORT_NAME": "CP",
+        "AS_SHORT_NAME": "ASL",
+        "RUGBY_SHORT_NAME": "RGB",
+        "JGR_SHORT_NAME": "JGR",
+        "TJR_SHORT_NAME": "TJR",
+        "SGE_SHORT_NAME": "SGE",
+        "AR_SHORT_NAME": "AR",
+        "TAR_SHORT_NAME": "TAR"
       }
     },
     "user": {
@@ -1763,12 +1763,12 @@
     "SECOND": "с"
   },
   "battle_finish": {
-    "DEFEAT": "УРАЖЕННЯ",
+    "DEFEAT": "ПОРАЗКА",
     "DRAW": "НІЧЯ",
     "WIN": "ПЕРЕМОГА"
   },
   "battle_result": {
-    "DEFEAT": "УРАЖЕННЯ",
+    "DEFEAT": "ПОРАЗКА",
     "DRAW": "НІЧЯ",
     "WIN": "ПЕРЕМОГА!",
     "RESULTS": "РЕЗУЛЬТАТИ",
