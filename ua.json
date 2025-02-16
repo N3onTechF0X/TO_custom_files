@@ -12,6 +12,7 @@
       "LABEL_MINUTE": "хв",
       "LABEL_SECOND": "c"
     },
+
     "error": {
       "TITLE": "Збій",
       "LINK_NAME": "Рішення",
@@ -20,7 +21,15 @@
       "ERROR_LOADING_RESOURCE_MESSAGE": "Неможливо завантажити ресурси",
       "ERROR_DISCONNECT_MESSAGE": "Втрачено з'єднання з сервером",
       "ERROR_LOADING_RESOURCE_LINK": "https://ru.tankiwiki.com/Razryv_soedineniya_s_serverom",
-      "ERROR_DISCONNECT_LINK": "https://ru.tankiwiki.com/Razryv_soedineniya_s_serverom"
+      "ERROR_DISCONNECT_LINK": "https://ru.tankiwiki.com/Razryv_soedineniya_s_serverom",
+      "CONNECTING_EXCEPTION": "Втрачено з'єднання із сервером. Будь ласка, перевірте підключення до інтернету.",
+      "SERVER_TOKEN_CHECK_FAILED_EXCEPTION": "Сталася помилка авторизації. Спробувати увійти пізніше.",
+      "RESOURCES_LOAD_EXCEPTION": "Помилка під час завантаження ресурсів, будь ласка, перевірте підключення до інтернету.",
+      "CONTROL_CHANNEL_DISCONNECT_EXCEPTION": "Втрачено з'єднання із сервером. Будь ласка, перевірте підключення до інтернету.",
+      "UPDATE_REQUIRED_EXCEPTION": "Ваша поточна версія гри застаріла. Будь ласка, оновіть програму.",
+      "MAINTENANCE_EXCEPTION": "Ми проводимо технічні роботи. Гра буде доступна найближчим часом. Дякую за очікування.",
+      "UNKNOWN_EXCEPTION": "Відбулася непередбачена помилка. Будь ласка, перезавантажте програму і спробуйте ще раз.",
+      "PRESS_ANY_KEY_TO_RESTART": "Натисніть будь-яку кнопку для перезапуску"
     },
     "message": {
       "TITLE": "Увага!",
@@ -280,7 +289,8 @@
         "FIGHT_FAILED_SERVER_IS_HALTING_MESSAGE": "На даний момент відбувається рестарт сервера.\nСтворення та підключення до битв тимчасово заблоковано.",
         "PARKOUR_WARNING_TITLE": "Особливий формат битви",
         "PARKOUR_WARNING_MESSAGE": "Увага! У цьому форматі для зняття обмежень на виконання паркурних трюків відключено захист від застосування програм для покращення ігрових можливостей, неможливо поскаржитися на порушників та не накопичується фонд битви.",
-        "PARKOUR_WARNING_ENTER_BUTTON": "Увійти"
+        "PARKOUR_WARNING_ENTER_BUTTON": "Увійти",
+        "EQUIPMENT_NOT_MATCH_CONSTRAINTS_MESSAGE_UNITY": ""
       },
       "GsWarning": {
         "TITLE": "Низький рівень покращень",
@@ -889,7 +899,8 @@
         "ISIS_DISCHARGE_SPEED_HEALING": "Витрата енергії в режимі лікування",
         "ENERGY_PER_SHOT": "Енергія на постріл",
         "MAX_RICOCHET_COUNT": "Максимальна кількість рикошетів",
-        "GAUSS_AIMING_MODE_DAMAGE": "Прицільне ушкодження"
+        "GAUSS_AIMING_MODE_DAMAGE": "Прицільне ушкодження",
+        "SHELL_MAX_RICOCHET_ANGLE": "Максимальний кут рикошету"
       },
       "PROTECTION_MODULE": "Модуль захисту",
       "SHOT_COLOR": "Колір пострілу",
@@ -979,6 +990,14 @@
         "UI_VOLUME": "Гучність інтерфейсу",
         "HITMARK_PLAYER_VOLUME": "Гучність звуків шкоди по власному танку",
         "HITMARK_ENEMY_VOLUME": "Гучність звуків шкоди противнику",
+        "MASTER_VOLUME_DESCRIPTION": "Дозволяє змінити загальну гучність",
+        "MUSIC_VOLUME_DESCRIPTION": "Дозволяє змінити гучність музики в лобі",
+        "AMBIENT_VOLUME_DESCRIPTION": "Дозволяє змінити фонові звуки у грі",
+        "SFX_VOLUME_DESCRIPTION": "Дозволяє змінити бойові (постріли, вибухи) звуки у грі",
+        "UI_VOLUME_DESCRIPTION": "Дозволяє змінити гучність інтерфейсу",
+        "HITMARK_PLAYER_VOLUME_DESCRIPTION": "Дозволяє змінити гучність ворожих пострілів, що потрапляють по своєму танку",
+        "HITMARK_ENEMY_VOLUME_DESCRIPTION": "Дозволяє змінити гучність своїх пострілів, що потрапляють по ворожому танку",
+        "LANGUAGE_DESCRIPTION": "Дозволяє змінити мову гри на одну з доступних",
         "BLUR_MUTE": "Вимикати звук, коли гра неактивна",
         "BLUR_MUTE_DESCRIPTION": "Заглушувати звук, коли вікно з грою знаходиться у фоні",
         "DISABLE_SHOWING_BATTLE_INVITES": "Вимкнути показ запрошень",
@@ -989,7 +1008,9 @@
         "BROWSER_NOTIFICATIONS_DISABLED": "Браузерні повідомлення заблоковані",
         "BROWSER_NOTIFICATIONS_ENABLE_IN_SETTINGS": "їх можна увімкнути у налаштуваннях браузера",
         "BROWSER_NOTIFICATIONS_DESCRIPTION": "Отримуй повідомлення від інших користувачів, коли гра неактивна",
-        "BROWSER_NOTIFICATIONS_BUTTON": "Дозволити/Заборонити"
+        "BROWSER_NOTIFICATIONS_BUTTON": "Дозволити/Заборонити",
+        "ACTIVATE_PROMOCODE": "",
+        "ACTIVATE_PROMOCODE_DESCRIPTION": "Промокоди дозволяють отримувати кристали, дні преміум-підписки, золоті ящики, фарби та деякі предмети з гаража. Бонусні предмети будуть негайно нараховані на поточний аккаунт. Отримати промокод можна під час спеціальних акцій."
       },
       "buttons": {
         "BACK": "Назад [z]",
@@ -1049,8 +1070,13 @@
         "FPS_LIMIT": "Гранична частота кадрів",
         "FPS_LIMIT_MAX": "Максимум",
         "SHOW_FRAMETIME_GRAPH": "Показувати графік часу відтворення кадру",
-        "VSYNC": "ВСінк",
-        "VSYNC_DESCRIPTION": "Вертикальна синхронізація"
+        "VSYNC": "VSync",
+        "VSYNC_DESCRIPTION": "Вертикальна синхронізація",
+        "QUALITY_BRACKETS_DESCRIPTION": "Дозволяє вибрати оптимальний варіант між красивою графікою та швидкою продуктивністю",
+        "DECALS_DESCRIPTION": "Дозволяє змінювати сліди від пострілів та вибухів, що відображаються на карті в бою",
+        "ANISOTROPIC_FILTERING_DESCRIPTION": "Дозволяє змінити якість зображення текстур на дальності",
+        "TREES_QUALITY_DESCRIPTION": "Дозволяє змінити якість промальовування кущів та дерев",
+        "GRAPHICS_RESOLUTION_DESCRIPTION": "Дозволяє змінити роздільну здатність екрана в бою, помітно впливає на продуктивність"
       },
       "controls": {
         "inputDevice": {
@@ -1091,7 +1117,9 @@
         "INVERT_SHAFT_VERTICAL_AXIS": "Інвертувати вертикальну вісь Шафта",
         "INVERT_SHAFT_VERTICAL_AXIS_DESCRIPTION": "Інвертувати вертикальну вісь Шафта у снайперському режимі",
         "INVERSED_BACKWARD_MOVING": "Інвертувати керування під час руху заднім ходом",
-        "INVERSED_BACKWARD_MOVING_DESCRIPTION": "Інвертує напрямок повороту під час руху заднім ходом"
+        "INVERSED_BACKWARD_MOVING_DESCRIPTION": "Інвертує напрямок повороту під час руху заднім ходом",
+        "INVERSED_CAMERA_HEIGHT": "Інвертувати керування камерою",
+        "INVERSED_CAMERA_HEIGHT_DESCRIPTION": "Інвертувати напрямок руху камери при вертикальному русі стику прицілювання. Ця настройка не впливає на прицілювання від першої особи у снайперському режимі"
       },
       "account": {
         "YOUR_LOCATION": "Ваше місце розташування",
@@ -1167,7 +1195,8 @@
         "AIM_SCALE_MAXIMAL": "Максимальний",
         "SHOW_TANK_POINTER": "Відображати індикатори напряму одержуваної шкоди",
         "SHOW_TANK_POINTER_DESCRIPTION": "При отриманні шкоди з'являється спеціальний індикатор, що вказує на положення ворожого танка, який цю шкоду завдав",
-        "AUTO_SUPPLY": "Автозастосування запасів у бою"
+        "AUTO_SUPPLY": "Автозастосування запасів у бою",
+        "BATTLE_UI_SCALE_DESCRIPTION": "Дозволяє змінити розмір бойового інтерфейсу у бою"
       },
       "twitch": {
         "DESCRIPTION": "Прив'яжіть свій Twitch-аккаунт до гри, щоб отримувати нагороди під час перегляду стриму на платформі Twitch.",
@@ -1257,11 +1286,6 @@
       "LEGENDARY_CONTAINER": "Легендарний контейнер",
       "LEGENDARY_CONTAINER_DESCRIPTION": "Найцінніший вантажний контейнер, в якому завжди є новий скін для танка. Якщо всі скіни отримані, вміст контейнера компенсується рубінами.",
       "CONVERSION_TITLE": "Конвертація контейнерів"
-    },
-    "shards": {
-      "SHARDS": "Уламки",
-      "GET_FREE": "Забрати",
-      "NEXT_FREE": "Наступний через:"
     },
     "chat": {
       "CLAN_CHAT": "чат клану",
@@ -1601,6 +1625,23 @@
     "keys": {
       "KEY_SHOP": "ключ",
       "KEYS_SHOP": "ключів"
+    },
+    "referralEvent": {
+      "GET_PROMO_CODE_BUTTON": "ПРОМОКОД",
+      "GET_PROMO_CODE_HEADER": "ПРОМОКОД",
+      "GET_PROMO_CODE_MESSAGE": "Роздавай промокод новим і покинули проект гравцям, щоб вони виконували місії. За їхні успіхи ти отримуватимеш прогрес у свої місії. Детальні умови події дивись у новинах.",
+      "GET_PROMO_CODE_COPY_BUTTON": "Скопіювати",
+      "GET_PROMO_CODE_COPIED_BUTTON": "Скопійовано",
+      "ACTIVATED_PROMO_CODE_HEADER": "Промокод активовано!",
+      "ACTIVATED_PROMO_CODE_MESSAGE": "Дякую за запуск «Танків Онлайн»! Ти отримав секретні місії, виконуй їх та отримуй супер призи!",
+      "ACTIVATED_PROMO_CODE_BUTTON": "Вперед до місій!",
+      "PROMO_CODE_ACTIVATE_ERROR_TITLE": "Помилка активації",
+      "PROMO_CODE_ACTIVATE_ERROR_WRONG_ENVIRONMENT": "Промокод не можна активувати на поточній платформі. Список доступних для активації платформ можна знайти в новинах про реферальну подію.",
+      "PROMO_CODE_ACTIVATE_ERROR_HAVE_REFERRER": "Ти вже отримав місії! Отримати місії повторно або отримати додаткові місії неможливо.",
+      "PROMO_CODE_ACTIVATE_ERROR_DIFFERENT_ROLE": "Ти був обраним! Пророкували, що ти будеш роздавати промокоди, а не активувати їх!",
+      "PROMO_CODE_ACTIVATE_ERROR_OUT_OF_RANK": "Ти не підходиш за званням. Активувати промокод можна буде, як тільки ти піднімеш своє звання.",
+      "PROMO_CODE_ACTIVATE_ERROR_EVENT_NOT_FOUND": "На жаль, цей код застарів. Спробуй попросити у танкістів новий.",
+      "REFERRALS_COUNT_TITLE": "Запрошені гравці"
     }
   },
   "entrance": {
@@ -1718,6 +1759,12 @@
       "LINK_ERROR": "Посилання некоректне або застаріло.",
       "WARNING_ATTENTION": "Увага!"
     },
+    "battle_reenter_protect_dialog": {
+      "TITLE": "Повернення до битви",
+      "MESSAGE": "Для повернення у битву необхідно пройти капчу",
+      "TO_BATTLE": "У битву",
+      "TO_LOBBY": "У лобі"
+    },
     "entrance_screen": {
       "PRESS_ANY_BUTTON_TEXT": "Натисніть будь-яку кнопку, щоб почати",
       "AUTHORIZATION_TYPE_TITLE": "Авторизуйся через",
@@ -1765,12 +1812,12 @@
   "battle_finish": {
     "DEFEAT": "ПОРАЗКА",
     "DRAW": "НІЧЯ",
-    "WIN": "ПЕРЕМОГА"
+    "WIN": "ПОТУЖНА ПЕРЕМОГА"
   },
   "battle_result": {
     "DEFEAT": "ПОРАЗКА",
     "DRAW": "НІЧЯ",
-    "WIN": "ПЕРЕМОГА!",
+    "WIN": "ПОТУЖНА ПЕРЕМОГА!",
     "RESULTS": "РЕЗУЛЬТАТИ",
     "DM_PLACE": "#%0 місце",
     "QUESTS_WINDOW": "Місії",
@@ -1989,6 +2036,13 @@
         "SHOOTING": "Наведися на ціль. Вогонь буде\nвестись автоматично.",
         "BONUS": "Підбери ремкоплект,\nщоб відновити здоров'я",
         "BATTLE": "Знищи трьох супротивників,\nщоб перемогти!"
+      },
+      "switch": {
+        "CHASSIS_CONTROL": "Використовуй кнопки руху <sprite name=\"left_stick_rotated\">,\nщоб рухатися до точки",
+        "CAMERA_CONTROL": "Обертай камеру <sprite name=\"right_stick_rotated\">,\nщоб навестися на ціль",
+        "SHOOTING": "Використовуйте кнопку стрільби <sprite name=\"Zr\">,\nщоб знищити ціль",
+        "BONUS": "Підбери ремкомплект, щоб відновити здоров'я",
+        "BATTLE": "Знищи трьох супротивників, щоб перемогти!"
       }
     }
   },
@@ -2029,10 +2083,6 @@
       "PAYMENT_METHOD": "Спосіб оплати",
       "YOUR_CHOICE": "Ваш вибір",
       "PRICE": "Ціна:"
-    },
-    "asiasoft": {
-      "CHECKING_BALANCE": "Перевірка балансу...",
-      "YOUR_BALANCE": "У вас є %1 ATC"
     },
     "indemnity": {
       "ONE_TIME_PURCHASE": "Ви збираєтеся купити пакет, який можна купити лише один раз. При повторній купівлі цього пакета замість предметів у пакеті вам буде нараховано компенсацію в танкоїнах.",
@@ -2083,7 +2133,6 @@
     "purchase": {
       "NOT_ENOUGH_COINS": "Не достатньо танкоїнів для здійснення покупки",
       "NOT_ENOUGH_CRYSTALS": "Недостатньо кристалів для здійснення покупки",
-      "NOT_ENOUGH_SHARDS": "",
       "NOT_ENOUGH_RUBIES": "Недостатньо рубінів для здійснення покупки",
       "FAILED": "Сталася помилка під час покупки. Будь ласка, спробуйте знову",
       "PAYMENT_ERROR": ""
@@ -2123,6 +2172,7 @@
     "CONFIRM": "Підтвердити",
     "CLOSE": "Закрити",
     "BUY": "Придбати",
+    "WAIT_PAYMENT_COMPLETE": "Не закривайте сторінку до завершення оплати",
     "TOTAL": "Разом",
     "FREE": "Безкоштовно",
     "VERIFICATION_CODE": "Код підтвердження",
@@ -2137,7 +2187,14 @@
       "PAYMENT_SUCCESS": "Купівля зроблена успішно",
       "PAYMENT_FAIL": "Купівля не була завершена"
     },
-    "ACTIVE_PAYMENT_PROCESS_MESSAGE": ""
+    "ACTIVE_PAYMENT_PROCESS_MESSAGE": "",
+    "real_purchase": {
+      "HEADER": "Підтвердження оплати",
+      "CONTENT": "Натискаючи кнопку підтвердити, ви підтверджуєте свою згоду Ліцензійною угодою гри та підтверджуєте, що будете направлені до Nintendo eShop для підтвердження покупки."
+    },
+    "description_item": {
+      "TITLE": "Що я купую?"
+    }
   },
   "prompt_information": {
     "PROMPT_INFORMATION_TEXT": ""
