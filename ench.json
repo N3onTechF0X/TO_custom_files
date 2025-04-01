@@ -1,0 +1,2190 @@
+{
+    "loader": {
+        "loading": "ꖎ𝙹ᔑ↸╎リ⊣",
+        "nextTip": "リᒷ̇̇/ℸ ̣ ⍑╎リℸ ̣",
+        "DOWNLOADED": "ꖎ𝙹ᔑ↸╎リ⊣",
+        "nextTipMob": "ℸ ̣ᔑ!¡ 𝙹リ ℸ ̣⍑ᒷ ᓭᓵ∷ᒷᒷリ ℸ ̣𝙹 ᓭᒷᒷ ℸ ̣⍑ᒷ リᒷ̇̇/ℸ ̣ ℸ ̣╎!¡"
+    },
+    "system": {
+        "time": {
+            "LABEL_DAY": "↸",
+            "LABEL_HOUR": "⍑",
+            "LABEL_MINUTE": "ᒲ",
+            "LABEL_SECOND": "ᓭ"
+        },
+        "error": {
+            "TITLE": "ᓭ||ᓭℸ ̣ᒷᒲ ᒷ∷∷𝙹∷",
+            "LINK_NAME": "ᓭ𝙹ꖎ⚍ℸ ̣╎𝙹リ",
+            "RELOAD": "∷ᒷᓭℸ ̣ᔑ∷ℸ ̣",
+            "ERROR_UNKNOWN": "⚍リꖌリ𝙹∴リ ᒷ∷∷𝙹∷",
+            "ERROR_LOADING_RESOURCE_MESSAGE": "ᓵᔑリリ𝙹ℸ ̣ ꖎ𝙹ᔑ↸ ∷ᒷᓭ𝙹⚍∷ᓵᒷᓭ",
+            "ERROR_DISCONNECT_MESSAGE": "ꖎ𝙹ᓭℸ ̣ ᓭᒷ∷⍊ᒷ∷ ᓵ𝙹リリᒷᓵℸ ̣╎𝙹リ",
+            "ERROR_LOADING_RESOURCE_LINK": "https://en.tankiwiki.com/Server_connection_closed",
+            "ERROR_DISCONNECT_LINK": "https://en.tankiwiki.com/Server_connection_closed",
+            "CONNECTING_EXCEPTION": "ꖎ𝙹ᓭℸ ̣ ᓭᒷ∷⍊ᒷ∷ ᓵ𝙹リリᒷᓵℸ ̣╎𝙹リ. !¡ꖎᒷᔑᓭᒷ ᓵ⍑ᒷᓵꖌ ╎リℸ ̣ᒷ∷リᒷℸ ̣ ᓵ𝙹リリᒷᓵℸ ̣╎𝙹リ.",
+            "SERVER_TOKEN_CHECK_FAILED_EXCEPTION": "ᔑリ ᔑ⚍ℸ ̣⍑𝙹∷╎⨅ᔑℸ ̣╎𝙹リ ᒷ∷∷𝙹∷ 𝙹ᓵᓵ⚍∷∷ᒷ↸. ℸ ̣∷|| ꖎ𝙹⊣⊣╎リ⊣ ╎リ ꖎᔑℸ ̣ᒷ∷.",
+            "RESOURCES_LOAD_EXCEPTION": "∷ᒷᓭ𝙹⚍∷ᓵᒷ ꖎ𝙹ᔑ↸╎リ⊣ ᒷ∷∷𝙹∷. !¡ꖎᒷᔑᓭᒷ ᓵ⍑ᒷᓵꖌ ╎リℸ ̣ᒷ∷リᒷℸ ̣ ᓵ𝙹リリᒷᓵℸ ̣╎𝙹リ.",
+            "CONTROL_CHANNEL_DISCONNECT_EXCEPTION": "ꖎ𝙹ᓭℸ ̣ ᓭᒷ∷⍊ᒷ∷ ᓵ𝙹リリᒷᓵℸ ̣╎𝙹リ. !¡ꖎᒷᔑᓭᒷ ᓵ⍑ᒷᓵꖌ ╎リℸ ̣ᒷ∷リᒷℸ ̣ ᓵ𝙹リリᒷᓵℸ ̣╎𝙹リ.",
+            "UPDATE_REQUIRED_EXCEPTION": "||𝙹⚍∷ ᓵ⚍∷∷ᒷリℸ ̣ ⊣ᔑᒲᒷ ⍊ᒷ∷ᓭ╎𝙹リ ╎ᓭ 𝙹⚍ℸ ̣ 𝙹⎓ ↸ᔑℸ ̣ᒷ. !¡ꖎᒷᔑᓭᒷ ⚍!¡↸ᔑℸ ̣ᒷ ℸ ̣⍑ᒷ ᔑ!¡!¡.",
+            "MAINTENANCE_EXCEPTION": "ℸ ̣ᒷᓵ⍑リ╎ᓵᔑꖎ ᒲᔑ╎リℸ ̣ᒷリᔑリᓵᒷ ╎ᓭ ╎リ !¡∷𝙹⊣∷ᒷᓭᓭ. ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ ∴╎ꖎꖎ ʖᒷ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ ᔑ⊣ᔑ╎リ ᓭ𝙹𝙹リ! ℸ ̣⍑ᔑリꖌ ||𝙹⚍ ⎓𝙹∷ ||𝙹⚍∷ !¡ᔑℸ ̣╎ᒷリᓵᒷ.",
+            "UNKNOWN_EXCEPTION": "ᔑリ ⚍リᒷ̇̇/!¡ᒷᓵℸ ̣ᒷ↸ ᒷ∷∷𝙹∷ 𝙹ᓵᓵ⚍∷∷ᒷ↸. !¡ꖎᒷᔑᓭᒷ ∷ᒷꖎ𝙹ᔑ↸ ℸ ̣⍑ᒷ ᔑ!¡!¡ꖎ╎ᓵᔑℸ ̣╎𝙹リ ᔑリ↸ ℸ ̣∷|| ᔑ⊣ᔑ╎リ.",
+            "PRESS_ANY_KEY_TO_RESTART": "!¡∷ᒷᓭᓭ ᔑリ|| ʖ⚍ℸ ̣ℸ ̣𝙹リ ℸ ̣𝙹 ∷ᒷᓭℸ ̣ᔑ∷ℸ ̣"
+        },
+        "message": {
+            "TITLE": "ᔑℸ ̣ℸ ̣ᒷリℸ ̣╎𝙹リ",
+            "YOU_WERE_KICKED_LOGIN_TEXT": "||𝙹⚍ ⍑ᔑ⍊ᒷ ʖᒷᒷリ ↸╎ᓭᓵ𝙹リリᒷᓵℸ ̣ᒷ↸ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ.\n∷ᒷᔑᓭ𝙹リ: {0}.\n||𝙹⚍ ᓵᔑリ ∷ᒷ-ᒷリℸ ̣ᒷ∷ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ ⍑ᒷ∷ᒷ {1}."
+        }
+    },
+    "dialog": {
+        "CANCEL_BUTTON": "ᓵᔑリᓵᒷꖎ",
+        "CLOSE_BUTTON": "ᓵꖎ𝙹ᓭᒷ",
+        "OK_BUTTON": "𝙹ꖌ"
+    },
+    "converter": {
+        "TITLE": "∷⚍ʖ|| ᒷ̇̇/ᓵ⍑ᔑリ⊣ᒷ",
+        "QUANTITY": "リ⚍ᒲʖᒷ∷:",
+        "COINS": "ℸ ̣ᔑリꖌ𝙹╎リᓭ",
+        "RUBIES": "∷⚍ʖ╎ᒷᓭ",
+        "DESCRIPTION": "ʖ|| !¡∷ᒷᓭᓭ╎リ⊣ ℸ ̣⍑ᒷ «ᓵ𝙹リ⎓╎∷ᒲ» ʖ⚍ℸ ̣ℸ ̣𝙹リ, ||𝙹⚍ ᓵ𝙹リ⎓╎∷ᒲ ℸ ̣⍑ᒷ ↸ᒷ↸⚍ᓵℸ ̣╎𝙹リ 𝙹⎓ ℸ ̣⍑ᒷ リ⚍ᒲʖᒷ∷ 𝙹⎓ ℸ ̣ᔑリꖌ𝙹╎リᓭ ╎リ↸╎ᓵᔑℸ ̣ᒷ↸ 𝙹リ ℸ ̣⍑ᒷ ᓭᓵ∷ᒷᒷリ ⎓𝙹∷ ℸ ̣⍑ᒷ !¡⚍∷ᓵ⍑ᔑᓭᒷ 𝙹⎓ ∷⚍ʖ╎ᒷᓭ. ℸ ̣⍑ᒷ ↸ᒷ↸⚍ᓵℸ ̣╎𝙹リ ╎ᓭ ⎓╎リᔑꖎ, ᔑリ↸ ℸ ̣⍑ᒷ ℸ ̣ᔑリꖌ𝙹╎リᓭ ᔑ∷ᒷ リ𝙹リ-∷ᒷ⎓⚍リ↸ᔑʖꖎᒷ.",
+        "DIALOG_NOT_ENOUGH_COIN_FOR_GET_RUBY": "||𝙹⚍ ↸𝙹リ'ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ℸ ̣ᔑリꖌ𝙹╎リᓭ (%ᓵ𝙹╎リ%) ℸ ̣𝙹 ⊣ᒷℸ ̣ ∷⚍ʖ╎ᒷᓭ"
+    },
+    "serverHalt": {
+        "MESSAGE": "ᓭᒷ∷⍊ᒷ∷ᓭ ∷ᒷᓭℸ ̣ᔑ∷ℸ ̣ ╎リ:"
+    },
+    "lobby": {
+        "menu": {
+            "PLAY": "!¡ꖎᔑ||",
+            "BATTLE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ᓭᒷꖎᒷᓵℸ ̣╎𝙹リ",
+            "GARAGE": "⊣ᔑ∷ᔑ⊣ᒷ",
+            "QUESTS": "ᒲ╎ᓭᓭ╎𝙹リᓭ",
+            "SHOP": "ᓭ⍑𝙹!¡",
+            "WAR": "∴ᔑ∷",
+            "CONTAINERS": "ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ᓭ",
+            "CLANS": "ᓵꖎᔑリᓭ",
+            "FRIENDS": "⎓∷╎ᒷリ↸ᓭ",
+            "NEWS": "リᒷ∴ᓭ",
+            "OPTIONS": "ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ",
+            "CHAT": "ᓵ⍑ᔑℸ ̣"
+        },
+        "battle": {
+            "matchmaking": {
+                "TIMEOUT_MESSAGE": "ᒲᔑℸ ̣ᓵ⍑ᒲᔑꖌ╎リ⊣ ℸ ̣╎ᒲᒷ𝙹⚍ℸ ̣"
+            },
+            "pick": {
+                "TITLE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ᒲ𝙹↸ᒷᓭ",
+                "TEAM_MODE_NAME": "ᑑ⚍╎ᓵꖌ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "TEAM_MODE_DESCRIPTION": "!¡ꖎᔑ|| ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ ∴╎ℸ ̣⍑ 𝙹ℸ ̣⍑ᒷ∷ ℸ ̣ᔑリꖌᒷ∷ᓭ ℸ ̣𝙹 ʖᒷᔑℸ ̣ ℸ ̣⍑ᒷ 𝙹!¡!¡𝙹ᓭ╎リ⊣ ℸ ̣ᒷᔑᒲ. ℸ ̣⍑ᒷ ᒲ𝙹↸ᒷ 𝙹⎓ ℸ ̣⍑ᒷ ℸ ̣ᒷᔑᒲ ʖᔑℸ ̣ℸ ̣ꖎᒷ ∴╎ꖎꖎ ʖᒷ ᓵ⍑𝙹ᓭᒷリ ∷ᔑリ↸𝙹ᒲꖎ||",
+                "TDM_MODE_NAME": "ℸ ̣ᒷᔑᒲ ↸ᒷᔑℸ ̣⍑ᒲᔑℸ ̣ᓵ⍑",
+                "TDM_MODE_DESCRIPTION": "↸ᒷᓭℸ ̣∷𝙹|| ᒷリᒷᒲ|| ℸ ̣ᔑリꖌᓭ ᔑリ↸ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣ ||𝙹⚍∷ ℸ ̣ᒷᔑᒲᒲᔑℸ ̣ᒷᓭ. ℸ ̣⍑ᒷ ℸ ̣ᒷᔑᒲ ∴⍑𝙹 ᒲᔑꖌᒷᓭ ℸ ̣⍑ᒷ ᒲ𝙹ᓭℸ ̣ ꖌ╎ꖎꖎᓭ, ∴╎リᓭ",
+                "JUGGERNAUT_NAME": "ᓭ𝙹ꖎ𝙹 ⋮⚍⊣⊣ᒷ∷リᔑ⚍ℸ ̣",
+                "JUGGERNAUT_DESCRIPTION": "↸ᒷᓭℸ ̣∷𝙹|| ᔑᓭ ᒲᔑリ|| ℸ ̣ᔑリꖌᓭ ᔑᓭ ||𝙹⚍ ᓵᔑリ. ℸ ̣⍑ᒷ !¡ꖎᔑ||ᒷ∷ ∴⍑𝙹 ↸ᒷᓭℸ ̣∷𝙹||ᓭ ᒲ𝙹ᓭℸ ̣ ℸ ̣ᔑリꖌᓭ, ∴╎リᓭ",
+                "TEAM_JUGGERNAUT_NAME": "⋮⚍⊣⊣ᒷ∷リᔑ⚍ℸ ̣",
+                "TEAM_JUGGERNAUT_DESCRIPTION": "ᔑℸ ̣ℸ ̣ᔑᓵꖌ ℸ ̣⍑ᒷ ᒷリᒷᒲ|| ℸ ̣ᒷᔑᒲ'ᓭ ⋮⚍⊣⊣ᒷ∷リᔑ⚍ℸ ̣ ᔑリ↸ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣ ||𝙹⚍∷ 𝙹∴リ. ℸ ̣⍑ᒷ ℸ ̣ᒷᔑᒲ ℸ ̣⍑ᔑℸ ̣ ↸ᒷᓭℸ ̣∷𝙹||ᓭ ℸ ̣⍑ᒷ ᒲ𝙹ᓭℸ ̣ ᒷリᒷᒲ|| ⋮⚍⊣⊣ᒷ∷リᔑ⚍ℸ ̣ᓭ, ∴╎リᓭ.",
+                "SIEGE_NAME": "ᓭ╎ᒷ⊣ᒷ",
+                "SIEGE_DESCRIPTION": "⍑𝙹ꖎ↸ ᓵ𝙹リℸ ̣∷𝙹ꖎ 𝙹⎓ ᔑ !¡𝙹╎リℸ ̣ ᔑリ↸ ꖌᒷᒷ!¡ ||𝙹⚍∷ ᒷリᒷᒲ╎ᒷᓭ ᔑ∴ᔑ|| ⎓∷𝙹ᒲ ╎ℸ ̣. 𝙹リᓵᒷ ||𝙹⚍'⍊ᒷ ᓵᔑ!¡ℸ ̣⚍∷ᒷ↸ ℸ ̣⍑ᒷ !¡𝙹╎リℸ ̣, ᒲ𝙹⍊ᒷ 𝙹リ ℸ ̣𝙹 ᓵᔑ!¡ℸ ̣⚍∷ᒷ ℸ ̣⍑ᒷ リᒷ̇̇/ℸ ̣ 𝙹リᒷ. ℸ ̣⍑ᒷ ℸ ̣ᒷᔑᒲ ℸ ̣⍑ᔑℸ ̣ ⍑ᔑᓭ ᓵᔑ!¡ℸ ̣⚍∷ᒷ↸ ᒲ𝙹∷ᒷ !¡𝙹╎リℸ ̣ᓭ, ∴╎リᓭ.",
+                "CONTROL_POINTS_NAME": "ᓵ𝙹リℸ ̣∷𝙹ꖎ !¡𝙹╎リℸ ̣ᓭ",
+                "CONTROL_POINTS_DESCRIPTION": "ᓵᔑ!¡ℸ ̣⚍∷ᒷ ᒷリᒷᒲ|| ᓵ𝙹リℸ ̣∷𝙹ꖎ !¡𝙹╎リℸ ̣ᓭ ᔑリ↸ ᓭℸ ̣𝙹!¡ ℸ ̣⍑ᒷ ᒷリᒷᒲ|| ⎓∷𝙹ᒲ ℸ ̣ᔑꖌ╎リ⊣ ℸ ̣⍑ᒷᒲ ʖᔑᓵꖌ. ℸ ̣⍑ᒷ ℸ ̣ᒷᔑᒲ ∴╎ℸ ̣⍑ ℸ ̣⍑ᒷ ⍑╎⊣⍑ᒷᓭℸ ̣ ᓭᓵ𝙹∷ᒷ ᔑℸ ̣ ℸ ̣⍑ᒷ ᒷリ↸ 𝙹⎓ ℸ ̣⍑ᒷ ᒲᔑℸ ̣ᓵ⍑, ∴╎リᓭ",
+                "ASSAULT_NAME": "ᔑᓭᓭᔑ⚍ꖎℸ ̣",
+                "ASSAULT_DESCRIPTION": "∴⍑╎ꖎᒷ !¡ꖎᔑ||╎リ⊣ ╎リ ℸ ̣⍑ᒷ ↸ᒷ⎓ᒷリ↸╎リ⊣ ℸ ̣ᒷᔑᒲ, !¡∷𝙹ℸ ̣ᒷᓵℸ ̣ ||𝙹⚍∷ ʖᔑᓭᒷ ⎓∷𝙹ᒲ ᒷリᒷᒲ|| ᔑℸ ̣ℸ ̣ᔑᓵꖌᓭ. ∴⍑╎ꖎᒷ !¡ꖎᔑ||╎リ⊣ ╎リ ℸ ̣⍑ᒷ ᔑℸ ̣ℸ ̣ᔑᓵꖌ╎リ⊣ ℸ ̣ᒷᔑᒲ, ℸ ̣∷|| ℸ ̣𝙹 !¡ꖎᔑᓵᒷ ||𝙹⚍∷ ⎓ꖎᔑ⊣ ╎リ ℸ ̣⍑ᒷ ᒷリᒷᒲ||'ᓭ ʖᔑᓭᒷ. ℸ ̣⍑ᒷ ℸ ̣ᒷᔑᒲ ∴╎ℸ ̣⍑ ᒲ𝙹∷ᒷ !¡𝙹╎リℸ ̣ᓭ ᔑℸ ̣ ℸ ̣⍑ᒷ ᒷリ↸ 𝙹⎓ ℸ ̣⍑ᒷ ᒲᔑℸ ̣ᓵ⍑, ∴╎リᓭ.",
+                "DEATHMATCH_NAME": "↸ᒷᔑℸ ̣⍑ᒲᔑℸ ̣ᓵ⍑",
+                "DEATHMATCH_DESCRIPTION": "ᒷ⍊ᒷ∷|| !¡ꖎᔑ||ᒷ∷ ╎リ ℸ ̣⍑ᒷ ᔑ∷ᒷリᔑ ╎ᓭ ||𝙹⚍∷ ᒷリᒷᒲ||. ℸ ̣⍑ᒷ !¡ꖎᔑ||ᒷ∷ ∴⍑𝙹 ↸ᒷᓭℸ ̣∷𝙹||ᓭ ℸ ̣⍑ᒷ ᒲ𝙹ᓭℸ ̣ ℸ ̣ᔑリꖌᓭ, ∴╎リᓭ.",
+                "CAPTURE_THE_FLAG_NAME": "ᓵᔑ!¡ℸ ̣⚍∷ᒷ ℸ ̣⍑ᒷ ⎓ꖎᔑ⊣",
+                "CAPTURE_THE_FLAG_DESCRIPTION": "ᔑℸ ̣ℸ ̣ᔑᓵꖌ ℸ ̣⍑ᒷ ᒷリᒷᒲ|| ʖᔑᓭᒷ, ᓵᔑ!¡ℸ ̣⚍∷ᒷ ℸ ̣⍑ᒷ╎∷ ⎓ꖎᔑ⊣ ʖ|| ʖ∷╎リ⊣╎リ⊣ ╎ℸ ̣ ʖᔑᓵꖌ ℸ ̣𝙹 ||𝙹⚍∷ ʖᔑᓭᒷ, ᔑリ↸ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣ ||𝙹⚍∷ ⎓ꖎᔑ⊣ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ ᒷリᒷᒲ|| ℸ ̣ᒷᔑᒲ. ℸ ̣⍑ᒷ ℸ ̣ᒷᔑᒲ ℸ ̣⍑ᔑℸ ̣ ᓵᔑ!¡ℸ ̣⚍∷ᒷᓭ ℸ ̣⍑ᒷ ᒲ𝙹ᓭℸ ̣ ⎓ꖎᔑ⊣ᓭ, ∴╎リᓭ.",
+                "RUGBY_NAME": "∷⚍⊣ʖ||",
+                "RUGBY_DESCRIPTION": "ᓵᔑ!¡ℸ ̣⚍∷ᒷ ℸ ̣⍑ᒷ ʖᔑꖎꖎ ╎リ ℸ ̣⍑ᒷ ᒲ╎↸↸ꖎᒷ 𝙹⎓ ℸ ̣⍑ᒷ ᒲᔑ!¡ ᔑリ↸ ʖ∷╎リ⊣ ╎ℸ ̣ ℸ ̣𝙹 ℸ ̣⍑ᒷ ᒷリᒷᒲ|| ʖᔑᓭᒷ. ↸𝙹リ'ℸ ̣ ꖎᒷℸ ̣ ℸ ̣⍑ᒷ ᒷリᒷᒲ|| ℸ ̣ᒷᔑᒲ ʖ∷╎リ⊣ ℸ ̣⍑ᒷ ʖᔑꖎꖎ ℸ ̣𝙹 ||𝙹⚍∷ ʖᔑᓭᒷ. ℸ ̣⍑ᒷ ℸ ̣ᒷᔑᒲ ∴╎ℸ ̣⍑ ℸ ̣⍑ᒷ ʖ╎⊣⊣ᒷ∷ ᓭᓵ𝙹∷ᒷ, ∴╎リᓭ.",
+                "BATTLE_LIST_NAME": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ꖎ╎ᓭℸ ̣",
+                "BATTLE_LIST_DESCRIPTION": "ᓵ∷ᒷᔑℸ ̣ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ ∴╎ℸ ̣⍑ ||𝙹⚍∷ !¡∷ᒷ⎓ᒷ∷∷ᒷ↸ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ, 𝙹∷ ⋮𝙹╎リ 𝙹ℸ ̣⍑ᒷ∷ ᓵ⚍ᓭℸ ̣𝙹ᒲ ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ.",
+                "NEED_RANK": "ᒲ╎リ╎ᒲ⚍ᒲ ∷ᔑリꖌ 𝙹⎓ %0 ∷ᒷᑑ⚍╎∷ᒷ↸",
+                "MORE_KEYS": "ᒲ𝙹∷ᒷ 𝙹!¡ℸ ̣╎𝙹リᓭ",
+                "DISABLED_BUTTON_PLAY": "||𝙹⚍ ᔑ∷ᒷ リ𝙹ℸ ̣ ℸ ̣⍑ᒷ ⊣∷𝙹⚍!¡ ꖎᒷᔑ↸ᒷ∷",
+                "PlAYERS_ARENT_READY": "!¡ꖎᔑ||ᒷ∷ᓭ ᔑ∷ᒷリ'ℸ ̣ ∷ᒷᔑ↸||",
+                "SEARCH_BATTLE": "ᓭᒷᔑ∷ᓵ⍑╎リ⊣ ⎓𝙹∷ ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "CHOOSE_BATTLE": "ᓵ⍑𝙹𝙹ᓭᒷ ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "CURRENTLY_UNAVAILABLE": "ᓵ⚍∷∷ᒷリℸ ̣ꖎ|| ⚍リᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ",
+                "ALL_MODES": "ᔑꖎꖎ ᒲ𝙹↸ᒷᓭ",
+                "BATTLE_MODES": "ᒲ𝙹↸ᒷᓭ",
+                "PRO_BATTLES": "!¡∷𝙹 ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ"
+            },
+            "info": {
+                "JOIN_BATTLE_BUTTON_FULL": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ⎓⚍ꖎꖎ - ⚍リᔑʖꖎᒷ ℸ ̣𝙹 ⋮𝙹╎リ",
+                "JOIN_BATTLE_BUTTON_INCORRECT_RANK": "||𝙹⚍∷ ∷ᔑリꖌ ╎ᓭ リ𝙹ℸ ̣ ᔑ!¡!¡∷𝙹!¡∷╎ᔑℸ ̣ᒷ ⎓𝙹∷ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "JOIN_BATTLE_BUTTON": "⋮𝙹╎リ",
+                "JOIN_BATTLE_BUTTON_ALFA": "⋮𝙹╎リ ℸ ̣ᒷᔑᒲ ᔑꖎ⎓ᔑ",
+                "JOIN_BATTLE_BUTTON_BRAVO": "⋮𝙹╎リ ℸ ̣ᒷᔑᒲ ʖ∷ᔑ⍊𝙹",
+                "EMPTY_CELL_IN_USERS_TABLE": "ᒷᒲ!¡ℸ ̣||",
+                "AVAILABLE_RANK": "ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ ∷ᔑリꖌᓭ: ",
+                "BATTLE_LINK": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ꖎ╎リꖌ: ",
+                "BACK_BUTTON": "ʖᔑᓵꖌ",
+                "NONE_CUSTOM_OPTIONS": "ᓵ⚍ᓭℸ ̣𝙹ᒲ 𝙹!¡ℸ ̣╎𝙹リᓭ: リ𝙹リᒷ",
+                "KILLS": " ꖌ╎ꖎꖎᓭ",
+                "INVITE_FRIENDS": "╎リ⍊╎ℸ ̣ᒷ ⎓∷╎ᒷリ↸ᓭ",
+                "CUSTOM_OPTIONS": "ᓵ⚍ᓭℸ ̣𝙹ᒲ 𝙹!¡ℸ ̣╎𝙹リᓭ:",
+                "VIEW_LIST": "⍊╎ᒷ∴ ꖎ╎ᓭℸ ̣",
+                "REPORT_NAME": "╎リ⍊ᔑꖎ╎↸ ʖᔑℸ ̣ℸ ̣ꖎᒷ リᔑᒲᒷ",
+                "REPORT_NAME_ACTION": "∷ᒷ!¡𝙹∷ℸ ̣ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ リᔑᒲᒷ (%0)",
+                "REPORT_NAME_SENT": "∷ᒷ!¡𝙹∷ℸ ̣ ⍑ᔑᓭ ʖᒷᒷリ ᓭᒷリℸ ̣"
+            },
+            "list": {
+                "TITLE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ꖎ╎ᓭℸ ̣",
+                "VS": "⍊ᓭ",
+                "TABLE_TITLE_MODE": "ᒲ𝙹↸ᒷ",
+                "TABLE_TITLE_NAME": "リᔑᒲᒷ",
+                "TABLE_TITLE_PLAYERS": "!¡ꖎᔑ||ᒷ∷ᓭ",
+                "TABLE_TITLE_TIME": "ℸ ̣╎ᒲᒷ",
+                "TABLE_TITLE_SCORE": "ᓭᓵ𝙹∷ᒷ",
+                "CREATE_BATTLE_BUTTON": "ᓵ∷ᒷᔑℸ ̣ᒷ",
+                "FILTER_ALL": "ᔑꖎꖎ",
+                "SEARCH_PLACEHOLDER": "ᓭᒷᔑ∷ᓵ⍑",
+                "DIALOG_BUY_PROABONEMENT_TITLE": "∴ᔑ∷リ╎リ⊣",
+                "DIALOG_BUY_PROABONEMENT_DESCRIPTION": "ᓭ𝙹∷∷||, ||𝙹⚍ リᒷᒷ↸ ℸ ̣𝙹 ⍑ᔑ⍊ᒷ ᔑ !¡∷ᒷᒲ╎⚍ᒲ ᔑᓵᓵ𝙹⚍リℸ ̣ ℸ ̣𝙹 ᓵ∷ᒷᔑℸ ̣ᒷ !¡∷𝙹 ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ :-(",
+                "DIALOG_BUY_PROABONEMENT_BUY": "ʖ⚍||",
+                "BATTLES": "ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ",
+                "MAPS": "ᒲᔑ!¡ᓭ",
+                "EMPTY_BATTLES_LIST": "ℸ ̣⍑ᒷ∷ᒷ ᔑ∷ᒷ リ𝙹 ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ"
+            },
+            "option": {
+                "ICON_DESCRIPTION_AUTOBALANCE": "ꖌᒷᒷ!¡ ᔑ ʖᔑꖎᔑリᓵᒷ ʖᒷℸ ̣∴ᒷᒷリ ℸ ̣⍑ᒷ リ⚍ᒲʖᒷ∷ 𝙹⎓ ᒲᒷᒲʖᒷ∷ᓭ ╎リ ᒷᔑᓵ⍑ ℸ ̣ᒷᔑᒲ ʖ|| !¡∷ᒷ⍊ᒷリℸ ̣╎リ⊣ !¡ꖎᔑ||ᒷ∷ᓭ ⎓∷𝙹ᒲ ⋮𝙹╎リ╎リ⊣ ᔑ ℸ ̣ᒷᔑᒲ ℸ ̣⍑ᔑℸ ̣ ⍑ᔑᓭ ᒲ𝙹∷ᒷ ᒲᒷᒲʖᒷ∷ᓭ",
+                "ICON_DESCRIPTION_BONUSBOXES": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ, ᓭ⚍!¡!¡ꖎ|| ʖ𝙹̇̇/ᒷᓭ ↸∷𝙹!¡ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ ᓭꖌ|| ∴⍑╎ᓵ⍑ ||𝙹⚍ ᓵᔑリ !¡╎ᓵꖌ ⚍!¡ ℸ ̣𝙹 ᓭℸ ̣∷ᒷリ⊣ℸ ̣⍑ᒷリ ᔑリ↸ ∷ᒷ!¡ᔑ╎∷ ||𝙹⚍∷ ℸ ̣ᔑリꖌ",
+                "ICON_DESCRIPTION_CLANBATTLE": "𝙹リꖎ|| !¡ꖎᔑ||ᒷ∷ᓭ ╎リ ᔑ ᓵꖎᔑリ ℸ ̣ᔑ⊣ ᓵᔑリ !¡ᔑ∷ℸ ̣╎ᓵ╎!¡ᔑℸ ̣ᒷ ╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ - ℸ ̣⍑ᒷ|| ᓵᔑリ 𝙹リꖎ|| !¡ꖎᔑ|| ᔑ⊣ᔑ╎リᓭℸ ̣ !¡ꖎᔑ||ᒷ∷ᓭ ⎓∷𝙹ᒲ ᔑリ𝙹ℸ ̣⍑ᒷ∷ ᓵꖎᔑリ ℸ ̣ᔑ⊣",
+                "ICON_DESCRIPTION_DEVICES": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ, !¡ꖎᔑ||ᒷ∷ᓭ ᔑ∷ᒷ ᔑꖎꖎ𝙹∴ᒷ↸ ℸ ̣𝙹 ⚍ᓭᒷ ᔑ⚍⊣ᒲᒷリℸ ̣ᓭ ∴⍑╎ᓵ⍑ ᒲ𝙹↸╎⎓|| ᓵ⍑ᔑ∷ᔑᓵℸ ̣ᒷ∷╎ᓭℸ ̣╎ᓵᓭ 𝙹⎓ ⍑⚍ꖎꖎᓭ ᔑリ↸ ℸ ̣⚍∷∷ᒷℸ ̣ᓭ",
+                "ICON_DESCRIPTION_DRONES": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ, ||𝙹⚍ ᓵᔑリ ⚍ᓭᒷ ↸∷𝙹リᒷᓭ ℸ ̣⍑ᔑℸ ̣ ᒲ𝙹↸╎⎓|| ℸ ̣⍑ᒷ ᒷ⎓⎓ᒷᓵℸ ̣ᓭ 𝙹⎓ ᓭ⚍!¡!¡ꖎ╎ᒷᓭ",
+                "ICON_DESCRIPTION_GRENADES": "||𝙹⚍ ᓵᔑリ ⚍ᓭᒷ ⊣∷ᒷリᔑ↸ᒷᓭ ╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "ICON_DESCRIPTION_FRIENDFIRE": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ, ⎓∷╎ᒷリ↸ꖎ|| ⎓╎∷ᒷ ╎ᓭ ᒷリᔑʖꖎᒷ↸",
+                "ICON_DESCRIPTION_GOOLDBOXES": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ ||𝙹⚍ ᓵᔑリ ᓵᔑℸ ̣ᓵ⍑ ᔑリ↸ ↸∷𝙹!¡ ⊣𝙹ꖎ↸ ʖ𝙹̇̇/ᒷᓭ",
+                "ICON_DESCRIPTION_OVERDRIVES": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ, ||𝙹⚍ ᓵᔑリ ⚍ᓭᒷ 𝙹⍊ᒷ∷↸∷╎⍊ᒷᓭ - ℸ ̣⍑ᒷ ⚍リ╎ᑑ⚍ᒷ ᔑʖ╎ꖎ╎ℸ ̣╎ᒷᓭ 𝙹⎓ ⍑⚍ꖎꖎᓭ",
+                "ICON_DESCRIPTION_SMARTSUPPLIES": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ, ᓭᒲᔑ∷ℸ ̣ ᓵ𝙹𝙹ꖎ-↸𝙹∴リᓭ ᔑ∷ᒷ ᒷリᔑʖꖎᒷ↸. ℸ ̣⍑╎ᓭ ᒲᒷᓵ⍑ᔑリ╎ᓭᒲ !¡∷ᒷ⍊ᒷリℸ ̣ᓭ ℸ ̣⍑ᒷ ᓭ╎ᒲ⚍ꖎℸ ̣ᔑリᒷ𝙹⚍ᓭ ᔑᓵℸ ̣╎⍊ᔑℸ ̣╎𝙹リ 𝙹⎓ ᓭᒷ⍊ᒷ∷ᔑꖎ ᓭ⚍!¡!¡ꖎ╎ᒷᓭ.",
+                "ICON_DESCRIPTION_SUPPLIES": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ, ||𝙹⚍ ᓵᔑリ ⚍ᓭᒷ ᓭ⚍!¡!¡ꖎ╎ᒷᓭ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ ⊣ᔑ∷ᔑ⊣ᒷ. ℸ ̣⍑ᒷ|| ℸ ̣ᒷᒲ!¡𝙹∷ᔑ∷╎ꖎ|| ʖ𝙹𝙹ᓭℸ ̣ ||𝙹⚍∷ ℸ ̣ᔑリꖌ’ᓭ !¡ᒷ∷⎓𝙹∷ᒲᔑリᓵᒷ",
+                "ICON_DESCRIPTION_UPGRADES": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ, ᒲ╎ᓵ∷𝙹-⚍!¡⊣∷ᔑ↸ᒷᓭ ⎓𝙹∷ ℸ ̣⚍∷∷ᒷℸ ̣ᓭ, ⍑⚍ꖎꖎᓭ, ↸∷𝙹リᒷᓭ ᔑリ↸ ᒲ𝙹↸⚍ꖎᒷᓭ ᔑ∷ᒷ ᒷリᔑʖꖎᒷ↸",
+                "ICON_DESCRIPTION_WEAPONCHANGES": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ, ∴ᒷᔑ!¡𝙹リ ᓵ⍑ᔑリ⊣ᒷ ╎ᓭ ᒷリᔑʖꖎᒷ↸",
+                "ICON_DESCRIPTION_PRIVATE": "ᓵ∷ᒷᔑℸ ̣ᒷᓭ ᔑ !¡∷╎⍊ᔑℸ ̣ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ℸ ̣⍑ᔑℸ ̣ ╎ᓭ 𝙹リꖎ|| ᔑᓵᓵᒷᓭᓭ╎ʖꖎᒷ ℸ ̣⍑∷𝙹⚍⊣⍑ ᔑ ᓭ!¡ᒷᓵ╎ᔑꖎ ꖎ╎リꖌ",
+                "DESCRIPTION_AUTOBALANCE": "ᔑ⚍ℸ ̣𝙹ʖᔑꖎᔑリᓵᒷ",
+                "DESCRIPTION_BONUSBOXES": "ʖ𝙹リ⚍ᓭ ʖ𝙹̇̇/ᒷᓭ",
+                "DESCRIPTION_CLANBATTLE": "ᓵꖎᔑリ ∴ᔑ∷",
+                "DESCRIPTION_DEVICES": "ᔑ⚍⊣ᒲᒷリℸ ̣ᓭ",
+                "DESCRIPTION_DRONES": "↸∷𝙹リᒷᓭ",
+                "DESCRIPTION_GRENADES": "⊣∷ᒷリᔑ↸ᒷᓭ",
+                "DESCRIPTION_FRIENDFIRE": "⎓∷╎ᒷリ↸ꖎ|| ⎓╎∷ᒷ",
+                "DESCRIPTION_GOOLDBOXES": "⊣𝙹ꖎ↸ ʖ𝙹̇̇/ᒷᓭ",
+                "DESCRIPTION_OVERDRIVES": "𝙹⍊ᒷ∷↸∷╎⍊ᒷᓭ",
+                "DESCRIPTION_SMARTSUPPLIES": "ᓭᒲᔑ∷ℸ ̣ ᓭ⚍!¡!¡ꖎ╎ᒷᓭ",
+                "DESCRIPTION_SUPPLIES": "ᓭ⚍!¡!¡ꖎ╎ᒷᓭ",
+                "DESCRIPTION_UPGRADES": "⚍!¡⊣∷ᔑ↸ᒷᓭ",
+                "DESCRIPTION_WEAPONCHANGES": "∴ᒷᔑ!¡𝙹リ ᓵ⍑ᔑリ⊣ᒷᓭ",
+                "DESCRIPTION_PRIVATE": "!¡∷╎⍊ᔑℸ ̣ᒷ",
+                "NO_SETTINGS": "ℸ ̣⍑ᒷ∷ᒷ ᔑ∷ᒷ リ𝙹 ᔑ↸↸╎ℸ ̣╎𝙹リᔑꖎ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ ᓭᒷℸ ̣ ⎓𝙹∷ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "ICON_DESCRIPTION_NUCLEARSUPPLY": "╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ, ||𝙹⚍ ᓵᔑリ ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ ℸ ̣⍑ᒷ リ⚍ᓵꖎᒷᔑ∷ ᒷリᒷ∷⊣|| ᓭ⚍!¡!¡ꖎ||",
+                "DESCRIPTION_NUCLEARSUPPLY": "«リ⚍ᓵꖎᒷᔑ∷ ᒷリᒷ∷⊣||» ᓭ⚍!¡!¡ꖎ||"
+            },
+            "create": {
+                "TITLE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ᓵ∷ᒷᔑℸ ̣╎𝙹リ",
+                "BATTLE_OPTIONS": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ⎓𝙹∷ᒲᔑℸ ̣",
+                "BATTLE_MODE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ᒲ𝙹↸ᒷ",
+                "NAME_PLACEHOLDER": "ʖᔑℸ ̣ℸ ̣ꖎᒷ リᔑᒲᒷ",
+                "MIN_RANK": "ᒲ╎リ ∷ᔑリꖌ",
+                "MAX_RANK": "ᒲᔑ̇̇/ ∷ᔑリꖌ",
+                "RESET_ALL": "∷ᒷᓭᒷℸ ̣ ᔑꖎꖎ",
+                "TIME_LIMIT_FIELD": "ℸ ̣╎ᒲᒷ",
+                "MAX_PLAYERS_FIELD": "!¡ꖎᔑ||ᒷ∷ᓭ",
+                "MAX_PLAYERS_IN_TEAM_FIELD": "ᒲᔑ̇̇/ !¡ꖎᔑ||ᒷ∷ᓭ ╎リ ℸ ̣ᒷᔑᒲ",
+                "SCORE_LIMIT_FIELD": "ᓭᓵ𝙹∷ᒷ",
+                "KILL_LIMIT_FIELD": "ꖌ╎ꖎꖎ ꖎ╎ᒲ╎ℸ ̣",
+                "FLAG_LIMIT_FIELD": "⎓ꖎᔑ⊣ ꖎ╎ᒲ╎ℸ ̣",
+                "CUSTOM_OPTIONS": "ᓵ⚍ᓭℸ ̣𝙹ᒲ 𝙹!¡ℸ ̣╎𝙹リᓭ",
+                "SAVE_BUTTON": "ᓭᔑ⍊ᒷ",
+                "RESET_BUTTON": "∷ᒷᓭᒷℸ ̣",
+                "MAP_FIELD": "ᒲᔑ!¡",
+                "MAP_THEME_FIELD": "ℸ ̣⍑ᒷᒲᒷ",
+                "START": "ᓭℸ ̣ᔑ∷ℸ ̣",
+                "alert": {
+                    "CREATE_DISABLED": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ᓵ∷ᒷᔑℸ ̣╎𝙹リ ↸╎ᓭᔑʖꖎᒷ↸",
+                    "SERVER_IS_HALTING": "ᓭᒷ∷⍊ᒷ∷ ╎ᓭ ᓭℸ ̣𝙹!¡!¡╎リ⊣. ↸𝙹 リ𝙹ℸ ̣ ∴𝙹∷∷||, ╎ℸ ̣'ꖎꖎ ʖᒷ ʖᔑᓵꖌ ╎リ リ𝙹 ℸ ̣╎ᒲᒷ :)",
+                    "TOO_MANY_BATTLES_FROM_YOU": "||𝙹⚍'⍊ᒷ ᓵ∷ᒷᔑℸ ̣ᒷ↸ ℸ ̣𝙹𝙹 ᒲᔑリ|| ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ",
+                    "YOU_ARE_BANNED": "||𝙹⚍ ᔑ∷ᒷ ʖᔑリリᒷ↸. リ𝙹, ∴ᒷ'∷ᒷ リ𝙹ℸ ̣ ᒲᔑ↸ ᔑℸ ̣ ||𝙹⚍... ∴ᒷ'∷ᒷ ⋮⚍ᓭℸ ̣... ↸╎ᓭᔑ!¡!¡𝙹╎リℸ ̣ᒷ↸... ᓭ𝙹 ↸╎ᓭᔑ!¡!¡𝙹╎リℸ ̣ᒷ↸."
+                },
+                "FORMAT": "⎓𝙹∷ᒲᔑℸ ̣",
+                "MAP": "ᒲᔑ!¡",
+                "GAME_MODE": "⊣ᔑᒲᒷ ᒲ𝙹↸ᒷ",
+                "IS_SELECT_FORMAT": "ᓵ⍑𝙹𝙹ᓭᒷ",
+                "SELECTED_FORMAT": "ᓵ⍑𝙹ᓭᒷリ",
+                "CREATE_BATTLE": "ᓵ∷ᒷᔑℸ ̣ᒷ ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ"
+            },
+            "modes": {
+                "DM": "↸ᒲ",
+                "TDM": "ℸ ̣↸ᒲ",
+                "CTF": "ᓵℸ ̣⎓",
+                "CP": "ᓵ!¡",
+                "AS": "ᔑᓭꖎ",
+                "RUGBY": "∷⊣ʖ",
+                "SUR": "ᓭ⚍∷",
+                "JGR": "ᓭ⋮⊣",
+                "TJR": "⋮⊣∷",
+                "SGE": "ᓭ⊣ᒷ",
+                "AR": "ᔑ∷",
+                "TAR": "ℸ ̣ᔑ∷"
+            },
+            "themes": {
+                "SUMMER_DAY": "ᓭ⚍ᒲᒲᒷ∷ ↸ᔑ||",
+                "SUMMER_EVENING": "ᓭ⚍ᒲᒲᒷ∷ ᒷ⍊ᒷリ╎リ⊣",
+                "SUMMER_NIGHT": "ᓭ⚍ᒲᒲᒷ∷ リ╎⊣⍑ℸ ̣",
+                "AUTUMN_DAY": "ᔑ⚍ℸ ̣⚍ᒲリ ↸ᔑ||",
+                "WINTER_DAY": "∴╎リℸ ̣ᒷ∷ ↸ᔑ||",
+                "WINTER_NIGHT": "∴╎リℸ ̣ᒷ∷ リ╎⊣⍑ℸ ̣",
+                "SPACE": "ᓭ!¡ᔑᓵᒷ"
+            },
+            "matchmakingGroup": {
+                "SHOW_LABEL": "ᓭ⍑𝙹∴",
+                "ALL": "ᔑꖎꖎ",
+                "FRIENDS": "⎓∷╎ᒷリ↸ᓭ",
+                "CLAN": "ᓵꖎᔑリ",
+                "SELECT_ALL": "ᓭᒷꖎᒷᓵℸ ̣ ᔑꖎꖎ",
+                "UNSELECT_ALL": "↸ᒷᓭᒷꖎᒷᓵℸ ̣ ᔑꖎꖎ",
+                "INVITE": "╎リ⍊╎ℸ ̣ᒷ",
+                "USER_NOT_READY": "リ𝙹ℸ ̣ ∷ᒷᔑ↸||",
+                "USER_INVITE_TO_GROUP": "%⚍ᓭᒷ∷リᔑᒲᒷ% ╎リ⍊╎ℸ ̣ᒷᓭ ||𝙹⚍ ℸ ̣𝙹 ⊣∷𝙹⚍!¡",
+                "USER_ACCEPTED_GROUP_INVITE": "%⚍ᓭᒷ∷リᔑᒲᒷ% ⋮𝙹╎リᓭ ℸ ̣⍑ᒷ ⊣∷𝙹⚍!¡",
+                "USER_REJECT_GROUP_INVITE": "%⚍ᓭᒷ∷リᔑᒲᒷ% ↸𝙹ᒷᓭリ'ℸ ̣ ⋮𝙹╎リ ℸ ̣⍑ᒷ ⊣∷𝙹⚍!¡",
+                "USER_OFFLINE_ON_GROUP_INVITE": "%⚍ᓭᒷ∷リᔑᒲᒷ% ℸ ̣⍑╎ᓭ !¡ꖎᔑ||ᒷ∷ ╎ᓭ 𝙹⎓⎓ꖎ╎リᒷ",
+                "USER_DISABLED_GROUP_INVITE": "%⚍ᓭᒷ∷リᔑᒲᒷ% ↸╎ᓭᔑʖꖎᒷ↸ ╎リ⍊╎ℸ ̣ᒷᓭ.\n╎リ⍊╎ℸ ̣ᒷ ᓵᔑリリ𝙹ℸ ̣ ʖᒷ ᓭᒷリℸ ̣.",
+                "USER_ALREADY_IN_GROUP": "%⚍ᓭᒷ∷リᔑᒲᒷ% ℸ ̣⍑╎ᓭ !¡ꖎᔑ||ᒷ∷ ╎ᓭ ᔑꖎ∷ᒷᔑ↸|| ╎リ ᔑ ⊣∷𝙹⚍!¡",
+                "USER_IN_BATTLE_ON_GROUP_INVITE": "%⚍ᓭᒷ∷リᔑᒲᒷ% ℸ ̣⍑╎ᓭ !¡ꖎᔑ||ᒷ∷ ╎ᓭ ╎リ ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "USER_DATA_IS_LOADING": "ꖎ𝙹ᔑ↸╎リ⊣...",
+                "READY": "∷ᒷᔑ↸||",
+                "NOT_READY": "╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "LEADER": "ꖎᒷᔑ↸ᒷ∷",
+                "IN_GROUP": "╎リ ⊣∷𝙹⚍!¡",
+                "LEAVE_GROUP": "ꖎᒷᔑ⍊ᒷ ⊣∷𝙹⚍!¡",
+                "KICK_FROM_GROUP": "ꖌ╎ᓵꖌ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ ⊣∷𝙹⚍!¡",
+                "TITLE": "⊣∷𝙹⚍!¡",
+                "OFF_LINE": "𝙹⎓⎓ꖎ╎リᒷ",
+                "CREATE_GROUP": "ᓵ∷ᒷᔑℸ ̣ᒷ ⊣∷𝙹⚍!¡",
+                "BATTLE_GROUP": "⊣∷𝙹⚍!¡",
+                "YOU": "||𝙹⚍"
+            },
+            "invite": {
+                "ACCEPTED": "%⚍ᓭᒷ∷リᔑᒲᒷ% ╎ᓭ ⋮𝙹╎リ╎リ⊣ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᔑℸ ̣ ||𝙹⚍∷ ╎リ⍊╎ℸ ̣ᔑℸ ̣╎𝙹リ",
+                "REJECTED": "%⚍ᓭᒷ∷リᔑᒲᒷ% ∷ᒷ⎓⚍ᓭᒷ↸ ℸ ̣𝙹 ⋮𝙹╎リ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᔑℸ ̣ ||𝙹⚍∷ ╎リ⍊╎ℸ ̣ᔑℸ ̣╎𝙹リ",
+                "REJECTED_BATTLE_NOT_FOUND": "╎リ⍊╎ℸ ̣ᒷ ⍑ᔑᓭ リ𝙹ℸ ̣ ʖᒷᒷリ ᓭᒷリℸ ̣\nʖᔑℸ ̣ℸ ̣ꖎᒷ ᓵᔑリリ𝙹ℸ ̣ ʖᒷ ⎓𝙹⚍リ↸",
+                "REJECTED_INVITATION_TO_BATTLE_DISABLED": "%⚍ᓭᒷ∷リᔑᒲᒷ% ↸╎ᓭᔑʖꖎᒷ↸ ╎リ⍊╎ℸ ̣ᒷᓭ.\n╎リ⍊╎ℸ ̣ᒷ ᓵᔑリリ𝙹ℸ ̣ ʖᒷ ᓭᒷリℸ ̣.",
+                "REJECTED_PANEL_NOT_LOADED": "╎リ⍊╎ℸ ̣ᒷ ⍑ᔑᓭ リ𝙹ℸ ̣ ʖᒷᒷリ ᓭᒷリℸ ̣\n||𝙹⚍∷ ⎓∷╎ᒷリ↸ ╎ᓭ ᒷリℸ ̣ᒷ∷╎リ⊣ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ",
+                "REJECTED_USER_ALREADY_IN_BATTLE": "╎リ⍊╎ℸ ̣ᒷ ⍑ᔑᓭ リ𝙹ℸ ̣ ʖᒷᒷリ ᓭᒷリℸ ̣\n||𝙹⚍∷ ⎓∷╎ᒷリ↸ ╎ᓭ ᔑꖎ∷ᒷᔑ↸|| ╎リ ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "REJECTED_USER_OFFLINE": "╎リ⍊╎ℸ ̣ᒷ ⍑ᔑᓭ リ𝙹ℸ ̣ ʖᒷᒷリ ᓭᒷリℸ ̣\n||𝙹⚍∷ ⎓∷╎ᒷリ↸ ╎ᓭ 𝙹⎓⎓ꖎ╎リᒷ",
+                "REJECTED_USER_IN_MATCH_BATTLE": "ℸ ̣⍑╎ᓭ !¡ꖎᔑ||ᒷ∷ ╎ᓭ ╎リ ᔑ ᒲᔑℸ ̣ᓵ⍑ᒲᔑꖌ╎リ⊣ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "INVITES_YOU_TO_A_BATTLE_LABEL": "╎リ⍊╎ℸ ̣ᒷᓭ ||𝙹⚍ ℸ ̣𝙹 ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "THERE_ARE_PLACES_AVAILABLE_LABEL": "ℸ ̣⍑ᒷ∷ᒷ ᔑ∷ᒷ !¡ꖎᔑᓵᒷᓭ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ",
+                "BATTLE_IS_UNAVAILABLE_AT_YOUR_RANK_LABEL": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ╎ᓭ ⚍リᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ ᔑℸ ̣ ||𝙹⚍∷ ∷ᔑリꖌ",
+                "NO_PLACES_AVAILABLE_LABEL": "リ𝙹 !¡ꖎᔑᓵᒷᓭ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ",
+                "TITLE": "╎リ⍊╎ℸ ̣ᔑℸ ̣╎𝙹リᓭ",
+                "USER_ALREADY_INVITED": "||𝙹⚍∷ ∷ᒷᑑ⚍ᒷᓭℸ ̣ ╎ᓭ ʖᒷ╎リ⊣ !¡∷𝙹ᓵᒷᓭᓭᒷ↸. !¡ꖎᒷᔑᓭᒷ ∴ᔑ╎ℸ ̣ ⎓𝙹∷ ᔑリ ᔑリᓭ∴ᒷ∷.",
+                "BATTLE_INVITE": "╎リ⍊╎ℸ ̣ᔑℸ ̣╎𝙹リ"
+            },
+            "dialogs": {
+                "BATTLE_NOT_FOUND_TITLE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ リ𝙹ℸ ̣ ⎓𝙹⚍リ↸",
+                "BATTLE_NOT_FOUND_MESSAGE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ⍑ᔑᓭ ᒷリ↸ᒷ↸",
+                "ENTER_TO_BATTLE_FAILED_TITLE": "ᒷ∷∷𝙹∷ ∴⍑╎ꖎᒷ ⋮𝙹╎リ╎リ⊣ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "ENTER_TO_BATTLE_FAILED_MESSAGE": "⎓ᔑ╎ꖎᒷ↸ ℸ ̣𝙹 ⋮𝙹╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "EQUIPMENT_NOT_MATCH_CONSTRAINTS_TITLE": "∴∷𝙹リ⊣ ᒷᑑ⚍╎!¡ᒲᒷリℸ ̣",
+                "EQUIPMENT_NOT_MATCH_CONSTRAINTS_MESSAGE": "This battle requires a specific set of equipment to join. Your tank does not comply with the format rules. <a href = 'https://en.tankiwiki.com/Format_Battles' target =' _ blank '><u>Details</u></a>.",
+                "FIGHT_FAILED_SERVER_IS_HALTING_TITLE": "ᒷ∷∷𝙹∷ ᒷリℸ ̣ᒷ∷╎リ⊣ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "FIGHT_FAILED_SERVER_IS_HALTING_MESSAGE": "ᓭᒷ∷⍊ᒷ∷ ∷ᒷᓭℸ ̣ᔑ∷ℸ ̣ ╎リ !¡∷𝙹⊣∷ᒷᓭᓭ. ʖᔑℸ ̣ℸ ̣ꖎᒷ ᓵ∷ᒷᔑℸ ̣╎𝙹リ ᔑリ↸ !¡ᔑ∷ℸ ̣╎ᓵ╎!¡ᔑℸ ̣╎𝙹リ ᔑ∷ᒷ ℸ ̣ᒷᒲ!¡𝙹∷ᔑ∷╎ꖎ|| ⚍リᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ.",
+                "PARKOUR_WARNING_TITLE": "ᓭ!¡ᒷᓵ╎ᔑꖎ ⎓𝙹∷ᒲᔑℸ ̣ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "PARKOUR_WARNING_MESSAGE": "ᔑℸ ̣ℸ ̣ᒷリℸ ̣╎𝙹リ! ╎リ ℸ ̣⍑╎ᓭ ⎓𝙹∷ᒲᔑℸ ̣, ╎リ 𝙹∷↸ᒷ∷ ℸ ̣𝙹 ∷ᒷᒲ𝙹⍊ᒷ ᓵᒷ∷ℸ ̣ᔑ╎リ ꖎ╎ᒲ╎ℸ ̣ᓭ ℸ ̣𝙹 ꖎᒷℸ ̣ !¡ꖎᔑ||ᒷ∷ᓭ !¡ᒷ∷⎓𝙹∷ᒲ !¡ᔑ∷ꖌ𝙹⚍∷ ℸ ̣∷╎ᓵꖌᓭ, !¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ ⎓∷𝙹ᒲ ⚍ᓭ╎リ⊣ ℸ ̣⍑╎∷↸-!¡ᔑ∷ℸ ̣|| ᓭ𝙹⎓ℸ ̣∴ᔑ∷ᒷ ╎ᓭ ↸╎ᓭᔑʖꖎᒷ↸, ╎ℸ ̣ ╎ᓭ ╎ᒲ!¡𝙹ᓭᓭ╎ʖꖎᒷ ℸ ̣𝙹 ∷ᒷ!¡𝙹∷ℸ ̣ ᔑ ⍊╎𝙹ꖎᔑℸ ̣𝙹∷ ᔑリ↸ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ ᔑ∷ᒷ リ𝙹ℸ ̣ ᔑ↸↸ᒷ↸ ℸ ̣𝙹 ʖᔑℸ ̣ℸ ̣ꖎᒷ ⎓⚍リ↸.",
+                "PARKOUR_WARNING_ENTER_BUTTON": "⋮𝙹╎リ",
+                "EQUIPMENT_NOT_MATCH_CONSTRAINTS_MESSAGE_UNITY": "ℸ ̣⍑╎ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ ∷ᒷᑑ⚍╎∷ᒷᓭ ᔑ ᓭ!¡ᒷᓵ╎⎓╎ᓵ ᓭᒷℸ ̣ 𝙹⎓ ᒷᑑ⚍╎!¡ᒲᒷリℸ ̣ ℸ ̣𝙹 ⋮𝙹╎リ. ||𝙹⚍∷ ℸ ̣ᔑリꖌ ↸𝙹ᒷᓭ リ𝙹ℸ ̣ ᓵ𝙹ᒲ!¡ꖎ|| ∴╎ℸ ̣⍑ ℸ ̣⍑ᒷ ⎓𝙹∷ᒲᔑℸ ̣ ∷⚍ꖎᒷᓭ."
+            },
+            "GsWarning": {
+                "TITLE": "ꖎ𝙹∴ ⚍!¡⊣∷ᔑ↸ᒷᓭ ꖎᒷ⍊ᒷꖎ",
+                "MESSAGE": "ℸ ̣⍑ᒷ ⊣ᒷᔑ∷ ᓭᓵ𝙹∷ᒷ 𝙹⎓ ||𝙹⚍∷ ℸ ̣ᔑリꖌ ╎ᓭ ʖᒷꖎ𝙹∴ ℸ ̣⍑ᒷ ∷ᒷᓵ𝙹ᒲᒲᒷリ↸ᒷ↸ ꖎᒷ⍊ᒷꖎ ⎓𝙹∷ ᔑ ᓵ𝙹ᒲ⎓𝙹∷ℸ ̣ᔑʖꖎᒷ ᔑリ↸ ᓭᔑℸ ̣╎ᓭ⎓ᔑᓵℸ ̣𝙹∷|| ⊣ᔑᒲᒷ. 𝙹ℸ ̣⍑ᒷ∷ ℸ ̣ᔑリꖌᒷ∷ᓭ ᒲᔑ|| ʖᒷ リ𝙹ℸ ̣╎ᓵᒷᔑʖꖎ|| ᓭℸ ̣∷𝙹リ⊣ᒷ∷. ℸ ̣𝙹 ╎リᓵ∷ᒷᔑᓭᒷ ||𝙹⚍∷ ⊣ᒷᔑ∷ ᓭᓵ𝙹∷ᒷ, ||𝙹⚍ リᒷᒷ↸ ℸ ̣𝙹 ╎ᒲ!¡∷𝙹⍊ᒷ ᔑリ↸ ⚍!¡⊣∷ᔑ↸ᒷ ℸ ̣⍑ᒷ ᓵ⚍∷∷ᒷリℸ ̣ ᒷᑑ⚍╎!¡ᒲᒷリℸ ̣ ╎リ ℸ ̣⍑ᒷ ⊣ᔑ∷ᔑ⊣ᒷ.",
+                "CURRENT_GS": "ᓵ⚍∷∷ᒷリℸ ̣ ⊣ᒷᔑ∷ ᓭᓵ𝙹∷ᒷ:",
+                "RECOMMENDED_GS": "∷ᒷᓵ𝙹ᒲᒲᒷリ↸ᒷ↸ ⊣ᒷᔑ∷ ᓭᓵ𝙹∷ᒷ:",
+                "CANCEL": "∷ᒷℸ ̣⚍∷リ",
+                "CONTINUE": "!¡ꖎᔑ|| ᔑリ||∴ᔑ||"
+            }
+        },
+        "friends": {
+            "TITLE": "⎓∷╎ᒷリ↸ᓭ",
+            "menu": {
+                "FRIENDS": "⎓∷╎ᒷリ↸ᓭ",
+                "FRIEND_REQUEST": "∷ᒷᑑ⚍ᒷᓭℸ ̣",
+                "MY_CLAN": "ᒲ|| ᓵꖎᔑリ",
+                "REFERALUSERS": "╎リ⍊╎ℸ ̣ᒷ↸ ⚍ᓭᒷ∷ᓭ"
+            },
+            "list": {
+                "SEARCH_PLACEHOLDER": "ᓭᒷᔑ∷ᓵ⍑",
+                "FRIENDS_LIMIT_EXCEEDED": "||𝙹⚍∷ ⎓∷╎ᒷリ↸ᓭ ꖎ╎ᓭℸ ̣ ⍑ᔑᓭ ∷ᒷᔑᓵ⍑ᒷ↸ ℸ ̣⍑ᒷ ᒲᔑ̇̇/╎ᒲ⚍ᒲ リ⚍ᒲʖᒷ∷ 𝙹⎓ !¡ꖎᔑ||ᒷ∷ᓭ.",
+                "FRIENDS_ONLINE": "⎓∷╎ᒷリ↸ᓭ 𝙹リꖎ╎リᒷ",
+                "USER_ONLINE": "𝙹リꖎ╎リᒷ",
+                "USER_OFFLINE": "𝙹⎓⎓ꖎ╎リᒷ",
+                "NEW_USER": "リᒷ∴",
+                "PRO_BATTLE": "!¡∷𝙹",
+                "MM_BATTLE": "ᒲᒲ",
+                "SEARCH_FOR_ADDED_FRIEND": "ᒷリℸ ̣ᒷ∷ ᔑ リ╎ᓵꖌリᔑᒲᒷ"
+            },
+            "request": {
+                "SEARCH_PLACEHOLDER": "ᓭᒷᔑ∷ᓵ⍑",
+                "DECLINE_ALL": "↸ᒷᓵꖎ╎リᒷ ᔑꖎꖎ",
+                "FRIEND_USER_TABLE_NAME": "リᔑᒲᒷ",
+                "FRIEND_USER_TABLE_ACTIONS": "ᔑᓵℸ ̣╎𝙹リ",
+                "FRIEND_ACCEPT": "ᔑᓵᓵᒷ!¡ℸ ̣",
+                "FRIEND_DECLINE": "↸ᒷᓵꖎ╎リᒷ"
+            },
+            "invited": {
+                "COUNT_REGISTERED_FRIENDS": "ᔑꖎꖎ ∷ᒷ⊣╎ᓭℸ ̣ᒷ∷ᒷ↸ ⎓∷╎ᒷリ↸ᓭ",
+                "TOTAL_BONUS": "ℸ ̣𝙹ℸ ̣ᔑꖎ ʖ𝙹リ⚍ᓭ",
+                "COPY_LINK": "ᓵ𝙹!¡|| ꖎ╎リꖌ",
+                "TABLE_TITLE_FRIEND": "⎓∷╎ᒷリ↸",
+                "TABLE_TITLE_CRYSTALLS": "ᓵ∷||ᓭℸ ̣ᔑꖎᓭ ᒷᔑ∷リᒷ↸",
+                "INVITE": "╎リ⍊╎ℸ ̣ᒷ ⎓∷╎ᒷリ↸ᓭ",
+                "LINK_COPIED": "ᓵ𝙹!¡╎ᒷ↸"
+            },
+            "notifications": {
+                "FRIEND_REQUEST_SENT": "ᔑ ∷ᒷᑑ⚍ᒷᓭℸ ̣ ⍑ᔑᓭ ʖᒷᒷリ ᓭᒷリℸ ̣.",
+                "ALREADY_IN_ACCEPTED_FRIENDS": "%⚍ᓭᒷ∷リᔑᒲᒷ% ╎ᓭ ᔑꖎ∷ᒷᔑ↸|| ╎リ ||𝙹⚍∷ ⎓∷╎ᒷリ↸ᓭ ꖎ╎ᓭℸ ̣.",
+                "ALREADY_IN_ICOMING_FRIENDS": "||𝙹⚍'⍊ᒷ ᔑꖎ∷ᒷᔑ↸|| ∷ᒷᓵᒷ╎⍊ᒷ↸ ᔑ ∷ᒷᑑ⚍ᒷᓭℸ ̣ ⎓∷𝙹ᒲ %⚍ᓭᒷ∷リᔑᒲᒷ%. ᔑᓵᓵᒷ!¡ℸ ̣ ╎ℸ ̣?",
+                "ALREADY_IN_OUTGOUNG_FRIENDS": "||𝙹⚍'⍊ᒷ ᔑꖎ∷ᒷᔑ↸|| ᓭᒷリℸ ̣ ᔑ ∷ᒷᑑ⚍ᒷᓭℸ ̣ ℸ ̣𝙹 %⚍ᓭᒷ∷リᔑᒲᒷ%.",
+                "INCOMING_LIMIT_EXCEEDED": "⚍リᔑʖꖎᒷ ℸ ̣𝙹 ᓭᒷリ↸ ∷ᒷᑑ⚍ᒷᓭℸ ̣. ℸ ̣⍑╎ᓭ ⚍ᓭᒷ∷'ᓭ ∷ᒷᑑ⚍ᒷᓭℸ ̣ ╎リʖ𝙹̇̇/ ╎ᓭ ⎓⚍ꖎꖎ.",
+                "ACCEPTED_LIMIT_EXCEEDED": "ᓵᔑリ リ𝙹ℸ ̣ ᔑᓵᓵᒷ!¡ℸ ̣ ⎓∷╎ᒷリ↸ ∷ᒷᑑ⚍ᒷᓭℸ ̣. ⎓∷╎ᒷリ↸ᓭ ꖎ╎ᓭℸ ̣ 𝙹⎓ %⚍ᓭᒷ∷リᔑᒲᒷ% ⍑ᔑᓭ ∷ᒷᔑᓵ⍑ᒷ↸ ℸ ̣⍑ᒷ ᒲᔑ̇̇/╎ᒲ⚍ᒲ リ⚍ᒲʖᒷ∷ 𝙹⎓ !¡ꖎᔑ||ᒷ∷ᓭ.",
+                "YOUR_ACCEPTED_LIMIT_EXCEEDED": "ᓵᔑリ リ𝙹ℸ ̣ ᔑᓵᓵᒷ!¡ℸ ̣ ⎓∷╎ᒷリ↸ ∷ᒷᑑ⚍ᒷᓭℸ ̣. ||𝙹⚍∷ ⎓∷╎ᒷリ↸ᓭ ꖎ╎ᓭℸ ̣ ⍑ᔑᓭ ∷ᒷᔑᓵ⍑ᒷ↸ ℸ ̣⍑ᒷ ᒲᔑ̇̇/╎ᒲ⚍ᒲ リ⚍ᒲʖᒷ∷ 𝙹⎓ !¡ꖎᔑ||ᒷ∷ᓭ."
+            },
+            "contextMenu": {
+                "FRIEND_BREAK_IT_OFF": "∷ᒷᒲ𝙹⍊ᒷ ⎓∷𝙹ᒲ ⎓∷╎ᒷリ↸ᓭ ꖎ╎ᓭℸ ̣",
+                "JOIN_TO_FRIEND_BATTLE": "⋮𝙹╎リ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ"
+            },
+            "expelMenu": {
+                "TITLE": "∷ᒷᒲ𝙹⍊ᒷ ⎓∷𝙹ᒲ ⎓∷╎ᒷリ↸ᓭ ꖎ╎ᓭℸ ̣",
+                "CONFIRM_TEXT": "||ᒷᓭ",
+                "CANCEL_TEXT": "リ𝙹",
+                "TEXT": "∷ᒷᒲ𝙹⍊ᒷ %⚍ᓭᒷ∷ ⎓∷𝙹ᒲ ||𝙹⚍∷ ⎓∷╎ᒷリ↸ᓭ ꖎ╎ᓭℸ ̣?"
+            },
+            "searchMenu": {
+                "INVALID_NICK_NAME": "╎リ⍊ᔑꖎ╎↸ リ╎ᓵꖌリᔑᒲᒷ"
+            }
+        },
+        "quests": {
+            "navigation": {
+                "HEADER": "ᒲ╎ᓭᓭ╎𝙹リᓭ",
+                "MAIN": "ᓭ!¡ᒷᓵ╎ᔑꖎ",
+                "DAILY": "↸ᔑ╎ꖎ||",
+                "WEEKLY": "∴ᒷᒷꖌꖎ||",
+                "CHALLENGES": "ᓵ⍑ᔑꖎꖎᒷリ⊣ᒷᓭ"
+            },
+            "daily": {
+                "MISSION": "ᒲ╎ᓭᓭ╎𝙹リ",
+                "REWARDS": "∷ᒷ∴ᔑ∷↸",
+                "CHANGE_MISSION": "ᓵ⍑ᔑリ⊣ᒷ ℸ ̣ᔑᓭꖌ",
+                "CLAIM_REWARD": "ᓵ𝙹ꖎꖎᒷᓵℸ ̣ ∷ᒷ∴ᔑ∷↸"
+            },
+            "weekly": {
+                "NEXT_MISSION": "リᒷ̇̇/ℸ ̣ ᒲ╎ᓭᓭ╎𝙹リ",
+                "PLAY": "!¡ꖎᔑ||"
+            },
+            "challenges": {
+                "TIER": "ꖎᒷ⍊ᒷꖎ",
+                "TIERS": "ꖎᒷ⍊ᒷꖎᓭ",
+                "STARS": "ᓭℸ ̣ᔑ∷ᓭ",
+                "TIME_LEFT": "ꖎᒷ⎓ℸ ̣:",
+                "BUY_BATTLE_PASS": "ʖ⚍|| ʖᔑℸ ̣ℸ ̣ꖎᒷ !¡ᔑᓭᓭ",
+                "BUY_BATTLE_PASS_DESCRIPTION": "ℸ ̣⍑ᒷ ⊣𝙹ꖎ↸ ℸ ̣╎ᒷ∷ 𝙹リ ℸ ̣⍑ᒷ ʖ𝙹ℸ ̣ℸ ̣𝙹ᒲ ᓵ𝙹リℸ ̣ᔑ╎リᓭ ᒷ⍊ᒷリ ⋮⚍╎ᓵ╎ᒷ∷ ∷ᒷ∴ᔑ∷↸ᓭ. ⊣ᒷℸ ̣ ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ !¡ᔑᓭᓭ ℸ ̣𝙹 ⚍リꖎ𝙹ᓵꖌ ℸ ̣⍑ᒷᒲ!",
+                "BUY_EVENT_BATTLE_PASS": "!¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑ᒷ ᒷꖎ╎ℸ ̣ᒷ !¡ᔑᓭᓭ",
+                "BUY_EVENT_BATTLE_PASS_DESCRIPTION": "!¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑ᒷ ᒷꖎ╎ℸ ̣ᒷ !¡ᔑᓭᓭ ᔑリ↸ ⊣ᒷℸ ̣ ᔑꖎꖎ ℸ ̣⍑ᒷ ᒷᔑ∷リᒷ↸ ∷ᒷ∴ᔑ∷↸ᓭ 𝙹⎓ ℸ ̣⍑╎ᓭ ᒷ⍊ᒷリℸ ̣",
+                "BUY_PREMIUM": "ʖ⚍|| !¡∷ᒷᒲ╎⚍ᒲ",
+                "BUY_PREMIUM_DESCRIPTION": "!¡⚍∷ᓵ⍑ᔑᓭᒷ !¡∷ᒷᒲ╎⚍ᒲ ℸ ̣𝙹 ⊣ᒷℸ ̣ ↸𝙹⚍ʖꖎᒷ ᓭℸ ̣ᔑ∷ᓭ ⎓𝙹∷ ᒷ⍊ᒷ∷|| ʖᔑℸ ̣ℸ ̣ꖎᒷ ||𝙹⚍ ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ",
+                "BUY_STARS": "ʖ⚍|| ᓭℸ ̣ᔑ∷ᓭ",
+                "BUY_STARS_TIP": "!¡⚍∷ᓵ⍑ᔑᓭᒷ ᒷ̇̇/ℸ ̣∷ᔑ ᓭℸ ̣ᔑ∷ᓭ ℸ ̣𝙹 ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ ||𝙹⚍∷ ᓵ⍑ᔑꖎꖎᒷリ⊣ᒷ ⎓ᔑᓭℸ ̣ᒷ∷.",
+                "FINISH_DESCRIPTION": "||𝙹⚍ ⍑ᔑ⍊ᒷ ∷ᒷᔑᓵ⍑ᒷ↸ ℸ ̣⍑ᒷ ⎓╎リᔑꖎ ᓭℸ ̣ᔑ⊣ᒷ ᔑリ↸ ∷ᒷᓵᒷ╎⍊ᒷ↸ ᔑꖎꖎ 𝙹⎓ ℸ ̣⍑ᒷ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ ∷ᒷ∴ᔑ∷↸ᓭ",
+                "STANDARD_PASS": "ᓭ╎ꖎ⍊ᒷ∷ ℸ ̣╎ᒷ∷",
+                "PREMIUM_PASS": "⊣𝙹ꖎ↸ ℸ ̣╎ᒷ∷",
+                "BATTLE_PASS": "ᓵ⍑ᔑꖎꖎᒷリ⊣ᒷᓭ",
+                "LOCKED": "ꖎ𝙹ᓵꖌᒷ↸",
+                "AVAILABLE_SOON": "ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ ᓭ𝙹𝙹リ",
+                "CHALLENGE_REWARD_NOTIFICATION": "||𝙹⚍ ⍑ᔑ⍊ᒷ ∷ᒷᓵᒷ╎⍊ᒷ↸ ℸ ̣⍑ᒷ ∷ᒷ∴ᔑ∷↸ᓭ ⎓𝙹∷ ᓭℸ ̣ᔑ⊣ᒷ %リ⚍ᒲʖᒷ∷% 𝙹⎓ ℸ ̣⍑ᒷ ᓵ⍑ᔑꖎꖎᒷリ⊣ᒷ",
+                "EVENT_CHALLENGE_REWARD_NOTIFICATION": "||𝙹⚍ ⍑ᔑ⍊ᒷ ᔑᓵ⍑╎ᒷ⍊ᒷ↸ ꖎᒷ⍊ᒷꖎ %リ⚍ᒲʖᒷ∷% 𝙹⎓ ℸ ̣⍑ᒷ ᓭ!¡ᒷᓵ╎ᔑꖎ ⎓ᒷᓭℸ ̣╎⍊ᒷ ᓵ⍑ᔑꖎꖎᒷリ⊣ᒷ. ℸ ̣𝙹 ⊣ᒷℸ ̣ ||𝙹⚍∷ ∷ᒷ∴ᔑ∷↸ᓭ ||𝙹⚍ ∴╎ꖎꖎ リᒷᒷ↸ ℸ ̣𝙹 !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑ᒷ ᒷꖎ╎ℸ ̣ᒷ !¡ᔑᓭᓭ",
+                "COMPLETED": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ↸",
+                "CURRENT_LEVEL": "ᓵ⚍∷∷ᒷリℸ ̣ ꖎᒷ⍊ᒷꖎ",
+                "TIMER_LEFT": "ℸ ̣╎ᒲᒷ ꖎᒷ⎓ℸ ̣",
+                "BATTLE_PASS_BUY": "ʖᔑℸ ̣ℸ ̣ꖎᒷ !¡ᔑᓭᓭ",
+                "EVENT_BATTLE_PASS": "ᒷꖎ╎ℸ ̣ᒷ !¡ᔑᓭᓭ",
+                "FREE_TIER": "⎓∷ᒷᒷ ℸ ̣╎ᒷ∷",
+                "REWARDS": "∷ᒷ∴ᔑ∷↸ᓭ"
+            },
+            "main": {
+                "TITLE": "!¡∷╎ᒲᔑ∷|| ᒲ╎ᓭᓭ╎𝙹リᓭ",
+                "REWARDS_TITLE": "∷ᒷ∴ᔑ∷↸",
+                "PLAY_BUTTON_LABEL": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ",
+                "PLAY_BUTTON_DISABLED_USER_IN_GROUP_LABEL": "||𝙹⚍ ᓵᔑリリ𝙹ℸ ̣ ⊣𝙹 ╎リℸ ̣𝙹 ʖᔑℸ ̣ℸ ̣ꖎᒷ ʖᒷᓵᔑ⚍ᓭᒷ ||𝙹⚍ ᔑ∷ᒷ ╎リ ᔑ ⊣∷𝙹⚍!¡!",
+                "UNLOCK_BUTTON_LABEL": "⚍リꖎ𝙹ᓵꖌ",
+                "COMPLETE_BUTTON_LABEL": "ᓵ𝙹ꖎꖎᒷᓵℸ ̣",
+                "TASK_COMPLETED_BUTTON_LABEL": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ↸",
+                "BUY_PREMIUM": "ʖ⚍|| !¡∷ᒷᒲ╎⚍ᒲ",
+                "BUY_BATTLEPASS": "ʖ⚍|| ʖᔑℸ ̣ℸ ̣ꖎᒷ !¡ᔑᓭᓭ",
+                "REMAINING_TIME": "ℸ ̣╎ᒲᒷ ꖎᒷ⎓ℸ ̣:",
+                "CHOOSE_CATEGORY": "ᓵ⍑𝙹𝙹ᓭᒷ",
+                "LIST_IS_EMPTY_HEADER": "ᔑꖎꖎ ᒲ╎ᓭᓭ╎𝙹リᓭ ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ↸",
+                "LIST_IS_EMPTY_TEXT": "ℸ ̣⍑ᒷ∷ᒷ ᔑ∷ᒷ リ𝙹 ᒲ╎ᓭᓭ╎𝙹リᓭ ℸ ̣𝙹 ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ <ᓭℸ ̣∷𝙹リ⊣>╎リ ℸ ̣⍑╎ᓭ ᓵᔑℸ ̣ᒷ⊣𝙹∷||</ᓭℸ ̣∷𝙹リ⊣> リ𝙹∴, ᓵ⍑ᒷᓵꖌ ᔑ⊣ᔑ╎リ ꖎᔑℸ ̣ᒷ∷",
+                "CLAIM_ALL": "ᓵꖎᔑ╎ᒲ ᔑꖎꖎ",
+                "COMPLETE_ALL_THE_MISSIONS_TO_CLAIM_REWARDS": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ ᔑꖎꖎ ℸ ̣⍑ᒷ ᒲ╎ᓭᓭ╎𝙹リᓭ ℸ ̣𝙹 ᓵꖎᔑ╎ᒲ ∷ᒷ∴ᔑ∷↸ᓭ"
+            },
+            "contracts": {
+                "STATE_COMPLETED": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ↸",
+                "STATE_EXPIRED": "ᒷ̇̇/!¡╎∷ᒷ↸",
+                "ACTION_EARLY_COMPLETE": "ᒷᔑ∷ꖎ|| ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣╎𝙹リ",
+                "ACTION_GET_EXPIRED_REWARD": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ",
+                "ACTION_REWARDED": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ↸",
+                "ACTION_GET_COMPLETE_REWARD": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ↸",
+                "ACTION_ACTIVATE": "ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ",
+                "ACTIVE": "ᔑᓵℸ ̣╎⍊ᒷ",
+                "DIALOG_REWARD_TITLE": "∷ᒷ∴ᔑ∷↸",
+                "DIALOG_REWARDED_TITLE": "∷ᒷ∴ᔑ∷↸ ᓵꖎᔑ╎ᒲᒷ↸",
+                "BUY_EARLY_COMPLETE": "ᒷᔑ∷ꖎ|| ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣╎𝙹リ 𝙹⎓ ℸ ̣⍑ᒷ %0 ᓵ𝙹リℸ ̣∷ᔑᓵℸ ̣",
+                "CONTRACTS_TITLE": "ᓵ𝙹リℸ ̣∷ᔑᓵℸ ̣ᓭ",
+                "DIALOG_ACTIVATE_FORBID_TITLE": "ᔑℸ ̣ℸ ̣ᒷリℸ ̣╎𝙹リ",
+                "DIALOG_ACTIVATE_FORBID_MESSAGE": "||𝙹⚍ ⍑ᔑ⍊ᒷ ᔑ ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ↸ ᓵ𝙹リℸ ̣∷ᔑᓵℸ ̣ ∴╎ℸ ̣⍑ ⚍リᓵꖎᔑ╎ᒲᒷ↸ ∷ᒷ∴ᔑ∷↸. ℸ ̣𝙹 ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ ᔑ リᒷ∴ ᓵ𝙹リℸ ̣∷ᔑᓵℸ ̣, ⎓╎∷ᓭℸ ̣ ᓵꖎᔑ╎ᒲ ℸ ̣⍑ᒷ ∷ᒷ∴ᔑ∷↸."
+            }
+        },
+        "clans": {
+            "select_action_menu": {
+                "CREATE_CLAN": "ᓵ∷ᒷᔑℸ ̣ᒷ ᓵꖎᔑリ",
+                "LICENSE": "ᓵꖎᔑリ ꖎ╎ᓵᒷリᓭᒷ",
+                "WITHOUT_LICENSE": "リ𝙹 ᓵꖎᔑリ ꖎ╎ᓵᒷリᓭᒷ",
+                "BUY_LICENSE": "ʖ⚍|| ꖎ╎ᓵᒷリᓭᒷ",
+                "DESCRIPTION_AWARD": "ℸ ̣⍑╎ᓭ ╎ᓭ ∴⍑ᒷ∷ᒷ ||𝙹⚍ ᓵᔑリ ᓵ∷ᒷᔑℸ ̣ᒷ ||𝙹⚍∷ 𝙹∴リ ᓵꖎᔑリ, ℸ ̣ᒷᔑᒲ ⚍!¡ ∴╎ℸ ̣⍑ ||𝙹⚍∷ ⎓∷╎ᒷリ↸ᓭ ᔑリ↸ ⊣ᒷℸ ̣ ᔑᓵᓵᒷᓭᓭ ℸ ̣𝙹 ᓭ!¡ᒷᓵ╎ᔑꖎ ᓵꖎᔑリ ʖ𝙹リ⚍ᓭᒷᓭ.",
+                "DESCRIPTION_GROWS": "∷ᒷᒲᒷᒲʖᒷ∷, ᔑᓭ ||𝙹⚍∷ ᓵꖎᔑリ ⊣∷𝙹∴ᓭ ╎リ ᓭ╎⨅ᒷ, ℸ ̣⍑ᒷ ʖ𝙹リ⚍ᓭᒷᓭ ⎓𝙹∷ ᓵꖎᔑリ ᒲᒷᒲʖᒷ∷ᓭ ∴╎ꖎꖎ ⊣ᒷℸ ̣ ʖ╎⊣⊣ᒷ∷ ᔑリ↸ ʖᒷℸ ̣ℸ ̣ᒷ∷.",
+                "DESCRIPTION_PURCHASE_LICENSE": "ℸ ̣𝙹 ᓵ∷ᒷᔑℸ ̣ᒷ ||𝙹⚍∷ 𝙹∴リ ᓵꖎᔑリ, ||𝙹⚍ ᒲ⚍ᓭℸ ̣ !¡⚍∷ᓵ⍑ᔑᓭᒷ ᔑ ꖎ╎ᓵᒷリᓭᒷ.",
+                "DESCRIPTION_ALLOW_CREATE": "ℸ ̣⍑╎ᓭ ꖎ╎ᓵᒷリᓭᒷ ∴╎ꖎꖎ ᔑꖎꖎ𝙹∴ ||𝙹⚍ ℸ ̣𝙹 ᓵ∷ᒷᔑℸ ̣ᒷ ᔑ ᓭ╎リ⊣ꖎᒷ ᓵꖎᔑリ",
+                "CLOSE": "ᓵꖎ𝙹ᓭᒷ",
+                "NEXT": "リᒷ̇̇/ℸ ̣",
+                "JOIN_ANOTHER": "⋮𝙹╎リ ᔑリ𝙹ℸ ̣⍑ᒷ∷ ᓵꖎᔑリ",
+                "CLAN_NAME": "ᓵꖎᔑリ リᔑᒲᒷ",
+                "CLAN_TAG": "ᓵꖎᔑリ ℸ ̣ᔑ⊣",
+                "FLAG": "⎓ꖎᔑ⊣",
+                "INCORRECT_NAME": "╎リᓵ𝙹∷∷ᒷᓵℸ ̣ ᓵꖎᔑリ リᔑᒲᒷ",
+                "INCORRECT_TAG": "╎リᓵ𝙹∷∷ᒷᓵℸ ̣ ᓵꖎᔑリ ℸ ̣ᔑ⊣",
+                "NOT_UNIQUE_NAME": "ᓵꖎᔑリ リᔑᒲᒷ ᔑꖎ∷ᒷᔑ↸|| ╎リ ⚍ᓭᒷ",
+                "NOT_UNIQUE_TAG": "ℸ ̣ᔑ⊣ ᔑꖎ∷ᒷᔑ↸|| ╎リ ⚍ᓭᒷ",
+                "ALREADY_IN_CLAN": "||𝙹⚍ ᔑ∷ᒷ ᔑꖎ∷ᒷᔑ↸|| ᔑ ᒲᒷᒲʖᒷ∷ 𝙹⎓ ᔑ ᓵꖎᔑリ",
+                "CONFIRMATION": "ᓵ𝙹リ⎓╎∷ᒲ ℸ ̣⍑ᔑℸ ̣ ||𝙹⚍ ᔑ∷ᒷ ⎓ᔑᒲ╎ꖎ╎ᔑ∷ ∴╎ℸ ̣⍑ ℸ ̣⍑ᒷ %∷⚍ꖎᒷᓭ",
+                "RULES": "∷⚍ꖎᒷᓭ"
+            },
+            "menu": {
+                "CLAN": "ᓵꖎᔑリ",
+                "INFO": "╎リ⎓𝙹",
+                "MEMBERS": "ᒲᒷᒲʖᒷ∷ᓭ",
+                "REQUESTS": "∷ᒷᑑ⚍ᒷᓭℸ ̣ᓭ",
+                "INVITATIONS": "╎リ⍊╎ℸ ̣ᔑℸ ̣╎𝙹リᓭ"
+            },
+            "info": {
+                "FOUNDER": "ᓵꖎᔑリ ⎓𝙹⚍リ↸ᒷ∷:",
+                "CLAN_MESSAGE": "ᓵꖎᔑリ ᒲᒷᓭᓭᔑ⊣ᒷ:",
+                "EDIT_PROFILE": "ᒷ↸╎ℸ ̣ !¡∷𝙹⎓╎ꖎᒷ",
+                "CREATED": "ᓵ∷ᒷᔑℸ ̣ᒷ↸:",
+                "TAG": "ℸ ̣ᔑ⊣:",
+                "PLAYERS": "!¡ꖎᔑ||ᒷ∷ᓭ:",
+                "ONLINE": "𝙹リꖎ╎リᒷ:",
+                "TANKS_DESTROYED": "ℸ ̣ᔑリꖌᓭ ↸ᒷᓭℸ ̣∷𝙹||ᒷ↸",
+                "TANKS_LOST": "ℸ ̣ᔑリꖌᓭ ꖎ𝙹ᓭℸ ̣",
+                "TANKS_DESTROY_LOST_RATIO": "ꖌ/↸ ∷ᔑℸ ̣╎𝙹",
+                "CANCEL": "ᓵᔑリᓵᒷꖎ",
+                "INVITATION_INCOMING": "ℸ ̣⍑╎ᓭ ᓵꖎᔑリ ⍑ᔑᓭ ᓭᒷリℸ ̣ ||𝙹⚍ ᔑリ ╎リ⍊╎ℸ ̣ᔑℸ ̣╎𝙹リ ℸ ̣𝙹 ⋮𝙹╎リ",
+                "INVITATION_OUTGOING": "||𝙹⚍ ⍑ᔑ⍊ᒷ ᓭᒷリℸ ̣ ᔑ ∷ᒷᑑ⚍ᒷᓭℸ ̣ ℸ ̣𝙹 ℸ ̣⍑╎ᓭ ᓵꖎᔑリ",
+                "INVITATION_SEND": "||𝙹⚍ ᓵᔑリ ᓭᒷリ↸ ᔑ ∷ᒷᑑ⚍ᒷᓭℸ ̣ ℸ ̣𝙹 ℸ ̣⍑╎ᓭ ᓵꖎᔑリ",
+                "REPORT_DESCRIPTION": "∷ᒷ!¡𝙹∷ℸ ̣"
+            },
+            "requests": {
+                "SEARCH_PLACEHOLDER": "リ╎ᓵꖌリᔑᒲᒷ",
+                "INVITE": "╎リ⍊╎ℸ ̣ᒷ",
+                "SEND": "ᓭᒷリ↸",
+                "ACCEPT": "ᔑᓵᓵᒷ!¡ℸ ̣",
+                "DECLINE": "↸ᒷᓵꖎ╎リᒷ"
+            },
+            "self_requests": {
+                "NAME": "ᓵꖎᔑリ リᔑᒲᒷ",
+                "TAG": "ℸ ̣ᔑ⊣",
+                "FOUNDER": "⎓𝙹⚍リ↸ᒷ∷",
+                "PLAYERS": "!¡ꖎᔑ||ᒷ∷ᓭ",
+                "CREATION_DATE": "ᔑᓵℸ ̣╎𝙹リᓭ",
+                "SEARCH_PLACEHOLDER": "ᓭᒷリ↸ ∷ᒷᑑ⚍ᒷᓭℸ ̣ ℸ ̣𝙹 ᓵꖎᔑリ",
+                "INCOMING_REQUESTS_DISABLED": "ℸ ̣⍑╎ᓭ ᓵꖎᔑリ ↸𝙹ᒷᓭ リ𝙹ℸ ̣ ᔑᓵᓵᒷ!¡ℸ ̣ ∷ᒷᑑ⚍ᒷᓭℸ ̣ᓭ",
+                "LOW_RANK": "||𝙹⚍∷ ∷ᔑリꖌ ╎ᓭ ℸ ̣𝙹𝙹 ꖎ𝙹∴ ℸ ̣𝙹 ⋮𝙹╎リ ᔑ ᓵꖎᔑリ",
+                "CLAN_BLOCKED": "ℸ ̣⍑╎ᓭ ᓵꖎᔑリ ⍑ᔑᓭ ʖᒷᒷリ ʖꖎ𝙹ᓵꖌᒷ↸",
+                "ALREADY_OUTGOING": "||𝙹⚍ ⍑ᔑ⍊ᒷ ᔑꖎ∷ᒷᔑ↸|| ∷ᒷᑑ⚍ᒷᓭℸ ̣ᒷ↸ ℸ ̣𝙹 ⋮𝙹╎リ ᓵꖎᔑリ %ᓵꖎᔑリリᔑᒲᒷ%",
+                "ALREADY_INCOMING": "ᓵꖎᔑリ %ᓵꖎᔑリリᔑᒲᒷ% ⍑ᔑᓭ ᔑꖎ∷ᒷᔑ↸|| ╎リ⍊╎ℸ ̣ᒷ↸ ||𝙹⚍ ℸ ̣𝙹 ⋮𝙹╎リ",
+                "ALREADY_CLAN_OUTGOING": "||𝙹⚍ ⍑ᔑ⍊ᒷ ᔑꖎ∷ᒷᔑ↸|| ∷ᒷᑑ⚍ᒷᓭℸ ̣ᒷ↸ ℸ ̣𝙹 ⋮𝙹╎リ ᓵꖎᔑリ %ᓵꖎᔑリリᔑᒲᒷ%",
+                "ALREADY_IN_CLAN": "||𝙹⚍ ᔑ∷ᒷ ᔑꖎ∷ᒷᔑ↸|| ᔑ ᒲᒷᒲʖᒷ∷ 𝙹⎓ ᔑ ᓵꖎᔑリ",
+                "SEND_REQUESTS": "ᓭᒷリ↸ ∷ᒷᑑ⚍ᒷᓭℸ ̣",
+                "CANCEL_ALL": "ᓵᔑリᓵᒷꖎ ᔑꖎꖎ",
+                "PROMPT_TEXT_FOR_SEARCH_PART1": "ᓭᒷᔑ∷ᓵ⍑ ⎓𝙹∷ ᔑ ᓵꖎᔑリ ʖ|| ╎ℸ ̣ᓭ リᔑᒲᒷ 𝙹∷ ℸ ̣ᔑ⊣.",
+                "PROMPT_TEXT_FOR_SEARCH_PART2": "╎⎓ ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 ᓭᒷᔑ∷ᓵ⍑ ʖ|| ℸ ̣ᔑ⊣, ᓭᒷᔑ∷ᓵ⍑ ⎓𝙹∷ [%ℸ ̣ᔑ⊣%",
+                "PROMPT_TEXT_FOR_SEARCH_PART3": "ℸ ̣ᔑ⊣_⍑ᒷ∷ᒷ"
+            },
+            "self_invitations": {
+                "NAME": "ᓵꖎᔑリ リᔑᒲᒷ",
+                "TAG": "ℸ ̣ᔑ⊣",
+                "FOUNDER": "⎓𝙹⚍リ↸ᒷ∷",
+                "PLAYERS": "!¡ꖎᔑ||ᒷ∷ᓭ",
+                "CREATION_DATE": "ᔑᓵℸ ̣╎𝙹リᓭ",
+                "SEARCH_PLACEHOLDER": "ᓵꖎᔑリ リᔑᒲᒷ",
+                "CLAN_MENU": "ᓵꖎᔑリ ᒲᒷリ⚍",
+                "DECLINE_ALL": "↸ᒷᓵꖎ╎リᒷ ᔑꖎꖎ",
+                "DECLINE": "↸ᒷᓵꖎ╎リᒷ",
+                "ACCEPT": "ᔑᓵᓵᒷ!¡ℸ ̣"
+            },
+            "members": {
+                "NAME": "リᔑᒲᒷ",
+                "POSITION": "!¡𝙹ᓭ╎ℸ ̣╎𝙹リ",
+                "EXPERIENCE": "ᒷ̇̇/!¡",
+                "DESTROYED": "↸",
+                "LOST": "ꖎ",
+                "D_DIV_L": "↸/ꖎ",
+                "GS": "⊣ᓭ",
+                "LAST_VISIT": "ꖎᔑᓭℸ ̣ ⍊╎ᓭ╎ℸ ̣",
+                "ACTIONS": "ᔑᓵℸ ̣╎𝙹リᓭ",
+                "ONLINE": "𝙹リꖎ╎リᒷ",
+                "NEW": "リᒷ∴!",
+                "BUY_ADDITIONAL_PLACE_IN_CLAN_BUTTON": "ᔑ↸↸╎ℸ ̣╎𝙹リᔑꖎ ᒲᒷᒲʖᒷ∷ ᓭꖎ𝙹ℸ ̣",
+                "BUY_ADDITIONAL_PLACE_IN_CLAN_TITLE": "ᔑ↸↸╎ℸ ̣╎𝙹リᔑꖎ ᒲᒷᒲʖᒷ∷ ᓭꖎ𝙹ℸ ̣ !¡⚍∷ᓵ⍑ᔑᓭᒷ",
+                "BUY_ADDITIONAL_PLACE_IN_CLAN_TEXT": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ ℸ ̣⍑ᔑℸ ̣ ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 !¡⚍∷ᓵ⍑ᔑᓭᒷ ᔑリ ᔑ↸↸╎ℸ ̣╎𝙹リᔑꖎ ᒲᒷᒲʖᒷ∷ ᓭꖎ𝙹ℸ ̣ ⎓𝙹∷ %!¡∷╎ᓵᒷ% ∷⚍ʖ╎ᒷᓭ?",
+                "menu": {
+                    "COPY_NAME": "ᓵ𝙹!¡|| リᔑᒲᒷ",
+                    "ADD_TO_FRIENDS": "ᔑ↸↸ ℸ ̣𝙹 ⎓∷╎ᒷリ↸ᓭ",
+                    "PROFILE": "!¡∷𝙹⎓╎ꖎᒷ",
+                    "PRIVATE_MESSAGE": "!¡∷╎⍊ᔑℸ ̣ᒷ ᒲᒷᓭᓭᔑ⊣ᒷ",
+                    "KICK": "ꖌ╎ᓵꖌ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ ᓵꖎᔑリ",
+                    "DISBAND": "↸╎ᓭʖᔑリ↸",
+                    "LEAVE": "ꖎᒷᔑ⍊ᒷ",
+                    "MAKE_OWNER": "ℸ ̣∷ᔑリᓭ⎓ᒷ∷ ᓵꖎᔑリ 𝙹∴リᒷ∷ᓭ⍑╎!¡"
+                }
+            },
+            "expel_menu": {
+                "TITLE": "ᒷ̇̇/!¡ᒷꖎ ⎓∷𝙹ᒲ ᓵꖎᔑリ",
+                "CANCEL_TEXT": "ᓵᔑリᓵᒷꖎ",
+                "CONFIRM_TEXT": "ᒷ̇̇/!¡ᒷꖎ",
+                "TEXT": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 ꖌ╎ᓵꖌ %⚍ᓭᒷ∷ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ ᓵꖎᔑリ?"
+            },
+            "disband_menu": {
+                "TITLE": "↸╎ᓭʖᔑリ↸ ᓵꖎᔑリ?",
+                "CANCEL_TEXT": "ᓵᔑリᓵᒷꖎ",
+                "CONFIRM_TEXT": "↸╎ᓭʖᔑリ↸",
+                "TEXT": "∴ᔑ∷リ╎リ⊣!\nℸ ̣𝙹 ᓵ∷ᒷᔑℸ ̣ᒷ ᔑ リᒷ∴ ᓵꖎᔑリ, ||𝙹⚍ ∴╎ꖎꖎ ⍑ᔑ⍊ᒷ ℸ ̣𝙹 !¡⚍∷ᓵ⍑ᔑᓭᒷ ᔑ リᒷ∴ ᓵꖎᔑリ ꖎ╎ᓵᒷリᓭᒷ."
+            },
+            "leave_menu": {
+                "TITLE": "ꖎᒷᔑ⍊ᒷ ᓵꖎᔑリ?",
+                "CANCEL_TEXT": "ᓵᔑリᓵᒷꖎ",
+                "CONFIRM_TEXT": "ꖎᒷᔑ⍊ᒷ",
+                "TEXT": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ ∴ᔑリℸ ̣ ℸ ̣𝙹 ꖎᒷᔑ⍊ᒷ ᓵꖎᔑリ %ᓵꖎᔑリリᔑᒲᒷ?\n∴⍑ᒷリ ||𝙹⚍ ꖎᒷᔑ⍊ᒷ ᔑ ᓵꖎᔑリ, ||𝙹⚍ ∴𝙹リ'ℸ ̣ ʖᒷ ᔑʖꖎᒷ ℸ ̣𝙹 ⋮𝙹╎リ ᔑリ𝙹ℸ ̣⍑ᒷ∷ ᓵꖎᔑリ ⎓𝙹∷ ℸ ̣⍑ᒷ リᒷ̇̇/ℸ ̣ 24 ⍑𝙹⚍∷ᓭ"
+            },
+            "validation": {
+                "ALREADY_IN_ACCEPTED": "!¡ꖎᔑ||ᒷ∷ %⚍ᓭᒷ∷リᔑᒲᒷ% ╎ᓭ ᔑꖎ∷ᒷᔑ↸|| ᔑ ᒲᒷᒲʖᒷ∷ 𝙹⎓ ℸ ̣⍑╎ᓭ ᓵꖎᔑリ",
+                "ALREADY_IN_CLAN": "!¡ꖎᔑ||ᒷ∷ %⚍ᓭᒷ∷リᔑᒲᒷ% ╎ᓭ ᔑꖎ∷ᒷᔑ↸|| ᔑ ᒲᒷᒲʖᒷ∷ 𝙹⎓ ᔑ ᓵꖎᔑリ",
+                "ALREADY_IN_CLAN_INCOMING": "!¡ꖎᔑ||ᒷ∷ %⚍ᓭᒷ∷リᔑᒲᒷ% ⍑ᔑᓭ ᔑꖎ∷ᒷᔑ↸|| ∷ᒷᑑ⚍ᒷᓭℸ ̣ᒷ↸ ℸ ̣𝙹 ⋮𝙹╎リ ℸ ̣⍑ᒷ ᓵꖎᔑリ",
+                "ALREADY_IN_CLAN_OUTGOING": "!¡ꖎᔑ||ᒷ∷ %⚍ᓭᒷ∷リᔑᒲᒷ% ⍑ᔑᓭ ᔑꖎ∷ᒷᔑ↸|| ʖᒷᒷリ ╎リ⍊╎ℸ ̣ᒷ↸",
+                "LOW_RANK": "∷ᔑリꖌ ℸ ̣𝙹𝙹 ꖎ𝙹∴"
+            },
+            "join_restriction": {
+                "TITLE": "∷ᒷᓭℸ ̣∷╎ᓵℸ ̣ᒷ↸",
+                "CONFIRM_TEXT": "𝙹ꖌ",
+                "TEXT": "||𝙹⚍ ᓵᔑリリ𝙹ℸ ̣ ⋮𝙹╎リ ᔑリ𝙹ℸ ̣⍑ᒷ∷ ᓵꖎᔑリ ⎓𝙹∷ ℸ ̣⍑ᒷ リᒷ̇̇/ℸ ̣ %ℸ ̣╎ᒲᒷ"
+            },
+            "permission": {
+                "SUPREME_COMMANDER": "ᓭ⚍!¡∷ᒷᒲᒷ ᓵ𝙹ᒲᒲᔑリ↸ᒷ∷",
+                "COMMANDER": "ᓵ𝙹ᒲᒲᔑリ↸ᒷ∷",
+                "OFFICER": "𝙹⎓⎓╎ᓵᒷ∷",
+                "SERGEANT": "ᓭᒷ∷⊣ᒷᔑリℸ ̣",
+                "VETERAN": "⍊ᒷℸ ̣ᒷ∷ᔑリ",
+                "PRIVATE": "!¡∷╎⍊ᔑℸ ̣ᒷ",
+                "NOVICE": "リ𝙹⍊╎ᓵᒷ"
+            },
+            "edit_profile": {
+                "DESCRIPTION_EDIT": "ᓵꖎᔑリ ᒲᒷᓭᓭᔑ⊣ᒷ ᒷ↸╎ℸ ̣",
+                "CANCEL": "ᓵᔑリᓵᒷꖎ",
+                "SAVE": "ᓭᔑ⍊ᒷ",
+                "FLAG": "⎓ꖎᔑ⊣",
+                "RECRUITMENT": "∷ᒷᓵ∷⚍╎ℸ ̣ᒲᒷリℸ ̣",
+                "MIN_RECRUITMENT": "ᒲ╎リ╎ᒲᔑꖎ ∷ᒷᓵ∷⚍╎ℸ ̣ᒲᒷリℸ ̣ ∷ᔑリꖌ",
+                "OPEN": "𝙹!¡ᒷリ",
+                "CLOSE": "ᓵꖎ𝙹ᓭᒷ",
+                "CONFIRM_SAVE_DIALOG_TITLE": "ᒷ↸╎ℸ ̣╎リ⊣ ᓵꖎᔑリ !¡∷𝙹⎓╎ꖎᒷ",
+                "CONFIRM_SAVE_DIALOG_TEXT": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ ℸ ̣⍑ᔑℸ ̣ ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 ᓵ𝙹リ⎓╎∷ᒲ ᓵꖎᔑリ !¡∷𝙹⎓╎ꖎᒷ ᒷ↸╎ℸ ̣? ℸ ̣⍑╎ᓭ ∴╎ꖎꖎ ᓵ𝙹ᓭℸ ̣ %!¡∷╎ᓵᒷ% ∷⚍ʖ╎ᒷᓭ."
+            },
+            "level_up": {
+                "TITLE": "ᓵ⍑ᔑꖎꖎᒷリ⊣ᒷ ℸ ̣╎ᒷ∷ %ꖎᒷ⍊ᒷꖎ ꖎ⍊ꖎ ⚍!¡!",
+                "FREE_REWARD": "⎓∷ᒷᒷ ∷ᒷ∴ᔑ∷↸",
+                "REWARD_EARNED": "∷ᒷ∴ᔑ∷↸ ᒷᔑ∷リᒷ↸",
+                "BATTLEPASS_REWARD": "ʖᔑℸ ̣ℸ ̣ꖎᒷ!¡ᔑᓭᓭ ∷ᒷ∴ᔑ∷↸",
+                "BUY_BATTLEPASS": "ʖ⚍|| ʖᔑℸ ̣ℸ ̣ꖎᒷ!¡ᔑᓭᓭ",
+                "BUY_BATTLEPASS_DESCRIPTION": "ʖ⚍|| ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ !¡ᔑᓭᓭ ℸ ̣𝙹 ⚍リꖎ𝙹ᓵꖌ ᔑ リᒷ∴ ꖎᒷ⍊ᒷꖎ 𝙹⎓ ʖᒷℸ ̣ℸ ̣ᒷ∷ ᔑリ↸ ᓵ𝙹𝙹ꖎᒷ∷ ∷ᒷ∴ᔑ∷↸ᓭ.",
+                "BUY_PREMIUM_DESCRIPTION": "⊣ᒷℸ ̣ ᔑ !¡∷ᒷᒲ╎⚍ᒲ ᔑᓵᓵ𝙹⚍リℸ ̣ ℸ ̣𝙹 ⊣ᒷℸ ̣ ↸𝙹⚍ʖꖎᒷ ᓭℸ ̣ᔑ∷ᓭ, ᒲ𝙹∷ᒷ ᒷ̇̇/!¡ᒷ∷╎ᒷリᓵᒷ !¡𝙹╎リℸ ̣ᓭ, ᔑリ↸ 𝙹ℸ ̣⍑ᒷ∷ ʖᒷリᒷ⎓╎ℸ ̣ᓭ",
+                "OK": "𝙹ꖌ",
+                "BUY_BATTLE_PASS_BUTTON": "ʖ⚍|| ʖᔑℸ ̣ℸ ̣ꖎᒷ!¡ᔑᓭᓭ",
+                "BUY_PREMIUM_BUTTON": "ʖ⚍|| !¡∷ᒷᒲ╎⚍ᒲ"
+            },
+            "clan_full": {
+                "TEXT": "ᓵꖎᔑリ ⎓⚍ꖎꖎ"
+            },
+            "security": {
+                "NEED2FA_FOR_CREATE_TITLE": "ᓵꖎᔑリ ᓵ∷ᒷᔑℸ ̣╎𝙹リ",
+                "NEED2FA_FOR_CREATE_TEXT": "╎リ 𝙹∷↸ᒷ∷ ℸ ̣𝙹 ᓵ∷ᒷᔑℸ ̣ᒷ ᔑ ᓵꖎᔑリ ||𝙹⚍ リᒷᒷ↸ ℸ ̣𝙹 ᓭᒷℸ ̣ ⚍!¡ ℸ ̣∴𝙹-⎓ᔑᓵℸ ̣𝙹∷ ᔑ⚍ℸ ̣⍑ᒷリℸ ̣╎ᓵᔑℸ ̣╎𝙹リ ╎リ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ",
+                "NEED2FA_FOR_DISBAND_TITLE": "ᓵꖎᔑリ ↸╎ᓭʖᔑリ↸╎リ⊣",
+                "NEED2FA_FOR_DISBAND_TEXT": "╎リ 𝙹∷↸ᒷ∷ ℸ ̣𝙹 ↸╎ᓭʖᔑリ↸ ᔑ ᓵꖎᔑリ ||𝙹⚍ リᒷᒷ↸ ℸ ̣𝙹 ᓭᒷℸ ̣ ⚍!¡ ℸ ̣∴𝙹-⎓ᔑᓵℸ ̣𝙹∷ ᔑ⚍ℸ ̣⍑ᒷリℸ ̣╎ᓵᔑℸ ̣╎𝙹リ ╎リ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ",
+                "NEED2FA_FOR_CHANGE_OWNER_TITLE": "ℸ ̣∷ᔑリᓭ⎓ᒷ∷∷╎リ⊣ ᓵꖎᔑリ 𝙹∴リᒷ∷ᓭ⍑╎!¡",
+                "NEED2FA_FOR_CHANGE_OWNER_TEXT": "╎リ 𝙹∷↸ᒷ∷ ℸ ̣𝙹 ℸ ̣∷ᔑリᓭ⎓ᒷ∷ ᓵꖎᔑリ 𝙹∴リᒷ∷ᓭ⍑╎!¡ ||𝙹⚍ リᒷᒷ↸ ℸ ̣𝙹 ᓭᒷℸ ̣ ⚍!¡ ℸ ̣∴𝙹-⎓ᔑᓵℸ ̣𝙹∷ ᔑ⚍ℸ ̣⍑ᒷリℸ ̣╎ᓵᔑℸ ̣╎𝙹リ ╎リ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ"
+            },
+            "change_owner": {
+                "OK": "ℸ ̣∷ᔑリᓭ⎓ᒷ∷",
+                "NOT_ENOUGH_RUBIES_TEXT": "╎リ 𝙹∷↸ᒷ∷ ℸ ̣𝙹 ℸ ̣∷ᔑリᓭ⎓ᒷ∷ ᓵꖎᔑリ 𝙹∴リᒷ∷ᓭ⍑╎!¡ ||𝙹⚍ リᒷᒷ↸ %!¡∷╎ᓵᒷ% ∷⚍ʖ╎ᒷᓭ",
+                "CHANGE_OWNER_TITLE": "ℸ ̣∷ᔑリᓭ⎓ᒷ∷∷╎リ⊣ ᓵꖎᔑリ 𝙹∴リᒷ∷ᓭ⍑╎!¡",
+                "CHANGE_OWNER_TEXT": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ ℸ ̣⍑ᔑℸ ̣ ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 ℸ ̣∷ᔑリᓭ⎓ᒷ∷ ᓵꖎᔑリ 𝙹∴リᒷ∷ᓭ⍑╎!¡ ℸ ̣𝙹 !¡ꖎᔑ||ᒷ∷ %⚍╎↸%? ╎ℸ ̣ ∴╎ꖎꖎ ᓵ𝙹ᓭℸ ̣ ||𝙹⚍ %!¡∷╎ᓵᒷ% ∷⚍ʖ╎ᒷᓭ"
+            }
+        },
+        "garage": {
+            "GRENADE": "⊣∷ᒷリᔑ↸ᒷᓭ",
+            "TITLE": "⊣ᔑ∷ᔑ⊣ᒷ",
+            "GEAR_SCORE": "⊣ᒷᔑ∷ ᓭᓵ𝙹∷ᒷ",
+            "TURRET": "ℸ ̣⚍∷∷ᒷℸ ̣",
+            "DAMAGE": "↸ᔑᒲᔑ⊣ᒷ",
+            "IMPACT_FORCE": "╎ᒲ!¡ᔑᓵℸ ̣ ⎓𝙹∷ᓵᒷ",
+            "RANGE": "∷ᔑリ⊣ᒷ",
+            "HULL": "⍑⚍ꖎꖎ",
+            "PROTECTION": "!¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ",
+            "MAXIMUM_SPEED": "ᒲᔑ̇̇/╎ᒲ⚍ᒲ ᓭ!¡ᒷᒷ↸",
+            "POWER": "!¡𝙹∴ᒷ∷",
+            "SKINS": "ᓭꖌ╎リᓭ",
+            "SUPPLIES": "ᓭ⚍!¡!¡ꖎ╎ᒷᓭ",
+            "BATTERIES": "ʖᔑℸ ̣ℸ ̣ᒷ∷╎ᒷᓭ",
+            "ALTERATION": "ᔑ⚍⊣ᒲᒷリℸ ̣ᓭ",
+            "WEAPON": "ℸ ̣⚍∷∷ᒷℸ ̣ᓭ",
+            "ARMOR": "⍑⚍ꖎꖎᓭ",
+            "DRONE": "↸∷𝙹リᒷ",
+            "RESISTANCE": "!¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ",
+            "PAINT": "!¡ᔑ╎リℸ ̣",
+            "INVENTORY": "ᓭ⚍!¡!¡ꖎ╎ᒷᓭ",
+            "KIT": "ꖌ╎ℸ ̣",
+            "GIVEN_PRESENTS": "⊣╎⎓ℸ ̣ᓭ ∷ᒷᓵᒷ╎⍊ᒷ↸",
+            "SPECIAL": "ᓭ!¡ᒷᓵ╎ᔑꖎ",
+            "TOP_TIP_WEAPONS": "||𝙹⚍∷ ℸ ̣𝙹ℸ ̣ᔑꖎ ⊣ᒷᔑ∷ ᓭᓵ𝙹∷ᒷ ╎ᓭ ℸ ̣⍑ᒷ ᓭ⚍ᒲ 𝙹⎓ ᔑꖎꖎ 𝙹⎓ ||𝙹⚍∷ ℸ ̣ᔑリꖌ'ᓭ !¡ᔑ∷ᔑᒲᒷℸ ̣ᒷ∷ᓭ ╎リᓵꖎ⚍↸╎リ⊣ ↸∷𝙹リᒷᓭ, !¡ᔑ╎リℸ ̣ᓭ, ᓭ⚍!¡!¡ꖎ╎ᒷᓭ, ᒷℸ ̣ᓵ.",
+            "UPGRADES": "⚍!¡⊣∷ᔑ↸ᒷᓭ",
+            "OVERDRIVE": "𝙹⍊ᒷ∷↸∷╎⍊ᒷ",
+            "PROTECTION_LABEL": "!¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ",
+            "UNEQUIP_ALL_BUTTON": "⚍リᒷᑑ⚍╎!¡ ᔑꖎꖎ",
+            "STATS_LABEL": "ᓭℸ ̣ᔑℸ ̣ᓭ",
+            "DAMAGE_REDUCTION": "↸ᔑᒲᔑ⊣ᒷ ∷ᒷ↸⚍ᓵℸ ̣╎𝙹リ",
+            "PROPERTIES": "ᓭℸ ̣ᔑℸ ̣ᓭ",
+            "BUY_BUTTON": "ʖ⚍||",
+            "PAINTS": "!¡ᔑ╎リℸ ̣ᓭ",
+            "EQUIPPED": "ᒷᑑ⚍╎!¡!¡ᒷ↸",
+            "EQUIP_BUTTON": "ᒷᑑ⚍╎!¡",
+            "UNEQUIP_BUTTON": "⚍リᒷᑑ⚍╎!¡",
+            "ALL_PAINTS": "ᓭ⍑𝙹∴ ᔑꖎꖎ",
+            "PAINTS_SPECIAL": "ᓭ!¡ᒷᓵ╎ᔑꖎ",
+            "PAINTS_LEGENDARY": "ꖎᒷ⊣ᒷリ↸ᔑ∷||",
+            "PAINTS_EPIC": "ᒷ!¡╎ᓵ",
+            "PAINTS_RARE": "∷ᔑ∷ᒷ",
+            "PAINTS_UNCOMMON": "⚍リᓵ𝙹ᒲᒲ𝙹リ",
+            "PAINTS_COMMON": "ᓵ𝙹ᒲᒲ𝙹リ",
+            "PAINTS_FAVORITE": "⎓ᔑ⍊𝙹∷╎ℸ ̣ᒷ",
+            "BACK_BUTTON": "ʖᔑᓵꖌ",
+            "UPGRADE_LABEL": "⚍!¡⊣∷ᔑ↸ᒷ",
+            "UPGRADE_BUTTON": "⚍!¡⊣∷ᔑ↸ᒷ",
+            "STANDARD_SETTINGS_NAME": "ᓭℸ ̣ᔑリ↸ᔑ∷↸ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ",
+            "STANDARD_SETTINGS_DESCRIPTION": "ᓭℸ ̣ᔑリ↸ᔑ∷↸ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ ∴╎ℸ ̣⍑𝙹⚍ℸ ̣ ᔑリ|| ᓭ!¡ᒷᓵ╎ᔑꖎ ᒷ⎓⎓ᒷᓵℸ ̣ᓭ",
+            "STANDARD_SKIN_NAME": "ᓭℸ ̣ᔑリ↸ᔑ∷↸ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ",
+            "STANDARD_SKIN_DESCRIPTION": "ᓭℸ ̣ᔑリ↸ᔑ∷↸ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ ∴╎ℸ ̣⍑𝙹⚍ℸ ̣ ᔑリ|| ᓭ!¡ᒷᓵ╎ᔑꖎ ᒷ⎓⎓ᒷᓵℸ ̣ᓭ",
+            "LABEL_VIDEO_PLAYER": "⍑𝙹∴ ╎ℸ ̣ ∴𝙹∷ꖌᓭ",
+            "FULLSCREEN_BUTTON": "∴ᔑℸ ̣ᓵ⍑ ╎リ ⎓⚍ꖎꖎᓭᓵ∷ᒷᒷリ",
+            "HEADER_DIALOG_BUY_ITEM": "ʖ⚍|| ℸ ̣⍑ᒷ ╎ℸ ̣ᒷᒲ",
+            "TEXT_DIALOG_BUY_ITEM": "||𝙹⚍ ᔑ∷ᒷ ᔑʖ𝙹⚍ℸ ̣ ℸ ̣𝙹 ʖ⚍|| %╎ℸ ̣ᒷᒲ% ⎓𝙹∷",
+            "DIALOG_BUY_ITEM_CANCEL_BUTTON": "ᓵᔑリᓵᒷꖎ",
+            "DIALOG_BUY_ITEM_BUY_BUTTON": "ʖ⚍||",
+            "HEADER_DIALOG_UPGRADE_ITEM": "⚍!¡⊣∷ᔑ↸ᒷ",
+            "TEXT_DIALOG_UPGRADE_ITEM": "⚍!¡⊣∷ᔑ↸ᒷ %╎ℸ ̣ᒷᒲ% ⎓𝙹∷",
+            "DIALOG_BUY_ITEM_UPGRADE_BUTTON": "⚍!¡⊣∷ᔑ↸ᒷ",
+            "DIALOG_NOT_ENOUGH_CRYSTAL_HEADER": "リ𝙹ℸ ̣ ᒷリ𝙹⚍⊣⍑ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ",
+            "DIALOG_NOT_ENOUGH_CRYSTAL": "||𝙹⚍ ↸𝙹 リ𝙹ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ (%ᓵ∷||ᓭℸ ̣ᔑꖎ%)",
+            "DIALOG_NOT_ENOUGH_CRYSTAL_FOR_BUY_ITEM": "||𝙹⚍ ↸𝙹 リ𝙹ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ (%ᓵ∷||ᓭℸ ̣ᔑꖎ%) ℸ ̣𝙹 ʖ⚍|| ℸ ̣⍑╎ᓭ %╎ℸ ̣ᒷᒲ%",
+            "DIALOG__NOT_ENOUGH_CRYSTAL_BUY_CRYSTAL_BUTTON": "ʖ⚍|| ᓵ∷||ᓭℸ ̣ᔑꖎᓭ",
+            "DIALOG_NOT_ENOUGH_COIN_HEADER": "╎リᓭ⚍⎓⎓╎ᓵ╎ᒷリℸ ̣ ℸ ̣ᔑリꖌ𝙹╎リᓭ",
+            "DIALOG_NOT_ENOUGH_COIN": "||𝙹⚍ ↸𝙹リ'ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ℸ ̣ᔑリꖌ𝙹╎リᓭ (%ᓵ𝙹╎リ%)",
+            "DIALOG_NOT_ENOUGH_COIN_FOR_ITEM": "||𝙹⚍ ↸𝙹リ'ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ℸ ̣ᔑリꖌ𝙹╎リᓭ (%ᓵ𝙹╎リ%) ℸ ̣𝙹 ʖ⚍|| %╎ℸ ̣ᒷᒲ%",
+            "DIALOG_NOT_ENOUGH_COIN_FOR_UPGRADE_ITEM": "||𝙹⚍ ↸𝙹 リ𝙹ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ℸ ̣ᔑリꖌ𝙹╎リᓭ (%ᓵ𝙹╎リ%) ℸ ̣𝙹 ⚍!¡⊣∷ᔑ↸ᒷ %╎ℸ ̣ᒷᒲ%",
+            "DIALOG__NOT_ENOUGH_COIN_BUY_COIN_BUTTON": "ʖ⚍|| ℸ ̣ᔑリꖌ𝙹╎リᓭ",
+            "DIALOG_NOT_ENOUGH_RUBY_HEADER": "リ𝙹ℸ ̣ ᒷリ𝙹⚍⊣⍑ ∷⚍ʖ╎ᒷᓭ",
+            "DIALOG_NOT_ENOUGH_RUBY_FOR_ITEM": "||𝙹⚍ ↸𝙹リ'ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ∷⚍ʖ╎ᒷᓭ (%∷⚍ʖ||%) ℸ ̣𝙹 ⊣ᒷℸ ̣ %╎ℸ ̣ᒷᒲ%",
+            "DIALOG_NOT_ENOUGH_RUBY_FOR_UPGRADE_ITEM": "||𝙹⚍ ↸𝙹 リ𝙹ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ∷⚍ʖ╎ᒷᓭ (%∷⚍ʖ||%) ℸ ̣𝙹 ⚍!¡⊣∷ᔑ↸ᒷ %╎ℸ ̣ᒷᒲ%",
+            "DIALOG_NOT_ENOUGH_CRYSTAL_FOR_UPGRADE_TITLE": "⚍!¡⊣∷ᔑ↸ᒷ",
+            "DIALOG_NOT_ENOUGH_CRYSTAL_FOR_UPGRADE_MESSAGE": "リ𝙹ℸ ̣ ᒷリ𝙹⚍⊣⍑ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ (%!¡∷╎ᓵᒷ%) ℸ ̣𝙹 ⚍!¡⊣∷ᔑ↸ᒷ %╎ℸ ̣ᒷᒲ%",
+            "DIALOG_NOT_ENOUGH_CRYSTAL_FOR_UPGRADE_BUTTON": "⚍!¡⊣∷ᔑ↸ᒷ ⎓𝙹∷ %!¡∷╎ᓵᒷ%",
+            "SPEED_UP_BUTTON": "ᓭ!¡ᒷᒷ↸ ⚍!¡",
+            "NOT_AVAILABLE": "リ𝙹ℸ ̣ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ",
+            "LEVEL": "ꖎ⍊ꖎ",
+            "NO_DRONE_EQUIPPED": "リ𝙹 ↸∷𝙹リᒷ ᒷᑑ⚍╎!¡!¡ᒷ↸",
+            "RANK_IS_NEEDED": "%∷ᔑリꖌ_リᔑᒲᒷ% ∷ᔑリꖌ リᒷᒷ↸ᒷ↸",
+            "MAX_LEVEL": "ᒲᔑ̇̇/",
+            "READ_MORE": "∷ᒷᔑ↸ ᒲ𝙹∷ᒷ",
+            "PREMIUM_NEEDED": "!¡∷ᒷᒲ╎⚍ᒲ リᒷᒷ↸ᒷ↸",
+            "RANK_AND_PREMIUM_NEEDED": "!¡∷ᒷᒲ╎⚍ᒲ ᔑリ↸ %∷ᔑリꖌ_リᔑᒲᒷ% ∷ᔑリꖌ リᒷᒷ↸ᒷ↸",
+            "NO_RESISTANCE": "リ𝙹 !¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ",
+            "INSTALL_HERE": "╎リᓭℸ ̣ᔑꖎꖎ ⍑ᒷ∷ᒷ",
+            "REMOVE_RESISTANCE": "∷ᒷᒲ𝙹⍊ᒷ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ",
+            "EMPTY": "ᒷᒲ!¡ℸ ̣||",
+            "LOCKED": "ꖎ𝙹ᓵꖌᒷ↸",
+            "BATTERY_PROPERTY": "𝙹リᒷ ʖᔑℸ ̣ℸ ̣ᒷ∷|| !¡𝙹∴ᒷ∷ᓭ ᔑ ↸∷𝙹リᒷ ⎓𝙹∷ ᒷ̇̇/ᔑᓵℸ ̣ꖎ|| 𝙹リᒷ ᒲ╎リ⚍ℸ ̣ᒷ.",
+            "SLOT_LOCKED": "ꖎ𝙹ᓵꖌᒷ↸",
+            "SLOT_UNLOCK": "⚍リꖎ𝙹ᓵꖌ",
+            "BUY_PAINT_DESCRIPTION": "ʖ⚍|| ℸ ̣⍑ᒷ !¡ᔑ╎リℸ ̣",
+            "LOCK_PAINT_DESCRIPTION": "!¡ᔑ╎リℸ ̣ ╎ᓭ ⚍リᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ",
+            "EQUIP_PAINT_DESCRIPTION": "ᒷᑑ⚍╎!¡ ℸ ̣⍑ᒷ !¡ᔑ╎リℸ ̣",
+            "ITEM_LOCKED": "ᓵ⍑ᔑリ⊣ᒷᓭ ∴╎ꖎꖎ ʖᒷ ᔑ!¡!¡ꖎ╎ᒷ↸ ╎リ",
+            "SELECT_SLOT_PROTECTION": "ᓭᒷꖎᒷᓵℸ ̣ ᓭꖎ𝙹ℸ ̣ ℸ ̣𝙹 ᒷᑑ⚍╎!¡ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ",
+            "ALL": "ᔑꖎꖎ",
+            "GO_STORE": "⊣𝙹 ℸ ̣𝙹 ℸ ̣⍑ᒷ ᓭ⍑𝙹!¡",
+            "BUY_CONTAINER_BUTTON": "!¡⚍∷ᓵ⍑ᔑᓭᒷ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ᓭ",
+            "properties": {
+                "HULL_ARMOR": "ᔑ∷ᒲ𝙹∷",
+                "HULL_SPEED": "ᒲᔑ̇̇/ ᓭ!¡ᒷᒷ↸",
+                "HULL_POWER": "!¡𝙹∴ᒷ∷",
+                "DAMAGE": "↸ᔑᒲᔑ⊣ᒷ",
+                "DAMAGE_PER_SECOND": "↸ᔑᒲᔑ⊣ᒷ !¡ᒷ∷ ᓭᒷᓵ𝙹リ↸",
+                "WEAPON_IMPACT_FORCE": "╎ᒲ!¡ᔑᓵℸ ̣ ⎓𝙹∷ᓵᒷ",
+                "SHOTGUN_IMPACT_FORCE": "╎ᒲ!¡ᔑᓵℸ ̣ ⎓𝙹∷ᓵᒷ",
+                "SHOT_RANGE": "ᓭ⍑𝙹ℸ ̣ ∷ᔑリ⊣ᒷ",
+                "SMOKY_RESISTANCE": "ᓭᒲ𝙹ꖌ|| ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "SCORPIO_RESISTANCE": "ᓭᓵ𝙹∷!¡╎𝙹リ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "FIREBIRD_RESISTANCE": "⎓╎∷ᒷʖ╎∷↸ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "TWINS_RESISTANCE": "ℸ ̣∴╎リᓭ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "RAILGUN_RESISTANCE": "∷ᔑ╎ꖎ⊣⚍リ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "ISIS_RESISTANCE": "╎ᓭ╎↸ᔑ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "THUNDER_RESISTANCE": "ℸ ̣⍑⚍リ↸ᒷ∷ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "FREEZE_RESISTANCE": "⎓∷ᒷᒷ⨅ᒷ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "RICOCHET_RESISTANCE": "∷╎ᓵ𝙹ᓵ⍑ᒷℸ ̣ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "GAUSS_RESISTANCE": "⊣ᔑ⚍ᓭᓭ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "SHAFT_RESISTANCE": "ᓭ⍑ᔑ⎓ℸ ̣ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "SHOTGUN_RESISTANCE": "⍑ᔑᒲᒲᒷ∷ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "MACHINE_GUN_RESISTANCE": "⍊⚍ꖎᓵᔑリ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "ROCKET_LAUNCHER_RESISTANCE": "ᓭℸ ̣∷╎ꖌᒷ∷ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "CRITICAL_RESISTANCE": "ᓵ∷╎ℸ ̣╎ᓵᔑꖎ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "ALL_RESISTANCE": "ᔑꖎꖎ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "MINE_RESISTANCE": "ᒲ╎リᒷ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "ARTILLERY_RESISTANCE": "ᒲᔑ⊣リ⚍ᒲ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "TESLA_RESISTANCE": "ℸ ̣ᒷᓭꖎᔑ ∷ᒷᓭ╎ᓭℸ ̣ᔑリᓵᒷ",
+                "WEAPON_RELOAD_TIME": "∷ᒷꖎ𝙹ᔑ↸ ℸ ̣╎ᒲᒷ",
+                "ISIS_HEALING_PER_PERIOD": "⍑ᒷᔑꖎ╎リ⊣",
+                "CRITICAL_HIT_DAMAGE": "ᓵ∷╎ℸ ̣╎ᓵᔑꖎ ⍑╎ℸ ̣ ↸ᔑᒲᔑ⊣ᒷ",
+                "CRITICAL_HEALING_HITS": "ᓵ∷╎ℸ ̣╎ᓵᔑꖎ ⍑ᒷᔑꖎ",
+                "CRITICAL_HEALING_CHANCE": "ᓵ∷╎ℸ ̣╎ᓵᔑꖎ ⍑ᒷᔑꖎ ᓵ⍑ᔑリᓵᒷ",
+                "MAX_SHELL_SPEED": "ᒲᔑ̇̇/ ᓭ⍑ᒷꖎꖎ ᓭ!¡ᒷᒷ↸",
+                "WEAPON_WEAKENING_COEFF": "!¡ᒷリᒷℸ ̣∷ᔑℸ ̣╎𝙹リ",
+                "IMPACT_FORCE": "╎ᒲ!¡ᔑᓵℸ ̣ ⎓𝙹∷ᓵᒷ",
+                "SHAFT_AIMING_MODE_DAMAGE": "ᓭリ╎!¡╎リ⊣ ᒲ𝙹↸ᒷ ↸ᔑᒲᔑ⊣ᒷ",
+                "UNITS": "⚍リ╎ℸ ̣ᓭ",
+                "PERCENT": "%",
+                "SECONDS": "ᓭᒷᓵ",
+                "METERS": "ᒲ",
+                "UNDEFINE": "⚍リ↸ᒷ⎓╎リᒷ↸",
+                "RADIUS_OF_MAX_SPLASH_DAMAGE": "∷ᔑ↸╎⚍ᓭ 𝙹⎓ ᒲᔑ̇̇/╎ᒲ⚍ᒲ ᓭ!¡ꖎᔑᓭ⍑ ↸ᔑᒲᔑ⊣ᒷ",
+                "MACHINE_GUN_WEAPON_TURN_DECELERATION_COEFF": "ℸ ̣⚍∷∷ᒷℸ ̣ ᓭꖎ𝙹∴↸𝙹∴リ",
+                "SPLASH_DAMAGE_RADIUS": "ᓭ!¡ꖎᔑᓭ⍑ ↸ᔑᒲᔑ⊣ᒷ ∷ᔑ↸╎⚍ᓭ",
+                "MAX_CRITICAL_HIT_CHANCE": "ᒲᔑ̇̇/ ᓵ∷╎ℸ ̣╎ᓵᔑꖎ ⍑╎ℸ ̣ ᓵ⍑ᔑリᓵᒷ",
+                "TURRET_ROTATION_ACCELERATION": "ℸ ̣⚍∷∷ᒷℸ ̣ ∷𝙹ℸ ̣ᔑℸ ̣╎𝙹リ ᔑᓵᓵᒷꖎᒷ∷ᔑℸ ̣╎𝙹リ",
+                "DAMAGE_TO": "ᒲᔑ̇̇/ ↸ᔑᒲᔑ⊣ᒷ",
+                "DAMAGE_FROM": "ᒲ╎リ ↸ᔑᒲᔑ⊣ᒷ",
+                "ROCKET_ANGULAR_VELOCITY": "∷𝙹ᓵꖌᒷℸ ̣ ᔑリ⊣⚍ꖎᔑ∷ ⍊ᒷꖎ𝙹ᓵ╎ℸ ̣||",
+                "WEAPON_CHARGING_TIME": "∴ᒷᔑ!¡𝙹リ ᓵ⍑ᔑ∷⊣╎リ⊣ ℸ ̣╎ᒲᒷ",
+                "SHAFT_AIMING_MODE_MAX_DAMAGE": "ᓭリ╎!¡ᒷ∷ ᒲ𝙹↸ᒷ ᒲᔑ̇̇/ ↸ᔑᒲᔑ⊣ᒷ",
+                "ELLIPTIC_CONE_HORIZONTAL_ANGLE": "⍑𝙹∷╎⨅𝙹リℸ ̣ᔑꖎ ᔑリ⊣ꖎᒷ",
+                "WEAPON_MAX_DAMAGE_RADIUS": "∴ᒷᔑ!¡𝙹リ ᒲᔑ̇̇/ ↸ᔑᒲᔑ⊣ᒷ ∷ᔑ↸╎⚍ᓭ",
+                "ELLIPTIC_CONE_VERTICAL_ANGLE": "⍊ᒷ∷ℸ ̣╎ᓵᔑꖎ ᔑリ⊣ꖎᒷ",
+                "DEVICE_HEAT_PER_PELLET": "⍑ᒷᔑℸ ̣ !¡ᒷ∷ !¡ᒷꖎꖎᒷℸ ̣",
+                "WEAPON_ANGLE_DOWN": "ᒲᔑ̇̇/╎ᒲ⚍ᒲ ᔑリ⊣ꖎᒷ ⎓𝙹∷ ↸𝙹∴リ∴ᔑ∷↸ ᔑ⚍ℸ ̣𝙹-ℸ ̣ᔑ∷⊣ᒷℸ ̣╎リ⊣",
+                "CONE_ANGLE": "ᓵ𝙹リᒷ ᔑリ⊣ꖎᒷ",
+                "SHELL_GRAVITY_COEF": "ᓭ⍑ᒷꖎꖎ ⊣∷ᔑ⍊╎ℸ ̣|| ᓵ𝙹ᒷ⎓⎓╎ᓵ╎ᒷリℸ ̣",
+                "SHELL_SPEED": "ᓭ⍑ᒷꖎꖎ ᓭ!¡ᒷᒷ↸",
+                "SHAFT_FAST_SHOT_ENERGY": "ᓭ⍑ᔑ⎓ℸ ̣ ⎓ᔑᓭℸ ̣ ᓭ⍑𝙹ℸ ̣ ᒷリᒷ∷⊣||",
+                "WEAPON_DISCHARGE_RATE": "↸╎ᓭᓵ⍑ᔑ∷⊣ᒷ ∷ᔑℸ ̣ᒷ",
+                "START_CRITICAL_HIT_CHANCE": "ᓭℸ ̣ᔑ∷ℸ ̣╎リ⊣ ᓵ∷╎ℸ ̣╎ᓵᔑꖎ ⍑╎ℸ ̣ ᓵ⍑ᔑリᓵᒷ",
+                "SHAFT_HORIZONTAL_TARGETING_SPEED": "⍑𝙹∷╎⨅𝙹リℸ ̣ᔑꖎ ℸ ̣ᔑ∷⊣ᒷℸ ̣╎リ⊣ ᓭ!¡ᒷᒷ↸",
+                "WEAPON_MIN_DAMAGE_RADIUS": "∴ᒷᔑ!¡𝙹リ ∷ᔑ↸╎⚍ᓭ",
+                "INITIAL_TURRET_ANGLE": "╎リ╎ℸ ̣╎ᔑꖎ ℸ ̣⚍∷∷ᒷℸ ̣ ᔑリ⊣ꖎᒷ",
+                "SALVO_AIMING_TIME": "ᓭᔑꖎ⍊𝙹 ᔑ╎ᒲ╎リ⊣ ℸ ̣╎ᒲᒷ",
+                "SALVO_SIZE": "ᒲ╎ᓭᓭ╎ꖎᒷᓭ !¡ᒷ∷ ᓭᔑꖎ⍊𝙹",
+                "TIME_BETWEEN_SHOTS_OF_SALVO": "∷ᒷꖎ𝙹ᔑ↸ ℸ ̣╎ᒲᒷ",
+                "SHAFT_AIMING_MODE_MIN_DAMAGE": "ᓭリ╎!¡ᒷ∷ ᒲ𝙹↸ᒷ ᒲ╎リ ↸ᔑᒲᔑ⊣ᒷ",
+                "CRITICAL_CHANCE_DELTA": "ᓵ∷╎ℸ ̣╎ᓵᔑꖎ ᓵ⍑ᔑリᓵᒷ ↸ᒷꖎℸ ̣ᔑ",
+                "DAMAGE_PER_PERIOD": "↸ᔑᒲᔑ⊣ᒷ !¡ᒷ∷ !¡ᒷ∷╎𝙹↸",
+                "WEAPON_ANGLE_UP": "ᒲᔑ̇̇/╎ᒲ⚍ᒲ ᔑリ⊣ꖎᒷ ⎓𝙹∷ ⚍!¡∴ᔑ∷↸ ᔑ⚍ℸ ̣𝙹-ℸ ̣ᔑ∷⊣ᒷℸ ̣╎リ⊣",
+                "WEAPON_KICKBACK": "∷ᒷᓵ𝙹╎ꖎ",
+                "TURRET_TURN_SPEED": "ℸ ̣⚍∷リ╎リ⊣ ᓭ!¡ᒷᒷ↸",
+                "HEAT_PER_PERIOD": "⍑ᒷᔑℸ ̣ !¡ᒷ∷ !¡ᒷ∷╎𝙹↸",
+                "FLAME_TEMPERATURE_LIMIT": "ℸ ̣ᒷᒲ!¡ᒷ∷ᔑℸ ̣⚍∷ᒷ ꖎ╎ᒲ╎ℸ ̣",
+                "HULL_TURN_SPEED": "ℸ ̣⚍∷リ ᓭ!¡ᒷᒷ↸",
+                "HULL_MASS": "ᒲᔑᓭᓭ",
+                "WEAPON_COOLDOWN_TIME": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ℸ ̣╎ᒲᒷ",
+                "AIMING_MODE_COOLDOWN_TIME": "ᔑ╎ᒲ╎リ⊣ ᒲ𝙹↸ᒷ ᓵ𝙹𝙹ꖎ↸𝙹∴リ ℸ ̣╎ᒲᒷ",
+                "CRITICAL_HIT_CHANCE": "ᓵ∷╎ℸ ̣╎ᓵᔑꖎ ⍑╎ℸ ̣ ᓵ⍑ᔑリᓵᒷ",
+                "AIMING_ERROR": "ᔑ╎ᒲ╎リ⊣ ᒷ∷∷𝙹∷",
+                "SHOT_AREA": "ᓭ⍑𝙹ℸ ̣ ᔑ∷ᒷᔑ",
+                "CHARGING_TIME": "ᓵ⍑ᔑ∷⊣╎リ⊣ ℸ ̣╎ᒲᒷ",
+                "FIRE_DAMAGE": "↸ᔑᒲᔑ⊣ᒷ",
+                "ISIS_DAMAGE": "↸ᔑᒲᔑ⊣ᒷ",
+                "ISIS_HEALING_PER_SECOND": "⍑ᒷᔑꖎ╎リ⊣ !¡ᒷ∷ ᓭᒷᓵ𝙹リ↸",
+                "AIMING_MODE_DAMAGE": "ᔑ╎ᒲ╎リ⊣ ᒲ𝙹↸ᒷ ↸ᔑᒲᔑ⊣ᒷ",
+                "AIMING_WEAPON_DISCHARGE_RATE": "ᔑ╎ᒲ╎リ⊣ ↸╎ᓭᓵ⍑ᔑ∷⊣ᒷ ∷ᔑℸ ̣ᒷ",
+                "SHAFT_AIMED_SHOT_IMPACT": "ᓭリ╎!¡ᒷ∷ ᓭ⍑𝙹ℸ ̣ ╎ᒲ!¡ᔑᓵℸ ̣",
+                "SHAFT_TARGETING_SPEED": "ℸ ̣ᔑ∷⊣ᒷℸ ̣╎リ⊣ ᓭ!¡ᒷᒷ↸",
+                "SHAFT_ARCADE_DAMAGE": "リ𝙹∷ᒲᔑꖎ ᓭ⍑𝙹ℸ ̣ ↸ᔑᒲᔑ⊣ᒷ",
+                "WEAPON_CHARGE_RATE": "ᓵ⍑ᔑ∷⊣ᒷ ∷ᔑℸ ̣ᒷ",
+                "WEAPON_MIN_DAMAGE_PERCENT": "ᒲ╎リ ↸ᔑᒲᔑ⊣ᒷ !¡ᒷ∷ᓵᒷリℸ ̣",
+                "THUNDER_MIN_SPLASH_DAMAGE_PERCENT": "ᒲ╎リ ᓭ!¡ꖎᔑᓭ⍑ ↸ᔑᒲᔑ⊣ᒷ !¡ᒷ∷ᓵᒷリℸ ̣",
+                "DEPENDENCY_FIRST_AID_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ╎ᒲ!¡𝙹ᓭᒷ↸ 𝙹リ ∷ᒷ!¡ᔑ╎∷ ꖌ╎ℸ ̣",
+                "DEPENDENCY_DOUBLE_ARMOR_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ╎ᒲ!¡𝙹ᓭᒷ↸ 𝙹リ ʖ𝙹𝙹ᓭℸ ̣ᒷ↸ ᔑ∷ᒲ𝙹∷",
+                "DEPENDENCY_DOUBLE_DAMAGE_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ╎ᒲ!¡𝙹ᓭᒷ↸ 𝙹リ ʖ𝙹𝙹ᓭℸ ̣ᒷ↸ ↸ᔑᒲᔑ⊣ᒷ",
+                "DEPENDENCY_NITRO_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ╎ᒲ!¡𝙹ᓭᒷ↸ 𝙹リ ᓭ!¡ᒷᒷ↸ ʖ𝙹𝙹ᓭℸ ̣",
+                "DEPENDENCY_MINE_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ╎ᒲ!¡𝙹ᓭᒷ↸ 𝙹リ ᒲ╎リᒷᓭ",
+                "DEPENDENCY_DROPPABLE_GOLD_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ╎ᒲ!¡𝙹ᓭᒷ↸ 𝙹リ ↸∷𝙹!¡!¡ᔑʖꖎᒷ ⊣𝙹ꖎ↸",
+                "COOLDOWN_FIRST_AID_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ",
+                "COOLDOWN_DOUBLE_ARMOR_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ",
+                "COOLDOWN_DOUBLE_DAMAGE_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ",
+                "COOLDOWN_NITRO_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ",
+                "COOLDOWN_MINE_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ",
+                "COOLDOWN_DROPPABLE_GOLD_SEC": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ ",
+                "COOLDOWN_NUCLEAR_RECHARGE": "ᓵ𝙹𝙹ꖎ↸𝙹∴リ",
+                "DURATION_FIRST_AID_SEC": "↸⚍∷ᔑℸ ̣╎𝙹リ",
+                "DURATION_DOUBLE_ARMOR_SEC": "↸⚍∷ᔑℸ ̣╎𝙹リ",
+                "DURATION_DOUBLE_DAMAGE_SEC": "↸⚍∷ᔑℸ ̣╎𝙹リ",
+                "DURATION_NITRO_SEC": "↸⚍∷ᔑℸ ̣╎𝙹リ",
+                "ATTACK_EFFECT": "ʖ𝙹𝙹ᓭℸ ̣ᓭ ᔑℸ ̣ℸ ̣ᔑᓵꖌ !¡𝙹∴ᒷ∷ ʖ|| ",
+                "FIRST_AID_EFFECT_INSTANT": "⍑╎ℸ ̣ !¡𝙹╎リℸ ̣ᓭ ∷ᒷᓭℸ ̣𝙹∷ᒷ↸ ⚍!¡𝙹リ ᔑᓵℸ ̣╎⍊ᔑℸ ̣╎𝙹リ",
+                "FIRST_AID_EFFECT": "⍑╎ℸ ̣!¡𝙹╎リℸ ̣ᓭ ∷ᒷ!¡ᔑ╎∷ᒷ↸ !¡ᒷ∷ ᓭᒷᓵ𝙹リ↸",
+                "PROTECTION_EFFECT": "ʖ𝙹𝙹ᓭℸ ̣ᓭ ↸ᒷ⎓ᒷリᓭᒷ ʖ|| ",
+                "SPEED_EFFECT": "ʖ𝙹𝙹ᓭℸ ̣ᓭ ᓭ!¡ᒷᒷ↸ ʖ|| ",
+                "DISCHARGE_SPEED": "↸╎ᓭᓵ⍑ᔑ∷⊣ᒷ ᓭ!¡ᒷᒷ↸",
+                "FREEZE_PER_TICK": "⎓∷ᒷᒷ⨅ᒷ !¡ᒷ∷ ℸ ̣╎ᓵꖌ",
+                "VERTICAL_ANGLES": "⍊ᒷ∷ℸ ̣╎ᓵᔑꖎ ᔑリ⊣ꖎᒷᓭ",
+                "DRONE_RELOAD": "↸∷𝙹リᒷ ∷ᒷᓵ⍑ᔑ∷⊣ᒷ ℸ ̣╎ᒲᒷ",
+                "DRONE_HP_BONUS": "⍑!¡ ʖ𝙹リ⚍ᓭ",
+                "DRONE_INVENTORY": "ᓭ⚍!¡!¡ꖎ|| ᔑᓵℸ ̣╎⍊ᒷ ℸ ̣╎ᒲᒷ",
+                "DRONE_INVENTORY_ADD": "ᓭ⚍!¡!¡ꖎ|| ᒷ⎓⎓ᒷᓵℸ ̣ ↸⚍∷ᔑℸ ̣╎𝙹リ ⎓𝙹∷ ᔑꖎꖎ╎ᒷᓭ",
+                "DRONE_BONUS_ADD": "╎リᓵ∷ᒷᔑᓭᒷᓭ ↸∷𝙹!¡!¡ᒷ↸ ᓭ⚍!¡!¡ꖎ╎ᒷᓭ ᔑᓵℸ ̣╎⍊ᒷ ℸ ̣╎ᒲᒷ ʖ||",
+                "DRONE_FIRST_AID_BONUS_ADD": "╎リᓵ∷ᒷᔑᓭᒷᓭ ∷ᒷ!¡ᔑ╎∷ ꖌ╎ℸ ̣ ᔑᓵℸ ̣╎⍊ᒷ ℸ ̣╎ᒲᒷ ʖ||",
+                "DRONE_OVERDRIVE_BOOST": "𝙹⍊ᒷ∷↸∷╎⍊ᒷ ʖ𝙹𝙹ᓭℸ ̣",
+                "DRONE_DEFEND": "!¡𝙹∴ᒷ∷ ⚍!¡ ↸⚍∷ᔑℸ ̣╎𝙹リ",
+                "DRONE_ARMOR_BOOST": "↸ᒷ⎓ᒷリᓭᒷ ʖ𝙹𝙹ᓭℸ ̣",
+                "DRONE_MINE": "リ⚍ᒲʖᒷ∷ 𝙹⎓ ᓭᔑ⍊ᒷ↸ ⚍!¡ ᒲ╎リᒷᓭ",
+                "DRONE_ADDITIONAL_MINES": "ᔑ↸↸╎ℸ ̣╎𝙹リᔑꖎ ᒲ╎リᒷᓭ",
+                "DRONE_MINES_ACTIVATION_DELAY": "ᒲ╎リᒷ ᔑᓵℸ ̣╎⍊ᔑℸ ̣╎𝙹リ ↸ᒷꖎᔑ||",
+                "DRONE_MINES_PLACEMENT_RADIUS": "ᒲ╎リᒷ !¡ꖎᔑᓵᒷᒲᒷリℸ ̣ ∷ᔑ↸╎⚍ᓭ",
+                "DRONE_INVENTORY_COOLDOWN_BOOST": "ᓭ⚍!¡!¡ꖎ|| ∷ᒷꖎ𝙹ᔑ↸ ᓭ!¡ᒷᒷ↸ ╎リᓵ∷ᒷᔑᓭᒷ ╎リ ᓭᒷᓵ.",
+                "DRONE_POWER_BOOST": "!¡𝙹∴ᒷ∷ ʖ𝙹𝙹ᓭℸ ̣",
+                "DRONE_POWER_DURATION": "!¡𝙹∴ᒷ∷ ↸⚍∷ᔑℸ ̣╎𝙹リ",
+                "DRONE_CRITICAL_HEALTH": "⍑ᒷᔑꖎ╎リ⊣",
+                "DRONE_ACTION_RADIUS": "ᔑ∷ᒷᔑ 𝙹⎓ ᒷ⎓⎓ᒷᓵℸ ̣ ∷ᔑ↸╎⚍ᓭ",
+                "DRONE_CONSTANT_ARMOR_PERCENT": "ʖ𝙹𝙹ᓭℸ ̣ᒷ↸ ᔑ∷ᒲ𝙹∷ ᓭ⚍!¡!¡ꖎ||'ᓭ ᒷ⎓⎓ᒷᓵℸ ̣ ╎リᓵ∷ᒷᔑᓭᒷ",
+                "DRONE_CONSTANT_POWER_PERCENT": "ʖ𝙹𝙹ᓭℸ ̣ᒷ↸ ↸ᔑᒲᔑ⊣ᒷ ᓭ⚍!¡!¡ꖎ||'ᓭ ᒷ⎓⎓ᒷᓵℸ ̣ ╎リᓵ∷ᒷᔑᓭᒷ",
+                "DRONE_DAMAGE_PERCENT": "ʖ𝙹リ⚍ᓭ ↸ᔑᒲᔑ⊣ᒷ",
+                "DRONE_ARMOR_PERCENT": "ʖ𝙹リ⚍ᓭ ᔑ∷ᒲ𝙹⚍∷",
+                "DRONE_HULL_SPEED_PERCENT": "ʖ𝙹リ⚍ᓭ ᓭ!¡ᒷᒷ↸ ʖ𝙹𝙹ᓭℸ ̣",
+                "DRONE_DEPENDENT_INVENTORY_COOLDOWN": "ᓭ∴╎ℸ ̣ᓵ⍑╎リ⊣ ᓭ!¡ᒷᒷ↸",
+                "DRONE_INVENTORY_COOLDOWN_SUBTRACTION": "ᓭ⚍!¡!¡ꖎ|| ∷ᒷꖎ𝙹ᔑ↸ ᓭ!¡ᒷᒷ↸ ╎リᓵ∷ᒷᔑᓭᒷ ╎リ ᓭᒷᓵ.",
+                "DRONE_INVENTORY_COOLDOWN_SUBTRACTION_ON_KILL": "∷ᒷ↸⚍ᓵℸ ̣╎𝙹リ 𝙹⎓ ᓭ⚍!¡!¡ꖎ|| ᓵ𝙹𝙹ꖎ↸𝙹∴リᓭ",
+                "ULTIMATE_HEAL_HP": "∷ᒷ!¡ᔑ╎∷ ╎リ ⍑╎ℸ ̣!¡𝙹╎リℸ ̣ᓭ",
+                "ULTIMATE_CHARGE_PER_SEC": "𝙹⍊ᒷ∷↸∷╎⍊ᒷ ᓵ⍑ᔑ∷⊣ᒷ !¡ᒷ∷ ᓭᒷᓵ𝙹リ↸",
+                "ULTIMATE_CHARGE_PER_SCORE_POINT": "𝙹⍊ᒷ∷↸∷╎⍊ᒷ ᓵ⍑ᔑ∷⊣ᒷ !¡ᒷ∷ ᓭᓵ𝙹∷ᒷ !¡𝙹╎リℸ ̣",
+                "ULTIMATE_SCORE_COOLDOWN_SEC": "ᓭᓵ𝙹∷ᒷ ᓵ𝙹𝙹ꖎ↸𝙹∴リ",
+                "ULTIMATE_ACTIVATION_DISCHARGE_PER_SEC": "𝙹⍊ᒷ∷↸∷╎⍊ᒷ ᔑᓵℸ ̣╎⍊ᔑℸ ̣╎𝙹リ ↸╎ᓭᓵ⍑ᔑ∷⊣ᒷ !¡ᒷ∷ ᓭᒷᓵ𝙹リ↸",
+                "SHOTGUN_MAGAZINE_SIZE": "ᒲᔑ⊣ᔑ⨅╎リᒷ ᓭ╎⨅ᒷ",
+                "SHOTGUN_PELLET_COUNT": "!¡ᒷꖎꖎᒷℸ ̣ ᔑᒲ𝙹⚍リℸ ̣",
+                "MAGAZINE_RELOAD_TIME": "ᒲᔑ⊣ᔑ⨅╎リᒷ ∷ᒷꖎ𝙹ᔑ↸ ℸ ̣╎ᒲᒷ",
+                "DAMAGE_PER_HIT": "↸ᔑᒲᔑ⊣ᒷ !¡ᒷ∷ ⍑╎ℸ ̣",
+                "DEVICE_SMOKY_TEMPERATURE_DELTA_ON_CRITICAL": "ℸ ̣ᒷᒲ!¡ᒷ∷ᔑℸ ̣⚍∷ᒷ 𝙹リ ᓵ∷╎ℸ ̣╎ᓵᔑꖎ",
+                "DEVICE_TARGET_HEAT_DELTA_ON_SELF_OVERHEAT": "⍑ᒷᔑℸ ̣ ↸ᒷᔑꖎℸ ̣ ℸ ̣𝙹 ᒷリᒷᒲ|| ℸ ̣ᔑリꖌᓭ ∴⍑╎ꖎᒷ ⚍リ↸ᒷ∷ ℸ ̣⍑ᒷ ᒷ⎓⎓ᒷᓵℸ ̣ 𝙹⎓ ᓭᒷꖎ⎓-𝙹⍊ᒷ∷⍑ᒷᔑℸ ̣╎リ⊣",
+                "MACHINE_GUN_TEMPERATURE_HITTING_TIME_SECOND": "ℸ ̣╎ᒲᒷ ℸ ̣╎ꖎꖎ 𝙹⍊ᒷ∷⍑ᒷᔑℸ ̣",
+                "DEVICE_BONUS_ENERGY_ON_KILL": "ᒷリᒷ∷⊣|| ∷ᒷᓭℸ ̣𝙹∷ᒷ↸ !¡ᒷ∷ ꖌ╎ꖎꖎ",
+                "ISIS_DISCHARGE_SPEED_HEALING": "ᒷリᒷ∷⊣|| ᓵ𝙹リᓭ⚍ᒲ!¡ℸ ̣╎𝙹リ ∷ᔑℸ ̣ᒷ ∴⍑ᒷリ ∷ᒷ!¡ᔑ╎∷╎リ⊣ ⎓∷╎ᒷリ↸ꖎ|| ℸ ̣ᔑリꖌᓭ",
+                "ENERGY_PER_SHOT": "ᒷリᒷ∷⊣|| !¡ᒷ∷ ᓭ⍑𝙹ℸ ̣",
+                "MAX_RICOCHET_COUNT": "ᒲᔑ̇̇/╎ᒲ⚍ᒲ リ⚍ᒲʖᒷ∷ 𝙹⎓ !¡∷𝙹⋮ᒷᓵℸ ̣╎ꖎᒷ ʖ𝙹⚍リᓵᒷᓭ",
+                "GAUSS_AIMING_MODE_DAMAGE": "↸ᔑᒲᔑ⊣ᒷ ╎リ ᓭリ╎!¡╎リ⊣ ᒲ𝙹↸ᒷ",
+                "SHELL_MAX_RICOCHET_ANGLE": "ᒲᔑ̇̇/╎ᒲ⚍ᒲ ∷╎ᓵ𝙹ᓵ⍑ᒷℸ ̣ ᔑリ⊣ꖎᒷ"
+            },
+            "PROTECTION_MODULE": "!¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ ᒲ𝙹↸⚍ꖎᒷ",
+            "SHOT_COLOR": "ᓭ⍑𝙹ℸ ̣ ᓵ𝙹ꖎ𝙹∷",
+            "NEEDED_RANK": "∷ᔑリꖌ ∷ᒷᑑ⚍╎∷ᒷ↸",
+            "COMPLETED": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ↸",
+            "OPEN_THE_SHOP": "𝙹!¡ᒷリ ℸ ̣⍑ᒷ ᓭ⍑𝙹!¡",
+            "DIALOG_NOT_ENOUGH_CRYSTAL_FOR_UPDATE_ITEM": "||𝙹⚍ ↸𝙹 リ𝙹ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ (%ᓵ∷||ᓭℸ ̣ᔑꖎ%) ℸ ̣𝙹 ⚍!¡⊣∷ᔑ↸ᒷ %╎ℸ ̣ᒷᒲ%",
+            "BOUGHT": "!¡⚍∷ᓵ⍑ᔑᓭᒷ↸"
+        },
+        "notification": {
+            "INFO": "╎リ⎓𝙹",
+            "WARNING": "∴ᔑ∷リ╎リ⊣",
+            "BUTTON_YES": "||ᒷᓭ",
+            "BUTTON_NO": "リ𝙹",
+            "ALERT": "∴ᔑ∷リ╎リ⊣",
+            "BUTTON_OK": "𝙹ꖌ"
+        },
+        "settings": {
+            "TITLE": "ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ",
+            "reset_dialog": {
+                "TEXT": "ᓵ⍑ᔑリ⊣ᒷᓭ ╎リ ℸ ̣⍑╎ᓭ ᓭᒷᓵℸ ̣╎𝙹リ 𝙹⎓ ℸ ̣⍑ᒷ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ ∴╎ꖎꖎ ʖᒷ ∷ᒷᓭᒷℸ ̣.\nᓵ𝙹リℸ ̣╎リ⚍ᒷ?"
+            },
+            "menu": {
+                "GAME": "⊣ᔑᒲᒷ",
+                "GRAPHIC": "⊣∷ᔑ!¡⍑╎ᓵᓭ",
+                "SOUND": "ᓭ𝙹⚍リ↸",
+                "CONTROL": "ᓵ𝙹リℸ ̣∷𝙹ꖎ",
+                "ACCOUNT": "ᔑᓵᓵ𝙹⚍リℸ ̣",
+                "BATTLE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "SECURITY": "ᓭᒷᓵ⚍∷╎ℸ ̣||"
+            },
+            "keyboard": {
+                "ROTATE_TURRET_LEFT": "∷𝙹ℸ ̣ᔑℸ ̣ᒷ ℸ ̣⚍∷∷ᒷℸ ̣ ꖎᒷ⎓ℸ ̣",
+                "ROTATE_TURRET_RIGHT": "∷𝙹ℸ ̣ᔑℸ ̣ᒷ ℸ ̣⚍∷∷ᒷℸ ̣ ∷╎⊣⍑ℸ ̣",
+                "CENTER_TURRET": "ᓵᒷリℸ ̣ᒷ∷ ℸ ̣⚍∷∷ᒷℸ ̣",
+                "TURN_TANK_LEFT": "ℸ ̣⚍∷リ ℸ ̣ᔑリꖌ ꖎᒷ⎓ℸ ̣",
+                "TURN_TANK_RIGHT": "ℸ ̣⚍∷リ ℸ ̣ᔑリꖌ ∷╎⊣⍑ℸ ̣",
+                "MOVE_TANK_FORWARD": "ᒲ𝙹⍊ᒷ ℸ ̣ᔑリꖌ ⎓𝙹∷∴ᔑ∷↸",
+                "MOVE_TANK_BACKWARDS": "ᒲ𝙹⍊ᒷ ℸ ̣ᔑリꖌ ʖᔑᓵꖌ∴ᔑ∷↸ᓭ",
+                "MOVE_CAMERA_UP": "ᒲ𝙹⍊ᒷ ᓵᔑᒲᒷ∷ᔑ ⚍!¡",
+                "MOVE_CAMERA_DOWN": "ᒲ𝙹⍊ᒷ ᓵᔑᒲᒷ∷ᔑ ↸𝙹∴リ",
+                "DROP_FLAG": "↸∷𝙹!¡ ⎓ꖎᔑ⊣",
+                "DROP_GRENADE": "ℸ ̣⍑∷𝙹∴ ⊣∷ᒷリᔑ↸ᒷ",
+                "PAUSE": "!¡ᔑ⚍ᓭᒷ",
+                "INCREASE_BATTLE_SCREEN_SIZE": "╎リᓵ∷ᒷᔑᓭᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᓭᓵ∷ᒷᒷリ ᓭ╎⨅ᒷ",
+                "DECREASE_BATTLE_SCREEN_SIZE": "↸ᒷᓵ∷ᒷᔑᓭᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᓭᓵ∷ᒷᒷリ ᓭ╎⨅ᒷ",
+                "FULLSCREEN_COLLAPSE": "⎓⚍ꖎꖎᓭᓵ∷ᒷᒷリ/ᓵ𝙹ꖎꖎᔑ!¡ᓭᒷ",
+                "STATISTICS": "ᓭℸ ̣ᔑℸ ̣╎ᓭℸ ̣╎ᓵᓭ",
+                "USE_FIRST_AID_SUPPLY": "⚍ᓭᒷ ⎓╎∷ᓭℸ ̣ ᔑ╎↸ ᓭ⚍!¡!¡ꖎ||",
+                "USE_DOUBLE_ARMOR_SUPPLY": "⚍ᓭᒷ ʖ𝙹𝙹ᓭℸ ̣ᒷ↸ ᔑ∷ᒲ𝙹∷ ᓭ⚍!¡!¡ꖎ||",
+                "USE_DOUBLE_DAMAGE_SUPPLY": "⚍ᓭᒷ ʖ𝙹𝙹ᓭℸ ̣ᒷ↸ ↸ᔑᒲᔑ⊣ᒷ ᓭ⚍!¡!¡ꖎ||",
+                "USE_SPEED_BOOST_SUPPLY": "⚍ᓭᒷ ᓭ!¡ᒷᒷ↸ ʖ𝙹𝙹ᓭℸ ̣ ᓭ⚍!¡!¡ꖎ||",
+                "DROP_MINE": "↸∷𝙹!¡ ᒲ╎リᒷ",
+                "USE_GOLD_BOX_SUPPLY": "⚍ᓭᒷ ⊣𝙹ꖎ↸ ʖ𝙹̇̇/ ᓭ⚍!¡!¡ꖎ||",
+                "SHOOT": "ᓭ⍑𝙹𝙹ℸ ̣",
+                "OVERDRIVES": "𝙹⍊ᒷ∷↸∷╎⍊ᒷᓭ",
+                "QUICK_GARAGE": "ᑑ⚍╎ᓵꖌ ⊣ᔑ∷ᔑ⊣ᒷ",
+                "SELF_DESTROY": "ᓭᒷꖎ⎓-↸ᒷᓭℸ ̣∷⚍ᓵℸ ̣╎𝙹リ",
+                "RESET_ALL_KEYS": "∷ᒷᓭℸ ̣𝙹∷ᒷ ↸ᒷ⎓ᔑ⚍ꖎℸ ̣ ʖ⚍ℸ ̣ℸ ̣𝙹リᓭ",
+                "SUPPLIES_ULTIMATE_HOTKEYS": "𝙹⍊ᒷ∷↸∷╎⍊ᒷ ᔑリ↸ ᓭ⚍!¡!¡ꖎ╎ᒷᓭ"
+            },
+            "game": {
+                "LANGUAGE": "ꖎᔑリ⊣⚍ᔑ⊣ᒷ",
+                "SHOW_DROP_ZONES": "ᓭ⍑𝙹∴ ↸∷𝙹!¡ ⨅𝙹リᒷᓭ",
+                "SHOW_DROP_ZONES_DESCRIPTION": "ᓭ⍑𝙹∴ᓭ ∴⍑ᒷ∷ᒷ ᓭ⚍!¡!¡ꖎ|| ʖ𝙹̇̇/ᒷᓭ ∴╎ꖎꖎ ↸∷𝙹!¡ ╎リ ℸ ̣⍑ᒷ ᒲᔑ!¡",
+                "ALTERNATE_CAMERA": "ᔑꖎℸ ̣ᒷ∷リᔑℸ ̣ᒷ ᓵᔑᒲᒷ∷ᔑ",
+                "ALTERNATE_CAMERA_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ℸ ̣⍑ᒷ ᔑꖎℸ ̣ᒷ∷リᔑℸ ̣ᒷ ᓵᔑᒲᒷ∷ᔑ ⎓⚍リᓵℸ ̣╎𝙹リ",
+                "SHOW_YOUR_DRONE": "ᓭ⍑𝙹∴ ||𝙹⚍∷ ↸∷𝙹リᒷ",
+                "SHOW_YOUR_DRONE_DESCRIPTION": "ᓭ⍑𝙹∴ᓭ ||𝙹⚍∷ ↸∷𝙹リᒷ 𝙹リ ᓭᓵ∷ᒷᒷリ",
+                "RECEIVE_PRESENTS_ENABLED": "∷ᒷᓵᒷ╎⍊ᒷ ⊣╎⎓ℸ ̣ᓭ",
+                "RECEIVE_PRESENTS_ENABLED_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ∷ᒷᓵᒷ╎⍊ᒷ ⊣╎⎓ℸ ̣ᓭ ⎓∷𝙹ᒲ 𝙹ℸ ̣⍑ᒷ∷ !¡ꖎᔑ||ᒷ∷ᓭ",
+                "RECEIVE_PM_FROM_FRIENDS_ONLY": "!¡ᒲᓭ ⎓∷𝙹ᒲ ⎓∷╎ᒷリ↸ᓭ 𝙹リꖎ||",
+                "RECEIVE_PM_FROM_FRIENDS_ONLY_DESCRIPTION": "𝙹リꖎ|| ᔑꖎꖎ𝙹∴ᓭ !¡ᒲᓭ ⎓∷𝙹ᒲ !¡ꖎᔑ||ᒷ∷ᓭ ╎リ ||𝙹⚍∷ ⎓∷╎ᒷリ↸ᓭ ꖎ╎ᓭℸ ̣",
+                "SHOW_CHAT": "ᓭ⍑𝙹∴ ᓵ⍑ᔑℸ ̣",
+                "SHOW_CHAT_DESCRIPTION": "ᓭ⍑𝙹∴ᓭ ℸ ̣⍑ᒷ ᓵ⍑ᔑℸ ̣ ∴╎リ↸𝙹∴",
+                "SHOW_NOTIFICATIONS": "ᓭ⍑𝙹∴ リ𝙹ℸ ̣╎⎓╎ᓵᔑℸ ̣╎𝙹リᓭ",
+                "SHOW_NOTIFICATIONS_DESCRIPTION": "ᓭ⍑𝙹∴ᓭ ||𝙹⚍ リ𝙹ℸ ̣╎⎓╎ᓵᔑℸ ̣╎𝙹リᓭ 𝙹リ ||𝙹⚍∷ ᓭᓵ∷ᒷᒷリ",
+                "SHOW_OTHER_DRONE": "ᓭ⍑𝙹∴ 𝙹ℸ ̣⍑ᒷ∷ ↸∷𝙹リᒷ",
+                "SHOW_OTHER_DRONE_DESCRIPTION": "ᓭ⍑𝙹∴_𝙹ℸ ̣⍑ᒷ∷_↸∷𝙹リᒷ_↸ᒷᓭᓵ∷╎!¡ℸ ̣╎𝙹リ",
+                "BACKGROUND_SOUND": "ʖᔑᓵꖌ⊣∷𝙹⚍リ↸ ᓭ𝙹⚍リ↸ᓭ",
+                "BACKGROUND_SOUND_DESCRIPTION": "ʖᔑᓵꖌ⊣∷𝙹⚍リ↸ ᓭ𝙹⚍リ↸ᓭ ᒷリᔑʖꖎᒷ↸",
+                "MASTER_VOLUME": "ᒲᔑᓭℸ ̣ᒷ∷ ⍊𝙹ꖎ⚍ᒲᒷ",
+                "MUSIC_VOLUME": "ᒲ⚍ᓭ╎ᓵ ⍊𝙹ꖎ⚍ᒲᒷ",
+                "AMBIENT_VOLUME": "ᔑᒲʖ╎ᒷリℸ ̣ ⍊𝙹ꖎ⚍ᒲᒷ",
+                "SFX_VOLUME": "ᓭ⎓̇̇/ ⍊𝙹ꖎ⚍ᒲᒷ",
+                "UI_VOLUME": "⚍╎ ⍊𝙹ꖎ⚍ᒲᒷ",
+                "HITMARK_PLAYER_VOLUME": "⍊𝙹ꖎ⚍ᒲᒷ 𝙹⎓ ᓭ𝙹⚍リ↸ ∴⍑ᒷリ ∷ᒷᓵᒷ╎⍊╎リ⊣ ↸ᔑᒲᔑ⊣ᒷ ⎓∷𝙹ᒲ ᔑリ 𝙹!¡!¡𝙹リᒷリℸ ̣",
+                "HITMARK_ENEMY_VOLUME": "⍊𝙹ꖎ⚍ᒲᒷ 𝙹⎓ ᓭ𝙹⚍リ↸ ⎓𝙹∷ ↸ᒷᔑꖎ╎リ⊣ ↸ᔑᒲᔑ⊣ᒷ ℸ ̣𝙹 ᔑリ 𝙹!¡!¡𝙹リᒷリℸ ̣",
+                "BLUR_MUTE": "ᒲ⚍ℸ ̣ᒷ 𝙹リ ʖᔑᓵꖌ⊣∷𝙹⚍リ↸",
+                "BLUR_MUTE_DESCRIPTION": "ᒲ⚍ℸ ̣ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᓭ𝙹⚍リ↸ᓭ ∴⍑ᒷリ ʖ∷𝙹∴ᓭᒷ∷ ℸ ̣ᔑʖ ╎ᓭ 𝙹⚍ℸ ̣ 𝙹⎓ ⎓𝙹ᓵ⚍ᓭ",
+                "DISABLE_SHOWING_BATTLE_INVITES": "↸╎ᓭᔑʖꖎᒷ ᓭ⍑𝙹∴╎リ⊣ ╎リ⍊╎ℸ ̣ᒷᓭ",
+                "DISABLE_SHOWING_BATTLE_INVITES_DESCRIPTION": "↸╎ᓭᔑʖꖎᒷ ᓭ⍑𝙹∴╎リ⊣ ╎リ⍊╎ℸ ̣ᒷᓭ ⎓∷𝙹ᒲ ||𝙹⚍∷ ⎓∷╎ᒷリ↸ᓭ ℸ ̣𝙹 ⋮𝙹╎リ ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ 𝙹∷ ⊣∷𝙹⚍!¡",
+                "BROWSER_NOTIFICATIONS_TITLE": "ʖ∷𝙹∴ᓭᒷ∷ リ𝙹ℸ ̣╎⎓╎ᓵᔑℸ ̣╎𝙹リᓭ",
+                "BROWSER_NOTIFICATIONS_ENABLED": "ʖ∷𝙹∴ᓭᒷ∷ リ𝙹ℸ ̣╎⎓╎ᓵᔑℸ ̣╎𝙹リᓭ ᔑ∷ᒷ ᒷリᔑʖꖎᒷ↸",
+                "BROWSER_NOTIFICATIONS_DISABLE_IN_SETTINGS": "||𝙹⚍ ᒲᔑ|| ↸╎ᓭᔑʖꖎᒷ ℸ ̣⍑ᒷᒲ ╎リ ||𝙹⚍∷ ╎リℸ ̣ᒷ∷リᒷℸ ̣ ʖ∷𝙹∴ᓭᒷ∷'ᓭ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ",
+                "BROWSER_NOTIFICATIONS_DISABLED": "ʖ∷𝙹∴ᓭᒷ∷ リ𝙹ℸ ̣╎⎓╎ᓵᔑℸ ̣╎𝙹リᓭ ᔑ∷ᒷ ʖꖎ𝙹ᓵꖌᒷ↸",
+                "BROWSER_NOTIFICATIONS_ENABLE_IN_SETTINGS": "||𝙹⚍ ᒲᔑ|| ᒷリᔑʖꖎᒷ ℸ ̣⍑ᒷᒲ ╎リ ||𝙹⚍∷ ╎リℸ ̣ᒷ∷リᒷℸ ̣ ʖ∷𝙹∴ᓭᒷ∷'ᓭ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ",
+                "BROWSER_NOTIFICATIONS_DESCRIPTION": "⊣ᒷℸ ̣ ᒲᒷᓭᓭᔑ⊣ᒷᓭ ⎓∷𝙹ᒲ 𝙹ℸ ̣⍑ᒷ∷ !¡ꖎᔑ||ᒷ∷ᓭ ∴⍑ᒷリ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ ╎ᓭ リ𝙹ℸ ̣ ℸ ̣⍑ᒷ ᔑᓵℸ ̣╎⍊ᒷ ∴╎リ↸𝙹∴",
+                "BROWSER_NOTIFICATIONS_BUTTON": "ᔑꖎꖎ𝙹∴/↸ᒷリ||",
+                "MASTER_VOLUME_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ᒲᔑᓭℸ ̣ᒷ∷ ⍊𝙹ꖎ⚍ᒲᒷ",
+                "MUSIC_VOLUME_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ⍊𝙹ꖎ⚍ᒲᒷ 𝙹⎓ ᒲ⚍ᓭ╎ᓵ ╎リ ℸ ̣⍑ᒷ ꖎ𝙹ʖʖ||",
+                "AMBIENT_VOLUME_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ʖᔑᓵꖌ⊣∷𝙹⚍リ↸ ᓭ𝙹⚍リ↸ᓭ ╎リ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ",
+                "SFX_VOLUME_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᓭ𝙹⚍リ↸ᓭ (ᓭ⍑𝙹ℸ ̣ᓭ, ᒷ̇̇/!¡ꖎ𝙹ᓭ╎𝙹リᓭ) ╎リ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ",
+                "UI_VOLUME_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ⍊𝙹ꖎ⚍ᒲᒷ 𝙹⎓ ℸ ̣⍑ᒷ ╎リℸ ̣ᒷ∷⎓ᔑᓵᒷ",
+                "HITMARK_PLAYER_VOLUME_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ⍊𝙹ꖎ⚍ᒲᒷ 𝙹⎓ ᒷリᒷᒲ|| ᓭ⍑𝙹ℸ ̣ᓭ ℸ ̣⍑ᔑℸ ̣ ⍑╎ℸ ̣ ||𝙹⚍∷ ℸ ̣ᔑリꖌ",
+                "HITMARK_ENEMY_VOLUME_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ⍊𝙹ꖎ⚍ᒲᒷ 𝙹⎓ ||𝙹⚍∷ 𝙹∴リ ᓭ⍑𝙹ℸ ̣ᓭ ℸ ̣⍑ᔑℸ ̣ ⍑╎ℸ ̣ ℸ ̣⍑ᒷ ᒷリᒷᒲ|| ℸ ̣ᔑリꖌ",
+                "LANGUAGE_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ ꖎᔑリ⊣⚍ᔑ⊣ᒷ ℸ ̣𝙹 𝙹リᒷ 𝙹⎓ ℸ ̣⍑ᒷ 𝙹!¡ℸ ̣╎𝙹リᓭ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ.",
+                "ACTIVATE_PROMOCODE": "ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ !¡∷𝙹ᒲ𝙹ᓵ𝙹↸ᒷ",
+                "ACTIVATE_PROMOCODE_DESCRIPTION": "!¡∷𝙹ᒲ𝙹ᓵ𝙹↸ᒷᓭ ᔑꖎꖎ𝙹∴ ||𝙹⚍ ℸ ̣𝙹 ∷ᒷᓵᒷ╎⍊ᒷ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ, ↸ᔑ||ᓭ 𝙹⎓ !¡∷ᒷᒲ╎⚍ᒲ !¡ᔑᓭᓭ, ⊣𝙹ꖎ↸ ʖ𝙹̇̇/ᒷᓭ, !¡ᔑ╎リℸ ̣ᓭ, ᔑリ↸ ᓭ𝙹ᒲᒷ ╎ℸ ̣ᒷᒲᓭ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ ⊣ᔑ∷ᔑ⊣ᒷ. ʖ𝙹リ⚍ᓭ ╎ℸ ̣ᒷᒲᓭ ∴╎ꖎꖎ ʖᒷ ╎ᒲᒲᒷ↸╎ᔑℸ ̣ᒷꖎ|| ᓵ∷ᒷ↸╎ℸ ̣ᒷ↸ ℸ ̣𝙹 ||𝙹⚍∷ ᔑᓵᓵ𝙹⚍リℸ ̣. ||𝙹⚍ ᓵᔑリ ⊣ᒷℸ ̣ ᔑ !¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷ ╎リ ⍊ᔑ∷╎𝙹⚍ᓭ ᓭ!¡ᒷᓵ╎ᔑꖎ !¡∷𝙹ᒲ𝙹ℸ ̣╎𝙹リᓭ."
+            },
+            "buttons": {
+                "BACK": "ʖᔑᓵꖌ [⨅]",
+                "RESET": "∷ᒷᓭᒷℸ ̣ ᔑꖎꖎ"
+            },
+            "graphics": {
+                "SHOW_FPS_AND_PING": "ᓭ⍑𝙹∴ ⎓!¡ᓭ ᔑリ↸ !¡╎リ⊣",
+                "SHOW_FPS_AND_PING_DESCRIPTION": "ᓭ⍑𝙹∴ᓭ ||𝙹⚍ ℸ ̣⍑ᒷ ⎓!¡ᓭ ᔑリ↸ !¡╎リ⊣",
+                "SHOW_SKYBOX": "ᓭ⍑𝙹∴ ᓭꖌ||ʖ𝙹̇̇/",
+                "SHOW_SKYBOX_DESCRIPTION": "ᓭ⍑𝙹∴ᓭ ℸ ̣⍑ᒷ ᒲᔑ!¡'ᓭ ᓭꖌ||ʖ𝙹̇̇/",
+                "GRAPHICS_AUTO_QUALITY": "ᔑ⚍ℸ ̣𝙹 ⊣∷ᔑ!¡⍑╎ᓵᓭ ᑑ⚍ᔑꖎ╎ℸ ̣||",
+                "GRAPHICS_AUTO_QUALITY_DESCRIPTION": "ᔑ⚍ℸ ̣𝙹ᒲᔑℸ ̣╎ᓵᔑꖎꖎ|| ᓭᒷℸ ̣ ℸ ̣⍑ᒷ ⊣∷ᔑ!¡⍑╎ᓵᓭ ᑑ⚍ᔑꖎ╎ℸ ̣||",
+                "DYNAMIC_SHADOWS": "↸||リᔑᒲ╎ᓵ ᓭ⍑ᔑ↸𝙹∴ᓭ",
+                "DYNAMIC_SHADOWS_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ↸||リᔑᒲ╎ᓵ ᓭ⍑ᔑ↸𝙹∴ᓭ",
+                "DYNAMIC_LIGHTING": "↸||リᔑᒲ╎ᓵ ꖎ╎⊣⍑ℸ ̣╎リ⊣",
+                "DYNAMIC_LIGHTING_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ↸||リᔑᒲ╎ᓵ ꖎ╎⊣⍑ℸ ̣╎リ⊣",
+                "SHADOWS": "ᓭ⍑ᔑ↸𝙹∴ᓭ",
+                "SHADOWS_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ᓭ⍑ᔑ↸𝙹∴ᓭ",
+                "SOFT_SHADOWS": "ᓭ𝙹⎓ℸ ̣ ᓭ⍑ᔑ↸𝙹∴ᓭ",
+                "SOFT_SHADOWS_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ᓭ𝙹⎓ℸ ̣ ᓭ⍑ᔑ↸𝙹∴ᓭ",
+                "SOFT_PARTICLES": "ᓭ𝙹⎓ℸ ̣ !¡ᔑ∷ℸ ̣╎ᓵꖎᒷᓭ",
+                "SOFT_PARTICLES_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ᓭ𝙹⎓ℸ ̣ !¡ᔑ∷ℸ ̣╎ᓵꖎᒷᓭ",
+                "ADAPTIVE_FPS": "ᔑ↸ᔑ!¡ℸ ̣╎⍊ᒷ ⎓!¡ᓭ",
+                "ADAPTIVE_FPS_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ᔑ↸ᔑ!¡ℸ ̣╎⍊ᒷ ⎓!¡ᓭ",
+                "SSAO": "ᓭᓭᔑ𝙹",
+                "SSAO_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ᓭᓭᔑ𝙹",
+                "FOG": "⎓𝙹⊣",
+                "FOG_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ⎓𝙹⊣",
+                "ANTIALIASING": "ᔑリℸ ̣╎ᔑꖎ╎ᔑᓭ╎リ⊣",
+                "ANTIALIASING_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ᔑリℸ ̣╎ᔑꖎ╎ᔑᓭ╎リ⊣",
+                "DUST": "ᓭ⍑𝙹∴ ↸⚍ᓭℸ ̣ ᔑリ↸ ᓵᔑ∷ℸ ̣∷╎↸⊣ᒷ ᓵᔑᓭᒷᓭ",
+                "DUST_DESCRIPTION": "ℸ ̣⍑╎ᓭ ᓭᒷℸ ̣ℸ ̣╎リ⊣ ᒷリᔑʖꖎᒷᓭ ᓭ⍑𝙹∴╎リ⊣ ᓵᔑ∷ℸ ̣∷╎↸⊣ᒷ ᓵᔑᓭᒷᓭ ᔑリ↸ ↸⚍ᓭℸ ̣ ʖᒷꖎ𝙹∴ ℸ ̣⍑ᒷ ℸ ̣∷ᔑᓵꖌᓭ 𝙹⎓ ᒲ𝙹⍊╎リ⊣ ℸ ̣ᔑリꖌᓭ.",
+                "ANISOTROPIC_FILTERING": "ᔑリ╎ᓭ𝙹ℸ ̣∷𝙹!¡╎ᓵ ⎓╎ꖎℸ ̣ᒷ∷╎リ⊣",
+                "DECALS": "リ⚍ᒲʖᒷ∷ 𝙹⎓ ↸ᒷᓵᔑꖎᓭ ꖎᒷ⎓ℸ ̣ ʖ|| ᓭ⍑𝙹ℸ ̣ᓭ ᔑリ↸ ᒷ̇̇/!¡ꖎ𝙹ᓭ╎𝙹リᓭ",
+                "DECALS_KEY_OFF": "𝙹⎓⎓",
+                "DECALS_KEY_FEW": "ꖎ𝙹∴",
+                "DECALS_KEY_MANY": "ᒲᒷ↸╎⚍ᒲ",
+                "DECALS_KEY_TOO_MANY": "⍑╎⊣⍑",
+                "DECALS_KEY_MAXIMUM": "ᒲᔑ̇̇/╎ᒲ⚍ᒲ",
+                "TREES_QUALITY": "ᑑ⚍ᔑꖎ╎ℸ ̣|| 𝙹⎓ ℸ ̣∷ᒷᒷᓭ",
+                "TREES_QUALITY_SPRITES": "ᓭ!¡∷╎ℸ ̣ᒷᓭ",
+                "TREES_QUALITY_LOW": "ꖎ𝙹∴",
+                "TREES_QUALITY_MEDIUM": "ᒲᒷ↸╎⚍ᒲ",
+                "TREES_QUALITY_HIGH": "⍑╎⊣⍑",
+                "GRAPHICS_RESOLUTION": "╎ᒲᔑ⊣ᒷ ∷ᒷᓭ𝙹ꖎ⚍ℸ ̣╎𝙹リ",
+                "GRAPHICS_RESOLUTION_MAXIMAL": "ᒲᔑ̇̇/╎ᒲ⚍ᒲ",
+                "GRAPHICS_RESOLUTION_LOW": "ꖎ𝙹∴",
+                "GRAPHICS_RESOLUTION_VERY_LOW": "⍊ᒷ∷|| ꖎ𝙹∴",
+                "GRAPHICS_RESOLUTION_MINIMAL": "ᒲ╎リ╎ᒲ⚍ᒲ",
+                "QUALITY_BRACKET_TITLE_LABEL": "⊣∷ᔑ!¡⍑╎ᓵᓭ ᑑ⚍ᔑꖎ╎ℸ ̣||",
+                "QUALITY_BRACKET_LOW": "ꖎ𝙹∴",
+                "QUALITY_BRACKET_MEDIUM": "ᒲᒷ↸╎⚍ᒲ",
+                "QUALITY_BRACKET_HIGH": "⍑╎⊣⍑",
+                "QUALITY_BRACKET_MAXIMUM": "ᒲᔑ̇̇/╎ᒲ⚍ᒲ",
+                "QUALITY_BRACKET_OTHER": "ᓵ⚍ᓭℸ ̣𝙹ᒲ",
+                "EXTENDED_SETTINGS_SWITCH": "ᒷ̇̇/ℸ ̣ᒷリ↸ᒷ↸ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ",
+                "FPS_LIMIT": "⎓!¡ᓭ ꖎ╎ᒲ╎ℸ ̣",
+                "FPS_LIMIT_MAX": "ᒲᔑ̇̇/╎ᒲ⚍ᒲ",
+                "SHOW_FRAMETIME_GRAPH": "ᓭ⍑𝙹∴ ⎓∷ᔑᒲᒷℸ ̣╎ᒲᒷ ⊣∷ᔑ!¡⍑",
+                "VSYNC": "⍊ᓭ||リᓵ",
+                "VSYNC_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ⍊ᒷ∷ℸ ̣╎ᓵᔑꖎ ᓭ||リᓵ⍑∷𝙹リ╎⨅ᔑℸ ̣╎𝙹リ",
+                "QUALITY_BRACKETS_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑𝙹𝙹ᓭᒷ ℸ ̣⍑ᒷ ʖᒷᓭℸ ̣ 𝙹!¡ℸ ̣╎𝙹リ ʖᒷℸ ̣∴ᒷᒷリ ʖᒷᔑ⚍ℸ ̣╎⎓⚍ꖎ ⊣∷ᔑ!¡⍑╎ᓵᓭ ᔑリ↸ ⎓ᔑᓭℸ ̣ !¡ᒷ∷⎓𝙹∷ᒲᔑリᓵᒷ",
+                "DECALS_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ᓭ⍑𝙹ℸ ̣ ᔑリ↸ ʖꖎᔑᓭℸ ̣ ℸ ̣∷ᔑᓵᒷᓭ ↸╎ᓭ!¡ꖎᔑ||ᒷ↸ 𝙹リ ℸ ̣⍑ᒷ ᒲᔑ!¡ ╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "ANISOTROPIC_FILTERING_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ╎ᒲᔑ⊣ᒷ ᑑ⚍ᔑꖎ╎ℸ ̣|| 𝙹⎓ ℸ ̣ᒷ̇̇/ℸ ̣⚍∷ᒷᓭ ╎リ ℸ ̣⍑ᒷ ↸╎ᓭℸ ̣ᔑリᓵᒷ",
+                "TREES_QUALITY_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ∷ᒷリ↸ᒷ∷╎リ⊣ ᑑ⚍ᔑꖎ╎ℸ ̣|| 𝙹⎓ ʖ⚍ᓭ⍑ᒷᓭ ᔑリ↸ ℸ ̣∷ᒷᒷᓭ",
+                "GRAPHICS_RESOLUTION_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ||𝙹⚍∷ ⊣ᔑᒲᒷᓭ ᓭᓵ∷ᒷᒷリ ∷ᒷᓭ𝙹ꖎ⚍ℸ ̣╎𝙹リ ↸⚍∷╎リ⊣ ʖᔑℸ ̣ℸ ̣ꖎᒷ, ∴⍑╎ᓵ⍑ ᓵᔑリ リ𝙹ℸ ̣╎ᓵᒷᔑʖꖎ|| ᔑ⎓⎓ᒷᓵℸ ̣ !¡ᒷ∷⎓𝙹∷ᒲᔑリᓵᒷ",
+                "VSYNC2": "!¡𝙹∴ᒷ∷-ᓭᔑ⍊╎リ⊣ ᒲ𝙹↸ᒷ",
+                "VSYNC2_DESCRIPTION": "╎リᓵ∷ᒷᔑᓭᒷᓭ ʖᔑℸ ̣ℸ ̣ᒷ∷|| ꖎ╎⎓ᒷ ʖ|| ꖎ╎ᒲ╎ℸ ̣╎リ⊣ ℸ ̣⍑ᒷ ⎓∷ᔑᒲᒷ ∷ᔑℸ ̣ᒷ."
+            },
+            "controls": {
+                "inputDevice": {
+                    "INPUT_DEVICE": "╎リ!¡⚍ℸ ̣ ↸ᒷ⍊╎ᓵᒷ",
+                    "MOUSE_KEYBOARD": "ᒲ𝙹⚍ᓭᒷ + ꖌᒷ||ʖ𝙹ᔑ∷↸",
+                    "KEYBOARD": "ꖌᒷ||ʖ𝙹ᔑ∷↸",
+                    "GAMEPAD": "⊣ᔑᒲᒷ!¡ᔑ↸",
+                    "TOUCHSCREEN": "ℸ ̣𝙹⚍ᓵ⍑ᓭᓵ∷ᒷᒷリ",
+                    "mouse": {
+                        "CAMERA_SENSITIVITY": "ᓵᔑᒲᒷ∷ᔑ ᓭᒷリᓭ╎ℸ ̣╎⍊╎ℸ ̣||",
+                        "ENABLE_ACCELERATION": "ᓭ||ᓭℸ ̣ᒷᒲ ᒲ𝙹⚍ᓭᒷ ᔑᓵᓵᒷꖎᒷ∷ᔑℸ ̣╎𝙹リ",
+                        "ENABLE_ACCELERATION_DESCRIPTION": "↸╎ᓭᔑʖꖎᒷ ℸ ̣⍑╎ᓭ ᓭᒷℸ ̣ℸ ̣╎リ⊣ ╎⎓ ||𝙹⚍ 𝙹⎓ℸ ̣ᒷリ ᒷ̇̇/!¡ᒷ∷╎ᒷリᓵᒷ ᓭ⚍↸↸ᒷリ ᓵ⍑ᔑリ⊣ᒷᓭ 𝙹⎓ ᓵᔑᒲᒷ∷ᔑ !¡𝙹ᓭ╎ℸ ̣╎𝙹リ ∴⍑ᒷリ !¡ꖎᔑ||╎リ⊣ ∴╎ℸ ̣⍑ ᔑ ᒲ𝙹⚍ᓭᒷ."
+                    },
+                    "touchscreen": {
+                        "CONTROLS_EDITOR": "ᓵ𝙹リℸ ̣∷𝙹ꖎᓭ ᒷ↸╎ℸ ̣𝙹∷",
+                        "CAMERA_SENSITIVITY": "ᓵᔑᒲᒷ∷ᔑ ᓭᒷリᓭ╎ℸ ̣╎⍊╎ℸ ̣||",
+                        "ROTATE_JOYSTICK": "⍑⚍ꖎꖎ ⎓𝙹ꖎꖎ𝙹∴ᓭ ᓭℸ ̣╎ᓵꖌ ↸╎∷ᒷᓵℸ ̣╎𝙹リ",
+                        "MOVABLE_JOYSTICK": "ᒲ𝙹⍊ᔑʖꖎᒷ ᓭℸ ̣╎ᓵꖌ",
+                        "DOUBLE_TAP_FIRE": "↸𝙹⚍ʖꖎᒷ ℸ ̣ᔑ!¡ ⎓╎∷ᒷ",
+                        "AUTO_FIRE": "ᔑ⚍ℸ ̣𝙹-ᓭ⍑𝙹𝙹ℸ ̣╎リ⊣",
+                        "AUTO_CENTER_TURRET": "ᓵᒷリℸ ̣ᒷ∷ ℸ ̣⚍∷∷ᒷℸ ̣ ∴⍑ᒷリ ╎リᔑᓵℸ ̣╎⍊ᒷ",
+                        "SHOW_MOVEMENT_INDICATOR": "ᓭ⍑𝙹∴ ᒲ𝙹⍊ᒷᒲᒷリℸ ̣ ╎リ↸╎ᓵᔑℸ ̣𝙹∷",
+                        "editor": {
+                            "BACK": "ʖᔑᓵꖌ",
+                            "RESET": "∷ᒷᓭᒷℸ ̣",
+                            "PREVIEW": "!¡∷ᒷ⍊╎ᒷ∴",
+                            "ELEMENT_SIZE": "ᓭ╎⨅ᒷ",
+                            "ELEMENT_OPACITY": "𝙹!¡ᔑᓵ╎ℸ ̣||"
+                        }
+                    },
+                    "gamepad": {
+                        "GAMEPAD_ENABLE": "⊣ᔑᒲᒷ!¡ᔑ↸ ᓵ𝙹リℸ ̣∷𝙹ꖎᓭ",
+                        "GAMEPAD_ENABLE_DESCRIPTION": "⚍ᓭᒷ ℸ ̣⍑ᒷ ↸ᒷ⎓ᔑ⚍ꖎℸ ̣ !¡∷ᒷ↸ᒷ⎓╎リᒷ↸ ᔑᓵℸ ̣╎𝙹リᓭ ⎓𝙹∷ ʖ⚍ℸ ̣ℸ ̣𝙹リᓭ 𝙹⎓ ᔑリ|| ᓵ𝙹リリᒷᓵℸ ̣ᒷ↸ ⊣ᔑᒲᒷ!¡ᔑ↸",
+                        "LEFT_STICK_DEAD_ZONE": "ꖎᒷ⎓ℸ ̣ ᓭℸ ̣╎ᓵꖌ ↸ᒷᔑ↸ ⨅𝙹リᒷ",
+                        "RIGHT_STICK_DEAD_ZONE": "∷╎⊣⍑ℸ ̣ ᓭℸ ̣╎ᓵꖌ ↸ᒷᔑ↸ ⨅𝙹リᒷ"
+                    }
+                },
+                "INVERT_SHAFT_VERTICAL_AXIS": "╎リ⍊ᒷ∷ℸ ̣ ᓭ⍑ᔑ⎓ℸ ̣ ⍊ᒷ∷ℸ ̣╎ᓵᔑꖎ ᔑ̇̇/╎ᓭ",
+                "INVERT_SHAFT_VERTICAL_AXIS_DESCRIPTION": "╎リ⍊ᒷ∷ℸ ̣ᓭ ⍊ᒷ∷ℸ ̣╎ᓵᔑꖎ ᔑ̇̇/╎ᓭ ╎リ ᓭ⍑ᔑ⎓ℸ ̣ ᓭリ╎!¡ᒷ∷ ᒲ𝙹↸ᒷ",
+                "INVERSED_BACKWARD_MOVING": "╎リ⍊ᒷ∷ℸ ̣ ᓭℸ ̣ᒷᒷ∷╎リ⊣ ∴⍑ᒷリ ∷ᒷ⍊ᒷ∷ᓭ╎リ⊣",
+                "INVERSED_BACKWARD_MOVING_DESCRIPTION": "╎リ⍊ᒷ∷ℸ ̣ᓭ ᓭℸ ̣ᒷᒷ∷╎リ⊣ ↸╎∷ᒷᓵℸ ̣╎𝙹リ ∴⍑ᒷリ ∷ᒷ⍊ᒷ∷ᓭ╎リ⊣",
+                "INVERSED_CAMERA_HEIGHT": "╎リ⍊ᒷ∷ℸ ̣ ᓵᔑᒲᒷ∷ᔑ ᓵ𝙹リℸ ̣∷𝙹ꖎ",
+                "INVERSED_CAMERA_HEIGHT_DESCRIPTION": "╎リ⍊ᒷ∷ℸ ̣ ℸ ̣⍑ᒷ ↸╎∷ᒷᓵℸ ̣╎𝙹リ 𝙹⎓ ℸ ̣⍑ᒷ ᓵᔑᒲᒷ∷ᔑ ∴⍑ᒷリ ᒲ𝙹⍊╎リ⊣ ℸ ̣⍑ᒷ ᔑ╎ᒲ╎リ⊣ ᓭℸ ̣╎ᓵꖌ ⍊ᒷ∷ℸ ̣╎ᓵᔑꖎꖎ||. ℸ ̣⍑╎ᓭ ᓭᒷℸ ̣ℸ ̣╎リ⊣ ↸𝙹ᒷᓭ リ𝙹ℸ ̣ ᔑ⎓⎓ᒷᓵℸ ̣ ⎓╎∷ᓭℸ ̣-!¡ᒷ∷ᓭ𝙹リ ᔑ╎ᒲ╎リ⊣ ╎リ ᓭリ╎!¡ᒷ∷ ᒲ𝙹↸ᒷ."
+            },
+            "account": {
+                "YOUR_LOCATION": "||𝙹⚍∷ ꖎ𝙹ᓵᔑℸ ̣╎𝙹リ",
+                "CHANGE_COUNTRY_VIA_TECH_SUPPORT": "ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ ||𝙹⚍∷ ʖ╎ꖎꖎ╎リ⊣ ᓵ𝙹⚍リℸ ̣∷|| ᓵ𝙹リℸ ̣ᔑᓵℸ ̣ 𝙹⚍∷ ᓵ⚍ᓭℸ ̣𝙹ᒲᒷ∷ ᓭ⚍!¡!¡𝙹∷ℸ ̣ ℸ ̣ᒷᔑᒲ ⍊╎ᔑ ⍑ᒷꖎ!¡@ℸ ̣ᔑリꖌ╎𝙹リꖎ╎リᒷ.ᓵ𝙹ᒲ ᒷᒲᔑ╎ꖎ ᔑ↸↸∷ᒷᓭᓭ",
+                "CHANGE_PASSWORD_AND_EMAIL": "ᓵ⍑ᔑリ⊣ᒷ !¡ᔑᓭᓭ∴𝙹∷↸ ᔑリ↸ ᒷ-ᒲᔑ╎ꖎ",
+                "ENTER_CAPTCHA_TEXT": "ᒷリℸ ̣ᒷ∷ ℸ ̣⍑ᒷ ℸ ̣ᒷ̇̇/ℸ ̣",
+                "CHANGE_BUTTON": "ᓵ⍑ᔑリ⊣ᒷ",
+                "CONNECT_EMAIL_TITLE": "ꖎ╎リꖌ ||𝙹⚍∷ ᒷ-ᒲᔑ╎ꖎ ℸ ̣𝙹 !¡∷𝙹ℸ ̣ᒷᓵℸ ̣ ||𝙹⚍∷ ᔑᓵᓵ𝙹⚍リℸ ̣!",
+                "EMAIL_INPUT_LABEL": "ᒷ-ᒲᔑ╎ꖎ",
+                "CONNECT_BUTTON": "ᓵ𝙹リリᒷᓵℸ ̣",
+                "CURRENT_PASSWORD": "ᓵ⚍∷∷ᒷリℸ ̣ !¡ᔑᓭᓭ∴𝙹∷↸",
+                "NEW_PASSWORD": "リᒷ∴ !¡ᔑᓭᓭ∴𝙹∷↸",
+                "CONFIRM_PASSWORD": "∷ᒷ-ᒷリℸ ̣ᒷ∷",
+                "LINK_ACCOUNT_TO_FACEBOOK": "ꖎ╎リꖌ ||𝙹⚍∷ ⊣ᔑᒲᒷ ᔑᓵᓵ𝙹⚍リℸ ̣ ℸ ̣𝙹 ⎓ᔑᓵᒷʖ𝙹𝙹ꖌ",
+                "EMAIL_NOT_VALID": "ᓵ⍑ᒷᓵꖌ ᒷᒲᔑ╎ꖎ",
+                "NEED_CURRENT_PASSWORD": "ᒷリℸ ̣ᒷ∷ ᓵ⚍∷∷ᒷリℸ ̣ !¡ᔑᓭᓭ∴𝙹∷↸",
+                "PASSWORD_SIMPLE": "!¡ᔑᓭᓭ∴𝙹∷↸ ╎ᓭ ℸ ̣𝙹𝙹 ᓭ╎ᒲ!¡ꖎᒷ",
+                "PASSWORD_NOT_EQUALS": "!¡ᔑᓭᓭ∴𝙹∷↸ᓭ ↸𝙹リ'ℸ ̣ ᒲᔑℸ ̣ᓵ⍑",
+                "UPDATE_PASSWORD_ERROR": "ᓵ⍑ᔑリ⊣ᒷ !¡ᔑᓭᓭ∴𝙹∷↸ ᒷ∷∷𝙹∷",
+                "EMAIL_NOT_UNIQUE": "ᒷ-ᒲᔑ╎ꖎ ╎ᓭリ'ℸ ̣ ⚍リ╎ᑑ⚍ᒷ",
+                "INCORRECT_EMAIL": "╎リᓵ𝙹∷∷ᒷᓵℸ ̣ ᒷᒲᔑ╎ꖎ",
+                "CONFIRM_EMAIL": "∴ᒷ ⍑ᔑ⍊ᒷ ᓭᒷリℸ ̣ ᔑ ᓵ𝙹リ⎓╎∷ᒲᔑℸ ̣╎𝙹リ ꖎᒷℸ ̣ℸ ̣ᒷ∷ ℸ ̣𝙹 ||𝙹⚍∷ ᒷᒲᔑ╎ꖎ ᔑ↸↸∷ᒷᓭᓭ.",
+                "CHANGE_PASSWORD": "ᓵ⍑ᔑリ⊣ᒷ !¡ᔑᓭᓭ∴𝙹∷↸",
+                "CHANGED_PASSWORD": "!¡ᔑᓭᓭ∴𝙹∷↸ ⍑ᔑᓭ ʖᒷᒷリ ᓭ⚍ᓵᓵᒷᓭᓭ⎓⚍ꖎꖎ|| ᓵ⍑ᔑリ⊣ᒷ↸",
+                "CHANGE_EMAIL": "ℸ ̣⍑ᒷ ꖎᒷℸ ̣ℸ ̣ᒷ∷ ∴╎ℸ ̣⍑ ╎リᓭℸ ̣∷⚍ᓵℸ ̣╎𝙹リᓭ ∴ᔑᓭ ᓭᒷリℸ ̣ ℸ ̣𝙹 ||𝙹⚍∷ ᒷ-ᒲᔑ╎ꖎ ᔑ↸↸∷ᒷᓭᓭ.",
+                "NEW_UID": "リᒷ∴ リ╎ᓵꖌリᔑᒲᒷ",
+                "UID_RENAME_PURCHASE": "||𝙹⚍ ∴╎ꖎꖎ ʖᒷ ᓵ⍑ᔑ∷⊣ᒷ↸:",
+                "UID_RENAME_PAID_AGREE": "↸𝙹 ||𝙹⚍ ᔑ⊣∷ᒷᒷ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ %⚍╎↸% ℸ ̣𝙹 %リᒷ∴_⚍╎↸% ⎓𝙹∷ %!¡∷╎ᓵᒷ%?",
+                "UID_RENAME_FREE_AGREE": "↸𝙹 ||𝙹⚍ ᔑ⊣∷ᒷᒷ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ %⚍╎↸% ℸ ̣𝙹 %リᒷ∴_⚍╎↸%?",
+                "UID_RENAME_FREE_HINT": "||𝙹⚍ ᓵᔑリ ᓵ⍑ᔑリ⊣ᒷ ||𝙹⚍∷ リ╎ᓵꖌリᔑᒲᒷ ℸ ̣⍑ᒷ ⎓╎∷ᓭℸ ̣ ℸ ̣╎ᒲᒷ ⎓𝙹∷ ⎓∷ᒷᒷ.",
+                "USER_RENAME_TITLE": "リ╎ᓵꖌリᔑᒲᒷ ᓵ⍑ᔑリ⊣ᒷ",
+                "INPUT_SHORT_STATE": "リ╎ᓵꖌリᔑᒲᒷ ᓵᔑリリ𝙹ℸ ̣ ʖᒷ ᓭ⍑𝙹∷ℸ ̣ᒷ∷ ℸ ̣⍑ᔑリ %リ⚍ᒲʖᒷ∷ ᓵ⍑ᔑ∷ᔑᓵℸ ̣ᒷ∷ᓭ",
+                "INPUT_RESERVED_STATE": "リ╎ᓵꖌリᔑᒲᒷ ᔑꖎ∷ᒷᔑ↸|| ℸ ̣ᔑꖌᒷリ",
+                "INPUT_NOT_VALID_STATE": "╎リ⍊ᔑꖎ╎↸ リ╎ᓵꖌリᔑᒲᒷ",
+                "INPUT_FORBIDDEN": "リ╎ᓵꖌリᔑᒲᒷ ᓵ𝙹リℸ ̣ᔑ╎リᓭ ╎リ⍊ᔑꖎ╎↸ ᓵ⍑ᔑ∷ᔑᓵℸ ̣ᒷ∷ᓭ",
+                "CREATOR_TAG_TITLE": "ᓵ∷ᒷᔑℸ ̣𝙹∷ ℸ ̣ᔑ⊣",
+                "CURRENT_CREATOR_TAG": "ᓵ⚍∷∷ᒷリℸ ̣ ᓵ∷ᒷᔑℸ ̣𝙹∷ ℸ ̣ᔑ⊣:",
+                "SELECT_CREATOR_TAG": "ᓭᒷꖎᒷᓵℸ ̣ ᓵ∷ᒷᔑℸ ̣𝙹∷ ℸ ̣ᔑ⊣",
+                "DESCRIPTION_CREATOR_TAG": "ᓵ⍑𝙹𝙹ᓭ╎リ⊣ 𝙹リᒷ 𝙹⎓ ℸ ̣⍑ᒷ ᓵ∷ᒷᔑℸ ̣𝙹∷ ℸ ̣ᔑ⊣ᓭ ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ᓭ⚍!¡!¡𝙹∷ℸ ̣ ℸ ̣⍑╎ᓭ ᓵ∷ᒷᔑℸ ̣𝙹∷. ||𝙹⚍ ᓵᔑリ 𝙹リꖎ|| ᓵ⍑𝙹𝙹ᓭᒷ 𝙹リᒷ ℸ ̣ᔑ⊣.",
+                "RESET_BUTTON": "∷ᒷᓭᒷℸ ̣",
+                "ADD_CREATOR_TAG": "ᔑ↸↸ リᒷ∴ ℸ ̣ᔑ⊣",
+                "CHANGE_CREATOR_TAG": "ᓵ⍑ᔑリ⊣ᒷ",
+                "CREATOR_TAG_NOT_SET": "リ𝙹ℸ ̣ ᓵ⍑𝙹ᓭᒷリ",
+                "SELECT_TAG_BUTTON": "𝙹ꖌ",
+                "AGREE_CHANGE_UID": "↸𝙹 ||𝙹⚍ ᔑ⊣∷ᒷᒷ ℸ ̣𝙹 ᓵ⍑ᔑリ⊣ᒷ",
+                "AGREE_CHANGE_UID_TO": "ℸ ̣𝙹",
+                "AGREE_CHANGE_UID_FOR": "⎓𝙹∷"
+            },
+            "graphics_settings_detect": {
+                "LOW_FPS_TITTLE": "ꖎ𝙹∴ ⎓!¡ᓭ",
+                "LOW_FPS_INSTRUCTION": "For tips on how to improve your FPS <a href='https://en.tankiwiki.com/How_to_raise_FPS' target='_blank'>press here</a>\n"
+            },
+            "battle": {
+                "SHOW_AIM_HELPER_DOT": "↸╎ᓭ!¡ꖎᔑ|| ᔑ ↸𝙹ℸ ̣ ╎リ ℸ ̣⍑ᒷ ᒲ╎↸↸ꖎᒷ 𝙹⎓ ℸ ̣⍑ᒷ ᓭᓵ∷ᒷᒷリ",
+                "SHOW_AIM_HELPER_DOT_DESCRIPTION": "↸╎ᓭ!¡ꖎᔑ|| ᔑ ᓭᒲᔑꖎꖎ ↸𝙹ℸ ̣-ᓭ⍑ᔑ!¡ᒷ↸ ᓵ⚍∷ᓭ𝙹∷ ╎リ ℸ ̣⍑ᒷ ᒲ╎↸↸ꖎᒷ 𝙹⎓ ℸ ̣⍑ᒷ ᓭᓵ∷ᒷᒷリ ⎓𝙹∷ ᒷᔑᓭ╎ᒷ∷ ᓵᔑᒲᒷ∷ᔑ 𝙹∷╎ᒷリℸ ̣ᔑℸ ̣╎𝙹リ",
+                "SHOW_DAMAGE": "ᓭ⍑𝙹∴ ↸ᔑᒲᔑ⊣ᒷ",
+                "SHOW_DAMAGE_DESCRIPTION": "ᓭ⍑𝙹∴ᓭ ⍑𝙹∴ ᒲᔑリ|| ⍑╎ℸ ̣ !¡𝙹╎リℸ ̣ᓭ 𝙹⎓ ↸ᔑᒲᔑ⊣ᒷ ||𝙹⚍ ↸ᒷᔑꖎ ℸ ̣𝙹 ||𝙹⚍∷ ᒷリᒷᒲ╎ᒷᓭ",
+                "AUTO_SUICIDE_ON_OVERTURN": "ᔑ⚍ℸ ̣𝙹 ᓭᒷꖎ⎓-↸ᒷᓭℸ ̣∷⚍ᓵℸ ̣╎𝙹リ",
+                "AUTO_SUICIDE_ON_OVERTURN_DESCRIPTION": "||𝙹⚍∷ ℸ ̣ᔑリꖌ ∴╎ꖎꖎ ᔑ⚍ℸ ̣𝙹ᒲᔑℸ ̣╎ᓵᔑꖎꖎ|| ᓭᒷꖎ⎓-↸ᒷᓭℸ ̣∷⚍ᓵℸ ̣ ╎⎓ ╎ℸ ̣ ꖎᔑリ↸ᓭ 𝙹リ ╎ℸ ̣'ᓭ ᓭ╎↸ᒷ 𝙹∷ ⚍!¡ᓭ╎↸ᒷ ↸𝙹∴リ.",
+                "SHOW_STATUS_NAME": "ℸ ̣ᒷ̇̇/ℸ ̣ ℸ ̣╎!¡ᓭ ∴⍑ᒷリ ᔑ ᓭℸ ̣ᔑℸ ̣⚍ᓭ ᒷ⎓⎓ᒷᓵℸ ̣ ᔑ!¡!¡ᒷᔑ∷ᓭ",
+                "SHOW_STATUS_NAME_DESCRIPTION": "∴⍑ᒷリ ||𝙹⚍ ᔑ!¡!¡ꖎ|| ᔑ ᓭℸ ̣ᔑℸ ̣⚍ᓭ ᒷ⎓⎓ᒷᓵℸ ̣ ℸ ̣𝙹 ᔑリ 𝙹!¡!¡𝙹リᒷリℸ ̣ 𝙹∷ ∴⍑ᒷリ ᔑ ᓭℸ ̣ᔑℸ ̣⚍ᓭ ᒷ⎓⎓ᒷᓵℸ ̣ ╎ᓭ ᔑ!¡!¡ꖎ╎ᒷ↸ ℸ ̣𝙹 ||𝙹⚍∷ ℸ ̣ᔑリꖌ, ᔑ ℸ ̣ᒷ̇̇/ℸ ̣ ∴╎ꖎꖎ ʖᒷ ᓭ⍑𝙹∴リ.",
+                "IS_CENTERED_LAYOUT": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ╎リℸ ̣ᒷ∷⎓ᔑᓵᒷ ╎リ ℸ ̣⍑ᒷ ᓵᒷリℸ ̣ᒷ∷ 𝙹⎓ ℸ ̣⍑ᒷ ᓭᓵ∷ᒷᒷリ",
+                "IS_CENTERED_LAYOUT_DESCRIPTION": "ᒲ𝙹∷ᒷ ᓵ𝙹リ⍊ᒷリ╎ᒷリℸ ̣ ⎓𝙹∷ ᔑ ᑑ⚍╎ᓵꖌ ᔑᓭᓭᒷᓭᓭᒲᒷリℸ ̣ 𝙹⎓ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ⎓╎ᒷꖎ↸ ᓭ╎ℸ ̣⚍ᔑℸ ̣╎𝙹リ ʖ⚍ℸ ̣ 𝙹⍊ᒷ∷ꖎᔑ!¡ᓭ ||𝙹⚍∷ ℸ ̣ᔑリꖌ.",
+                "SHOW_GOLD_BOX_CREATOR": "ᓭ⍑𝙹∴ ∴⍑𝙹 ⍑ᔑᓭ ↸∷𝙹!¡!¡ᒷ↸ ℸ ̣⍑ᒷ ⊣𝙹ꖎ↸ ʖ𝙹̇̇/",
+                "SHOW_GOLD_BOX_CREATOR_DESCRIPTION": "ᒷリᔑʖꖎᒷᓭ ᓭ⍑𝙹∴╎リ⊣ ||𝙹⚍∷ リ╎ᓵꖌリᔑᒲᒷ ∴⍑ᒷリ ↸∷𝙹!¡!¡╎リ⊣ ᔑ ⊣𝙹ꖎ↸ ʖ𝙹̇̇/",
+                "BATTLE_UI_SCALE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ╎リℸ ̣ᒷ∷⎓ᔑᓵᒷ ᓭ╎⨅ᒷ",
+                "AIM_OPACITY": "ᓵᔑᒲᒷ∷ᔑ ᓵᒷリℸ ̣ᒷ∷ !¡𝙹╎リℸ ̣ 𝙹!¡ᔑᓵ╎ℸ ̣||",
+                "AIM_SCALE": "ᓵᔑᒲᒷ∷ᔑ ᓵᒷリℸ ̣ᒷ∷ !¡𝙹╎リℸ ̣ ᓭ╎⨅ᒷ",
+                "AIM_SCALE_MINIMAL": "ᒲ╎リ╎ᒲ⚍ᒲ",
+                "AIM_SCALE_SMALL": "ᒲᒷ↸╎⚍ᒲ",
+                "AIM_SCALE_MEDIUM": "ꖎᔑ∷⊣ᒷ",
+                "AIM_SCALE_LARGE": "ᒷ̇̇/ℸ ̣∷ᔑ ꖎᔑ∷⊣ᒷ",
+                "AIM_SCALE_MAXIMAL": "ᒲᔑ̇̇/╎ᒲ⚍ᒲ",
+                "SHOW_TANK_POINTER": "ᓭ⍑𝙹∴ ↸ᔑᒲᔑ⊣ᒷ ↸╎∷ᒷᓵℸ ̣╎𝙹リ ╎リ↸╎ᓵᔑℸ ̣𝙹∷ᓭ",
+                "SHOW_TANK_POINTER_DESCRIPTION": "∴⍑ᒷリ ∷ᒷᓵᒷ╎⍊╎リ⊣ ↸ᔑᒲᔑ⊣ᒷ, ᔑ ᓭ!¡ᒷᓵ╎ᔑꖎ ╎リ↸╎ᓵᔑℸ ̣𝙹∷ ᔑ!¡!¡ᒷᔑ∷ᓭ, ∴⍑╎ᓵ⍑ !¡𝙹╎リℸ ̣ᓭ ℸ ̣𝙹 ℸ ̣⍑ᒷ ↸╎∷ᒷᓵℸ ̣╎𝙹リ 𝙹⎓ ℸ ̣⍑ᒷ ᒷリᒷᒲ|| ℸ ̣ᔑリꖌ ∴⍑╎ᓵ⍑ ╎リ⎓ꖎ╎ᓵℸ ̣ᒷ↸ ℸ ̣⍑ᒷ ↸ᔑᒲᔑ⊣ᒷ",
+                "AUTO_SUPPLY": "ᓭ⚍!¡!¡ꖎ╎ᒷᓭ ᔑ⚍ℸ ̣𝙹-ᔑᓵℸ ̣╎⍊ᔑℸ ̣╎𝙹リ ╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ",
+                "BATTLE_UI_SCALE_DESCRIPTION": "ᔑꖎꖎ𝙹∴ᓭ ||𝙹⚍ ℸ ̣𝙹 ∷ᒷᓭ╎⨅ᒷ ℸ ̣⍑ᒷ ╎リℸ ̣ᒷ∷⎓ᔑᓵᒷ ╎リ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ"
+            },
+            "twitch": {
+                "DESCRIPTION": "ꖎ╎リꖌ ||𝙹⚍∷ ℸ ̣∴╎ℸ ̣ᓵ⍑ ᔑᓵᓵ𝙹⚍リℸ ̣ ℸ ̣𝙹 ∷ᒷᓵᒷ╎⍊ᒷ ∷ᒷ∴ᔑ∷↸ᓭ ⎓𝙹∷ ∴ᔑℸ ̣ᓵ⍑╎リ⊣ ℸ ̣ᔑリꖌ╎ 𝙹リꖎ╎リᒷ ᓭℸ ̣∷ᒷᔑᒲᓭ 𝙹リ ℸ ̣∴╎ℸ ̣ᓵ⍑.",
+                "LINKED_ACCOUNT": "ᔑᓵᓵ𝙹⚍リℸ ̣ %⚍ᓭᒷ∷リᔑᒲᒷ% ⍑ᔑᓭ ʖᒷᒷリ ꖎ╎リꖌᒷ↸.",
+                "LINK_BUTTON": "ꖎ╎リꖌ",
+                "UNLINK_BUTTON": "⚍リꖎ╎リꖌ",
+                "WARNING_QUESTION": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 ⚍リꖎ╎リꖌ ℸ ̣⍑ᒷ ℸ ̣∴╎ℸ ̣ᓵ⍑ ᔑᓵᓵ𝙹⚍リℸ ̣ %⚍ᓭᒷ∷リᔑᒲᒷ%?",
+                "WARNING_MESSAGE": "||𝙹⚍ ∴╎ꖎꖎ ʖᒷ ᔑʖꖎᒷ ℸ ̣𝙹 ꖎ╎リꖌ ᔑリ ᔑᓵᓵ𝙹⚍リℸ ̣ ᔑ⊣ᔑ╎リ ╎リ 10 ↸ᔑ||ᓭ.",
+                "REBINDING_MESSAGE": "↸ᔑ||ᓭ ꖎᒷ⎓ℸ ̣ ℸ ̣╎ꖎꖎ ||𝙹⚍ ∴╎ꖎꖎ ʖᒷ ᔑʖꖎᒷ ℸ ̣𝙹 ꖎ╎リꖌ ᔑリ ᔑᓵᓵ𝙹⚍リℸ ̣ ᔑ⊣ᔑ╎リ: %↸ᔑ||ᓭ%"
+            },
+            "security": {
+                "TITLE": "ℸ ̣∴𝙹-⎓ᔑᓵℸ ̣𝙹∷ ᔑ⚍ℸ ̣⍑ᒷリℸ ̣╎ᓵᔑℸ ̣╎𝙹リ",
+                "TITLE_INPUT_CODE": "ᒷリℸ ̣ᒷ∷ ᓭᒷᓵ⚍∷╎ℸ ̣|| ᓵ𝙹↸ᒷ",
+                "INTRO": "ᒲᔑꖌᒷ ||𝙹⚍∷ ᔑᓵᓵ𝙹⚍リℸ ̣ ᒲ𝙹∷ᒷ ᓭᒷᓵ⚍∷ᒷ ʖ|| ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣╎リ⊣ ℸ ̣⍑ᒷᓭᒷ 3 ᓭ╎ᒲ!¡ꖎᒷ ᓭℸ ̣ᒷ!¡ᓭ",
+                "DESCRIPTION": "ℸ ̣∴𝙹-⎓ᔑᓵℸ ̣𝙹∷ ᔑ⚍ℸ ̣⍑ᒷリℸ ̣╎ᓵᔑℸ ̣╎𝙹リ ╎ᒲ!¡∷𝙹⍊ᒷᓭ ℸ ̣⍑ᒷ ᓭᒷᓵ⚍∷╎ℸ ̣|| 𝙹⎓ ||𝙹⚍∷ ᔑᓵᓵ𝙹⚍リℸ ̣",
+                "FIRST_STEP": "1. ╎リᓭℸ ̣ᔑꖎꖎ ᔑリ ᔑ⚍ℸ ̣⍑ᒷリℸ ̣╎ᓵᔑℸ ̣𝙹∷ ᔑ!¡!¡ 𝙹リ ||𝙹⚍∷ !¡⍑𝙹リᒷ ⎓𝙹∷ ᓵ∷ᒷᔑℸ ̣╎リ⊣ 𝙹リᒷ-ℸ ̣╎ᒲᒷ !¡ᔑᓭᓭ∴𝙹∷↸ᓭ",
+                "MOBILE_APPS": "⊣𝙹𝙹⊣ꖎᒷ ᔑ⚍ℸ ̣⍑ᒷリℸ ̣╎ᓵᔑℸ ̣𝙹∷, ᒲ╎ᓵ∷𝙹ᓭ𝙹⎓ℸ ̣ ᔑ⚍ℸ ̣⍑ᒷリℸ ̣╎ᓵᔑℸ ̣𝙹∷, ꖎᔑᓭℸ ̣!¡ᔑᓭᓭ, ᔑ⚍ℸ ̣⍑||",
+                "SECOND_STEP": "2. ᓭᓵᔑリ ℸ ̣⍑ᒷ ᑑ∷ ᓵ𝙹↸ᒷ ╎リ ℸ ̣⍑ᒷ ╎リᓭℸ ̣ᔑꖎꖎᒷ↸ ᔑ!¡!¡ ᔑリ↸ ᒷリℸ ̣ᒷ∷ ℸ ̣⍑ᒷ ᓵ𝙹↸ᒷ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ ᔑ!¡!¡ ⍑ᒷ∷ᒷ",
+                "MANUAL_CODE_INPUT": "ᔑリ𝙹ℸ ̣⍑ᒷ∷ 𝙹!¡ℸ ̣╎𝙹リ ╎ᓭ ℸ ̣𝙹 ᒷリℸ ̣ᒷ∷ ℸ ̣⍑╎ᓭ ᓵ𝙹↸ᒷ ╎リ ℸ ̣⍑ᒷ ᔑ!¡!¡:",
+                "COPY_KEY": "ᓵ𝙹!¡||",
+                "SECURITY_CODE": "ᓭᒷᓵ⚍∷╎ℸ ̣|| ᓵ𝙹↸ᒷ",
+                "ERROR_INCORRECT_CODE": "╎リᓵ𝙹∷∷ᒷᓵℸ ̣ ᓵ𝙹↸ᒷ ᒷリℸ ̣ᒷ∷ᒷ↸",
+                "ENABLE_BUTTON": "ᒷリᔑʖꖎᒷ",
+                "DISABLE_BUTTON": "↸╎ᓭᔑʖꖎᒷ",
+                "ACTIVATION_BUTTON": "ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ",
+                "DEACTIVATION_BUTTON": "↸ᒷᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ",
+                "CONFIRM_DISABLE": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 ↸╎ᓭᔑʖꖎᒷ ℸ ̣∴𝙹-⎓ᔑᓵℸ ̣𝙹∷ ᔑ⚍ℸ ̣⍑ᒷリℸ ̣╎ᓵᔑℸ ̣╎𝙹リ? ||𝙹⚍∷ ᔑᓵᓵ𝙹⚍リℸ ̣ ∴╎ꖎꖎ ʖᒷ ꖎᒷᓭᓭ ᓭᒷᓵ⚍∷ᒷ.",
+                "HIDE_PROFILE_TITLE": "⍑╎↸ᒷ ||𝙹⚍∷ !¡∷𝙹⎓╎ꖎᒷ",
+                "HIDE_PROFILE_DESCRIPTION": "⍑╎↸ᒷ ||𝙹⚍∷ ⊣ᔑᒲᒷ ᓭℸ ̣ᔑℸ ̣╎ᓭℸ ̣╎ᓵᓭ ᔑリ↸ !¡∷𝙹⎓╎ꖎᒷ ╎リ⎓𝙹∷ᒲᔑℸ ̣╎𝙹リ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ !¡⚍ʖꖎ╎ᓵ ᔑ!¡╎"
+            },
+            "restart_game_dialog": {
+                "TEXT": "ℸ ̣⍑ᒷ リᒷ∴ ᓭᒷℸ ̣ℸ ̣╎リ⊣ᓭ ∴╎ꖎꖎ ʖᒷ ᔑ!¡!¡ꖎ╎ᒷ↸ ∴⍑ᒷリ ||𝙹⚍ ∷ᒷᓭℸ ̣ᔑ∷ℸ ̣ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ.\n∷ᒷᓭℸ ̣ᔑ∷ℸ ̣?"
+            },
+            "policy": {
+                "TERMS_AND_CONDITIONS": "ℸ ̣ᒷ∷ᒲᓭ ᔑリ↸ ᓵ𝙹リ↸╎ℸ ̣╎𝙹リᓭ",
+                "PRIVACY_POLICY": "!¡∷╎⍊ᔑᓵ|| !¡𝙹ꖎ╎ᓵ||",
+                "SHARED_INFO": "ᓭ⍑ᔑ∷ᒷ↸ ╎リ⎓𝙹"
+            }
+        },
+        "containers": {
+            "POSSIBLE_REWARDS": "!¡𝙹ᓭᓭ╎ʖꖎᒷ ∷ᒷ∴ᔑ∷↸ᓭ",
+            "SHOW_ALL": "ᓭ⍑𝙹∴ ᔑꖎꖎ",
+            "OPEN": "𝙹!¡ᒷリ",
+            "ENTER": "ᒷリℸ ̣ᒷ∷",
+            "OPEN_ALL": "𝙹!¡ᒷリ ᔑꖎꖎ",
+            "OPEN_MORE": "𝙹!¡ᒷリ ᒲ𝙹∷ᒷ",
+            "BUY_MORE": "ʖ⚍|| ᒲ𝙹∷ᒷ",
+            "ITEM": "╎ℸ ̣ᒷᒲ",
+            "DESCRIPTION": "↸ᒷᓭᓵ∷╎!¡ℸ ̣╎𝙹リ",
+            "READ_MORE": "∷ᒷᔑ↸ ᒲ𝙹∷ᒷ",
+            "COMMON": "ᓵ𝙹ᒲᒲ𝙹リ",
+            "UNCOMMON": "⚍リᓵ𝙹ᒲᒲ𝙹リ",
+            "RARE": "∷ᔑ∷ᒷ",
+            "EPIC": "ᒷ!¡╎ᓵ",
+            "LEGENDARY": "ꖎᒷ⊣ᒷリ↸ᔑ∷||",
+            "EXOTIC": "ᒷ̇̇/𝙹ℸ ̣╎ᓵ",
+            "REWARDS_LABEL": "||𝙹⚍∷ ∷ᒷ∴ᔑ∷↸ᓭ",
+            "BREADCRUMB": "ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ᓭ",
+            "OPEN_CONTAINER": "𝙹!¡ᒷリ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ᓭ",
+            "CONVERSION_TITLE": "ᓵ𝙹リ⍊ᒷ∷ᓭ╎𝙹リ 𝙹⎓ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ᓭ",
+            "CONTINUE": "ᓵ𝙹リℸ ̣╎リ⚍ᒷ",
+            "BUY_KEYS": "!¡⚍∷ᓵ⍑ᔑᓭᒷ ꖌᒷ||ᓭ",
+            "NO_KEYS": "リ𝙹 ꖌᒷ||ᓭ",
+            "ALL_POSSIBLE_REWARDS": "ᔑꖎꖎ !¡𝙹ᓭᓭ╎ʖꖎᒷ ∷ᒷ∴ᔑ∷↸ᓭ",
+            "SKIP": "ᓭꖌ╎!¡",
+            "REWARDS_ALL": "ᔑꖎꖎ:",
+            "REWARDS_COMMON": "ᓵ𝙹ᒲᒲ𝙹リ:",
+            "REWARDS_UNCOMMON": "⚍リᓵ𝙹ᒲᒲ𝙹リ:",
+            "REWARDS_RARE": "∷ᔑ∷ᒷ:",
+            "REWARDS_EPIC": "ᒷ!¡╎ᓵ:",
+            "REWARDS_LEGENDARY": "ꖎᒷ⊣ᒷリ↸ᔑ∷||:",
+            "REWARDS_EXOTIC": "ᒷ̇̇/𝙹ℸ ̣╎ᓵ:",
+            "NO_REWARDS": "リ𝙹 ∷ᒷ∴ᔑ∷↸ᓭ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ",
+            "COMMON_KEY": "ᓵ𝙹ᒲᒲ𝙹リ ꖌᒷ||",
+            "COMMON_KEY_DESCRIPTION": "ℸ ̣⍑╎ᓭ ᓭ╎リ⊣ꖎᒷ-⚍ᓭᒷ ꖌᒷ|| ╎ᓭ 𝙹リꖎ|| ᓭ⚍╎ℸ ̣ᔑʖꖎᒷ ⎓𝙹∷ ℸ ̣⍑ᒷ ⊣∷ᒷᒷリ ᓵ𝙹ᒲᒲ𝙹リ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷.",
+            "COMMON_CONTAINER": "ᓵ𝙹ᒲᒲ𝙹リ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷",
+            "COMMON_CONTAINER_DESCRIPTION": "ᔑ ᓭℸ ̣ᔑリ↸ᔑ∷↸ ᓵᔑ∷⊣𝙹 ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ ∴╎ℸ ̣⍑ ᔑ ꖎ𝙹ℸ ̣ 𝙹⎓ ⚍ᓭᒷ⎓⚍ꖎ ∷ᒷᓭ𝙹⚍∷ᓵᒷᓭ ╎リᓭ╎↸ᒷ, ⎓∷𝙹ᒲ ᓭ⚍!¡!¡ꖎ╎ᒷᓭ ᔑリ↸ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ ℸ ̣𝙹 リᒷ∴ ᒷᑑ⚍╎!¡ᒲᒷリℸ ̣. ᒷᔑᓵ⍑ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ ᓵ𝙹リℸ ̣ᔑ╎リᓭ 𝙹リᒷ ∷ᔑリ↸𝙹ᒲ ∷ᒷ∴ᔑ∷↸.",
+            "RARE_KEY": "∷ᔑ∷ᒷ ꖌᒷ||",
+            "RARE_KEY_DESCRIPTION": "ℸ ̣⍑╎ᓭ ᓭ╎リ⊣ꖎᒷ-⚍ᓭᒷ ꖌᒷ|| ╎ᓭ 𝙹リꖎ|| ⍊ᔑꖎ╎↸ ⎓𝙹∷ ᔑ ʖꖎ⚍ᒷ ∷ᔑ∷ᒷ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷.",
+            "RARE_CONTAINER": "∷ᔑ∷ᒷ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷",
+            "RARE_CONTAINER_DESCRIPTION": "ᔑ ᓭ!¡ᒷᓵ╎ᔑꖎ ᓵᔑ∷⊣𝙹 ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ ∴╎ℸ ̣⍑ ᔑ ᓭᒷℸ ̣ 𝙹⎓ ᓭ⚍!¡!¡ꖎ╎ᒷᓭ ∷ᒷᑑ⚍╎∷ᒷ↸ ℸ ̣𝙹 ꖌᒷᒷ!¡ ᔑ ℸ ̣ᔑリꖌ ᔑℸ ̣ ╎ℸ ̣ᓭ ⎓⚍ꖎꖎ ᓵᔑ!¡ᔑᓵ╎ℸ ̣||. ᒷᔑᓵ⍑ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ ᓵ𝙹リℸ ̣ᔑ╎リᓭ ℸ ̣⍑ᒷ ᓭᔑᒲᒷ ᓭᒷℸ ̣ 𝙹⎓ ∷ᒷ∴ᔑ∷↸ᓭ.",
+            "EPIC_KEY": "ᒷ!¡╎ᓵ ꖌᒷ||",
+            "EPIC_KEY_DESCRIPTION": "ℸ ̣⍑╎ᓭ ᓭ╎リ⊣ꖎᒷ-⚍ᓭᒷ ꖌᒷ|| ╎ᓭ 𝙹リꖎ|| ᓭ⚍╎ℸ ̣ᔑʖꖎᒷ ⎓𝙹∷ ᔑリ 𝙹∷ᔑリ⊣ᒷ ᒷ!¡╎ᓵ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷.",
+            "EPIC_CONTAINER": "ᒷ!¡╎ᓵ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷",
+            "EPIC_CONTAINER_DESCRIPTION": "ᔑ ᓭ!¡ᒷᓵ╎ᔑꖎ ᓵᔑ∷⊣𝙹 ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ ℸ ̣⍑ᔑℸ ̣ ╎リᓵꖎ⚍↸ᒷᓭ ℸ ̣⍑ᒷ ᓭᒷℸ ̣ 𝙹⎓ ∷ᒷ∴ᔑ∷↸ᓭ 𝙹⎓ ᔑ ᓵ𝙹ᒲᒲ𝙹リ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ ᔑリ↸ ᓵ𝙹リℸ ̣ᔑ╎リᓭ ∷ᒷ∴ᔑ∷↸ᓭ ℸ ̣⍑ᔑℸ ̣ ||𝙹⚍ ᓵᔑリ 𝙹ʖℸ ̣ᔑ╎リ 𝙹リꖎ|| ↸⚍∷╎リ⊣ ᓭ!¡ᒷᓵ╎⎓╎ᓵ ℸ ̣╎ᒲᒷᓭ, ⎓∷𝙹ᒲ ∷ᔑ∷ᒷ ᒷᑑ⚍╎!¡ᒲᒷリℸ ̣ ℸ ̣𝙹 ⚍リ╎ᑑ⚍ᒷ ᓭꖌ╎リᓭ. ᒷᔑᓵ⍑ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ ᓵ𝙹リℸ ̣ᔑ╎リᓭ 𝙹リᒷ ∷ᔑリ↸𝙹ᒲ ∷ᒷ∴ᔑ∷↸.",
+            "LEGENDARY_KEY": "ꖎᒷ⊣ᒷリ↸ᔑ∷|| ꖌᒷ||",
+            "LEGENDARY_KEY_DESCRIPTION": "ℸ ̣⍑╎ᓭ ᓭ╎リ⊣ꖎᒷ-⚍ᓭᒷ ꖌᒷ|| ╎ᓭ 𝙹リꖎ|| ᓭ⚍╎ℸ ̣ᔑʖꖎᒷ ⎓𝙹∷ ᔑ ⊣𝙹ꖎ↸ ꖎᒷ⊣ᒷリ↸ᔑ∷|| ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷.",
+            "LEGENDARY_CONTAINER": "ꖎᒷ⊣ᒷリ↸ᔑ∷|| ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷",
+            "LEGENDARY_CONTAINER_DESCRIPTION": "ℸ ̣⍑ᒷ ᒲ𝙹ᓭℸ ̣ ⍊ᔑꖎ⚍ᔑʖꖎᒷ ᓵᔑ∷⊣𝙹 ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ ℸ ̣⍑ᔑℸ ̣ ᔑꖎ∴ᔑ||ᓭ ⍑ᔑᓭ ᔑ リᒷ∴ ℸ ̣ᔑリꖌ ᓭꖌ╎リ. ╎⎓ ||𝙹⚍ ᔑꖎ∷ᒷᔑ↸|| ⍑ᔑ⍊ᒷ ᔑꖎꖎ ℸ ̣⍑ᒷ ᓭꖌ╎リᓭ, ||𝙹⚍ ∴╎ꖎꖎ ∷ᒷᓵᒷ╎⍊ᒷ ∷⚍ʖ╎ᒷᓭ ᔑᓭ ᓵ𝙹ᒲ!¡ᒷリᓭᔑℸ ̣╎𝙹リ. ᒷᔑᓵ⍑ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ ᓵ𝙹リℸ ̣ᔑ╎リᓭ 𝙹リᒷ ∷ᔑリ↸𝙹ᒲ ∷ᒷ∴ᔑ∷↸."
+        },
+        "chat": {
+            "CLAN_CHAT": "ᓵꖎᔑリ ᓵ⍑ᔑℸ ̣",
+            "CHAT_INPUT_PLACE_HOLDER": "∴∷╎ℸ ̣ᒷ ||𝙹⚍∷ ᒲᒷᓭᓭᔑ⊣ᒷ ⍑ᒷ∷ᒷ",
+            "SEND_MESSAGE_BUTTON": "ᓭᒷリ↸",
+            "TOGGLE_CHAT_BUTTON": "ℸ ̣ᔑʖ",
+            "OPEN_EXT_LINK_TITLE": "ᒷ̇̇/ℸ ̣ᒷ∷リᔑꖎ ꖎ╎リꖌ",
+            "OPEN_EXT_LINK_OK_BUTTON": "⊣𝙹 ℸ ̣𝙹",
+            "OPEN_EXT_LINK_DESCRIPTION": "ᔑℸ ̣ℸ ̣ᒷリℸ ̣╎𝙹リ! ||𝙹⚍ ᔑ∷ᒷ ᔑʖ𝙹⚍ℸ ̣ ℸ ̣𝙹 ⎓𝙹ꖎꖎ𝙹∴ ᔑリ ᒷ̇̇/ℸ ̣ᒷ∷リᔑꖎ ꖎ╎リꖌ: %ꖎ╎リꖌ \n∴ᒷ ᔑ∷ᒷ リ𝙹ℸ ̣ ∷ᒷᓭ!¡𝙹リᓭ╎ʖꖎᒷ ⎓𝙹∷ ℸ ̣⍑ᒷ ᓭ╎ℸ ̣ᒷ'ᓭ ᓵ𝙹リℸ ̣ᒷリℸ ̣ᓭ ᔑリ↸ ᓭℸ ̣∷𝙹リ⊣ꖎ|| ᔑ↸⍊╎ᓭᒷ ||𝙹⚍ リ𝙹ℸ ̣ ℸ ̣𝙹 ᒷリℸ ̣ᒷ∷ ᔑリ|| ↸ᔑℸ ̣ᔑ ∷ᒷꖎᔑℸ ̣ᒷ↸ ℸ ̣𝙹 ||𝙹⚍∷ ᔑᓵᓵ𝙹⚍リℸ ̣ 𝙹リ ╎ℸ ̣ (ᒷᓭ!¡ᒷᓵ╎ᔑꖎꖎ|| ᒷᒲᔑ╎ꖎ ᔑ↸↸∷ᒷᓭᓭ ᔑリ↸ !¡ᔑᓭᓭ∴𝙹∷↸).\n\n╎⎓ ||𝙹⚍ ↸𝙹リ'ℸ ̣ ⍑ᔑ⍊ᒷ ᔑリ|| ᓭᒷ∷╎𝙹⚍ᓭ ∷ᒷᔑᓭ𝙹リᓭ ℸ ̣𝙹 ℸ ̣∷⚍ᓭℸ ̣ ℸ ̣⍑╎ᓭ ᓭ╎ℸ ̣ᒷ, ╎ℸ ̣'ᓭ ʖᒷᓭℸ ̣ リ𝙹ℸ ̣ ℸ ̣𝙹 ᒷリℸ ̣ᒷ∷ ╎ℸ ̣.\n\n∷ᒷᒲᒷᒲʖᒷ∷, ∴ᒷ リᒷ⍊ᒷ∷ ⍑ᔑリ↸ 𝙹⚍ℸ ̣ ⎓∷ᒷᒷ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ, ℸ ̣ᔑリꖌ𝙹╎リᓭ 𝙹∷ 𝙹ℸ ̣⍑ᒷ∷ ⊣ᔑᒲᒷ ╎ℸ ̣ᒷᒲᓭ 𝙹∷ ᔑᓭꖌ ⎓𝙹∷ ||𝙹⚍∷ !¡ᔑᓭᓭ∴𝙹∷↸ ⍊╎ᔑ ᒷ̇̇/ℸ ̣ᒷ∷リᔑꖎ ᓭ╎ℸ ̣ᒷᓭ.",
+            "MESSAGE_IS_IGNORED": "ℸ ̣⍑╎ᓭ ᒲᒷᓭᓭᔑ⊣ᒷ ╎ᓭ ⍑╎↸↸ᒷリ",
+            "contextMenu": {
+                "WRITE_PUBLICLY": "∴∷╎ℸ ̣ᒷ !¡⚍ʖꖎ╎ᓵꖎ||",
+                "WRITE_PRIVATELY": "∴∷╎ℸ ̣ᒷ !¡∷╎⍊ᔑℸ ̣ᒷꖎ||",
+                "COPY_NAME": "ᓵ𝙹!¡|| リᔑᒲᒷ",
+                "INVITE_TO_FRIENDS": "ᔑ↸↸ ℸ ̣𝙹 ⎓∷╎ᒷリ↸ᓭ ꖎ╎ᓭℸ ̣",
+                "ACCEPT_TO_FRIENDS": "ᔑᓵᓵᒷ!¡ℸ ̣ ∷ᒷᑑ⚍ᒷᓭℸ ̣"
+            },
+            "battleMode": {
+                "DM_SHORT_NAME": "↸ᒲ",
+                "TDM_SHORT_NAME": "ℸ ̣↸ᒲ",
+                "CTF_SHORT_NAME": "ᓵℸ ̣⎓",
+                "CP_SHORT_NAME": "ᓵ!¡",
+                "AS_SHORT_NAME": "ᔑᓭꖎ",
+                "RUGBY_SHORT_NAME": "∷⊣ʖ",
+                "JGR_SHORT_NAME": "ᓭ⋮∷",
+                "TJR_SHORT_NAME": "ℸ ̣⋮∷",
+                "SGE_SHORT_NAME": "ᓭ⊣ᒷ",
+                "AR_SHORT_NAME": "ᔑ∷",
+                "TAR_SHORT_NAME": "ℸ ̣ᔑ∷"
+            }
+        },
+        "user": {
+            "progress": {
+                "TITLE": "∷ᔑリꖌᓭ",
+                "BUY_PREMIUM_BUTTON": "ʖ⚍|| !¡∷ᒷᒲ╎⚍ᒲ",
+                "BUY_PREMIUM_DESCRIPTION": "!¡∷ᒷᒲ╎⚍ᒲ !¡ᔑᓭᓭ ꖎᒷℸ ̣ᓭ ||𝙹⚍ ᒷᔑ∷リ ᒲ𝙹∷ᒷ ᒷ̇̇/!¡ᒷ∷╎ᒷリᓵᒷ ᓭ𝙹 ||𝙹⚍ ᓵᔑリ ∷ᔑリꖌ ⚍!¡ ⎓ᔑᓭℸ ̣ᒷ∷.",
+                "RANK_FEATURES": "∷ᒷᔑᓵ⍑╎リ⊣ ℸ ̣⍑╎ᓭ ∷ᔑリꖌ ⚍リꖎ𝙹ᓵꖌᓭ ℸ ̣⍑ᒷ ⎓𝙹ꖎꖎ𝙹∴╎リ⊣ ⎓ᒷᔑℸ ̣⚍∷ᒷᓭ:",
+                "NO_NEW_FEATURES": "リ𝙹 リᒷ∴ ⎓ᒷᔑℸ ̣⚍∷ᒷᓭ ⚍リꖎ𝙹ᓵꖌᒷ↸ ᔑℸ ̣ ℸ ̣⍑╎ᓭ ∷ᔑリꖌ.",
+                "OK_BUTTON": "𝙹ꖌ"
+            },
+            "info": {
+                "XP_OF_TOP": "𝙹⎓"
+            }
+        },
+        "premium": {
+            "PREMIUM_LABEL": "!¡∷ᒷᒲ╎⚍ᒲ",
+            "TOOLTIP_HEADER": "!¡∷ᒷᒲ╎⚍ᒲ ᔑᓵᓵ𝙹⚍リℸ ̣",
+            "TOOLTIPS": [
+                "ʖ𝙹リ⚍ᓭ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ ᒷᔑ∷リᒷ↸ ╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷ ",
+                "+100%",
+                "ʖ𝙹リ⚍ᓭ ̇̇/!¡ ᒷᔑ∷リᒷ↸ ╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷ ",
+                "+50%",
+                "ʖ𝙹リ⚍ᓭ ᓭℸ ̣ᔑ∷ᓭ ᒷᔑ∷リᒷ↸ ╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷ ",
+                "+100%"
+            ],
+            "TOOLTIP_TIMER_LABEL": "ᒷ̇̇/!¡╎∷ᒷᓭ ╎リ ",
+            "EXTEND": "ᒷ̇̇/ℸ ̣ᒷリ↸",
+            "BUY": "ʖ⚍||",
+            "NO_PREMIUM": "リ𝙹 !¡∷ᒷᒲ╎⚍ᒲ",
+            "TIP_HEADER": "!¡∷𝙹 ʖᔑℸ ̣ℸ ̣ꖎᒷ ⎓⚍リ↸",
+            "TIP_SUBHEADER": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ⎓⚍リ↸ ∷⚍ꖎᒷᓭ",
+            "TIP_CONTENT": [
+                "ᓵ∷||ᓭℸ ̣ᔑꖎᓭ ᔑリ↸ ᒷ̇̇/!¡ᒷ∷╎ᒷリᓵᒷ ᓵᔑリ ʖᒷ ᒷᔑ∷リᒷ↸ ⎓∷𝙹ᒲ ᔑリ|| ʖᔑℸ ̣ℸ ̣ꖎᒷ ⎓𝙹∷ᒲᔑℸ ̣ ᔑリ↸ ᒷ⍊ᒷリ !¡∷╎⍊ᔑℸ ̣ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ. !¡ꖎᔑ|| ∴⍑ᒷ∷ᒷ ||𝙹⚍ ꖎ╎ꖌᒷ ʖᒷᓭℸ ̣ ∴╎ℸ ̣⍑ ℸ ̣𝙹ℸ ̣ᔑꖎ ⎓∷ᒷᒷ↸𝙹ᒲ.",
+                "ᔑ ꖎ╎ᒲ╎ℸ ̣ᒷ↸ リ⚍ᒲʖᒷ∷ 𝙹⎓ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ ᔑリ↸ ᒷ̇̇/!¡ᒷ∷╎ᒷリᓵᒷ ᓵᔑリ ʖᒷ ᒷᔑ∷リᒷ↸ ⎓∷𝙹ᒲ !¡∷𝙹 ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ ᒷᔑᓵ⍑ ↸ᔑ||. 𝙹リᓵᒷ ℸ ̣⍑╎ᓭ ꖎ╎ᒲ╎ℸ ̣ ╎ᓭ ᒷ̇̇/ᓵᒷᒷ↸ᒷ↸, ᒷ⍊ᒷリ ℸ ̣⍑ᒷ ⊣∷ᔑリ↸ᒷᓭℸ ̣ ⊣𝙹ꖎ↸ ʖ𝙹̇̇/ ᓵᔑℸ ̣ᓵ⍑ ∴╎ꖎꖎ ||╎ᒷꖎ↸ リ𝙹 ᓵ∷||ᓭℸ ̣ᔑꖎᓭ.",
+                "ℸ ̣⍑ᒷ ᓭ╎⨅ᒷ 𝙹⎓ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ⎓⚍リ↸ ℸ ̣⍑ᔑℸ ̣ ╎ᓭ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ ℸ ̣𝙹 ||𝙹⚍ ᓭ𝙹ꖎᒷꖎ|| ↸ᒷ!¡ᒷリ↸ᓭ 𝙹リ ||𝙹⚍∷ ℸ ̣ᔑリꖌ'ᓭ ∷ᔑリꖌ. ℸ ̣⍑ᒷ ⍑╎⊣⍑ᒷ∷ ||𝙹⚍∷ ∷ᔑリꖌ, ℸ ̣⍑ᒷ ᒲ𝙹∷ᒷ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ ᔑリ↸ ᒷ̇̇/!¡ᒷ∷╎ᒷリᓵᒷ ||𝙹⚍ ∴╎ꖎꖎ ʖᒷ ᔑʖꖎᒷ ℸ ̣𝙹 ᒷᔑ∷リ ᒷᔑᓵ⍑ ↸ᔑ||.",
+                "ᒷᔑ∷リ╎リ⊣ ꖎ╎ᒲ╎ℸ ̣ᓭ ᔑ∷ᒷ ⚍!¡↸ᔑℸ ̣ᒷ↸ 𝙹リᓵᒷ ᔑ ∴ᒷᒷꖌ. ╎⎓ ||𝙹⚍ ⍑ᔑ⍊ᒷ !¡∷ᒷᒲ╎⚍ᒲ !¡ᔑᓭᓭ, ||𝙹⚍∷ ᒷᔑ∷リ╎リ⊣ ꖎ╎ᒲ╎ℸ ̣ ╎ᓭ ᔑ⚍ℸ ̣𝙹ᒲᔑℸ ̣╎ᓵᔑꖎꖎ|| ╎リᓵ∷ᒷᔑᓭᒷ↸ ∴⍑╎ꖎᒷ ||𝙹⚍∷ ᓭ⚍ʖᓭᓵ∷╎!¡ℸ ̣╎𝙹リ ╎ᓭ ᔑᓵℸ ̣╎⍊ᒷ."
+            ]
+        },
+        "matchmakingwait": {
+            "AVERAGE_WAITING_TIME": "ᔑ⍊ᒷ∷ᔑ⊣ᒷ ∴ᔑ╎ℸ ̣╎リ⊣ ℸ ̣╎ᒲᒷ",
+            "CURRENT_WAITING_TIME": "ᓵ⚍∷∷ᒷリℸ ̣ ∴ᔑ╎ℸ ̣╎リ⊣ ℸ ̣╎ᒲᒷ",
+            "CANCEL": "ᓵᔑリᓵᒷꖎ"
+        },
+        "tips": {
+            "MATCHMAKING": [
+                "∴⍑╎ᓵ⍑ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᒲ𝙹↸ᒷ ↸𝙹 ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 !¡ꖎᔑ||?"
+            ],
+            "CONTAINERS": [
+                "ℸ ̣⍑ᒷ !¡∷𝙹ʖᔑʖ╎ꖎ╎ℸ ̣|| 𝙹⎓ ⊣ᒷℸ ̣ℸ ̣╎リ⊣ ᔑリ ╎ℸ ̣ᒷᒲ ↸ᒷ!¡ᒷリ↸ᓭ 𝙹リ ⍑𝙹∴ ∷ᔑ∷ᒷ ╎ℸ ̣ ╎ᓭ, ∴⍑╎ᓵ⍑ ╎ᓭ ∴⍑|| ℸ ̣∴╎リᓭ !¡ꖎᔑ||ᒷ∷ᓭ ᔑ∷ᒷ 𝙹⎓ℸ ̣ᒷリ ꖌリ𝙹∴リ ℸ ̣𝙹 ⎓╎リ↸ ʖ∷╎ᓵꖌᓭ."
+            ],
+            "quests": {
+                "MAIN": [
+                    "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ ᓭ!¡ᒷᓵ╎ᔑꖎ ᒲ╎ᓭᓭ╎𝙹リᓭ ᔑリ↸ ⊣ᒷℸ ̣ ᓵ𝙹𝙹ꖎ ∷ᒷ∴ᔑ∷↸ᓭ."
+                ],
+                "DAILY": [
+                    "リᒷ∴ ᒲ╎ᓭᓭ╎𝙹リᓭ ∴╎ꖎꖎ ᔑ!¡!¡ᒷᔑ∷ ᔑ⎓ℸ ̣ᒷ∷ ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣╎リ⊣ ᓵ⚍∷∷ᒷリℸ ̣ 𝙹リᒷᓭ."
+                ],
+                "WEEKLY": [
+                    "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ ∴ᒷᒷꖌꖎ|| ᒲ╎ᓭᓭ╎𝙹リᓭ ᔑリ↸ ⊣ᒷℸ ̣ ᔑ↸↸╎ℸ ̣╎𝙹リᔑꖎ ∷ᒷ∴ᔑ∷↸ᓭ."
+                ],
+                "CHALLENGE": [
+                    "!¡ꖎᔑ|| ╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ ᔑリ↸ ᒷᔑ∷リ ᓭℸ ̣ᔑ∷ᓭ. ᒷᔑᓵ⍑ リᒷ∴ ᓵ⍑ᔑꖎꖎᒷリ⊣ᒷ ℸ ̣╎ᒷ∷ ⊣╎⍊ᒷᓭ ||𝙹⚍ ᒲ𝙹∷ᒷ ⚍リ╎ᑑ⚍ᒷ ∷ᒷ∴ᔑ∷↸ᓭ."
+                ]
+            },
+            "garage": {
+                "MAIN_SCREEN": [
+                    "⊣ᒷᔑ∷ ᓭᓵ𝙹∷ᒷ ╎リ↸╎ᓵᔑℸ ̣ᒷᓭ ℸ ̣⍑ᒷ ᓵ𝙹ꖎꖎᒷᓵℸ ̣╎⍊ᒷ !¡𝙹∴ᒷ∷ 𝙹⎓ ||𝙹⚍∷ ᒷᑑ⚍╎!¡!¡ᒷ↸ ⊣ᒷᔑ∷. リ𝙹ℸ ̣ ℸ ̣𝙹 ʖᒷ ᓵ𝙹リ⎓⚍ᓭᒷ↸ ∴╎ℸ ̣⍑ \"ᓵ𝙹𝙹ꖎリᒷᓭᓭ ⎓ᔑᓵℸ ̣𝙹∷\"."
+                ],
+                "UPGRADE": [
+                    "⚍!¡⊣∷ᔑ↸ᒷ ℸ ̣⍑╎ᓭ ╎ℸ ̣ᒷᒲ ℸ ̣𝙹 ᒲᔑꖌᒷ ╎ℸ ̣ ᒲ𝙹∷ᒷ !¡𝙹∴ᒷ∷⎓⚍ꖎ ∴╎ℸ ̣⍑𝙹⚍ℸ ̣ ʖ⚍||╎リ⊣ ℸ ̣⍑ᒷ リᒷ̇̇/ℸ ̣ ᒲ𝙹↸╎⎓╎ᓵᔑℸ ̣╎𝙹リ. ╎ℸ ̣'ᓭ ⎓ᔑᓭℸ ̣ᒷ∷ ᔑリ↸ ᓵ⍑ᒷᔑ!¡ᒷ∷."
+                ],
+                "weapon": {
+                    "DEFAULT": [
+                        "ᒷ⍊ᒷ∷|| ℸ ̣⚍∷∷ᒷℸ ̣ ⍑ᔑᓭ ⚍リ╎ᑑ⚍ᒷ ⎓ᒷᔑℸ ̣⚍∷ᒷᓭ ℸ ̣⍑ᔑℸ ̣ ᒲᔑꖌᒷ ╎ℸ ̣ ʖᒷᓭℸ ̣ ᓭ⚍╎ℸ ̣ᒷ↸ ᔑℸ ̣ ᔑ ᓭ!¡ᒷᓵ╎⎓╎ᓵ ∷ᔑリ⊣ᒷ. ||𝙹⚍ ꖌリ𝙹∴ ∴⍑ᔑℸ ̣ ℸ ̣⍑ᒷ|| ᓭᔑ|| ᔑʖ𝙹⚍ℸ ̣ ⍑ᔑᒲᒲᒷ∷ᓭ ᔑリ↸ !¡∷𝙹ʖꖎᒷᒲᓭ."
+                    ],
+                    "UNMOUNT": [
+                        "ᒷ⍊ᒷ∷|| ℸ ̣⚍∷∷ᒷℸ ̣ ⍑ᔑᓭ ⚍リ╎ᑑ⚍ᒷ ⎓ᒷᔑℸ ̣⚍∷ᒷᓭ ℸ ̣⍑ᔑℸ ̣ ᒲᔑꖌᒷ ╎ℸ ̣ ʖᒷᓭℸ ̣ ᓭ⚍╎ℸ ̣ᒷ↸ ᔑℸ ̣ ᔑ ᓭ!¡ᒷᓵ╎⎓╎ᓵ ∷ᔑリ⊣ᒷ. ||𝙹⚍ ꖌリ𝙹∴ ∴⍑ᔑℸ ̣ ℸ ̣⍑ᒷ|| ᓭᔑ|| ᔑʖ𝙹⚍ℸ ̣ ⍑ᔑᒲᒲᒷ∷ᓭ ᔑリ↸ !¡∷𝙹ʖꖎᒷᒲᓭ."
+                    ],
+                    "MOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ ℸ ̣⚍∷∷ᒷℸ ̣."
+                    ],
+                    "BUY": [
+                        "||𝙹⚍ ᓵᔑリ !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ ℸ ̣⚍∷∷ᒷℸ ̣."
+                    ],
+                    "NEED_RANK": [
+                        "||𝙹⚍∷ ∷ᔑリꖌ ╎ᓭ ℸ ̣𝙹𝙹 ꖎ𝙹∴ ℸ ̣𝙹 !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ ℸ ̣⚍∷∷ᒷℸ ̣."
+                    ]
+                },
+                "armor": {
+                    "DEFAULT": [
+                        "ᒷ⍊ᒷ∷|| ⍑⚍ꖎꖎ ⍑ᔑᓭ ╎ℸ ̣ᓭ 𝙹∴リ ⚍リ╎ᑑ⚍ᒷ 𝙹⍊ᒷ∷↸∷╎⍊ᒷ ᔑᓭ ∴ᒷꖎꖎ ᔑᓭ ╎ℸ ̣ᓭ 𝙹∴リ ᓭ!¡ᒷᒷ↸ ℸ ̣𝙹 ᔑ∷ᒲ𝙹∷ ∷ᔑℸ ̣╎𝙹."
+                    ],
+                    "UNMOUNT": [
+                        "ᒷ⍊ᒷ∷|| ⍑⚍ꖎꖎ ⍑ᔑᓭ ╎ℸ ̣ᓭ 𝙹∴リ ⚍リ╎ᑑ⚍ᒷ 𝙹⍊ᒷ∷↸∷╎⍊ᒷ ᔑᓭ ∴ᒷꖎꖎ ᔑᓭ ╎ℸ ̣ᓭ 𝙹∴リ ᓭ!¡ᒷᒷ↸ ℸ ̣𝙹 ᔑ∷ᒲ𝙹∷ ∷ᔑℸ ̣╎𝙹."
+                    ],
+                    "MOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ ⍑⚍ꖎꖎ."
+                    ],
+                    "BUY": [
+                        "||𝙹⚍ ᓵᔑリ !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ ⍑⚍ꖎꖎ."
+                    ],
+                    "NEED_RANK": [
+                        "||𝙹⚍∷ ∷ᔑリꖌ ╎ᓭ ℸ ̣𝙹𝙹 ꖎ𝙹∴ ℸ ̣𝙹 !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ ⍑⚍ꖎꖎ."
+                    ]
+                },
+                "drone": {
+                    "DEFAULT": [
+                        "↸∷𝙹リᒷᓭ ᔑꖎꖎ𝙹∴ ||𝙹⚍ ℸ ̣𝙹 ᓭ╎⊣リ╎⎓╎ᓵᔑリℸ ̣ꖎ|| ╎リᓵ∷ᒷᔑᓭᒷ ℸ ̣⍑ᒷ ᒷ⎓⎓ᒷᓵℸ ̣ 𝙹⎓ ᓭ⚍!¡!¡ꖎ╎ᒷᓭ ╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷᓭ."
+                    ],
+                    "UNMOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ⚍リᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ ↸∷𝙹リᒷ."
+                    ],
+                    "MOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ ↸∷𝙹リᒷ."
+                    ],
+                    "BUY": [
+                        "||𝙹⚍ ᓵᔑリ !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ ↸∷𝙹リᒷ."
+                    ],
+                    "NEED_RANK": [
+                        "||𝙹⚍∷ ∷ᔑリꖌ ╎ᓭ ℸ ̣𝙹𝙹 ꖎ𝙹∴ ℸ ̣𝙹 !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ ↸∷𝙹リᒷ."
+                    ]
+                },
+                "resistance": {
+                    "DEFAULT": [
+                        "ᒷᑑ⚍╎!¡ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ ᒲ𝙹↸⚍ꖎᒷᓭ ℸ ̣𝙹 ↸ᒷ⎓ᒷリ↸ ||𝙹⚍∷ᓭᒷꖎ⎓ ʖᒷℸ ̣ℸ ̣ᒷ∷ ⎓∷𝙹ᒲ ℸ ̣⍑𝙹ᓭᒷ ℸ ̣⚍∷∷ᒷℸ ̣ᓭ ℸ ̣⍑ᔑℸ ̣ ⊣╎⍊ᒷ ||𝙹⚍ ℸ ̣⍑ᒷ ᒲ𝙹ᓭℸ ̣ ℸ ̣∷𝙹⚍ʖꖎᒷ."
+                    ],
+                    "UNMOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ⚍リᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ ᒲ𝙹↸⚍ꖎᒷ."
+                    ],
+                    "MOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ ᒲ𝙹↸⚍ꖎᒷ."
+                    ],
+                    "BUY": [
+                        "||𝙹⚍ ᓵᔑリ !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ ᒲ𝙹↸⚍ꖎᒷ."
+                    ],
+                    "NEED_RANK": [
+                        "||𝙹⚍∷ ∷ᔑリꖌ ╎ᓭ ℸ ̣𝙹𝙹 ꖎ𝙹∴ ℸ ̣𝙹 !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣╎𝙹リ ᒲ𝙹↸⚍ꖎᒷ."
+                    ]
+                },
+                "paint": {
+                    "DEFAULT": [
+                        "!¡ᔑ╎リℸ ̣ᓭ ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ꖎ𝙹𝙹ꖌ 𝙹⎓ ||𝙹⚍∷ ℸ ̣ᔑリꖌ. ᓭ𝙹ᒲᒷ ᒲᔑꖌᒷ ╎ℸ ̣ ⍑ᔑ∷↸ᒷ∷ ⎓𝙹∷ ᒷリᒷᒲ╎ᒷᓭ ℸ ̣𝙹 ᓭᒷᒷ, ∴⍑╎ꖎᒷ 𝙹ℸ ̣⍑ᒷ∷ᓭ ⊣╎⍊ᒷ ||𝙹⚍ ᔑ ↸╎ᓭℸ ̣╎リᓵℸ ̣ ᔑリ↸ ⚍リ╎ᑑ⚍ᒷ ꖎ𝙹𝙹ꖌ."
+                    ],
+                    "UNMOUNT": [
+                        "!¡ᔑ╎リℸ ̣ᓭ ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ꖎ𝙹𝙹ꖌ 𝙹⎓ ||𝙹⚍∷ ℸ ̣ᔑリꖌ. ᓭ𝙹ᒲᒷ ᒲᔑꖌᒷ ╎ℸ ̣ ⍑ᔑ∷↸ᒷ∷ ⎓𝙹∷ ᒷリᒷᒲ╎ᒷᓭ ℸ ̣𝙹 ᓭᒷᒷ, ∴⍑╎ꖎᒷ 𝙹ℸ ̣⍑ᒷ∷ᓭ ⊣╎⍊ᒷ ||𝙹⚍ ᔑ ↸╎ᓭℸ ̣╎リᓵℸ ̣ ᔑリ↸ ⚍リ╎ᑑ⚍ᒷ ꖎ𝙹𝙹ꖌ."
+                    ],
+                    "MOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ !¡ᔑ╎リℸ ̣."
+                    ],
+                    "BUY": [
+                        "||𝙹⚍ ᓵᔑリ !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ !¡ᔑ╎リℸ ̣."
+                    ],
+                    "NEED_RANK": [
+                        "||𝙹⚍∷ ∷ᔑリꖌ ╎ᓭ ℸ ̣𝙹𝙹 ꖎ𝙹∴ ℸ ̣𝙹 !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ !¡ᔑ╎リℸ ̣."
+                    ],
+                    "NEED_PREMIUM": [
+                        "ℸ ̣⍑╎ᓭ ╎ℸ ̣ᒷᒲ ╎ᓭ 𝙹リꖎ|| ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ ⎓𝙹∷ !¡ꖎᔑ||ᒷ∷ᓭ ∴╎ℸ ̣⍑ ᔑリ ᔑᓵℸ ̣╎⍊ᒷ !¡∷ᒷᒲ╎⚍ᒲ ᔑᓵᓵ𝙹⚍リℸ ̣."
+                    ],
+                    "GET_FROM_CONTAINER_OR_SO": [
+                        "ℸ ̣⍑╎ᓭ !¡ᔑ╎リℸ ̣ ᓵᔑリ 𝙹リꖎ|| ʖᒷ 𝙹ʖℸ ̣ᔑ╎リᒷ↸ ⎓∷𝙹ᒲ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ᓭ."
+                    ]
+                },
+                "inventory": {
+                    "DEFAULT": [
+                        "ᓭ⚍!¡!¡ꖎ╎ᒷᓭ ⊣╎⍊ᒷ ||𝙹⚍∷ ℸ ̣ᔑリꖌ ℸ ̣ᒷᒲ!¡𝙹∷ᔑ∷|| ʖ𝙹𝙹ᓭℸ ̣ᓭ ╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷ."
+                    ],
+                    "MOUNT": [
+                        "ᓭ⚍!¡!¡ꖎ╎ᒷᓭ ⊣╎⍊ᒷ ||𝙹⚍∷ ℸ ̣ᔑリꖌ ℸ ̣ᒷᒲ!¡𝙹∷ᔑ∷|| ʖ𝙹𝙹ᓭℸ ̣ᓭ ╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷ."
+                    ],
+                    "BUY": [
+                        "ᓭ⚍!¡!¡ꖎ╎ᒷᓭ ⊣╎⍊ᒷ ||𝙹⚍∷ ℸ ̣ᔑリꖌ ℸ ̣ᒷᒲ!¡𝙹∷ᔑ∷|| ʖ𝙹𝙹ᓭℸ ̣ᓭ ╎リ ʖᔑℸ ̣ℸ ̣ꖎᒷ."
+                    ],
+                    "NEED_RANK": [
+                        "||𝙹⚍∷ ∷ᔑリꖌ ╎ᓭ ℸ ̣𝙹𝙹 ꖎ𝙹∴ ℸ ̣𝙹 !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ ᓭ⚍!¡!¡ꖎ||."
+                    ]
+                },
+                "skins": {
+                    "DEFAULT": [
+                        "ᓭꖌ╎リᓭ ꖎᒷℸ ̣ ||𝙹⚍ ᓭℸ ̣ᔑリ↸ 𝙹⚍ℸ ̣ ᔑᒲ𝙹リ⊣ᓭℸ ̣ 𝙹ℸ ̣⍑ᒷ∷ !¡ꖎᔑ||ᒷ∷ᓭ."
+                    ],
+                    "UNMOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ⚍リᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ ᓭꖌ╎リ."
+                    ],
+                    "MOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ ᓭꖌ╎リ."
+                    ],
+                    "GET_FROM_CONTAINER_OR_SO": [
+                        "ℸ ̣⍑╎ᓭ ᓭꖌ╎リ ᓵᔑリ 𝙹リꖎ|| ʖᒷ 𝙹ʖℸ ̣ᔑ╎リᒷ↸ ⎓∷𝙹ᒲ ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ᓭ."
+                    ]
+                },
+                "weaponDevices": {
+                    "DEFAULT": [
+                        "ᔑ⚍⊣ᒲᒷリℸ ̣ᓭ ⎓𝙹∷ ℸ ̣⚍∷∷ᒷℸ ̣ᓭ ᓵᔑリ ᓵ⍑ᔑリ⊣ᒷ ℸ ̣⍑ᒷ ℸ ̣⚍∷∷ᒷℸ ̣'ᓭ ʖᒷ⍑ᔑ⍊╎𝙹⚍∷ 𝙹∷ ╎ℸ ̣ᓭ ᓵ⍑ᔑ∷ᔑᓵℸ ̣ᒷ∷╎ᓭℸ ̣╎ᓵᓭ."
+                    ],
+                    "UNMOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ⚍リᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ ᔑ⚍⊣ᒲᒷリℸ ̣."
+                    ],
+                    "MOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ ᔑ⚍⊣ᒲᒷリℸ ̣."
+                    ],
+                    "BUY": [
+                        "||𝙹⚍ ᓵᔑリ !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ ᔑ⚍⊣ᒲᒷリℸ ̣."
+                    ]
+                },
+                "armorDevices": {
+                    "DEFAULT": [
+                        "ᔑ⚍⊣ᒲᒷリℸ ̣ᓭ ⎓𝙹∷ ⍑⚍ꖎꖎᓭ ᓵᔑリ !¡∷𝙹ℸ ̣ᒷᓵℸ ̣ ||𝙹⚍∷ ℸ ̣ᔑリꖌ ⎓∷𝙹ᒲ リᒷ⊣ᔑℸ ̣╎⍊ᒷ ᓭℸ ̣ᔑℸ ̣⚍ᓭ ᒷ⎓⎓ᒷᓵℸ ̣ᓭ 𝙹∷ ᓵ⍑ᔑリ⊣ᒷ ╎ℸ ̣ᓭ ᒲᔑᓭᓭ."
+                    ],
+                    "UNMOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ⚍リᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ ᔑ⚍⊣ᒲᒷリℸ ̣."
+                    ],
+                    "MOUNT": [
+                        "!¡∷ᒷᓭᓭ %ꖌᒷ||% ℸ ̣𝙹 ᒷᑑ⚍╎!¡ ℸ ̣⍑╎ᓭ ᔑ⚍⊣ᒲᒷリℸ ̣."
+                    ],
+                    "BUY": [
+                        "||𝙹⚍ ᓵᔑリ !¡⚍∷ᓵ⍑ᔑᓭᒷ ℸ ̣⍑╎ᓭ ᔑ⚍⊣ᒲᒷリℸ ̣."
+                    ]
+                }
+            }
+        },
+        "exitDialog": {
+            "TITLE": "ᒷ̇̇/╎ℸ ̣ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ",
+            "LABEL": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 ᑑ⚍╎ℸ ̣?",
+            "EXIT_BUTTON": "ᒷ̇̇/╎ℸ ̣"
+        },
+        "tutorial": {
+            "NEXT": "リᒷ̇̇/ℸ ̣",
+            "BACK": "ʖᔑᓵꖌ",
+            "CLOSE": "ᓵꖎ𝙹ᓭᒷ",
+            "HEADER": "⍑╎リℸ ̣"
+        },
+        "repatriation": {
+            "TITLE": "∴ᒷꖎᓵ𝙹ᒲᒷ ʖᔑᓵꖌ, ℸ ̣ᔑリꖌᒷ∷!",
+            "TEXT": "╎リ ⍑𝙹リ𝙹⚍∷ 𝙹⎓ ||𝙹⚍∷ ℸ ̣∷╎⚍ᒲ!¡⍑ᔑリℸ ̣ ∷ᒷℸ ̣⚍∷リ, ∴ᒷ ⍑ᔑ⍊ᒷ !¡∷ᒷ!¡ᔑ∷ᒷ↸ ᓭ𝙹ᒲᒷ ᓭ!¡ᒷᓵ╎ᔑꖎ ⊣╎⎓ℸ ̣ᓭ ⎓𝙹∷ ||𝙹⚍. ℸ ̣⍑ᒷ|| ᔑꖎ∷ᒷᔑ↸|| ᔑ∴ᔑ╎ℸ ̣ ||𝙹⚍ ╎リ ℸ ̣⍑ᒷ ⊣ᔑ∷ᔑ⊣ᒷ! ⍑⚍∷∷|| ⚍!¡ ᔑリ↸ ⊣𝙹 ℸ ̣𝙹 ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ⎓╎ᒷꖎ↸!",
+            "BUTTON": "ᓵꖎᔑ╎ᒲ ∷ᒷ∴ᔑ∷↸ᓭ"
+        },
+        "breakSearchMatchmakingBattle": {
+            "TITLE": "||𝙹⚍ ᔑ∷ᒷ ᔑꖎ∷ᒷᔑ↸|| ╎リ ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᑑ⚍ᒷ⚍ᒷ",
+            "INFO_LABEL_1": "ℸ ̣𝙹 ᓭᒷꖎᒷᓵℸ ̣ ᔑ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᒲ𝙹↸ᒷ, ||𝙹⚍ ᒲ⚍ᓭℸ ̣ ꖎᒷᔑ⍊ᒷ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᑑ⚍ᒷ⚍ᒷ.",
+            "INFO_LABEL_2": "ꖎᒷᔑ⍊ᒷ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ᑑ⚍ᒷ⚍ᒷ?",
+            "BREAK_BUTTON": "||ᒷᓭ"
+        },
+        "news": {
+            "NEWS_TITLE": "リᒷ∴ᓭ"
+        },
+        "userContextMenu": {
+            "COPY_NAME": "ᓵ𝙹!¡|| リᔑᒲᒷ",
+            "ADD_TO_FRIENDS": "ᔑ↸↸ ℸ ̣𝙹 ⎓∷╎ᒷリ↸ᓭ",
+            "ACCEPT_TO_FRIENDS": "ᔑᓵᓵᒷ!¡ℸ ̣ ∷ᒷᑑ⚍ᒷᓭℸ ̣",
+            "PROFILE": "!¡∷𝙹⎓╎ꖎᒷ",
+            "PRIVATE_CHAT_MESSAGE": "!¡∷╎⍊ᔑℸ ̣ᒷ ᒲᒷᓭᓭᔑ⊣ᒷ",
+            "INVITE_TO_CLAN": "╎リ⍊╎ℸ ̣ᒷ ℸ ̣𝙹 ᓵꖎᔑリ",
+            "CLAN_PROFILE": "ᓵꖎᔑリ !¡∷𝙹⎓╎ꖎᒷ",
+            "VOTE_FOR_USER": "∷ᒷ!¡𝙹∷ℸ ̣ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ!¡ꖎᔑ||",
+            "SPEC_FOLLOW_USER": "⎓𝙹ꖎꖎ𝙹∴",
+            "MODERATOR_OPEN_MT": "⚍ᓭᒷ∷ ᓵᔑ∷ᒲᔑ (ᒲℸ ̣)",
+            "MODERATOR_SELECT": "ᓭᒷꖎᒷᓵℸ ̣ ⚍ᓭᒷ∷",
+            "MODERATOR_UNSELECT": "⚍リᓭᒷꖎᒷᓵℸ ̣ ⚍ᓭᒷ∷",
+            "IGNORE_USER_MESSAGES": "⍑╎↸ᒷ ᒲᒷᓭᓭᔑ⊣ᒷᓭ",
+            "SHOW_USER_MESSAGES": "ᓭ⍑𝙹∴ ᒲᒷᓭᓭᔑ⊣ᒷᓭ",
+            "MODERATOR_MM_KICK": "ꖌ╎ᓵꖌ",
+            "MODERATOR_MM_KICK_CONFIRM": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 ꖌ╎ᓵꖌ %0",
+            "SEND_REPORT": "∷ᒷ!¡𝙹∷ℸ ̣ ℸ ̣⍑ᒷ ᒲᒷᓭᓭᔑ⊣ᒷ (%0)"
+        },
+        "announcement": {
+            "BREADCRUMB_LABEL": "ᔑリリ𝙹⚍リᓵᒷᒲᒷリℸ ̣",
+            "ANNOUNCEMENT_LABEL": "ᔑリリ𝙹⚍リᓵᒷᒲᒷリℸ ̣",
+            "PLAY_BUTTON_LABEL": "!¡ꖎᔑ||",
+            "VIEW_BUTTON_LABEL": "⍊╎ᒷ∴",
+            "BUY_BUTTON_LABEL": "ʖ⚍||"
+        },
+        "desktopNeedToUpdateDialog": {
+            "TITLE": "ᔑℸ ̣ℸ ̣ᒷリℸ ̣╎𝙹リ!",
+            "TEXT": "||𝙹⚍∷ ⊣ᔑᒲᒷ ᓵꖎ╎ᒷリℸ ̣ ╎ᓭ 𝙹⚍ℸ ̣↸ᔑℸ ̣ᒷ↸ ᔑリ↸ ᓭ𝙹𝙹リ ∴╎ꖎꖎ ʖᒷ ↸╎ᓭᓵ𝙹リℸ ̣╎リ⚍ᒷ↸. ||𝙹⚍ リᒷᒷ↸ ℸ ̣𝙹 ⚍!¡↸ᔑℸ ̣ᒷ ||𝙹⚍∷ ᓵꖎ╎ᒷリℸ ̣ ʖ|| ↸𝙹∴リꖎ𝙹ᔑ↸╎リ⊣ ᔑ リᒷ∴ ⍊ᒷ∷ᓭ╎𝙹リ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ'ᓭ 𝙹⎓⎓╎ᓵ╎ᔑꖎ ∴ᒷʖᓭ╎ℸ ̣ᒷ. 𝙹!¡ᒷリ ℸ ̣⍑ᒷ ꖎ╎リꖌ ᔑリ↸ ↸𝙹∴リꖎ𝙹ᔑ↸ ℸ ̣⍑ᒷ リᒷ∴ ᓵꖎ╎ᒷリℸ ̣ ℸ ̣𝙹 ꖌᒷᒷ!¡ !¡ꖎᔑ||╎リ⊣ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ.",
+            "BUTTON": "⊣ᒷℸ ̣ ℸ ̣⍑ᒷ リᒷ∴ ⊣ᔑᒲᒷ ᓵꖎ╎ᒷリℸ ̣"
+        },
+        "keys": {
+            "KEY_SHOP": "ꖌᒷ||",
+            "KEYS_SHOP": "ꖌᒷ||ᓭ"
+        },
+        "referralEvent": {
+            "GET_PROMO_CODE_BUTTON": "!¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷ",
+            "GET_PROMO_CODE_HEADER": "!¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷ",
+            "GET_PROMO_CODE_MESSAGE": "⊣╎⍊ᒷ ||𝙹⚍∷ !¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷ ℸ ̣𝙹 リᒷ∴ !¡ꖎᔑ||ᒷ∷ᓭ 𝙹∷ ℸ ̣⍑𝙹ᓭᒷ ∴⍑𝙹 ᓭℸ ̣𝙹!¡!¡ᒷ↸ !¡ꖎᔑ||╎リ⊣ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ ᔑリ↸ ᔑᓭꖌ ℸ ̣⍑ᒷᒲ ℸ ̣𝙹 ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ ᒲ╎ᓭᓭ╎𝙹リᓭ. ||𝙹⚍ ∴╎ꖎꖎ ℸ ̣⍑ᒷリ ∷ᒷᓵᒷ╎⍊ᒷ !¡∷𝙹⊣∷ᒷᓭᓭ ℸ ̣𝙹∴ᔑ∷↸ᓭ ||𝙹⚍∷ 𝙹∴リ ᒲ╎ᓭᓭ╎𝙹リᓭ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ╎∷ ᓭ⚍ᓵᓵᒷᓭᓭᒷᓭ. ᓭᒷᒷ ℸ ̣⍑ᒷ ↸ᒷℸ ̣ᔑ╎ꖎᒷ↸ ᓵ𝙹リ↸╎ℸ ̣╎𝙹リᓭ 𝙹⎓ ℸ ̣⍑ᒷ ᒷ⍊ᒷリℸ ̣ 𝙹リ ℸ ̣⍑ᒷ ⍑𝙹ᒲᒷ !¡ᔑ⊣ᒷ.",
+            "GET_PROMO_CODE_COPY_BUTTON": "ᓵ𝙹!¡||",
+            "GET_PROMO_CODE_COPIED_BUTTON": "ᓵ𝙹!¡╎ᒷ↸",
+            "ACTIVATED_PROMO_CODE_HEADER": "ℸ ̣⍑ᒷ !¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷ ⍑ᔑᓭ ʖᒷᒷリ ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ↸!",
+            "ACTIVATED_PROMO_CODE_MESSAGE": "ℸ ̣⍑ᔑリꖌ ||𝙹⚍ ⎓𝙹∷ ꖎᔑ⚍リᓵ⍑╎リ⊣ ℸ ̣ᔑリꖌ╎ 𝙹リꖎ╎リᒷ! ||𝙹⚍ ⍑ᔑ⍊ᒷ ∷ᒷᓵᒷ╎⍊ᒷ↸ ᔑ ᓭᒷℸ ̣ 𝙹⎓ ᓭ!¡ᒷᓵ╎ᔑꖎ ᒲ╎ᓭᓭ╎𝙹リᓭ; ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ ℸ ̣⍑ᒷᒲ ᔑリ↸ ⊣ᒷℸ ̣ ᓵ𝙹𝙹ꖎ !¡∷╎⨅ᒷᓭ!",
+            "ACTIVATED_PROMO_CODE_BUTTON": "⎓𝙹∷∴ᔑ∷↸ ℸ ̣𝙹 ℸ ̣⍑ᒷ ᒲ╎ᓭᓭ╎𝙹リᓭ!",
+            "PROMO_CODE_ACTIVATE_ERROR_TITLE": "ᔑᓵℸ ̣╎⍊ᔑℸ ̣╎𝙹リ ᒷ∷∷𝙹∷",
+            "PROMO_CODE_ACTIVATE_ERROR_WRONG_ENVIRONMENT": "||𝙹⚍ ᓵᔑリリ𝙹ℸ ̣ ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ ᔑ !¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷ 𝙹リ ℸ ̣⍑╎ᓭ !¡ꖎᔑℸ ̣⎓𝙹∷ᒲ. ℸ ̣⍑ᒷ ꖎ╎ᓭℸ ̣ 𝙹⎓ !¡ꖎᔑℸ ̣⎓𝙹∷ᒲᓭ ∴⍑ᒷ∷ᒷ ||𝙹⚍ ᓵᔑリ ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ !¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷᓭ ᔑ∷ᒷ ╎リ ℸ ̣⍑ᒷ ᔑ∷ℸ ̣╎ᓵꖎᒷ ᔑʖ𝙹⚍ℸ ̣ ℸ ̣⍑╎ᓭ ∷ᒷ⎓ᒷ∷∷ᔑꖎ ᒷ⍊ᒷリℸ ̣ 𝙹リ ℸ ̣⍑ᒷ ⍑𝙹ᒲᒷ !¡ᔑ⊣ᒷ.",
+            "PROMO_CODE_ACTIVATE_ERROR_HAVE_REFERRER": "||𝙹⚍ ⍑ᔑ⍊ᒷ ᔑꖎ∷ᒷᔑ↸|| ∷ᒷᓵᒷ╎⍊ᒷ↸ ℸ ̣⍑ᒷ ∷ᒷ⎓ᒷ∷∷ᔑꖎ ᒲ╎ᓭᓭ╎𝙹リᓭ! ||𝙹⚍ ᓵᔑリリ𝙹ℸ ̣ ⊣ᒷℸ ̣ ℸ ̣⍑ᒷ ᒲ╎ᓭᓭ╎𝙹リᓭ ᔑ⊣ᔑ╎リ 𝙹∷ ⊣ᒷℸ ̣ ᔑ↸↸╎ℸ ̣╎𝙹リᔑꖎ ᒲ╎ᓭᓭ╎𝙹リᓭ.",
+            "PROMO_CODE_ACTIVATE_ERROR_DIFFERENT_ROLE": "||𝙹⚍ ∴ᒷ∷ᒷ ℸ ̣⍑ᒷ ᓵ⍑𝙹ᓭᒷリ 𝙹リᒷ! ╎ℸ ̣ ∴ᔑᓭ ᓭᔑ╎↸ ℸ ̣⍑ᔑℸ ̣ ||𝙹⚍ ∴𝙹⚍ꖎ↸ ⊣╎⍊ᒷ !¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷᓭ, リ𝙹ℸ ̣ ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ ℸ ̣⍑ᒷᒲ!",
+            "PROMO_CODE_ACTIVATE_ERROR_OUT_OF_RANK": "||𝙹⚍∷ ᓵ⚍∷∷ᒷリℸ ̣ ∷ᔑリꖌ ╎ᓭ リ𝙹ℸ ̣ ⍑╎⊣⍑ ᒷリ𝙹⚍⊣⍑. ||𝙹⚍ ∴╎ꖎꖎ ʖᒷ ᔑʖꖎᒷ ℸ ̣𝙹 ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ ᔑ !¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷ 𝙹リᓵᒷ ||𝙹⚍ ∷ᔑリꖌ ⚍!¡.",
+            "PROMO_CODE_ACTIVATE_ERROR_EVENT_NOT_FOUND": "⚍リ⎓𝙹∷ℸ ̣⚍リᔑℸ ̣ᒷꖎ||, ℸ ̣⍑╎ᓭ !¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷ ⍑ᔑᓭ ᒷ̇̇/!¡╎∷ᒷ↸. ᔑᓭꖌ ᔑ ℸ ̣ᔑリꖌᒷ∷ ℸ ̣𝙹 ⊣╎⍊ᒷ ||𝙹⚍ ᔑ リᒷ∴ 𝙹リᒷ.",
+            "REFERRALS_COUNT_TITLE": "╎リ⍊╎ℸ ̣ᒷ↸ !¡ꖎᔑ||ᒷ∷ᓭ"
+        }
+    },
+    "entrance": {
+        "register": {
+            "TITLE": "ᓵ∷ᒷᔑℸ ̣ᒷ",
+            "UID_FIELD_TITLE": "リ╎ᓵꖌリᔑᒲᒷ",
+            "PASSWORD_FIELD_TITLE": "!¡ᔑᓭᓭ∴𝙹∷↸",
+            "EULA_CHECKBOX_TITLE": "╎ ᔑᓵᓵᒷ!¡ℸ ̣ ℸ ̣⍑ᒷ ℸ ̣ᒷ∷ᒲᓭ 𝙹⎓ ℸ ̣⍑ᒷ",
+            "LOGIN_BUTTON_TITLE": "ᓭ╎⊣リ ╎リ",
+            "REPEAT_PASSWORD_FIELD_TITLE": "∷ᒷℸ ̣||!¡ᒷ !¡ᔑᓭᓭ∴𝙹∷↸",
+            "REGISTER_BUTTON_TITLE": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ ∷ᒷ⊣╎ᓭℸ ̣∷ᔑℸ ̣╎𝙹リ",
+            "UID_FIELD_PLACEHOLDER": "⚍ᓭᒷ∷リᔑᒲᒷ",
+            "ALREADY_REGISTERED_TITLE": "ᔑꖎ∷ᒷᔑ↸|| ∷ᒷ⊣╎ᓭℸ ̣ᒷ∷ᒷ↸?",
+            "ERROR_UID_BUSY": "リ╎ᓵꖌリᔑᒲᒷ ᔑꖎ∷ᒷᔑ↸|| ℸ ̣ᔑꖌᒷリ",
+            "ERROR_UID_INCORRECT": "リ╎ᓵꖌリᔑᒲᒷ ᓵ𝙹リℸ ̣ᔑ╎リᓭ ╎リ⍊ᔑꖎ╎↸ ᓵ⍑ᔑ∷ᔑᓵℸ ̣ᒷ∷ᓭ",
+            "ERROR_PASSWORD_FORMAT": "╎リ⍊ᔑꖎ╎↸ !¡ᔑᓭᓭ∴𝙹∷↸ ⎓𝙹∷ᒲᔑℸ ̣",
+            "ERROR_UNKNOWN": "⚍リꖌリ𝙹∴リ ∷ᒷ⊣╎ᓭℸ ̣∷ᔑℸ ̣╎𝙹リ ᒷ∷∷𝙹∷",
+            "ERROR_PASSWORD_DOESNT_MATCH": "!¡ᔑᓭᓭ∴𝙹∷↸ᓭ ↸𝙹 リ𝙹ℸ ̣ ᒲᔑℸ ̣ᓵ⍑",
+            "EULA_LINK": "ꖎ╎ᓵᒷリᓭᒷ ᔑ⊣∷ᒷᒷᒲᒷリℸ ̣",
+            "RULES_LINK": "⊣ᔑᒲᒷ ∷⚍ꖎᒷᓭ",
+            "PRIVACY_LINK": "!¡∷╎⍊ᔑᓵ|| ᔑリ↸ ᓵ𝙹𝙹ꖌ╎ᒷᓭ !¡𝙹ꖎ╎ᓵ||",
+            "IMPRINT_LINK": "╎ᒲ!¡∷╎リℸ ̣",
+            "INFORMATION_ABOUT_THE_COMPANY": "©2010-%0 ᔑꖎℸ ̣ᒷ∷リᔑℸ ̣╎⍊ᔑ ⊣ᔑᒲᒷ ꖎℸ ̣↸. ᔑꖎꖎ ∷╎⊣⍑ℸ ̣ᓭ ∷ᒷᓭᒷ∷⍊ᒷ↸. !¡⚍ʖꖎ╎ᓭ⍑ᒷ↸ ʖ|| ᔑ!¡ꖎ !¡⚍ʖꖎ╎ᓭ⍑╎リ⊣ ꖎℸ ̣↸. ᓵ⚍ᓭℸ ̣𝙹ᒲᒷ∷ ᓭ⚍!¡!¡𝙹∷ℸ ̣:",
+            "EULA_URL": "https://tankionline.com/en/eula/",
+            "RULES_URL": "https://tankionline.com/en/rules/",
+            "PRIVACY_URL": "https://tankionline.com/en/privacy/",
+            "GAME_URL": "https://tankionline.com/en/",
+            "OVERDRIVES_URL": "https://tankionline.com/pages/overdrives/?lang=en",
+            "TOURNAMENTS_URL": "https://tankisport.com/lang/en",
+            "FORUM_URL": "https://en.tankiforum.com/",
+            "WIKI_URL": "https://en.tankiwiki.com/",
+            "RATING_URL": "https://ratings.tankionline.com/en/",
+            "HELP_URL": "https://help.tankionline.com/en/",
+            "SHORT_NAME": "⚍ᓭᒷ∷リᔑᒲᒷ ╎ᓭ ℸ ̣𝙹𝙹 ᓭ⍑𝙹∷ℸ ̣",
+            "LICENSE_TEXT": "!¡ꖎᒷᔑᓭᒷ ∷ᒷᔑ↸ 𝙹⚍∷ %ꖎ╎リꖌ% ᔑリ↸ %ꖎ╎リꖌ%. ᓵ𝙹ꖎꖎᒷᓵℸ ̣╎𝙹リ ᔑリ↸ ⚍ᓭᒷ 𝙹⎓ ||𝙹⚍∷ ↸ᔑℸ ̣ᔑ ∴╎ꖎꖎ ʖᒷ ↸𝙹リᒷ ╎リ ᓵ𝙹リ⎓𝙹∷ᒲ╎ℸ ̣|| ∴╎ℸ ̣⍑ ℸ ̣⍑╎ᓭ !¡∷╎⍊ᔑᓵ|| !¡𝙹ꖎ╎ᓵ||. ʖ|| ⊣ᔑ╎リ╎リ⊣ ᔑᓵᓵᒷᓭᓭ ℸ ̣𝙹 ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ ∷ᒷᓭ𝙹⚍∷ᓵᒷᓭ 𝙹∷ ⚍ᓭ╎リ⊣ ℸ ̣⍑ᒷᒲ, ||𝙹⚍ ᓵ𝙹リᓭᒷリℸ ̣ ℸ ̣𝙹 ℸ ̣⍑ᒷ ᒷリ↸ ⚍ᓭᒷ∷ ꖎ╎ᓵᒷリᓭᒷ ᔑ⊣∷ᒷᒷᒲᒷリℸ ̣.",
+            "EULA_LINK_IN_TEXT": "ᒷリ↸ ⚍ᓭᒷ∷ ꖎ╎ᓵᒷリᓭᒷ ᔑ⊣∷ᒷᒷᒲᒷリℸ ̣",
+            "PRIVACY_LINK_IN_TEXT": "!¡∷╎⍊ᔑᓵ|| !¡𝙹ꖎ╎ᓵ||",
+            "ACCEPT": "ᔑᓵᓵᒷ!¡ℸ ̣"
+        },
+        "login": {
+            "TITLE": "ᓭ╎⊣リ ╎リ",
+            "ENTER_WITH_SOCIAL": "ꖎ𝙹⊣╎リ ⍊╎ᔑ ᓭ𝙹ᓵ╎ᔑꖎ リᒷℸ ̣∴𝙹∷ꖌ",
+            "ENTER_WITH_FACEBOOK": "ꖎ𝙹⊣ ╎リ ⍊╎ᔑ ⎓ᔑᓵᒷʖ𝙹𝙹ꖌ",
+            "ENTER_WITH_GOOGLE": "ꖎ𝙹⊣ ╎リ ⍊╎ᔑ ⊣𝙹𝙹⊣ꖎᒷ",
+            "ENTER_WITH_VKONTAKTE": "ꖎ𝙹⊣ ╎リ ⍊╎ᔑ ⍊ꖌ𝙹リℸ ̣ᔑꖌℸ ̣ᒷ",
+            "PLAY": "!¡ꖎᔑ||",
+            "REMEMBER_FIELD_TITLE": "∷ᒷᒲᒷᒲʖᒷ∷ ᒲᒷ",
+            "PASSWORD_FIELD_TITLE": "!¡ᔑᓭᓭ∴𝙹∷↸",
+            "PASSWORD_FORGET_LINK_TITLE": "⎓𝙹∷⊣𝙹ℸ ̣ ⚍ᓭᒷ∷リᔑᒲᒷ 𝙹∷ !¡ᔑᓭᓭ∴𝙹∷↸?",
+            "UID_OR_EMAIL_FIELD_TITLE": "リᔑᒲᒷ 𝙹∷ ᒷ-ᒲᔑ╎ꖎ",
+            "NEW_PLAYER": "リᒷ∴ !¡ꖎᔑ||ᒷ∷",
+            "ERROR_INCORRECT_PASSWORD": "*∴∷𝙹リ⊣ ᒷ-ᒲᔑ╎ꖎ 𝙹∷ !¡ᔑᓭᓭ∴𝙹∷↸",
+            "ERROR_EMPTY_LOGIN": "*ᒷリℸ ̣ᒷ∷ ||𝙹⚍∷ リᔑᒲᒷ 𝙹∷ ᒷ-ᒲᔑ╎ꖎ",
+            "UID_OR_EMAIL_FIELD_PLACEHOLDER": "⚍ᓭᒷ∷リᔑᒲᒷ 𝙹∷ ᒷ-ᒲᔑ╎ꖎ",
+            "CAPTCHA_INCORRECT": "ℸ ̣⍑ᒷ ᓵ𝙹リℸ ̣∷𝙹ꖎ ᓵ⍑ᔑ∷ᔑᓵℸ ̣ᒷ∷ᓭ ᔑ∷ᒷ ᒷリℸ ̣ᒷ∷ᒷ↸ ╎リᓵ𝙹∷∷ᒷᓵℸ ̣ꖎ||",
+            "FORM_TITLE": "ꖎ𝙹⊣ ╎リ",
+            "UID_FIELD_PLACEHOLDER": "⚍ᓭᒷ∷リᔑᒲᒷ",
+            "AUTHORIZATION_RESET_FOR_2FA_TITLE": "ᓭᒷᓵ⚍∷╎ℸ ̣||",
+            "AUTHORIZATION_RESET_FOR_2FA_MESSAGE": "⎓𝙹∷ ᓭᒷᓵ⚍∷╎ℸ ̣|| !¡⚍∷!¡𝙹ᓭᒷᓭ, ∴ᒷ ᔑᓭꖌ ||𝙹⚍ ℸ ̣𝙹 ꖎ𝙹⊣ ╎リ ᔑ⊣ᔑ╎リ"
+        },
+        "restore": {
+            "TITLE": "!¡ᔑᓭᓭ∴𝙹∷↸ ∷ᒷᓵ𝙹⍊ᒷ∷||",
+            "TEXT": "ᔑᓵᓵ𝙹⚍リℸ ̣'ᓭ ᒷ-ᒲᔑ╎ꖎ",
+            "CANCEL": "ᓵᔑリᓵᒷꖎ",
+            "RESTORE_BUTTON_TITLE": "∷ᒷᓭℸ ̣𝙹∷ᒷ",
+            "HAVE_QUESTIONS": "⊣𝙹ℸ ̣ ᑑ⚍ᒷᓭℸ ̣╎𝙹リᓭ?",
+            "INFORMATION": "╎リ⎓𝙹∷ᒲᔑℸ ̣╎𝙹リ",
+            "EMAIL_NOT_REGISTERED": "ᒷᒲᔑ╎ꖎ リ𝙹ℸ ̣ ∷ᒷ⊣╎ᓭℸ ̣ᒷ∷ᒷ↸",
+            "EMAIL_WITH_RESTORE_LINK_SUCCESSFULLY_SENT": "ᒷᒲᔑ╎ꖎ ∴╎ℸ ̣⍑ ∷ᒷᓭℸ ̣𝙹∷ᒷ ꖎ╎リꖌ ᓭ⚍ᓵᓵᒷᓭᓭ⎓⚍ꖎꖎ|| ᓭᒷリℸ ̣",
+            "EMAIL_NOT_VALID": "ᓵ⍑ᒷᓵꖌ ᒷᒲᔑ╎ꖎ"
+        },
+        "change_email_and_password": {
+            "RECOVERY_HASH_IS_WRONG": "ꖎ╎リꖌ ||𝙹⚍ ⍑ᔑ⍊ᒷ !¡ᔑᓭᓭᒷ↸ ʖ|| ╎ᓭ ᓵ𝙹∷∷⚍!¡ℸ ̣ᒷ↸",
+            "PASSWORD_FIELD_TITLE": "!¡ᔑᓭᓭ∴𝙹∷↸",
+            "REPEAT_PASSWORD_FIELD_TITLE": "∷ᒷℸ ̣||!¡ᒷ !¡ᔑᓭᓭ∴𝙹∷↸",
+            "EMAIL_FIELD_TITLE": "ᒷᒲᔑ╎ꖎ",
+            "PASSWORD_SIMPLE": "!¡ᔑᓭᓭ∴𝙹∷↸ ℸ ̣𝙹𝙹 ᓭ╎ᒲ!¡ꖎᒷ",
+            "PASSWORD_NOT_EQUALS": "!¡ᔑᓭᓭ∴𝙹∷↸ ↸𝙹ᒷᓭ リ𝙹ℸ ̣ ᒲᔑℸ ̣ᓵ⍑",
+            "CHANGE_BUTTON": "ᓵ⍑ᔑリ⊣ᒷ!",
+            "WARNING_ATTENTION": " ᔑℸ ̣ℸ ̣ᒷリℸ ̣╎𝙹リ!"
+        },
+        "email_confirm": {
+            "EMAIL_CONFIRMED": "ᒷᒲᔑ╎ꖎ ᓵ𝙹リ⎓╎∷ᒲᒷ↸",
+            "EMAIL_CONFIRM_ERROR": "ᒷᒲᔑ╎ꖎ ᓵ𝙹リ⎓╎∷ᒲ ᒷ∷∷𝙹∷"
+        },
+        "invite": {
+            "INVITE_TITLE": "╎リ⍊╎ℸ ̣ᔑℸ ̣╎𝙹リ",
+            "INVITE_FIELD_TITLE": "╎リ⍊╎ℸ ̣ᒷ",
+            "ALREADY_ACTIVATED": "ᔑꖎ∷ᒷᔑ↸|| ᔑᓵℸ ̣╎⍊ᔑℸ ̣ᒷ↸",
+            "NOT_FOUND": "リ𝙹ℸ ̣ ⎓𝙹⚍リ↸",
+            "NEXT": "リᒷ̇̇/ℸ ̣"
+        },
+        "header": {
+            "SITE": "⊣ᔑᒲᒷ",
+            "OVERDRIVES": "𝙹⍊ᒷ∷↸∷╎⍊ᒷᓭ",
+            "TOURNAMENTS": "ℸ ̣𝙹⚍∷リᔑᒲᒷリℸ ̣ᓭ",
+            "FORUM": "⎓𝙹∷⚍ᒲ",
+            "WIKI": "∴╎ꖌ╎",
+            "RATING": "∷ᔑℸ ̣╎リ⊣ᓭ",
+            "HELP": "⍑ᒷꖎ!¡"
+        },
+        "AGE_WARN_TITLE": "",
+        "AGE_WARN_MESSAGE": [],
+        "login_2fa": {
+            "TITLE": "ᓭᒷᓵ⚍∷╎ℸ ̣|| ᓵ𝙹↸ᒷ",
+            "SUPPORT": "ᓵᔑリリ𝙹ℸ ̣ ᒷリℸ ̣ᒷ∷",
+            "CODE_FIELD_TITLE": "ᒷリℸ ̣ᒷ∷ ℸ ̣⍑ᒷ 6-↸╎⊣╎ℸ ̣ ᓵ𝙹↸ᒷ ⎓∷𝙹ᒲ ||𝙹⚍∷ !¡⍑𝙹リᒷ",
+            "ERROR_INCORRECT_CODE": "╎リᓵ𝙹∷∷ᒷᓵℸ ̣ ᓵ𝙹↸ᒷ. ℸ ̣∷|| ℸ ̣𝙹 ᒷリℸ ̣ᒷ∷ ℸ ̣⍑ᒷ リᒷ∴ 𝙹リᒷ.",
+            "FIELD_PLACEHOLDER": "6-↸╎⊣╎ℸ ̣ ᓵ𝙹↸ᒷ"
+        },
+        "change_uid": {
+            "EXPLANATION_TEXT": "||𝙹⚍∷ リᔑᒲᒷ ∴ᔑᓭ ᔑ⚍ℸ ̣𝙹ᒲᔑℸ ̣╎ᓵᔑꖎꖎ|| ᓵ⍑ᔑリ⊣ᒷ↸ ↸⚍ᒷ ℸ ̣𝙹 !¡∷𝙹ꖎ𝙹リ⊣ᒷ↸ ╎リᔑᓵℸ ̣╎⍊╎ℸ ̣||, ʖ⚍ℸ ̣ ||𝙹⚍ ᓵᔑリ ᓵ⍑ᔑリ⊣ᒷ ╎ℸ ̣ ℸ ̣𝙹 ᓭ𝙹ᒲᒷℸ ̣⍑╎リ⊣ ᒷꖎᓭᒷ. ||𝙹⚍∷ リᒷ∴ ⚍ᓭᒷ∷リᔑᒲᒷ ∴╎ꖎꖎ ᔑꖎᓭ𝙹 ᓭᒷ∷⍊ᒷ ᔑᓭ ||𝙹⚍∷ ꖎ𝙹⊣╎リ.",
+            "CHANGE_UID_TITLE": "リ╎ᓵꖌリᔑᒲᒷ ᓵ⍑ᔑリ⊣ᒷ",
+            "SAVE_BUTTON": "ᓭᔑ⍊ᒷ",
+            "LINK_ERROR": "ℸ ̣⍑╎ᓭ ꖎ╎リꖌ ╎ᓭ リ𝙹 ꖎ𝙹リ⊣ᒷ∷ ⍊ᔑꖎ╎↸. !¡ꖎᒷᔑᓭᒷ ℸ ̣∷|| ᔑ⊣ᔑ╎リ.",
+            "WARNING_ATTENTION": "ᔑℸ ̣ℸ ̣ᒷリℸ ̣╎𝙹リ!"
+        },
+        "entrance_screen": {
+            "PRESS_ANY_BUTTON_TEXT": "!¡∷ᒷᓭᓭ ᔑリ|| ʖ⚍ℸ ̣ℸ ̣𝙹リ ℸ ̣𝙹 ᓭℸ ̣ᔑ∷ℸ ̣",
+            "AUTHORIZATION_TYPE_TITLE": "ꖎ𝙹⊣ ╎リ ⍊╎ᔑ",
+            "GAME_ACCOUNT": "⊣ᔑᒲᒷ ᔑᓵᓵ𝙹⚍リℸ ̣",
+            "BACK": "ʖᔑᓵꖌ",
+            "AUTHORIZATION": "ᔑ⚍ℸ ̣⍑𝙹∷╎⨅ᔑℸ ̣╎𝙹リ",
+            "SUPPORT": "ᓭ⚍!¡!¡𝙹∷ℸ ̣",
+            "QUESTIONS": "⊣𝙹ℸ ̣ ᔑ ᑑ⚍ᒷᓭℸ ̣╎𝙹リ?",
+            "NEW_ACCOUNT": "リᒷ∴ ᔑᓵᓵ𝙹⚍リℸ ̣"
+        },
+        "tank_builder": {
+            "BUILD_TANK_TITLE": "ᔑᓭᓭᒷᒲʖꖎᒷ ||𝙹⚍∷ ℸ ̣ᔑリꖌ",
+            "BUILD_TANK_COMPLETE_TITLE": "∷ᒷᔑ↸|| ℸ ̣𝙹 ⎓╎⊣⍑ℸ ̣",
+            "HULL": "⍑⚍ꖎꖎ",
+            "WEAPON": "ℸ ̣⚍∷∷ᒷℸ ̣",
+            "PAINT": "!¡ᔑ╎リℸ ̣",
+            "BUTTON_START": "ᓭℸ ̣ᔑ∷ℸ ̣",
+            "BUTTON_CONTINUE": "ᓵ𝙹リℸ ̣╎リ⚍ᒷ",
+            "BUTTON_COMPLETE": "ℸ ̣𝙹 ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+            "HULL_SPECIALTY_NAME": "𝙹⍊ᒷ∷↸∷╎⍊ᒷ",
+            "WEAPON_SPECIALTY_NAME": "ℸ ̣⚍∷∷ᒷℸ ̣ ⎓ᒷᔑℸ ̣⚍∷ᒷ",
+            "ARMOR_ICON_LEGEND": "ᔑ∷ᒲ𝙹∷",
+            "SPEED_ICON_LEGEND": "ᓭ!¡ᒷᒷ↸",
+            "HANDLING_ICON_LEGEND": "ℸ ̣⚍∷リ╎リ⊣ ᓭ!¡ᒷᒷ↸",
+            "MASS_ICON_LEGEND": "∴ᒷ╎⊣⍑ℸ ̣",
+            "SIZE_ICON_LEGEND": "ᓭ╎⨅ᒷ",
+            "DAMAGE_ICON_LEGEND": "↸ᔑᒲᔑ⊣ᒷ",
+            "DPS_ICON_LEGEND": "↸ᔑᒲᔑ⊣ᒷ !¡ᒷ∷ ᓭᒷᓵ𝙹リ↸",
+            "FIRE_RATE_ICON_LEGEND": "∷ᔑℸ ̣ᒷ 𝙹⎓ ⎓╎∷ᒷ",
+            "RANGE_ICON_LEGEND": "∷ᔑリ⊣ᒷ 𝙹⎓ ⎓╎∷ᒷ",
+            "COMPLEXITY_ICON_LEGEND": "ᓵ𝙹ᒲ!¡ꖎᒷ̇̇/╎ℸ ̣||"
+        },
+        "battle_reenter_protect_dialog": {
+            "TITLE": "∷ᒷℸ ̣⚍∷リ ℸ ̣𝙹 ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+            "MESSAGE": "ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ ℸ ̣⍑ᒷ ᓵᔑ!¡ℸ ̣ᓵ⍑ᔑ ℸ ̣𝙹 ∷ᒷℸ ̣⚍∷リ ℸ ̣𝙹 ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+            "TO_BATTLE": "ℸ ̣𝙹 ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+            "TO_LOBBY": "ℸ ̣𝙹 ꖎ𝙹ʖʖ||"
+        }
+    },
+    "partner": {
+        "LINKING": "ꖎ╎リꖌ╎リ⊣",
+        "ENVIRONMENT_PARAMETERS_ERROR": "||𝙹⚍ ᔑ∷ᒷ ℸ ̣∷||╎リ⊣ ℸ ̣𝙹 ᒷリℸ ̣ᒷ∷ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ ⚍ᓭ╎リ⊣ ∴∷𝙹リ⊣ !¡ᔑ∷ᔑᒲᒷℸ ̣ᒷ∷ᓭ.",
+        "USERNAME_ALREADY_LINKED_ERROR": "ᒷリℸ ̣ᒷ∷ᒷ↸ ⚍ᓭᒷ∷リᔑᒲᒷ ╎ᓭ ᔑꖎ∷ᒷᔑ↸|| ⚍ᓭᒷ↸ ʖ|| ᔑリ𝙹ℸ ̣⍑ᒷ∷ !¡∷𝙹⎓╎ꖎᒷ 𝙹⎓ ℸ ̣⍑╎ᓭ !¡ᔑ∷ℸ ̣リᒷ∷ リᒷℸ ̣∴𝙹∷ꖌ."
+    },
+    "dateTime": {
+        "DAY": "↸",
+        "HOUR": "⍑",
+        "MINUTE": "ᒲ",
+        "SECOND": "ᓭ"
+    },
+    "battle_finish": {
+        "DEFEAT": "↸ᒷ⎓ᒷᔑℸ ̣",
+        "DRAW": "↸∷ᔑ∴",
+        "WIN": "⍊╎ᓵℸ ̣𝙹∷||"
+    },
+    "battle_result": {
+        "DEFEAT": "↸ᒷ⎓ᒷᔑℸ ̣",
+        "DRAW": "↸∷ᔑ∴",
+        "WIN": "⍊╎ᓵℸ ̣𝙹∷||!",
+        "RESULTS": "∷ᒷᓭ⚍ꖎℸ ̣ᓭ",
+        "DM_PLACE": "#%0 !¡ꖎᔑᓵᒷ",
+        "QUESTS_WINDOW": "ᒲ╎ᓭᓭ╎𝙹リᓭ",
+        "REWARDS_WINDOW": "∷ᒷ∴ᔑ∷↸ᓭ",
+        "DETAILS_WINDOW": "↸ᒷℸ ̣ᔑ╎ꖎᓭ",
+        "KILLBOARD_WINDOW": "ᓭℸ ̣ᔑℸ ̣╎ᓭℸ ̣╎ᓵᓭ",
+        "LEAVE_BUTTON": "ꖎᒷᔑ⍊ᒷ",
+        "NEXT_BUTTON": "リᒷ̇̇/ℸ ̣",
+        "NEXT_BATTLE_BUTTON": "リᒷ̇̇/ℸ ̣",
+        "NEXT_BATTLE_WITH_COUNTDOWN_BUTTON": "リᒷ̇̇/ℸ ̣ (%0)",
+        "TANK_PREVIEW_GS": "⊣ᒷᔑ∷ ᓭᓵ𝙹∷ᒷ",
+        "missions": {
+            "LIST_IS_EMPTY_HEADER": "リ𝙹 ᓵ⍑ᔑリ⊣ᒷᓭ",
+            "LIST_IS_EMPTY_TEXT": "リ𝙹 ᒲ╎ᓭᓭ╎𝙹リ !¡∷𝙹⊣∷ᒷᓭᓭ ⎓∷𝙹ᒲ ℸ ̣⍑ᒷ !¡∷ᒷ⍊╎𝙹⚍ᓭ ʖᔑℸ ̣ℸ ̣ꖎᒷ"
+        },
+        "rewards": {
+            "WITH_OUT_PREMIUM": "∴╎ℸ ̣⍑𝙹⚍ℸ ̣ !¡∷ᒷᒲ╎⚍ᒲ",
+            "WITH_PREMIUM": "∴╎ℸ ̣⍑ !¡∷ᒷᒲ╎⚍ᒲ",
+            "EXP": "ᒷ̇̇/!¡",
+            "TOTAL_EXP": "ℸ ̣𝙹ℸ ̣ᔑꖎ ᒷ̇̇/!¡",
+            "KILLS_EXP": "ᒷꖎ╎ᒲ╎リᔑℸ ̣╎𝙹リᓭ",
+            "KILLS_ASSISTS_EXP": "ᔑᓭᓭ╎ᓭℸ ̣ᓭ",
+            "HEAL_EXP": "⍑ᒷᔑꖎ╎リ⊣",
+            "FLAG_DELIVERY_EXP": "⎓ꖎᔑ⊣ᓭ ↸ᒷꖎ╎⍊ᒷ∷ᒷ↸",
+            "FLAG_DELIVERY_ASSIST_EXP": "⎓ꖎᔑ⊣ ↸ᒷꖎ╎⍊ᒷ∷|| ᔑᓭᓭ╎ᓭℸ ̣",
+            "FLAG_RETURN_EXP": "⎓ꖎᔑ⊣ᓭ ∷ᒷℸ ̣⚍∷リᒷ↸",
+            "POINT_CAPTURE_EXP": "!¡𝙹╎リℸ ̣ᓭ ᓵᔑ!¡ℸ ̣⚍∷ᒷ↸",
+            "POINT_CAPTURE_ASSIST_EXP": "ᔑᓭᓭ╎ᓭℸ ̣ᒷ↸ ╎リ !¡𝙹╎リℸ ̣ᓭ ᓵᔑ!¡ℸ ̣⚍∷ᒷ",
+            "POINT_RELEASE_EXP": "!¡𝙹╎リℸ ̣ᓭ ∷ᒷꖎᒷᔑᓭᒷ↸",
+            "BALL_DELIVERY_EXP": "ʖᔑꖎꖎᓭ ↸ᒷꖎ╎⍊ᒷ∷ᒷ↸",
+            "BALL_DELIVERY_ASSIST_EXP": "ʖᔑꖎꖎ ↸ᒷꖎ╎⍊ᒷ∷|| ᔑᓭᓭ╎ᓭℸ ̣ᓭ",
+            "CRYSTALS": "ᓵ∷||ᓭℸ ̣ᔑꖎᓭ",
+            "STARS": "ᓭℸ ̣ᔑ∷ᓭ",
+            "BOSS_KILLS_EXP": "ℸ ̣⍑ᒷ ʖ𝙹ᓭᓭ ⍑ᔑᓭ ʖᒷᒷリ ↸ᒷᓭℸ ̣∷𝙹||ᒷ↸",
+            "BOSS_KILLS_ASSISTS_EXP": "ʖ𝙹ᓭᓭ-ꖌ╎ꖎꖎ ᔑᓭᓭ╎ᓭℸ ̣ᓭ",
+            "BUY_PREMIUM": "ʖ⚍|| !¡∷ᒷᒲ╎⚍ᒲ"
+        },
+        "table_columns": {
+            "NICKNAME": "リ╎ᓵꖌリᔑᒲᒷ",
+            "GS": "⊣ᓭ",
+            "SCORE": "ᓭᓵ𝙹∷ᒷ",
+            "D": "↸",
+            "L": "ꖎ",
+            "D_L": "↸/ꖎ",
+            "LEVEL": "ꖎᒷ⍊ᒷꖎ",
+            "CRYSTALS": "ᓵ∷||ᓭℸ ̣ᔑꖎᓭ",
+            "STARS": "ᓭℸ ̣ᔑ∷ᓭ"
+        },
+        "battle_details": {
+            "TANKS_DESTROYED": "ℸ ̣ᔑリꖌᓭ ↸ᒷᓭℸ ̣∷𝙹||ᒷ↸",
+            "ARMOR_RESTORED": "ᔑ∷ᒲ𝙹∷ ∷ᒷᓭℸ ̣𝙹∷ᒷ↸",
+            "DAMAGE_DEALED": "↸ᔑᒲᔑ⊣ᒷ ↸ᒷᔑꖎℸ ̣",
+            "SUPPLIES_USED": "ᓭ⚍!¡!¡ꖎ╎ᒷᓭ ⚍ᓭᒷ↸",
+            "FLAGS_RETURNED": "⎓ꖎᔑ⊣ᓭ ∷ᒷℸ ̣⚍∷リᒷ↸",
+            "GOLD_CAUGTH": "⊣𝙹ꖎ↸ ʖ𝙹̇̇/ᒷᓭ ᓵᔑ⚍⊣⍑ℸ ̣",
+            "FLAGS_DELIVERED": "⎓ꖎᔑ⊣ᓭ ↸ᒷꖎ╎⍊ᒷ∷ᒷ↸"
+        }
+    },
+    "rankup": {
+        "PROMOTION": "!¡∷𝙹ᒲ𝙹ℸ ̣╎𝙹リ",
+        "CONGRATULATIONS": "ᓵ𝙹リ⊣∷ᔑℸ ̣⚍ꖎᔑℸ ̣╎𝙹リᓭ",
+        "PROMOTED": "||𝙹⚍ ⍑ᔑ⍊ᒷ ʖᒷᒷリ !¡∷𝙹ᒲ𝙹ℸ ̣ᒷ↸ ℸ ̣𝙹 %∷ᔑリꖌ!",
+        "NEW_ITEMS": "||𝙹⚍ ⍑ᔑ⍊ᒷ ⚍リꖎ𝙹ᓵꖌᒷ↸ リᒷ∴ ╎ℸ ̣ᒷᒲᓭ",
+        "NEW": "リᒷ∴",
+        "REWARDS": "∷ᒷ∴ᔑ∷↸ᓭ"
+    },
+    "battle": {
+        "hud": {
+            "DM_SHORT_NAME": "↸ᒲ",
+            "TDM_SHORT_NAME": "ℸ ̣↸ᒲ",
+            "CTF_SHORT_NAME": "ᓵℸ ̣⎓",
+            "CP_SHORT_NAME": "ᓵ!¡",
+            "AS_SHORT_NAME": "ᔑᓭꖎ",
+            "RUGBY_SHORT_NAME": "∷⊣ʖ",
+            "JGR_SHORT_NAME": "ᓭ⋮∷",
+            "TJR_SHORT_NAME": "ℸ ̣⋮∷",
+            "SGE_SHORT_NAME": "ᓭ⊣ᒷ",
+            "AR_SHORT_NAME": "ᔑ∷",
+            "TAR_SHORT_NAME": "ℸ ̣ᔑ∷",
+            "FPS_LABEL": "⎓!¡ᓭ",
+            "PING_LABEL": "!¡╎リ⊣",
+            "FUND_LABEL": "⎓⚍リ↸",
+            "PAUSE_ALERT": "╎↸ꖎᒷ ℸ ̣╎ᒲᒷ ╎ᓭ リᒷᔑ∷ꖎ|| 𝙹⍊ᒷ∷. ∷ᒷℸ ̣⚍∷リ ℸ ̣𝙹 ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ?",
+            "battle_message": {
+                "BLUE_TEAM_NAME": "ᔑꖎꖎ╎ᒷᓭ",
+                "RED_TEAM_NAME": "ᒷリᒷᒲ╎ᒷᓭ",
+                "UNKNOWN_TEAM_NAME": "",
+                "CTF_DELIVERED_FLAG": "%0 ⍑ᔑᓭ ᓵᔑ!¡ℸ ̣⚍∷ᒷ↸ ℸ ̣⍑ᒷ ⎓ꖎᔑ⊣",
+                "CTF_TAKEN_FLAG": "%0 ⍑ᔑᓭ ℸ ̣ᔑꖌᒷリ ℸ ̣⍑ᒷ ⎓ꖎᔑ⊣",
+                "RUGBY_FACE_OFF": "ℸ ̣⍑ᒷ ʖᔑꖎꖎ ╎ᓭ ╎リ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ",
+                "RUGBY_TAKE_BALL": "%0 ⍑ᔑᓭ ℸ ̣ᔑꖌᒷリ ℸ ̣⍑ᒷ ʖᔑꖎꖎ",
+                "RUGBY_GOAL_BLUE": "%0 ⍑ᔑ⍊ᒷ ᓭᓵ𝙹∷ᒷ↸ ᔑ ⊣𝙹ᔑꖎ!",
+                "RUGBY_GOAL_RED": "%0 ⍑ᔑ⍊ᒷ ᓭᓵ𝙹∷ᒷ↸ ᔑ ⊣𝙹ᔑꖎ!",
+                "DOM_BLUE_CAPTURED_POINT": "ᔑꖎꖎ╎ᒷᓭ ⍑ᔑ⍊ᒷ ᓵᔑ!¡ℸ ̣⚍∷ᒷ↸ !¡𝙹╎リℸ ̣ %0",
+                "DOM_RED_CAPTURED_POINT": "ᒷリᒷᒲ╎ᒷᓭ ⍑ᔑ⍊ᒷ ᓵᔑ!¡ℸ ̣⚍∷ᒷ↸ !¡𝙹╎リℸ ̣ %0",
+                "SGE_BLUE_CAPTURED_POINT": "ᔑꖎꖎ╎ᒷᓭ ⍑ᔑ⍊ᒷ ᓵᔑ!¡ℸ ̣⚍∷ᒷ↸ !¡𝙹╎リℸ ̣ %0",
+                "SGE_RED_CAPTURED_POINT": "ᒷリᒷᒲ╎ᒷᓭ ⍑ᔑ⍊ᒷ ᓵᔑ!¡ℸ ̣⚍∷ᒷ↸ !¡𝙹╎リℸ ̣ %0",
+                "SGE_POINT_ACTIVATED": "ᔑℸ ̣ℸ ̣ᔑᓵꖌ ℸ ̣⍑ᒷ リᒷ∴ !¡𝙹╎リℸ ̣ %0",
+                "JGR_NEW_BOSS": "%0 ⍑ᔑᓭ ʖᒷᓵ𝙹ᒲᒷ ℸ ̣⍑ᒷ ⋮⚍⊣⊣ᒷ∷リᔑ⚍ℸ ̣",
+                "JGR_BOSS_KILLED": "%0 ↸ᒷᓭℸ ̣∷𝙹||ᒷ↸",
+                "JGR_YOU_ARE_THE_BOSS": "⊣ᒷℸ ̣ ∷ᒷᔑ↸||, ||𝙹⚍'∷ᒷ ℸ ̣⍑ᒷ リᒷ̇̇/ℸ ̣ ⋮⚍⊣⊣ᒷ∷リᔑ⚍ℸ ̣!",
+                "TJR_NEW_RED_BOSS": "ᒷリᒷᒲ|| ⋮⚍⊣⊣ᒷ∷リᔑ⚍ℸ ̣ ⍑ᔑᓭ ⋮𝙹╎リᒷ↸ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "TJR_NEW_BLUE_BOSS": "ᔑꖎꖎ|| ⋮⚍⊣⊣ᒷ∷リᔑ⚍ℸ ̣ ⍑ᔑᓭ ⋮𝙹╎リᒷ↸ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "TJR_RED_BOSS_KILLED": "ᒷリᒷᒲ|| ⋮⚍⊣⊣ᒷ∷リᔑ⚍ℸ ̣ ⍑ᔑᓭ ʖᒷᒷリ ↸ᒷᓭℸ ̣∷𝙹||ᒷ↸",
+                "TJR_BLUE_BOSS_KILLED": "ᔑꖎꖎ|| ⋮⚍⊣⊣ᒷ∷リᔑ⚍ℸ ̣ ⍑ᔑᓭ ʖᒷᒷリ ↸ᒷᓭℸ ̣∷𝙹||ᒷ↸",
+                "ASSAULT_DELIVER_FLAG": "%0 ⍑ᔑᓭ ↸ᒷꖎ╎⍊ᒷ∷ᒷ↸ ℸ ̣⍑ᒷ ⎓ꖎᔑ⊣",
+                "ASSAULT_PICK_FLAG": "%0 ⍑ᔑᓭ ℸ ̣ᔑꖌᒷリ ℸ ̣⍑ᒷ ⎓ꖎᔑ⊣"
+            },
+            "battle_chat": {
+                "INPUT_DIRECT_SWITCH_KEY": "ℸ ̣ᔑʖ",
+                "INPUT_TO_ALL_MARKER": "ᓭᒷリ↸ ℸ ̣𝙹 ᔑꖎꖎ:",
+                "INPUT_TO_TEAM_MARKER": "ᓭᒷリ↸ ℸ ̣𝙹 ℸ ̣ᒷᔑᒲ:"
+            },
+            "statistic_table": {
+                "NICKNAME": "リ╎ᓵꖌリᔑᒲᒷ",
+                "GS": "⊣ᓭ",
+                "DEFENCE": "↸ᒷ⎓ᒷリᓵᒷ %",
+                "DEVICE": "ᔑꖎℸ ̣",
+                "SCORE": "ᓭᓵ𝙹∷ᒷ",
+                "D_L": "ꖌ/↸",
+                "LEVEL": "ꖎᒷ⍊ᒷꖎ"
+            },
+            "battle_menu": {
+                "TITLE": "!¡ᔑ⚍ᓭᒷ ᒲᒷリ⚍",
+                "REMAINING_TIME_LABEL": "||𝙹⚍∷ ℸ ̣ᔑリꖌ ╎ᓭ ∴ᔑ╎ℸ ̣╎リ⊣ ⎓𝙹∷ ||𝙹⚍",
+                "GARAGE_MENU_ITEM": "⊣ᔑ∷ᔑ⊣ᒷ",
+                "OPTIONS_MENU_ITEM": "𝙹!¡ℸ ̣╎𝙹リᓭ",
+                "QUESTS_MENU_ITEM": "ᒲ╎ᓭᓭ╎𝙹リᓭ",
+                "FRIENDS_MENU_ITEM": "╎リ⍊╎ℸ ̣ᒷ ⎓∷╎ᒷリ↸ᓭ",
+                "BACK_MENU_ITEM": "ʖᔑᓵꖌ ℸ ̣𝙹 ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ",
+                "RELOAD_CLIENT_MENU_ITEM": "∷ᒷꖎ𝙹ᔑ↸ ᓵꖎ╎ᒷリℸ ̣",
+                "LEAVE_MENU_ITEM": "ꖎᒷᔑ⍊ᒷ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "MODERATION_BLOCK_MENU_ITEM": "ꖌ╎ᓵꖌ/ʖᔑリ ᒲᒷリ⚍",
+                "MODERATION_BATTLE_INFO_MENU_ITEM": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ╎リ⎓𝙹",
+                "MODERATION_DONE_MENU_ITEM": "⎓╎リ╎ᓭ⍑ ᒲ𝙹↸ᒷ∷ᔑℸ ̣╎𝙹リ",
+                "MODERATOR_MM_FINISH": "⎓╎リ╎ᓭ⍑ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "MODERATOR_MM_FINISH_CONFIRM": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ ||𝙹⚍ ∴ᔑリℸ ̣ ℸ ̣𝙹 ⎓╎リ╎ᓭ⍑ ʖᔑℸ ̣ℸ ̣ꖎᒷ?",
+                "SHOW_CONTROL_HELP": "ʖ⚍ℸ ̣ℸ ̣𝙹リ ⍑╎リℸ ̣ᓭ"
+            },
+            "block_panel": {
+                "TITLE": "ʖꖎ𝙹ᓵꖌ ⚍ᓭᒷ∷(ᓭ)",
+                "PLAYERS": "!¡ꖎᔑ||ᒷ∷ᓭ",
+                "NO_USERS_SELECTED": "(リ𝙹 ⚍ᓭᒷ∷ᓭ ᓭᒷꖎᒷᓵℸ ̣ᒷ↸)",
+                "UNSELECT": "⚍リᓭᒷꖎᒷᓵℸ ̣",
+                "ADD_USER": "+ ᔑ↸↸ ⚍ᓭᒷ∷",
+                "BLOCK": "ʖꖎ𝙹ᓵꖌ",
+                "CANCEL": "ᓵᔑリᓵᒷꖎ",
+                "DO_ADD_USER": "ᔑ↸↸ ⚍ᓭᒷ∷",
+                "BLOCK_REASON": "∷ᒷᔑᓭ𝙹リ",
+                "BLOCK_DURATION": "↸⚍∷ᔑℸ ̣╎𝙹リ",
+                "BLOCK_ADDITIONAL_INFO": "ᔑ↸↸╎ℸ ̣╎𝙹リᔑꖎ ╎リ⎓𝙹",
+                "BLOCK_BATTLE": "ʖꖎ𝙹ᓵꖌ ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "DURATION_FIVE_MINUTE": "5 ᒲ╎リ⚍ℸ ̣ᒷᓭ",
+                "DURATION_HOUR": "1 ⍑𝙹⚍∷",
+                "DURATION_DAY": "1 ↸ᔑ||",
+                "DURATION_WEEK": "1 ∴ᒷᒷꖌ",
+                "DURATION_MONTH": "1 ᒲ𝙹リℸ ̣⍑",
+                "DURATION_FOREVER": "⎓𝙹∷ᒷ⍊ᒷ∷",
+                "REASON_POWER_LEVELING": "!¡𝙹∴ᒷ∷ ꖎᒷ⍊ᒷꖎ╎リ⊣",
+                "REASON_BUGS_USAGE": "ʖ⚍⊣ᓭ ⚍ᓭᔑ⊣ᒷ",
+                "REASON_HACKING": "⍑ᔑᓵꖌ╎リ⊣",
+                "REASON_SABOTAGE_BY_IMPEDE_OWN_TEAM": "ᓭᔑʖ𝙹ℸ ̣ᔑ⊣ᒷ ʖ|| ╎ᒲ!¡ᒷ↸ᒷ 𝙹∴リ ℸ ̣ᒷᔑᒲ",
+                "REASON_SABOTAGE_BY_FAKE_PLAYERS": "ᓭᔑʖ𝙹ℸ ̣ᔑ⊣ᒷ ʖ|| ⎓ᔑꖌᒷ !¡ꖎᔑ||ᒷ∷ᓭ",
+                "REASON_ANOTHER": "𝙹ℸ ̣⍑ᒷ∷"
+            },
+            "battle_info": {
+                "TITLE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ╎リ⎓𝙹",
+                "BATTLE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ",
+                "BATTLE_MODE": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ᒲ𝙹↸ᒷ",
+                "CUSTOM_BATTLE_NAME": "ᓵ⚍ᓭℸ ̣𝙹ᒲ リᔑᒲᒷ",
+                "BATTLE_CREATOR": "ᓵ∷ᒷᔑℸ ̣𝙹∷",
+                "MAP_NAME": "ᒲᔑ!¡",
+                "SERVER": "ᓭᒷ∷⍊ᒷ∷",
+                "SUSPECTS": "ᓭ⚍ᓭ!¡ᒷᓵℸ ̣ᓭ",
+                "NO_SUSPECTS": "(リ𝙹リᒷ)",
+                "PLAYERS": "!¡ꖎᔑ||ᒷ∷ᓭ",
+                "EARLIER_PLAYERS": "ᒷᔑ∷ꖎ╎ᒷ∷ !¡ꖎᔑ||ᒷ∷ᓭ",
+                "K_D": "ꖌ/↸",
+                "VOTE": "⍊𝙹ℸ ̣ᒷ"
+            },
+            "auto_pause": {
+                "TITLE": "ᔑ⚍ℸ ̣𝙹 !¡ᔑ⚍ᓭᒷ",
+                "REMAINING_TIME_LABEL": "||𝙹⚍ ∴╎ꖎꖎ ꖎᒷᔑ⍊ᒷ ℸ ̣⍑ᒷ ʖᔑℸ ̣ℸ ̣ꖎᒷ ╎リ"
+            },
+            "suicide": {
+                "TITLE": "ᓭᒷꖎ⎓-↸ᒷᓭℸ ̣∷⚍ᓵℸ ̣╎𝙹リ",
+                "REMAINING_TIME_LABEL": "||𝙹⚍ ∴╎ꖎꖎ ᓭᒷꖎ⎓-↸ᒷᓭℸ ̣∷⚍ᓵℸ ̣ ╎リ"
+            },
+            "control_help": {
+                "TITLE": "ᓵ𝙹リℸ ̣∷𝙹ꖎᓭ",
+                "CAMERA_ROTATION": "ᓵᔑᒲᒷ∷ᔑ ∷𝙹ℸ ̣ᔑℸ ̣╎𝙹リ",
+                "MOVEMENTS": "ᒲ𝙹⍊ᒷᒲᒷリℸ ̣",
+                "SHOT": "⎓╎∷╎リ⊣",
+                "SELF_DESTRUCTION": "ᓭᒷꖎ⎓-↸ᒷᓭℸ ̣∷⚍ᓵℸ ̣╎𝙹リ",
+                "OVERDRIVE": "𝙹⍊ᒷ∷↸∷╎⍊ᒷ",
+                "OPEN_HELP": "𝙹!¡ᒷリ/ᓵꖎ𝙹ᓭᒷ ⍑ᒷꖎ!¡ ∴╎リ↸𝙹∴",
+                "CLOSE_BUTTON": "ᓵꖎ𝙹ᓭᒷ",
+                "THROW_GRENADE": "ℸ ̣⍑∷𝙹∴ ⊣∷ᒷリᔑ↸ᒷ",
+                "TAB_STATISTICS": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ᓭℸ ̣ᔑℸ ̣╎ᓭℸ ̣╎ᓵᓭ",
+                "CAMERA_MOUSE_CONTROL": "ᒲ𝙹⍊ᒷ ᓵᔑᒲᒷ∷ᔑ ⚍!¡/↸𝙹∴リ",
+                "SUPPLIES": "ᓭ⚍!¡!¡ꖎ╎ᒷᓭ",
+                "CAMERA_KEYBOARD_CONTROL": "ᒲ𝙹⍊ᒷ ᓵᔑᒲᒷ∷ᔑ ⚍!¡/↸𝙹∴リ",
+                "GAMEPAD_OVERDRIVE": "𝙹⍊ᒷ∷↸∷╎⍊ᒷ",
+                "GAMEPAD_REPAIR": "∷ᒷ!¡ᔑ╎∷ ꖌ╎ℸ ̣",
+                "GAMEPAD_MOVEMENT": "ᒲ𝙹⍊ᒷᒲᒷリℸ ̣",
+                "GAMEPAD_MESSAGE": "ᒲᒷᓭᓭᔑ⊣ᒷ",
+                "GAMEPAD_GARAGE": "⊣ᔑ∷ᔑ⊣ᒷ",
+                "GAMEPAD_SELF_DESTRUCTION": "ᓭᒷꖎ⎓-↸ᒷᓭℸ ̣∷⚍ᓵℸ ̣╎𝙹リ",
+                "GAMEPAD_GOLD_BOX": "⊣𝙹ꖎ↸ ʖ𝙹̇̇/",
+                "GAMEPAD_TAB_STATISTICS": "ʖᔑℸ ̣ℸ ̣ꖎᒷ ᓭℸ ̣ᔑℸ ̣ᓭ",
+                "GAMEPAD_MENU": "ᒲᒷリ⚍",
+                "GAMEPAD_SHOT": "ᓭ⍑𝙹𝙹ℸ ̣",
+                "GAMEPAD_GRENADE": "⊣∷ᒷリᔑ↸ᒷ",
+                "GAMEPAD_NITRO": "ᓭ!¡ᒷᒷ↸ ʖ𝙹𝙹ᓭℸ ̣",
+                "GAMEPAD_DOUBLE_ARMOR": "ʖ𝙹𝙹ᓭℸ ̣ᒷ↸ ᔑ∷ᒲ𝙹∷",
+                "GAMEPAD_DOUBLE_DAMAGE": "ʖ𝙹𝙹ᓭℸ ̣ᒷ↸ ↸ᔑᒲᔑ⊣ᒷ",
+                "GAMEPAD_MINE": "ᒲ╎リᒷ",
+                "GAMEPAD_CAMERA": "ᓵᔑᒲᒷ∷ᔑ",
+                "GAMEPAD_CENTER_TURRET": "ᓵᒷリℸ ̣ᒷ∷ ℸ ̣⚍∷∷ᒷℸ ̣"
+            }
+        },
+        "tutorial": {
+            "desktop": {
+                "CHASSIS_CONTROL": "⚍ᓭᒷ ᒲ𝙹⍊ᒷᒲᒷリℸ ̣ ʖ⚍ℸ ̣ℸ ̣𝙹リᓭ\nℸ ̣𝙹 ∷ᒷᔑᓵ⍑ ℸ ̣⍑ᒷ !¡𝙹╎リℸ ̣",
+                "CAMERA_CONTROL": "∷𝙹ℸ ̣ᔑℸ ̣ᒷ ℸ ̣⍑ᒷ ᓵᔑᒲᒷ∷ᔑ\nℸ ̣𝙹 ᔑ╎ᒲ ᔑℸ ̣ ℸ ̣⍑ᒷ ℸ ̣ᔑ∷⊣ᒷℸ ̣",
+                "SHOOTING": "⚍ᓭᒷ ℸ ̣⍑ᒷ ⎓╎∷╎リ⊣ ʖ⚍ℸ ̣ℸ ̣𝙹リ\nℸ ̣𝙹 ↸ᒷᓭℸ ̣∷𝙹|| ℸ ̣⍑ᒷ ℸ ̣ᔑ∷⊣ᒷℸ ̣",
+                "BONUS": "ᓵ𝙹ꖎꖎᒷᓵℸ ̣ ℸ ̣⍑ᒷ ∷ᒷ!¡ᔑ╎∷ ꖌ╎ℸ ̣\nℸ ̣𝙹 ∷ᒷᓭℸ ̣𝙹∷ᒷ ||𝙹⚍∷ ℸ ̣ᔑリꖌ'ᓭ ⍑ᒷᔑꖎℸ ̣⍑",
+                "BATTLE": "↸ᒷᓭℸ ̣∷𝙹|| ℸ ̣⍑∷ᒷᒷ 𝙹!¡!¡𝙹リᒷリℸ ̣ᓭ ℸ ̣𝙹 ∴╎リ!"
+            },
+            "mobile": {
+                "CHASSIS_CONTROL": "⚍ᓭᒷ ℸ ̣⍑ᒷ ᓵ𝙹リℸ ̣∷𝙹ꖎꖎᒷ∷\nℸ ̣𝙹 ∷ᒷᔑᓵ⍑ ℸ ̣⍑ᒷ ᒲᔑ∷ꖌᒷ↸ ᔑ∷ᒷᔑ",
+                "CAMERA_CONTROL": "∷𝙹ℸ ̣ᔑℸ ̣ᒷ ℸ ̣⍑ᒷ ᓵᔑᒲᒷ∷ᔑ\nℸ ̣𝙹 ᔑᓵᑑ⚍╎∷ᒷ ℸ ̣⍑ᒷ ℸ ̣ᔑ∷⊣ᒷℸ ̣",
+                "SHOOTING": "ᔑ╎ᒲ ℸ ̣𝙹 ᔑ ℸ ̣ᔑ∷⊣ᒷℸ ̣. ℸ ̣⍑ᒷ ℸ ̣ᔑリꖌ\n∴╎ꖎꖎ ᓭ⍑𝙹𝙹ℸ ̣ ᔑ⚍ℸ ̣𝙹ᒲᔑℸ ̣╎ᓵᔑꖎꖎ||.",
+                "BONUS": "ᓵ𝙹ꖎꖎᒷᓵℸ ̣ ℸ ̣⍑ᒷ ∷ᒷ!¡ᔑ╎∷ ꖌ╎ℸ ̣\nℸ ̣𝙹 ∷ᒷᓵ𝙹⍊ᒷ∷ ||𝙹⚍∷ ⍑╎ℸ ̣!¡𝙹╎リℸ ̣ᓭ",
+                "BATTLE": "↸ᒷᓭℸ ̣∷𝙹|| 3 ᒷリᒷᒲ╎ᒷᓭ ℸ ̣𝙹 ∴╎リ!"
+            },
+            "switch": {
+                "CHASSIS_CONTROL": "⚍ᓭᒷ ᒲ𝙹⍊ᒷᒲᒷリℸ ̣ ʖ⚍ℸ ̣ℸ ̣𝙹リᓭ <ᓭ!¡∷╎ℸ ̣ᒷ リᔑᒲᒷ=\"ꖎᒷ⎓ℸ ̣_ᓭℸ ̣╎ᓵꖌ_∷𝙹ℸ ̣ᔑℸ ̣ᒷ↸\">\nℸ ̣𝙹 ∷ᒷᔑᓵ⍑ ℸ ̣⍑ᒷ !¡𝙹╎リℸ ̣",
+                "CAMERA_CONTROL": "∷𝙹ℸ ̣ᔑℸ ̣ᒷ ℸ ̣⍑ᒷ ᓵᔑᒲᒷ∷ᔑ <ᓭ!¡∷╎ℸ ̣ᒷ リᔑᒲᒷ=\"∷╎⊣⍑ℸ ̣_ᓭℸ ̣╎ᓵꖌ_∷𝙹ℸ ̣ᔑℸ ̣ᒷ↸\">\nℸ ̣𝙹 ᔑ╎ᒲ ᔑℸ ̣ ℸ ̣⍑ᒷ ℸ ̣ᔑ∷⊣ᒷℸ ̣",
+                "SHOOTING": "⚍ᓭᒷ ℸ ̣⍑ᒷ ⎓╎∷╎リ⊣ ʖ⚍ℸ ̣ℸ ̣𝙹リ <ᓭ!¡∷╎ℸ ̣ᒷ リᔑᒲᒷ=\"⨅∷\">\nℸ ̣𝙹 ↸ᒷᓭℸ ̣∷𝙹|| ℸ ̣⍑ᒷ ℸ ̣ᔑ∷⊣ᒷℸ ̣",
+                "BONUS": "ᓵ𝙹ꖎꖎᒷᓵℸ ̣ ℸ ̣⍑ᒷ ∷ᒷ!¡ᔑ╎∷ ꖌ╎ℸ ̣ ℸ ̣𝙹 ∷ᒷᓭℸ ̣𝙹∷ᒷ ||𝙹⚍∷ ℸ ̣ᔑリꖌ'ᓭ ⍑ᒷᔑꖎℸ ̣⍑",
+                "BATTLE": "↸ᒷᓭℸ ̣∷𝙹|| ℸ ̣⍑∷ᒷᒷ 𝙹!¡!¡𝙹リᒷリℸ ̣ᓭ\nℸ ̣𝙹 ∴╎リ!"
+            }
+        }
+    },
+    "shop": {
+        "items": {
+            "GOLD_BOX_ONE": "ʖ𝙹̇̇/",
+            "GOLD_BOX_MANY": "ʖ𝙹̇̇/ᒷᓭ",
+            "ONE_STAR_SHOP_LABEL": "ᓭℸ ̣ᔑ∷",
+            "MANY_STARS_SHOP_LABEL": "ᓭℸ ̣ᔑ∷ᓭ"
+        },
+        "choose_country": {
+            "YOUR_LOCATION": "||𝙹⚍∷ ꖎ𝙹ᓵᔑℸ ̣╎𝙹リ",
+            "CHOOSE_RIGHT_COUNTRY": "╎⎓ ||𝙹⚍ ᔑ∷ᒷ ꖎ𝙹ᓵᔑℸ ̣ᒷ↸ ╎リ ↸╎⎓⎓ᒷ∷ᒷリℸ ̣ ᓵ𝙹⚍リℸ ̣∷||,\n!¡ꖎᒷᔑᓭᒷ ᓭᒷꖎᒷᓵℸ ̣ ╎ℸ ̣ ᒲᔑリ⚍ᔑꖎꖎ|| ᔑリ↸ !¡∷ᒷᓭᓭ 𝙹ꖌ.",
+            "SELECT_COUNTRY_TITLE": "ᓭᒷꖎᒷᓵℸ ̣ ||𝙹⚍∷ ᓵ𝙹⚍リℸ ̣∷||",
+            "OK": "𝙹ꖌ"
+        },
+        "menu": {
+            "OFFERS": "𝙹⎓⎓ᒷ∷ᓭ",
+            "CONTAINERS": "ᓵ𝙹リℸ ̣ᔑ╎リᒷ∷ᓭ",
+            "PREMIUM": "!¡∷ᒷᒲ╎⚍ᒲ",
+            "GOLD_BOXES": "⊣𝙹ꖎ↸ ʖ𝙹̇̇/ᒷᓭ",
+            "KITS": "ꖌ╎ℸ ̣ᓭ",
+            "PROMO_CODES": "!¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷᓭ"
+        },
+        "breadcrumb": {
+            "TITLE": "ᓭ⍑𝙹!¡"
+        },
+        "footer": {
+            "EXCLAMATION": "╎⎓ ||𝙹⚍∷ !¡ᔑ||ᒲᒷリℸ ̣ ↸╎↸ リ𝙹ℸ ̣ ∷ᒷᔑᓵ⍑ ⚍ᓭ, 𝙹∷ ℸ ̣⍑ᒷ∷ᒷ ╎ᓭ ᔑ !¡∷𝙹ʖꖎᒷᒲ ∴╎ℸ ̣⍑ ||𝙹⚍∷ ℸ ̣∷ᔑリᓭᔑᓵℸ ̣╎𝙹リ, !¡ꖎᒷᔑᓭᒷ ∷ᒷ!¡𝙹∷ℸ ̣ ℸ ̣⍑ᒷ ᒲᔑℸ ̣ℸ ̣ᒷ∷ ℸ ̣𝙹 ⚍ᓭ",
+            "REPORT": "∷ᒷ!¡𝙹∷ℸ ̣"
+        },
+        "payment": {
+            "LOADING_PAGE": "ꖎ𝙹ᔑ↸╎リ⊣ ℸ ̣⍑ᒷ !¡ᔑ||ᒲᒷリℸ ̣ !¡ᔑ⊣ᒷ...",
+            "PAGE_LOADED": "ᓭ⚍ᓵᓵᒷᓭᓭ⎓⚍ꖎꖎ|| ꖎ𝙹ᔑ↸ᒷ↸",
+            "PAGE_NOT_LOADED": "⎓ᔑ╎ꖎᒷ↸",
+            "SMS_SENDING": "ᓭᒷリ↸╎リ⊣ ᓭᒲᓭ ℸ ̣𝙹 ᓵ𝙹リ⎓╎∷ᒲ !¡ᔑ||ᒲᒷリℸ ̣",
+            "CHOOSE_PREFERRED_METHOD": "!¡ꖎᒷᔑᓭᒷ ᓵ⍑𝙹𝙹ᓭᒷ ||𝙹⚍∷ !¡∷ᒷ⎓ᒷ∷∷ᒷ↸ !¡ᔑ||ᒲᒷリℸ ̣ ᒲᒷℸ ̣⍑𝙹↸ ℸ ̣𝙹 !¡∷𝙹ᓵᒷᒷ↸",
+            "PAYMENT_METHOD": "!¡ᔑ||ᒲᒷリℸ ̣ ᒲᒷℸ ̣⍑𝙹↸",
+            "YOUR_CHOICE": "||𝙹⚍∷ ᓵ⍑𝙹╎ᓵᒷ",
+            "PRICE": "!¡∷╎ᓵᒷ: "
+        },
+        "indemnity": {
+            "ONE_TIME_PURCHASE": "ℸ ̣⍑╎ᓭ ╎ℸ ̣ᒷᒲ ᓵᔑリ 𝙹リꖎ|| ʖᒷ !¡⚍∷ᓵ⍑ᔑᓭᒷ↸ 𝙹リᓵᒷ. ╎⎓ !¡⚍∷ᓵ⍑ᔑᓭᒷ↸ ᔑ ᓭᒷᓵ𝙹リ↸ ℸ ̣╎ᒲᒷ, ╎リᓭℸ ̣ᒷᔑ↸ 𝙹⎓ ℸ ̣⍑ᒷ ╎ℸ ̣ᒷᒲᓭ ╎リ ℸ ̣⍑╎ᓭ !¡ᔑᓵꖌ, ||𝙹⚍ ∴╎ꖎꖎ ∷ᒷᓵᒷ╎⍊ᒷ ℸ ̣ᔑリꖌ𝙹╎リᓭ ᔑᓭ ᔑ ᓭ⚍ʖᓭℸ ̣╎ℸ ̣⚍ℸ ̣ᒷ.",
+            "COMPENSATION": "ᓵ𝙹ᒲ!¡ᒷリᓭᔑℸ ̣╎𝙹リ ⎓𝙹∷ ℸ ̣⍑╎ᓭ ╎ℸ ̣ᒷᒲ: ",
+            "SPECIAL_CONDITIONS": "ᓭ!¡ᒷᓵ╎ᔑꖎ ᓵ𝙹リ↸╎ℸ ̣╎𝙹リᓭ",
+            "AGREEMENT": "╎ ᔑ⊣∷ᒷᒷ ℸ ̣𝙹 ∷ᒷᓵᒷ╎⍊ᒷ ℸ ̣ᔑリꖌ𝙹╎リᓭ ᔑᓭ ᔑ ᓭ⚍ʖᓭℸ ̣╎ℸ ̣⚍ℸ ̣ᒷ ╎リ ᓵᔑᓭᒷ ℸ ̣⍑╎ᓭ ╎ℸ ̣ᒷᒲ ⍑ᔑ↸ ᔑꖎ∷ᒷᔑ↸|| ʖᒷᒷリ !¡⚍∷ᓵ⍑ᔑᓭᒷ↸ 𝙹リ ℸ ̣⍑╎ᓭ ᔑᓵᓵ𝙹⚍リℸ ̣."
+        },
+        "promocode": {
+            "HEADER": "!¡∷𝙹ᒲ𝙹",
+            "INCORRECT_OR_EXPIRED": "ℸ ̣⍑ᒷ ᓵ𝙹↸ᒷ ||𝙹⚍ ⍑ᔑ⍊ᒷ ᒷリℸ ̣ᒷ∷ᒷ↸ ╎ᓭ ᒷ╎ℸ ̣⍑ᒷ∷ ╎リᓵ𝙹∷∷ᒷᓵℸ ̣ 𝙹∷ ᒷ̇̇/!¡╎∷ᒷ↸. !¡ꖎᒷᔑᓭᒷ ᒷリℸ ̣ᒷ∷ ᔑ ↸╎⎓⎓ᒷ∷ᒷリℸ ̣ ᓵ𝙹↸ᒷ.",
+            "CATEGORY_HEADER": "!¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷᓭ",
+            "CATEGORY_DESCRIPTION": "||𝙹⚍ ᓵᔑリ ⚍ᓭᒷ !¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷᓭ ℸ ̣𝙹 ⊣ᒷℸ ̣ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ, !¡∷ᒷᒲ╎⚍ᒲ ᔑᓵᓵ𝙹⚍リℸ ̣ ℸ ̣╎ᒲᒷ, ⊣𝙹ꖎ↸ ʖ𝙹̇̇/ᒷᓭ, !¡ᔑ╎リℸ ̣ᓭ ᔑリ↸ ⊣ᔑ∷ᔑ⊣ᒷ ╎ℸ ̣ᒷᒲᓭ. ℸ ̣⍑ᒷᓭᒷ ╎ℸ ̣ᒷᒲᓭ ∴╎ꖎꖎ ʖᒷ ᔑ↸↸ᒷ↸ ℸ ̣𝙹 ||𝙹⚍∷ ᔑᓵᓵ𝙹⚍リℸ ̣ ╎リᓭℸ ̣ᔑリℸ ̣ꖎ||.\n\n||𝙹⚍ ᓵᔑリ ⊣ᒷℸ ̣ !¡∷𝙹ᒲ𝙹 ᓵ𝙹↸ᒷᓭ ⎓∷𝙹ᒲ ᓭ!¡ᒷᓵ╎ᔑꖎ !¡∷𝙹ᒲ𝙹ℸ ̣╎𝙹リᔑꖎ ᒷ⍊ᒷリℸ ̣ᓭ."
+        },
+        "purchase_successful": {
+            "TITLE": "!¡⚍∷ᓵ⍑ᔑᓭᒷ ᓭ⚍ᓵᓵᒷᓭᓭ⎓⚍ꖎ",
+            "PROVIDE_EMAIL": "ℸ ̣ᔑリꖌᒷ∷! !¡ꖎᒷᔑᓭᒷ !¡∷𝙹⍊╎↸ᒷ ᔑ ⍊ᔑꖎ╎↸ ᒷᒲᔑ╎ꖎ ᔑ↸↸∷ᒷᓭᓭ ∴⍑ᒷ∷ᒷ ||𝙹⚍ ᓵᔑリ ⊣ᒷℸ ̣ !¡ᔑ||ᒲᒷリℸ ̣ ∷ᒷᓵᒷ╎!¡ℸ ̣ᓭ.",
+            "EMAIL": "||𝙹⚍∷ ᒷᒲᔑ╎ꖎ"
+        },
+        "special": {
+            "TITLE": "ᓭ!¡ᒷᓵ╎ᔑꖎ 𝙹⎓⎓ᒷ∷ᓭ",
+            "DESCRIPTION": "ℸ ̣ᒷᒲ!¡𝙹∷ᔑ∷|| 𝙹⎓⎓ᒷ∷ ⎓ᒷᔑℸ ̣⚍∷╎リ⊣ ᔑ ᓭ!¡ᒷᓵ╎ᔑꖎ ╎ℸ ̣ᒷᒲ"
+        },
+        "other": {
+            "TITLE": "𝙹ℸ ̣⍑ᒷ∷ 𝙹⎓⎓ᒷ∷ᓭ",
+            "DESCRIPTION": "ℸ ̣ᒷᒲ!¡𝙹∷ᔑ∷|| 𝙹⎓⎓ᒷ∷ ⎓ᒷᔑℸ ̣⚍∷╎リ⊣ ᔑ ᓭ!¡ᒷᓵ╎ᔑꖎ ╎ℸ ̣ᒷᒲ 𝙹∷ ᔑℸ ̣ ᔑ ᓭ!¡ᒷᓵ╎ᔑꖎ !¡∷╎ᓵᒷ."
+        },
+        "not_enough_coins": {
+            "TITLE": "リ𝙹ℸ ̣ ᒷリ𝙹⚍⊣⍑ ℸ ̣ᔑリꖌ𝙹╎リᓭ",
+            "CONTENT": "||𝙹⚍ ↸𝙹 リ𝙹ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ℸ ̣ᔑリꖌ𝙹╎リᓭ (%ᓵ𝙹╎リᓭ%)"
+        },
+        "not_enough_rubies": {
+            "TITLE": "リ𝙹ℸ ̣ ᒷリ𝙹⚍⊣⍑ ∷⚍ʖ╎ᒷᓭ",
+            "CONTENT": "||𝙹⚍ ↸𝙹リ'ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ∷⚍ʖ╎ᒷᓭ (%∷⚍ʖ╎ᒷᓭ%)",
+            "GET_RUBIES": "⊣ᒷℸ ̣ ∷⚍ʖ╎ᒷᓭ"
+        },
+        "coins_purchase": {
+            "HEADER": "ᓵ𝙹リ⎓╎∷ᒲᔑℸ ̣╎𝙹リ 𝙹⎓ !¡⚍∷ᓵ⍑ᔑᓭᒷ",
+            "CONTENT": "ʖ|| !¡∷ᒷᓭᓭ╎リ⊣ ℸ ̣⍑ᒷ ʖ⚍ℸ ̣ℸ ̣𝙹リ, ||𝙹⚍ ᓵ𝙹リ⎓╎∷ᒲ ||𝙹⚍∷ !¡⚍∷ᓵ⍑ᔑᓭᒷ ∴╎ℸ ̣⍑ ℸ ̣ᔑリꖌ𝙹╎リᓭ",
+            "COIN_BONUS": "ʖ𝙹リ⚍ᓭ ℸ ̣ᔑリꖌ𝙹╎リᓭ 𝙹リ ℸ ̣⍑ᒷ ⎓╎∷ᓭℸ ̣ !¡⚍∷ᓵ⍑ᔑᓭᒷ 𝙹⎓ ᒷᔑᓵ⍑ !¡ᔑᓵꖌ!"
+        },
+        "rubies_purchase": {
+            "CONTENT": "ʖ|| !¡∷ᒷᓭᓭ╎リ⊣ ℸ ̣⍑ᒷ \"%ʖ⚍ℸ ̣ℸ ̣𝙹リ\" ʖ⚍ℸ ̣ℸ ̣𝙹リ, ||𝙹⚍ ᓵ𝙹リ⎓╎∷ᒲ ||𝙹⚍∷ !¡⚍∷ᓵ⍑ᔑᓭᒷ ∴╎ℸ ̣⍑ ∷⚍ʖ╎ᒷᓭ"
+        },
+        "crystals_purchase": {
+            "HEADER": "ᓵ𝙹リ⎓╎∷ᒲᔑℸ ̣╎𝙹リ 𝙹⎓ !¡⚍∷ᓵ⍑ᔑᓭᒷ",
+            "CONTENT": "ʖ|| !¡∷ᒷᓭᓭ╎リ⊣ ℸ ̣⍑ᒷ \"%ʖ⚍ℸ ̣ℸ ̣𝙹リ\" ʖ⚍ℸ ̣ℸ ̣𝙹リ, ||𝙹⚍ ᓵ𝙹リ⎓╎∷ᒲ ||𝙹⚍∷ !¡⚍∷ᓵ⍑ᔑᓭᒷ ∴╎ℸ ̣⍑ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ"
+        },
+        "purchase": {
+            "NOT_ENOUGH_COINS": "||𝙹⚍ ↸𝙹リ'ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ℸ ̣ᔑリꖌ𝙹╎リᓭ ℸ ̣𝙹 ᒲᔑꖌᒷ ℸ ̣⍑╎ᓭ !¡⚍∷ᓵ⍑ᔑᓭᒷ",
+            "NOT_ENOUGH_CRYSTALS": "||𝙹⚍ ↸𝙹リ'ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ ℸ ̣𝙹 ᒲᔑꖌᒷ ℸ ̣⍑╎ᓭ !¡⚍∷ᓵ⍑ᔑᓭᒷ",
+            "NOT_ENOUGH_RUBIES": "||𝙹⚍ ↸𝙹リ'ℸ ̣ ⍑ᔑ⍊ᒷ ᒷリ𝙹⚍⊣⍑ ∷⚍ʖ╎ᒷᓭ ℸ ̣𝙹 ᒲᔑꖌᒷ ℸ ̣⍑╎ᓭ !¡⚍∷ᓵ⍑ᔑᓭᒷ",
+            "FAILED": "ᔑリ ᒷ∷∷𝙹∷ 𝙹ᓵᓵ⚍∷∷ᒷ↸ ↸⚍∷╎リ⊣ ℸ ̣⍑ᒷ ℸ ̣∷ᔑリᓭᔑᓵℸ ̣╎𝙹リ. !¡ꖎᒷᔑᓭᒷ ℸ ̣∷|| ᔑ⊣ᔑ╎リ",
+            "PAYMENT_ERROR": "ᓭ𝙹ᒲᒷℸ ̣⍑╎リ⊣'ᓭ ⊣𝙹リᒷ ∴∷𝙹リ⊣. ∴ᒷ ᓵ𝙹⚍ꖎ↸リ'ℸ ̣ !¡∷𝙹ᓵᒷᓭᓭ ||𝙹⚍∷ !¡ᔑ||ᒲᒷリℸ ̣."
+        },
+        "coins_instructions": {
+            "WARNING_CONTENT_NOT_RETURNING": "!¡⚍∷ᓵ⍑ᔑᓭᒷ↸ ╎ℸ ̣ᒷᒲᓭ ℸ ̣⍑ᔑℸ ̣ ⍑ᔑ⍊ᒷ ʖᒷᒷリ ᓵ∷ᒷ↸╎ℸ ̣ᒷ↸ ℸ ̣𝙹 ||𝙹⚍∷ ᔑᓵᓵ𝙹⚍リℸ ̣ ᔑ∷ᒷ リ𝙹ℸ ̣ ᓭ⚍ʖ⋮ᒷᓵℸ ̣ ℸ ̣𝙹 ℸ ̣⍑ᒷ ⚍ᓭᒷ∷’ᓭ ∷╎⊣⍑ℸ ̣ 𝙹⎓ ∴╎ℸ ̣⍑↸∷ᔑ∴ᔑꖎ, ᓵ⎓. ᓭᒷᓵ. 19 𝙹⎓ 𝙹⚍∷ ᒷ⚍ꖎᔑ.",
+            "PURCHASE_INSTRUCTION": "<a href=\"http://tankionline.com/en/crystals/\" target=\"_blank\"><font color='#59ff32'><u>How to purchase</u></font></a>",
+            "EULA_LINK": "<a href=\"http://tankionline.com/en/eula/\" target=\"_blank\"><font color='#59ff32'><u>EULA</u></font></a>",
+            "PRIVACY_AND_COOKIES_POLICY_LINK": "<a href=\"http://tankionline.com/en/privacy/\" target=\"_blank\"><font color='#59ff32'><u>Privacy and Cookies Policy</u></font></a>"
+        },
+        "shop_card": {
+            "EXPIRED": "ᒷ̇̇/!¡╎∷ᒷ↸",
+            "EXPIRED_TOOLTIP": "𝙹⎓⎓ᒷ∷ リ𝙹ℸ ̣ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ.\n∷ᒷᑑ⚍╎∷ᒷᒲᒷリℸ ̣ᓭ ⎓𝙹∷ !¡⚍∷ᓵ⍑ᔑᓭᒷ ⍑ᔑ⍊ᒷ ʖᒷᒷリ ᓵ⍑ᔑリ⊣ᒷ↸.",
+            "SOLD": "ᓭ𝙹ꖎ↸",
+            "SOLD_TOOLTIP": "𝙹⎓⎓ᒷ∷ リ𝙹ℸ ̣ ᔑ⍊ᔑ╎ꖎᔑʖꖎᒷ.\n||𝙹⚍ ⍑ᔑ⍊ᒷ ᔑꖎ∷ᒷᔑ↸|| !¡⚍∷ᓵ⍑ᔑᓭᒷ↸ ℸ ̣⍑╎ᓭ 𝙹⎓⎓ᒷ∷."
+        },
+        "showcase": {
+            "TITLE": "ᓭ⍑𝙹∴ᓵᔑᓭᒷ",
+            "DESCRIPTION": "ℸ ̣ᒷᒲ!¡𝙹∷ᔑ∷|| 𝙹⎓⎓ᒷ∷ ⎓ᒷᔑℸ ̣⚍∷╎リ⊣ ᔑ ᓭ!¡ᒷᓵ╎ᔑꖎ ╎ℸ ̣ᒷᒲ",
+            "LIMITED_OFFER_TITLE": "ꖎ╎ᒲ╎ℸ ̣ᒷ↸ 𝙹⎓⎓ᒷ∷ᓭ",
+            "LIMITED_OFFER_DESCRIPTION": "⍑ᒷ∷ᒷ ||𝙹⚍ ᓵᔑリ ʖ⚍|| ∷ᔑリ↸𝙹ᒲ 𝙹⎓⎓ᒷ∷ᓭ ∴╎ℸ ̣⍑ ↸╎ᓭᓵ𝙹⚍リℸ ̣ᓭ.\nℸ ̣⍑ᒷ ᓭ⍑𝙹∴ᓵᔑᓭᒷ ╎ᓭ ∷ᒷ⎓∷ᒷᓭ⍑ᒷ↸ ᒷ⍊ᒷ∷|| 24 ⍑𝙹⚍∷ᓭ.",
+            "RELOAD": "∷ᒷ⎓∷ᒷᓭ⍑"
+        },
+        "real_money_purchase": {
+            "CONTENT": "ʖ|| !¡∷ᒷᓭᓭ╎リ⊣ 𝙹リ ℸ ̣⍑ᒷ ʖ⚍ℸ ̣ℸ ̣𝙹リ, ||𝙹⚍ !¡∷𝙹ᓵᒷᒷ↸ ℸ ̣𝙹 ᒲᔑꖌᒷ ᔑ !¡⚍∷ᓵ⍑ᔑᓭᒷ ⎓𝙹∷ ∷ᒷᔑꖎ ᒲ𝙹リᒷ||."
+        },
+        "COUNTRY_CODE": "ᓵ𝙹⚍リℸ ̣∷|| ᓵ𝙹↸ᒷ",
+        "PHONE_NUMBER": "!¡⍑𝙹リᒷ リ⚍ᒲʖᒷ∷",
+        "BACK": "ʖᔑᓵꖌ",
+        "BUTTON_BUY_FOR_REAL_MONEY": "!¡⚍∷ᓵ⍑ᔑᓭᒷ ⎓𝙹∷ ∷ᒷᔑꖎ ᒲ𝙹リᒷ||",
+        "NEXT_BUY_COIN": "ᓵ𝙹リ⎓╎∷ᒲ",
+        "NEXT_BUY_CRYSTALS": "ᓵ𝙹リ⎓╎∷ᒲ",
+        "NO_DISCOUNTS": "リ𝙹 ↸╎ᓭᓵ𝙹⚍リℸ ̣ᓭ",
+        "BUNDLE": "ʖ⚍リ↸ꖎᒷ",
+        "SEND": "ᓭᒷリ↸",
+        "CANCEL": "ᓵᔑリᓵᒷꖎ",
+        "CONFIRM": "ᓵ𝙹リ⎓╎∷ᒲ",
+        "CLOSE": "ᓵꖎ𝙹ᓭᒷ",
+        "BUY": "ʖ⚍||",
+        "TOTAL": "ℸ ̣𝙹ℸ ̣ᔑꖎ",
+        "FREE": "⎓∷ᒷᒷ",
+        "VERIFICATION_CODE": "⍊ᒷ∷╎⎓╎ᓵᔑℸ ̣╎𝙹リ ᓵ𝙹↸ᒷ",
+        "WARNING_ABOUT_SPENDING_CRYSTALS": "ʖ|| !¡∷ᒷᓭᓭ╎リ⊣ ℸ ̣⍑ᒷ ╎ᓵ𝙹リ ∴╎ℸ ̣⍑ ᔑリ ╎リ-⊣ᔑᒲᒷ ╎ℸ ̣ᒷᒲ, ||𝙹⚍ ᓵ𝙹リ⎓╎∷ᒲ ℸ ̣⍑ᒷ ↸ᒷ↸⚍ᓵℸ ̣╎𝙹リ 𝙹⎓ ᓵ∷||ᓭℸ ̣ᔑꖎᓭ ⎓𝙹∷ ℸ ̣⍑ᒷ !¡⚍∷ᓵ⍑ᔑᓭᒷ",
+        "YOU_HAVE_PURCHASED": "||𝙹⚍ ⍑ᔑ⍊ᒷ !¡⚍∷ᓵ⍑ᔑᓭᒷ↸:",
+        "YOU_ARE_GOING_TO_PURCHASE": "||𝙹⚍ ᔑ∷ᒷ ⊣𝙹╎リ⊣ ℸ ̣𝙹 !¡⚍∷ᓵ⍑ᔑᓭᒷ",
+        "THE_PASS_LASTS_FOR_DAYS": "ℸ ̣⍑ᒷ !¡ᔑᓭᓭ ꖎᔑᓭℸ ̣ᓭ ⎓𝙹∷ 30 ↸ᔑ||ᓭ",
+        "PURCHASE_FOR": "!¡⚍∷ᓵ⍑ᔑᓭᒷ ⎓𝙹∷",
+        "CHOOSE_PAYMENT_METHOD": "С⍑𝙹𝙹ᓭᒷ ᔑ !¡ᔑ||ᒲᒷリℸ ̣ ᒲᒷℸ ̣⍑𝙹↸",
+        "google_play": {
+            "PAYMENT_IN_PROGRESS": "!¡ᔑ||ᒲᒷリℸ ̣ ╎リ !¡∷𝙹⊣∷ᒷᓭᓭ...",
+            "PAYMENT_SUCCESS": "!¡ᔑ||ᒲᒷリℸ ̣ ᓭ⚍ᓵᓵᒷᓭᓭ⎓⚍ꖎ",
+            "PAYMENT_FAIL": "!¡ᔑ||ᒲᒷリℸ ̣ ╎リᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ"
+        },
+        "ACTIVE_PAYMENT_PROCESS_MESSAGE": "ᔑ∷ᒷ ||𝙹⚍ ᓭ⚍∷ᒷ? ℸ ̣⍑ᒷ !¡ᔑ||ᒲᒷリℸ ̣ !¡∷𝙹ᓵᒷᓭᓭ ╎ᓭ リ𝙹ℸ ̣ ||ᒷℸ ̣ ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ↸.",
+        "real_purchase": {
+            "HEADER": "!¡ᔑ||ᒲᒷリℸ ̣ ᓵ𝙹リ⎓╎∷ᒲᔑℸ ̣╎𝙹リ",
+            "CONTENT": "ʖ|| !¡∷ᒷᓭᓭ╎リ⊣ ℸ ̣⍑ᒷ ᓵ𝙹リ⎓╎∷ᒲ ʖ⚍ℸ ̣ℸ ̣𝙹リ, ||𝙹⚍ ᔑ⊣∷ᒷᒷ ℸ ̣𝙹 ℸ ̣⍑ᒷ ℸ ̣ᒷ∷ᒲᓭ 𝙹⎓ ℸ ̣⍑ᒷ ⊣ᔑᒲᒷ'ᓭ ꖎ╎ᓵᒷリᓭᒷ ᔑ⊣∷ᒷᒷᒲᒷリℸ ̣ ᔑリ↸ ᓵ𝙹リ⎓╎∷ᒲ ℸ ̣⍑ᔑℸ ̣ ||𝙹⚍ ∴╎ꖎꖎ ʖᒷ ∷ᒷ↸╎∷ᒷᓵℸ ̣ᒷ↸ ℸ ̣𝙹 リ╎リℸ ̣ᒷリ↸𝙹 ᒷᓭ⍑𝙹!¡ ℸ ̣𝙹 ᓵ𝙹リ⎓╎∷ᒲ ||𝙹⚍∷ !¡⚍∷ᓵ⍑ᔑᓭᒷ."
+        },
+        "description_item": {
+            "TITLE": "∴⍑ᔑℸ ̣ ↸𝙹 ╎ !¡⚍∷ᓵ⍑ᔑᓭᒷ?"
+        },
+        "WAIT_PAYMENT_COMPLETE": "↸𝙹 リ𝙹ℸ ̣ ᓵꖎ𝙹ᓭᒷ ℸ ̣⍑ᒷ !¡ᔑ⊣ᒷ ⚍リℸ ̣╎ꖎ ℸ ̣⍑ᒷ !¡ᔑ||ᒲᒷリℸ ̣ ╎ᓭ ᓵ𝙹ᒲ!¡ꖎᒷℸ ̣ᒷ"
+    },
+    "prompt_information": {
+        "PROMPT_INFORMATION_TEXT": ""
+    }
+}
