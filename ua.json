@@ -1075,7 +1075,9 @@
         "DECALS_DESCRIPTION": "Дозволяє змінювати сліди від пострілів та вибухів, що відображаються на карті в бою",
         "ANISOTROPIC_FILTERING_DESCRIPTION": "Дозволяє змінити якість зображення текстур на дальності",
         "TREES_QUALITY_DESCRIPTION": "Дозволяє змінити якість промальовування кущів та дерев",
-        "GRAPHICS_RESOLUTION_DESCRIPTION": "Дозволяє змінити роздільну здатність екрана в бою, помітно впливає на продуктивність"
+        "GRAPHICS_RESOLUTION_DESCRIPTION": "Дозволяє змінити роздільну здатність екрана в бою, помітно впливає на продуктивність",
+        "VSYNC2": "Енергозберігаючий режим",
+        "VSYNC2_DESCRIPTION": "Збільшує час роботи від батареї за рахунок обмеження частоти кадрів на секунду."
       },
       "controls": {
         "inputDevice": {
@@ -2018,7 +2020,24 @@
         "TAB_STATISTICS": "Статистика битви",
         "CAMERA_MOUSE_CONTROL": "Опустити/підняти камеру",
         "SUPPLIES": "Припаси",
-        "CAMERA_KEYBOARD_CONTROL": "Опустити/підняти камеру"
+        "CAMERA_KEYBOARD_CONTROL": "Опустити/підняти камеру",
+        "GAMEPAD_OVERDRIVE": "Овердрайв",
+        "GAMEPAD_REPAIR": "Ремкомплект",
+        "GAMEPAD_MOVEMENT": "Рух",
+        "GAMEPAD_MESSAGE": "Повідомлення",
+        "GAMEPAD_GARAGE": "Гараж",
+        "GAMEPAD_SELF_DESTRUCTION": "Самознищення",
+        "GAMEPAD_GOLD_BOX": "Золотий ящик",
+        "GAMEPAD_TAB_STATISTICS": "Статистика битви",
+        "GAMEPAD_MENU": "Меню",
+        "GAMEPAD_SHOT": "Постріл",
+        "GAMEPAD_GRENADE": "Граната",
+        "GAMEPAD_NITRO": "Прискорення",
+        "GAMEPAD_DOUBLE_ARMOR": "Захист",
+        "GAMEPAD_DOUBLE_DAMAGE": "Урон",
+        "GAMEPAD_MINE": "Міна",
+        "GAMEPAD_CAMERA": "Камера",
+        "GAMEPAD_CENTER_TURRET": "Центрувати гармату"
       }
     },
     "tutorial": {
